@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="ko">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <meta name="description" content="">
+        <meta name="author" content="">
+        <link rel="icon" href="">
+
+        {% if name %}
+        <title>{{name}}</title>
+        {% else %}
+        <title>로그인</title>
+        {% endif %}
+
+        <!-- Bootstrap core CSS -->
+        <link href="{{ url_for('static', filename='bootstrap/4.0.0-beta.2/css/bootstrap.min.css') }}" rel="stylesheet">
+
+        <!-- Custom styles for this template -->
+        <link href="{{ url_for('static', filename='css/signin/signin.css') }}" rel="stylesheet">
+
+        <script type="text/javascript">
+
+        </script>
+    </head>
+
+    <body>
+
+        <div class="container">
+
+            <form class="form-signin" id="f" name="f" action="{{ url_for('do_login') }}" method="post">
+                <h2 class="form-signin-heading">로그인 해주세요</h2>
+                <label for="inputEmail" class="sr-only">Email address</label>
+                <input type="email" id="account_email" name="account_email" class="form-control" placeholder="Email address" required autofocus>
+                <label for="inputPassword" class="sr-only">Password</label>
+                <input type="password" id="pwd" name="pwd" class="form-control" placeholder="Password" required>
+                <div class="checkbox">
+                    <label>
+                        <input type="checkbox" value="remember-me"> Remember me
+                    </label>
+                </div>
+                {% if request.values['result'] == "NOTOK" %}
+                <div class="alert alert-danger" role="alert" id="email_error_box">
+                    <span class="glyphicon glyphicon-exclamation-sign" aria-hidden="true"></span>
+                    <span class="sr-only">Error:</span>
+                    {% if request.values['result'] == "NOTOK" %}
+                    로그인을 하지 못하였습니다.
+                    {% elif request.values['result'] == "DANGER" %}
+                    잘못된 접근을 하셨습니다. 다시로그인 하세요.
+                    {% endif %}
+                </div>
+                {% endif %}
+                <button class="btn btn-lg btn-primary btn-block" type="submit" id="login_button">로그인</button>
+
+                <!--<a href="/user/fomrRegId" class="btn btn-sm btn-secondary btn-block" >가입하기</a>-->
+            </form>
+            <form class="form-signin" id="regform" name="regform" action="{{ url_for('go_reg_user') }}" method="get">
+                <button class="btn btn-lg btn-info btn-block" type="submit" id="reg_button">가입하기</button>
+            </form>
+
+        </div> <!-- /container -->
+    </body>
+</html>

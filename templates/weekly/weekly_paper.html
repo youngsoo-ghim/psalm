@@ -1,0 +1,187 @@
+<!doctype html>
+<html lang="ko">
+    <head>
+    <head>
+    {% include "layout/header.html" ignore missing with context %}
+    </head>
+    <body>
+        {% include "layout/nav.html" ignore missing with context %}
+        <!--<main role="main" class="col-12 col-md-9 col-xl-8 py-md-3 pl-md-10 bd-content" style="max-width: 46rem;">-->
+        <main role="main" class="col-12 col-md-9 col-xl-8 py-md-3 pl-md-10 bd-content" style="max-width: 46rem;">
+
+            <!-- Main jumbotron for a primary marketing message or call to action -->
+            <!--<div class="jumbotron">-->
+            <div class="container">
+                <h1 class="display-2">주보등록</h1>
+            </div>
+            <!--</div>-->
+            <div class="container">
+            <form id="f" name="f" action="{{ url_for('go_weekly_paper') }}" method="post">
+                <!-- Example row of columns -->
+                <hr/>
+                {% for i in range(5, 10, 2) %}{{ i }} {% endfor %}
+                <br/>
+                {% set y = '' %}
+                {% for i in range(1, items.worship_procedure| length) %}
+                    {% set y = loop.index|string %}
+                    <!--{{ y }}-->
+                    {% if items.worship_procedure[y] %}
+                        {% if items.worship_procedure[y]["stand_up"] %}
+                            <!--{{ items.worship_procedure[y]["stand_up"] }} - -->
+                    <font color="red" >*</font>
+                        {% endif %}
+                        {% if items.worship_procedure[y]["title"] %}
+                            {{ items.worship_procedure[y]["title"] }} -
+                        {% endif %}
+                        {% if items.worship_procedure[y]["contents"] %}
+                            <pre>{{ items.worship_procedure[y]["contents"] }} </pre> -
+                        {% endif %}
+                        {% if items.worship_procedure[y]["link"] %}
+                            {{ items.worship_procedure[y]["link"]["kind"] }} -
+                            {{ items.worship_procedure[y]["link"]["link_to"] }} -
+                        {% endif %}
+                        {% if items.worship_procedure[y]["etc"] %}
+                            {{ items.worship_procedure[y]["etc"] }} -
+                        {% endif %}
+                        <br/>
+                    {% endif %}
+                {% endfor %}
+                <br/>
+                {{ items.worship_procedure| length }}<br/>
+                {% for  key, value in items.worship_procedure.iteritems() %}
+                    <!--{{ key | e }} - {{ value|e }}<br/>-->
+
+                    {{ loop.index }} - {{ key | e }} - {{ value.title }}
+                {% endfor %}
+
+                {{ items.church_id|e }}
+                {{ items.churchName|e }}
+                {{ items.week_date|e }}
+                {% set x = '' %}
+                {% for item in items.worship_procedure %}
+                    {#{ item.loop.index }#}
+                    {% set x = loop.index|string %}
+                    {{ item[x] }}
+                    {% if x in item %}
+                        {{ item["text1"] }} <p>{{ x }} + testet</p> {{ item }}
+                    {% endif %}
+                    {{ item.text1 }}
+                    <br/>
+                    <!--{{ x }} <br/>-->
+                    <!--{{ item.x }}-->
+                    <!--{{ item[x] }}-->
+                {% endfor %}
+                <div class="input-group" >
+                    <label for="account_email" class="sr-only">Email address</label>
+                    <input type="email" class="form-control" id="account_email" name="account_email" placeholder="이메일주소" required/>
+                </div>
+                <div class="alert alert-danger" role="alert" id="email_error_box" style="display:none">
+                    <span class="glyphicon glyphicon-exclamation-sign" aria-hidden="true"></span>
+                    <span class="sr-only">Error:</span>
+                </div>
+                <br/>
+                <div class="input-group" >
+                    <input type="password" class="form-control" id="pwd" name="pwd" placeholder="비밀번호" required/>
+                </div>
+                <br/>
+                <div class="input-group" >
+                    <input type="password" class="form-control" id="cus_pwd_compare" name="cus_pwd_compare" placeholder="비밀번호확인" />
+                </div>
+                <br/>                <br/>
+                <div class="input-group" >
+                    <input type="text" class="form-control" id="lastname" name="lastname" placeholder="성" />
+                </div>
+                <br/>                <br/>
+                <div class="input-group" >
+                    <input type="text" class="form-control" id="firstname" name="firstname" placeholder="이름" />
+                </div>
+                <br/>
+
+                <h2>교회정보</h2>
+                <div class="input-group" >
+                    <input type="text" class="form-control" id="church_name" name="church_name" placeholder="교회명" />
+                </div>
+                <br/>
+                <div class="input-group w-25" >
+                    <input type="text" class="form-control" id="zip_code" name="zip_code" placeholder="우편번호" />
+                </div>
+                <br/>
+                <div class="input-group" >
+                    <input type="text" class="form-control" id="address" name="address" placeholder="도로명주소" />
+                </div>
+                <br/>
+                <div class="input-group" >
+                    <input type="text" class="form-control" id="address_detail" name="address_detail" placeholder="상세주소" />
+                </div>
+                <br/>
+                <div class="input-group" >
+                    <input type="text" class="form-control" id="address_ref" name="address_ref" placeholder="참고항목" />
+                </div>
+
+                <hr/>
+                <div class="my-auto" style="text-align: center;">
+                    <!--<a herf="/user/regId" class="btn btn-lg btn-primary" >가입</a>-->
+                    <button type="submit" class="btn btn-lg btn-primary" >가입</button>
+                </div>
+            </form>
+            </div> <!-- /container -->
+        </main>
+
+        <footer class="container">
+            <p>&copy; Company 2017</p>
+        </footer>
+        <script>
+            $(function(){
+                <!--{# 로그인 후 교회 정보가 없으면 교회 정보 등록 하도록 alert 창 띄운다 #}-->
+                <!--{$ if not 'CHURCH_ID' in session['USER_INFO'] $}-->
+                <!--var ok = confirm("주보등록 교회 정보가 없습니다. /n 교회 정보를 등록 하시고 이용 하세요. /n 페이지를 이동 하시겠습니까?");-->
+                <!--if(ko){-->
+                <!--} else {}-->
+                $("#account_email").focus(function(){
+                    $("#email_error_box").hide();
+                })
+                $("#account_email").blur(function(){
+                    var account_email = $("#account_email").val();
+                    var msg = "";
+                    if(checkEmptyID()){
+                        checkID(account_email);
+                    }
+                })
+            });
+
+            function checkID(account_email){
+                var msg = "";
+                $.ajax({
+                    type : "POST",
+                    url : "/user/checkUser",
+                    dataType : "json",
+                    data : 'account_email='+$("#account_email").val()+"",
+                    success : function(data, status){
+                        console.log(data, status);
+                        $("#email_error_box").show();
+                        if(data.status == "OK"){
+                            $("#email_error_box").text('사용 할 수 있는 e-mail 계정 입니다.');
+                        } else {
+                            $("#email_error_box").text('사용 할 수 없는 e-mail 계정 입니다.');
+                        }
+                    },
+                    error : function(xhr, status, error){
+                        console.log(status);
+                        console.log(error);
+                        $("#email_error_box").show();
+                        $("#email_error_box").text('알 수 없는 에러가 발생 하였습니다.'+error);
+                    }
+                });
+                return msg;
+            }
+            function checkEmptyID(){
+                if ($("#account_email").val() == ""){
+                    $("#email_error_box").show();
+                    $("#email_error_box").text('e-mail계정을 입력하지 않았습니다.');
+                    return false;
+                }
+                return true;
+            }
+        </script>
+    </body>
+</html>
