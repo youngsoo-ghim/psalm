@@ -1,0 +1,47 @@
+X:284
+T:206 오랫동안 모든 죄 가운데 빠져
+Z:Anonymous/G.A.Minor
+Z:Copyright © 1999 by ÀüµµÈ¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/8
+Q:1/4=104
+M:4/4
+I:linebreak $
+K:C
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ G G G3/2 A/ G2 E2 | c c c3/2 d/ c2 A2 | G G G3/2 A/ G2 E2 | E E D ^C D4 | E G G3/2 A/ G2 E2 | %5
+w: 1.~오 랫 동 안 모 든|죄 가 운 데 빠 져|더 럽 기 가 한 량|없 는 우 리 들|아 무 공 로 없 이|
+w: 2.~주 의 보 혈 로 써|정 결 하 게 씻 어|죄 악 에 서 떠 난|몸 이 되 었 고|세 상 근 심 구 름|
+w: 3.~죄 의 깊 은 잠 과|뜬 세 상 의 꿈 을|어 서 깰 지 어 다|나 의 친 구 여|은 혜 받 을 날 과|
+ c c c3/2 d/ c2 A2 | G G c d e2 c2 | d c e3/2 d/ c4 | E G G3/2 A/ G4 | A c c3/2 A/ G4 | %10
+w: 구 원 함 을 얻 어|하 나 님 의 자 녀|지 금 되 었 네|주 의 그 사 랑|한 량 없 도 다|
+w: 간 곳 없 어 지 니|하 나 님 의 빛 이|영 화 롭 도 다|||
+w: 구 원 얻 을 때 가|지 금 온 세 상 에|선 포 되 었 네|||
+ G G c d e2 c2 | e e d3/2 c/ d4 | E G G3/2 A/ G4 | A c c3/2 A/ G4 | G G c d e2 c2 | %15
+w: 찬 송 할 지 어 다|예 수 의 공 로|주 의 그 사 랑|한 량 없 도 다|찬 송 할 지 어 다|
+w: |||||
+w: |||||
+ d c e3/2 d/ c4 :| |] %17
+w: 예 수 의 공 로||
+w: ||
+w: ||
+V:2
+ E E E3/2 F/ E2 C2 | E E E3/2 E/ F2 F2 | E E E3/2 F/ E2 C2 | C C B, ^A, B,4 | C E E3/2 F/ E2 C2 | %5
+ E E E3/2 E/ F2 F2 | E E E F G2 G2 | F E G3/2 F/ E4 | C E E3/2 F/ E4 | F A A3/2 F/ E4 | %10
+ E E E F G2 E2 | G G G3/2 ^F/ G4 | C E E3/2 F/ E4 | F A A3/2 F/ E4 | E E E F G2 G2 | %15
+ F E G3/2 F/ E4 :| |] %17
+V:3
+ C C C3/2 C/ C2 G,2 | G, G, G,3/2 G,/ A,2 C2 | C C C3/2 C/ C2 G,2 | G, G, G, G, G,4 | %4
+ G, C C3/2 C/ C2 G,2 | G, G, G,3/2 G,/ A,2 C2 | C C G, G, C2 C2 | B, C C3/2 G,/ G,4 | %8
+ G, C C3/2 C/ C4 | C C C3/2 C/ C4 | C C G, G, C2 G,2 | C C D3/2 D/ B,4 | G, C C3/2 C/ C4 | %13
+ C C C3/2 C/ C4 | C C G, G, C2 C2 | B, C C3/2 G,/ G,4 :| |] %17
+V:4
+ C, C, C,3/2 C,/ C,2 C,2 | C, C, C,3/2 C,/ F,2 F,2 | C, C, C,3/2 C,/ C,2 C,2 | C, C, G,, G,, G,,4 | %4
+ C, C, C,3/2 C,/ C,2 C,2 | C, C, C,3/2 C,/ F,2 F,2 | C, C, C, C, C,2 E,2 | G, G, G,3/2 G,/ C,4 | %8
+ C, C, C,3/2 C,/ C,4 | F, F, F,3/2 F,/ C,4 | C, C, C, C, C,2 C,2 | C, C B,3/2 A,/ G,4 | %12
+ C, C, C,3/2 C,/ C,4 | F, F, F,3/2 F,/ C,4 | C, C, C, C, C,2 E,2 | G, G, G,3/2 G,/ C,4 :| |] %17

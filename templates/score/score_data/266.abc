@@ -1,0 +1,37 @@
+X:266
+T:주의 피로 이룬 샘물
+Z:P.P.Knapp
+Z:Copyright © 1997 by Àü µµ È¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/4
+Q:1/4=92
+M:3/4
+I:linebreak $
+K:Eb
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ E | G/ B/ G E | C/ E/ E c | c/ B/ B G | F2 E | G/ B/ G E | C/ E/ E c | c/ B/ G F | E2 B | %9
+w: 1.주|의 피 로 이|룬 샘 물 참|깊 고 넓 도|다 구|원 하 는 크|신 능 력 다|찬 송 할 지|라 찬|
+w: 2.죄|악 세 상 이|김 으 로 거|룩 한 길 가|는 나|의 마 음 성|전 삼 고 주|께 서 계 시|네 *|
+w: 3.주|예 수 를 깊|이 아 는 놀|라 운 그 은|혜 하|늘 나 라 즐|거 움 이 매|일 새 롭 도|다 *|
+ c/ c/ c e | e/ B/ B G | F/ G/ A c | c/ B/ B B | c/ c/ c e | e/ B/ B G | F/ G/ A D | F/ E/ E :| |] %18
+w: 송 하 세 주|의 보 혈 그|샘 에 지 금|나 아 가 죄|에 깊 이 빠|진 이 몸 그|피 로 씻 어|맑 히 네||
+w: |||||||||
+w: |||||||||
+V:2
+ E | E/ G/ E B, | A,/ C/ C E | E/ E/ E E | D2 E | E/ G/ E B, | A,/ C/ C E | E/ E/ E D | E2 E | %9
+ E/ E/ E E | G/ G/ G E | D/ E/ F A | A/ G/ G E | E/ E/ E E | G/ G/ G E | D/ E/ F B, | B,/ B,/ B, :| %17
+ |] %18
+V:3
+ G, | B,/ B,/ B, G, | A,/ A,/ A, A, | A,/ G,/ G, B, | B,2 G, | B,/ B,/ B, G, | A,/ A,/ A, A, | %7
+ A,/ G,/ B, A, | G,2 G, | A,/ A,/ A, C | B,/ B,/ B, B, | B,/ B,/ B, D | E/ E/ E G, | A,/ A,/ A, C | %14
+ B,/ B,/ B, B, | B,/ B,/ B, A, | A,/ G,/ G, :| |] %18
+V:4
+ E, | E,/ E,/ E, E, | A,,/ A,,/ A,, A,, | E,/ E,/ E, E, | B,,2 E, | E,/ E,/ E, E, | %6
+ A,,/ A,,/ A,, A,, | E,/ E,/ B,, B,, | E,2 E, | A,,/ C,/ E, A, | E,/ E,/ E, E, | %11
+ B,,/ B,,/ B,, B,, | E,/ E,/ E, E, | A,,/ C,/ E, A, | E,/ E,/ E, E, | B,,/ B,,/ B,, B,, | %16
+ E,/ E,/ E, :| |] %18

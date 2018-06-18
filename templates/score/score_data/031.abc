@@ -1,0 +1,48 @@
+X:31
+T:46 찬양하라 복 되신 구세주 예수
+Z:F.J.Crosby/C.G.Allen
+Z:Copyright © 1999 by ÀüµµÈ¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/8
+Q:1/4=88
+M:6/8
+I:linebreak $
+K:Ab
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ c3 e3 | A3 c3 | B c B A G F | E3 A3 | c3 e3 | A3 c3 | c B A B2 c | B6 | c3 e3 | A3 c3 | %10
+w: 1.찬 양|하 라|복 되 신 구 세 주|예 수|백 성|들 아|사 랑 을 전 하|세|경 배|하 라|
+w: 2.찬 양|하 라|복 되 신 구 세 주|예 수|우 리|대 신|죽 음 을 당 했|네|구 주|예 수|
+w: 3.찬 양|하 라|복 되 신 구 세 주|예 수|천 사|들 아|즐 겁 게 찬 양|해|구 주|예 수|
+ B c B A G F | E3 A3 | c3 e3 | d3 B3 | A G A c2 B | A6 | B3 c3 | (B2 G) E3 | d c B c2 d | c3 B3 | %20
+w: 하 늘 의 천 군 과|천 사|주 님|앞 에|영 광 을 돌 리|세|목 자|같 * 이|우 리 를 지 키|시 고|
+w: 영 원 한 구 원 의|소 망|경 배|하 며|겸 손 히 절 하|세|찬 양|하 * 라|우 리 죄 지 신|예 수|
+w: 영 원 히 다 스 리|시 니|면 류|관 을|주 앞 에 드 리|세|구 주|예 * 수|세 샹 을 이 기|시 고|
+ c3 e3 | A3 c3 | c B A B2 c | B6 | c3 e3 | A3 c3 | B c B A G F | E3 A3 | c3 e3 | d3 B3 | %30
+w: 종 일|품 에|늘 안 아 주 시|니|찬 양|하 라|높 으 신 권 세 를|찬 양|찬 양|창 양|
+w: 그 의|사 랑|한 없 이 크 셔|라|||||||
+w: 영 광|중 에|또 다 시 오 시|네|||||||
+ A G A c2 B | A6 :| |] %33
+w: 영 원 히 부 르|세||
+w: |||
+w: |||
+V:2
+ E3 E3 | E3 E3 | F F F F E D | C3 C3 | E3 E3 | C3 C3 | =D D D D2 D | E6 | E3 E3 | E3 E3 | %10
+ F F F F E D | C3 C3 | E3 _G3 | F3 F3 | E E E A2 G | A6 | E3 E3 | E3 E3 | E E E E2 E | E3 E3 | %20
+ E3 E3 | C3 C3 | =D D D D2 D | E6 | E3 E3 | E3 E3 | F F F F E D | C3 C3 | E3 _G3 | F3 F3 | %30
+ E E E A2 G | A6 :| |] %33
+V:3
+ A,3 C3 | C3 A,3 | D D D A, A, A, | A,3 A,3 | A,3 A,3 | A,3 A,3 | A, A, A, F,2 A, | G,6 | A,3 C3 | %9
+ C3 A,3 | D D D A, A, A, | A,3 A,3 | A,3 A,3 | A,3 D3 | C B, C E2 D | C6 | G,3 A,3 | G,2 B, G,3 | %18
+ B, A, G, A,2 B, | A,3 G,3 | A,3 A,3 | A,3 A,3 | A, A, A, F,2 A, | G,6 | A,3 C3 | C3 A,3 | %26
+ D D D A, A, A, | A,3 A,3 | A,3 A,3 | A,3 D3 | C B, C E2 D | C6 :| |] %33
+V:4
+ A,3 A,3 | A,3 A,3 | D, D, D, D, D, D, | A,,3 A,,3 | A,,3 C,3 | F,3 F,3 | B,, B,, B,, B,,2 B,, | %7
+ E,6 | A,3 A,3 | A,3 A,3 | D, D, D, D, D, D, | A,,3 A,,3 | A,,3 C,3 | D,3 D,3 | E, E, E, E,2 E, | %15
+ A,,6 | E,3 E,3 | E,3 E,3 | E, E, E, E,2 E, | E,3 E,3 | A,,3 C,3 | F,3 F,3 | B,, B,, B,, B,,2 B,, | %23
+ E,6 | A,3 A,3 | A,3 A,3 | D, D, D, D, D, D, | A,,3 A,,3 | A,,3 C,3 | D,3 D,3 | E, E, E, E,2 E, | %31
+ A,,6 :| |] %33

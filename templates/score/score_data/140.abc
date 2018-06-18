@@ -1,0 +1,35 @@
+X:140
+T:130 왕 되신 우리 주께
+Z:Theodulph of Orleans/M.Teschner
+Z:Copyright May 25th 2000 by Jun
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/4
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:C
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ C | G G A B | c2 c e | d c c B | c3 C | G G A B | c2 c e | d c c B | c3 c | e e d c | (B A) G B | %11
+w: 왕|되 신 우 리|주 께 다|영 광 돌 리|세 옛|날 에 많 은|무 리 호|산 나 불 렀|네 다|윗 의 자 손|으 * 로 세|
+w: 저|천 군 천 사|들 이 호|산 나 부 르|니 온|천 하 백 성|들 이 다|화 답 하 도|다 저|유 대 백 성|같 * 이 종|
+w: 주|고 난 받 기|전 에 수|많 은 무 리|가 영|광 의 찬 송|불 러 주|찬 양 하 였|네 이|같 이 우 리|들 * 도 주|
+ c B A A | G3 G | E G A G | (G F) E G | F E D D | C3 | F2 E2 |] |] %19
+w: 상 에 오 시|어 왕|위 에 오 른|주 * 께 다|영 광 돌 리|세|||
+w: 려 가 지 들|고 오|시 는 주 를|맞 * 아 호|산 나 부 르|세|||
+w: 환 영 하 오|니 그|넓 은 사 랑|안 * 에 다|받 아 주 소|서|아 멘||
+V:2
+ C | D C C F | (F E/D/) E G | G/F/ E D D | E3 C | D C C F | (F E/D/) E G | G/F/ E D D | E3 E | %9
+ G A A ^F | (G ^F) D G | E G G ^F | G3 D | C C C C | D B, C C | C C C B, | C3 | C2 C2 |] |] %19
+V:3
+ E, | G, E, F, G, | G,2 G, C | B, C A, G, | G,3 E, | G, E, F, G, | G,2 G, C | B, C A, G, | G,3 G, | %9
+ C C D D | (D C) B, E | C D E D/C/ | B,3 G, | G, G, F, E, | G,2 G, G, | A, G, G,3/2 F,/ | E,3 | %17
+ A,2 G,2 |] |] %19
+V:4
+ C, | B,, C, F, D, | C,2 C, C | G, A, F, G, | C,3 C, | B,, C, F, D, | C,2 C, C | G, A, F, G, | %8
+ C,3 C, | C/B,/ A,/G,/ ^F, D, | (G, D,) G, E, | A,, B,, C, D, | G,,3 B,, | C, E, F, C, | %14
+ (B,, G,,) C, E, | F, C, G,, G,, | C,3 | F,2 C,2 |] |] %19

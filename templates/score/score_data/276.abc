@@ -1,0 +1,39 @@
+X:276
+T:아버지여 이 죄인을
+Z:R.Palmer/J.Zundel
+Z:Copyright © 1997 by Àü µµ È¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/4
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:Bb
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ F F G F | d c/d/ c B | A G B G | F E/F/ D2 | F F G F | d c/d/ c B | G e d B | A G/A/ B2 | %8
+w: 아 버 지 여|이 죄- * 인 을|용 납 하 여|주 시- * 고|아 드 님 의|이 름- * 으 로|구 원 하 여|주 소- * 서|
+w: 전 에 하 던|헛 된- * 일 을|원 통 하 게|여 기- * 고|겸 손 하 게|업 드- * 려 서|용 서 하 심|빕 니- * 다|
+w: 나 의 죄 를|사 하- * 시 려|주 님 죽 으|셨 으- * 니|그 공 로 를|의 지- * 하 여|주 만 의 지|합 니- * 다|
+ B B B A | G A/G/ ^F D | d d e d | c c/d/ c2 | F F G F | d c/d/ c B | G e d B | A G/A/ B2 :| %16
+w: 아 버 지 를|떠 나- * 간 지|벌 써 오 래|되 었- * 고|길 험 해 서|곤 한- * 몸 이|이 제 돌 아|옵 니- * 다|
+w: 은 혜 감 당|못 하- * 오 나|회 개 하 는|영 혼- * 과|나 의 약 한|육 신- * 까 지|감 히 드 리|옵 니- * 다|
+w: 아 버 지 여|용 납- * 하 사|나 를 품 어|주 시- * 고|주 의 사 랑|품 안- * 에 서|길 이 살 게|하 소- * 서|
+ B2 B2 |] |] %18
+w: ||
+w: ||
+w: ||
+V:2
+ D D E D | F E/F/ E D | F E G E | D C B,2 | D D E D | F E/F/ E D | E G F F | E E D2 | D G G ^F | %9
+ G D D D | D F G F | F =E F _E | D D E D | F E/F/ E D | E G F F | E E D2 :| E2 D2 |] |] %18
+V:3
+ F, F, B, F, | B, A, A, B, | B, B, B, B, | B, A, F,2 | F, F, B, F, | B, A, A, B, | B, B, B, D | %7
+ C A, F,2 | G, D D C | B, C/B,/ A, D, | F, B, B, B, | A, B, A,2 | B, B, B, B, | B, A, A, B, | %14
+ B, B, B, D | C F, F,2 :| G,2 F,2 |] |] %18
+V:4
+ B,, B,, B,, B,, | B,, F, F, B,, | E, E, E, E, | F, F, B,,2 | B,, B,, B,, B,, | B,, F, ^F, G, | %6
+ E, E, F, F, | F, F, B,,2 | G,, B,, D, D, | D, D, D, D, | B,, B,, B,, B,, | C, C, F,2 | %12
+ B,, B,, B,, B,, | B,, F, ^F, G, | E, E, F, F, | F, F,, B,,2 :| E,2 B,,2 |] |] %18

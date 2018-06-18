@@ -1,0 +1,43 @@
+X:356
+T:396 주 예수 이름 소리 높여
+Z:Anonymous
+Z:Copyright © 1999 by ÀüµµÈ¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/4
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:Eb
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ E | E E E/D/ C/D/ | E F G A | B G G/F/ E/G/ | F3 B | E E E/D/ C/D/ | E F G A | B/G/ F/A/ G F | %8
+w: 1.주|예 수 이- * 름- *|소 리 높 여|찬 송 드- * 리- *|니 그|거 룩 하- * 고- *|크 신 영 광|널- * 리- * 퍼 지|
+w: 2.큰|죄 에 빠- * 진- *|종 된 백 성|놓 아 주- * 시- *|고 그|영 광 나- * 라- *|백 성 되 게|하- * 여- * 줍 소|
+w: 3.내|영 의 원- * 수- *|이 길 힘 을|누 가 주- * 시- *|랴 그|악 한 마- * 귀- *|정 복 한 이|구- * 주- * 예 수|
+w: 4.내|사 망 고- * 통- *|면 해 주 사|새 사 람- * 되- *|고 새|힘 을 주- * 사- *|승 리 생 활|하- * 게- * 합 소|
+ E3 E/ G/ | B B c c | B3 G/ A/ | B e d c | B3 d | e e f/e/ d/c/ | B A G F/ G/ | E A G F | E3 :| %17
+w: 네 나 의|영 혼 싸 울|때 나 의|영 혼 싸 울|때 주|나 의 대- * 장- *|되 시 니 나 를|인 도 합 소|서|
+w: 서 * *|||||||||
+w: 라 * *|||||||||
+w: 서 * *|||||||||
+ E2 E2 |] |] %19
+w: 아 멘||
+w: ||
+w: ||
+w: ||
+V:2
+ B, | B, B, B, B, | B, D E D | E E E E | D3 D | B, B, B, B, | B, D E D | E E E D | E3 E/ E/ | %9
+ G G A A | G3 E/ F/ | G c B A | G2 F A | G A/B/ A A | G F E B,/ B,/ | E F E D | E3 :| C2 B,2 |] |] %19
+V:3
+ G, | G, G, A, A, | G, B, B, B, | B, B, =A, A, | B,3 B,/A,/ | G, G, A, A, | G, B, B, B, | %7
+ B, C B, A, | G,3 G,/ A,/ | E3 E | E B, E B,/ B,/ | E E A,/B,/ C/D/ | (E2 D) F | E B, C E | %14
+ E D C A,/ A,/ | G, C B, A, | G,3 :| A,2 G,2 |] |] %19
+V:4
+ E, | E, B,, F, B,, | E, B,, E, F, | G, E, C, F, | B,, B,3/2 _A,/ G,/F,/ | E, B,, F, B,, | %6
+ E, B,, E, F, | G, A, B, B,, | E,3 E,/ E,/ | E, E, A,,/B,,/ C,/D,/ | E,3 E,/ E,/ | E, E, E, E, | %12
+ E,/F,/ G,/A,/ B, B,, | E, F,/G,/ A, A, | B, B,, C, D,/ D,/ | E, A,, B,, B,, | E,3 :| A,,2 E,2 |] %18
+ |] %19

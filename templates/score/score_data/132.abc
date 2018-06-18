@@ -1,0 +1,41 @@
+X:132
+T:38 주의 영광 빛나니
+Z:H.F.Lyte/R.Williams
+Z:Copyright May 16th 2000 by Jun
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/4
+Q:1/4=108
+M:4/4
+I:linebreak $
+K:G
+V:1 treble
+L:1/8
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ G2 G2 B2 B2 | d2 cB A4 | (d3 c B2) cB | A4 G4 | G2 G2 B2 B2 | d2 cB A4 | (d3 c B2) cB | A4 G4 | %8
+w: 주 의 영 광|빛 나 * 니|할 * * 렐 *|루 야|성 도 들 은|주 앞 * 에|할 * * 렐 *|루 야|
+w: 하 늘 이 여|땅 이 * 여|할 * * 렐 *|루 야|주 의 기 사|전 하 * 라|할 * * 렐 *|루 야|
+w: 주 의 은 혜|넘 치 * 니|할 * * 렐 *|루 야|주 의 섭 리|놀 라 * 와|할 * * 렐 *|루 야|
+ B2 B2 d2 d2 | ed cB A4 | (B3 A B2) ^c2 | d4 d4 | G2 G2 B2 B2 | d2 cB A4 | (d3 c B2) cB | A4 G4 | %16
+w: 보 좌 앞 에|천 * 사 * 도|할 * * 렐|루 야|주 의 사 랑|크 셔 * 라|할 * * 렐 *|루 야|
+w: 만 물 들 아|영 * 원 * 히|할 * * 렐|루 야|서 로 화 답|하 여 * 라|할 * * 렐 *|루 야|
+w: 주 의 역 사|크 * 셔 * 라|할 * * 렐|루 야|주 의 사 랑|한 없 * 네|할 * * 렐 *|루 야|
+ G4 G4 |] |] %18
+w: ||
+w: ||
+w: 아 멘||
+V:2
+ D D G G | G A/G/ F2 | (D E/F/ G) G | (F E) F2 | D D G G | G A/G/ F2 | (D E/F/ G) G | (G F) G2 | %8
+ D E D G | E F/G/ F2 | (G3/2 A/ G) G | F3/2 G/ F2 | G D D G | G A/G/ F2 | (D E/F/ G) G | (G F) G2 | %16
+ E2 D2 |] |] %18
+V:3
+ B, B, G, G, | D E A,2 | (B,3/2 C/ D) C/D/ | (E D) B,2 | B, B, G, G, | D E A,2 | %6
+ (B,3/2 C/ D) C/D/ | E D B,2 | B, G, A, B, | C D D2 | D3 G, | A,3/2 B,/ A,2 | B, D/C/ B, G, | %13
+ D E A,2 | (B,3/2 C/ D) C/D/ | (E D) B,2 | C2 B,2 |] |] %18
+V:4
+ G, G, E, E, | B,, C, D,2 | B,3/2 A,/ G, E,/D,/ | C, D, G,2 | G, G, E, E, | B,, C, D,2 | %6
+ B,3/2 A,/ G, E,/D,/ | (C, D,) G,2 | G, E, F, G, | C D D2 | D3 G, | A,3/2 B,/ A,2 | %12
+ B, D/ C/ B, G, | D E A,2 | (B,3/2 C/ D) C/D/ | (E D) B,2 | C2 B,2 |] |] %18

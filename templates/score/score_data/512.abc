@@ -1,0 +1,46 @@
+X:512
+T:328 천성길을 버리고
+Z:E.Neumeister/J.McGranahan
+Z:Copyright © 1999 by ÀüµµÈ¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/8
+Q:1/4=96
+M:3/4
+I:linebreak $
+K:C
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ E3/2 F/ | G3 A E3/2 A/ | G4 G3/2 c/ | B3 A G3/2 F/ | E4 E3/2 F/ | G3 A E3/2 A/ | G4 G3/2 c/ | %7
+w: 1.~천 성|길 을 버 리|고 죄 에|빠 진 죄 인|을 예 수|영 접 하 시|니 어 찌|
+w: 2.~모 든|죄 에 빠 진|자 예 수|영 접 하 시|니 너 도|주 께 나 가|면 편 히|
+w: 3.~지 금|맘 이 편 하|고 지 금|흠 이 없 음|은 나 의|공 로 아 니|요 오 직|
+w: 4.~죄 인|영 접 하 시|니 나 도|영 접 하 시|고 나 의|죄 를 다 씻|어 길 이|
+ B3 G A3/2 B/ | c4 |[M:12/8] EF G | A6- Ac c cB A | G6- G3 GA E | G6- G2 G GA E | G6- G3 EF G | %14
+w: 감 사 안 할|까|거 * 듭|말 * * 씀 전 * 하|라 * 죄 * 인|영 * 접 하 * 신|다 * 밝 * 히|
+w: 쉼 을 얻 으|리||||||
+w: 주 의 공 로|라||||||
+w: 함 께 계 시|네||||||
+ A6- Ac c cB A | G6- G3 c2 c | d3- d2 d c3 B3 | c6- c3 :| |] %19
+w: 말 * * 씀 전 * 하|라 * 죄 인|영 * 접 하 신|다 *||
+w: |||||
+w: |||||
+w: |||||
+V:2
+ C3/2 D/ | E3 F C3/2 F/ | E4 E3/2 E/ | D3 F E3/2 D/ | C4 C3/2 D/ | E3 F C3/2 F/ | E4 E3/2 E/ | %7
+ D3 E F3/2 F/ | E4 |[M:12/8] C D E | F6- FA A AG F | E6 E3 E2 E | F2 F F2 F E3 E2 E | %13
+ D2 E F2 F E3 CD E | F6- FA A AG F | E6- E3 G2 G | F3- F2 F E3 (D2 F) | E6- E3 :| |] %19
+V:3
+ G,3/2 G,/ | C3 C C3/2 C/ | C4 C3/2 G,/ | G,3 G, G,3/2 G,/ | G,4 G,3/2 G,/ | C3 C C3/2 C/ | %6
+ C4 C3/2 G,/ | G,3 G, G,3/2 G,/ | G,4 |[M:12/8] z2 z | C2 C C2 C C2 z z2 z | C2 C C2 C C3 C2 C | %12
+ B,2 B, B,2 B, C3 C2 C | B,2 C D2 D C3 z2 z | C2 C C2 C C2 z z2 z | C2 C C2 C C3 _B,2 B, | %16
+ A,3- A,2 A, G,3 G,3 | G,6- G,3 :| |] %19
+V:4
+ C,3/2 C,/ | C,3 C, C,3/2 C,/ | C,4 C,3/2 C,/ | G,,3 G,, G,,3/2 G,,/ | C,4 C,3/2 C,/ | %5
+ C,3 C, C,3/2 C,/ | C,4 C,3/2 C,/ | G,,3 G,, G,,3/2 G,,/ | C,4 |[M:12/8] z2 z | %10
+ F,2 F, F,2 F, F,2 z z2 z | C,2 C, C,2 C, C,3 C,2 C, | D,2 D, G,,2 G,, C,3 C,2 C, | %13
+ G,,2 G,, G,,2 G,, C,3 z2 z | F,2 F, F,2 F, F,2 z z2 z | C,2 C, C,2 C, C,3 E,2 E, | %16
+ (F,3 D,2) D, G,3 G,,3 | C,6- C,3 :| |] %19

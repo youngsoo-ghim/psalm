@@ -1,0 +1,36 @@
+X:35
+T:큰 영화로신 주
+Z:B.Francis/L.Edson
+Z:Copyright © 1997 by Àü µµ È¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/4
+Q:1/4=108
+M:4/4
+I:linebreak $
+K:A
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ A2 | A A E F | E3 E | A B c B | A2 A2 | c e c A | B3 B | c A B G | A3 E | A A A E | F F F A | %11
+w: 1.큰|영 화 로 신|주 이|곳 에 오 셔|서 이|모 인 자 들|로 주|백 성 삼 으|사 그|중 에 항 상|계 시 고 그|
+w: 2.이|백 성 기 도|와 또|예 물 드 림|이 향|내 와 같 으|니 곧|받 으 옵 소|서 주|예 수 크 신|복 음 을 주|
+w: 3.또|우 리 자 손|들 다|주 를 기 리|고 저|성 전 돌 같|이 긴|하 게 하 소|서 주|구 원 하 신|능 력 을 주|
+w: 4.주|믿 는 만 민|이 참|도 를 지 키|며 옛|성 도 들 같|이 주|찬 송 하 다|가 저|천 국 보 좌|앞 에 서 저|
+ B B B c | A A A E | F F F A | B2 G2 | A2 :| A2 A2 |] |] %18
+w: 중 에 항 상|계 시 고 큰|영 광 나 타|내 소|서|||
+w: 예 수 크 신|복 음 을 만|백 성 듣 게|하 소|서|||
+w: 구 원 하 신|능 력 을 늘|끝 날 까 지|주 소|서|||
+w: 천 국 보 좌|앞 에 서 늘|찬 송 하 게|하 소|서|아 멘||
+V:2
+ C2 | C C E D | B,3 C | C E E D | C2 C2 | E E E E | E3 E | E F F E | E3 C | C C C C | D D D C | %11
+ E E E ^E | F F F E | D D D E | D2 (B, D) | C2 :| D2 C2 |] |] %18
+V:3
+ E,2 | E, A, A, A, | G,3 G, | F, G, A, G, | A,2 A,2 | A, B, A, A, | G,3 G, | A, A, D B, | C3 A, | %9
+ E, E, E, A, | A, A, A, A, | G, G, G, C | C C C A, | A, A, A, E, | F,2 E,2 | E,2 :| F,2 E,2 |] |] %18
+V:4
+ A,,2 | A,, A,, C, D, | E,3 C, | F, E, A, E, | A,,2 A,,2 | A, G, A, C, | E,3 E, | A, F, D, E, | %8
+ A,,3 A,, | A,, A,, A,, A,, | D, D, D, A,, | E, E, E, C, | F, F, F, C, | D, D, D, C, | B,,2 E,2 | %15
+ A,,2 :| D,2 A,,2 |] |] %18

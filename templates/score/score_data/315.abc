@@ -1,0 +1,36 @@
+X:315
+T:내 주 되신 주를 참 사랑하고
+Z:W.R.Featherstone/A.J.Gordon
+Z:Copyright © 1997 by Àü µµ È¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/4
+Q:1/4=96
+M:4/4
+I:linebreak $
+K:F
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ F | A2 B B | (A3/2 G/) F A | G2 E E | F3 F | A2 B B | (A3/2 G/) F A | G2 E E | F3 A | c2 d c | %10
+w: 내|주 되 신|주 * 를 참|사 랑 하|고 곧|그 에 게|죄 * 를 다|고 하 리|라 큰|은 혜 를|
+w: 주|날 사 랑|하 * 사 구|하 시 려|고 저|십 자 가|고 * 난 당|하 셨 도|다 그|가 시 관|
+w: 내|평 생 에|힘 * 쓸 그|큰 의 무|는 주|예 수 의|덕 * 을 늘|기 리 다|가 숨|질 때 에|
+w: 큰|영 광 의|구 * 주 날|사 랑 하|사 그|풍 성 한|은 * 혜 더|하 시 리|니 금|면 류 관|
+ (B A) G C | (A c) B G | (F2 E) F | A2 B B | (A3/2 G/) F A | (c B) A G | F3 :| |] %18
+w: 주 * 신 내|예 * 수 시|니 * 이|전 보 다|더 * 욱 사|랑 * 합 니|다||
+w: 쓰 * 신 내|주 * 뵈 오|니 * 이|전 보 다|더 * 욱 사|랑 * 합 니|다||
+w: 라 * 도 내|할 * 말 씀|이 * 이|전 보 다|더 * 욱 사|랑 * 합 니|다||
+w: 쓰 * 고 늘|찬 * 송 할|말 * 이|전 보 다|더 * 욱 사|랑 * 합 니|다||
+V:2
+ C | F2 F F | (F3/2 C/) C F | E2 C C | C3 C | F2 F F | (F3/2 C/) C F | E2 C C | C3 F | F2 F F | %10
+ (E F) E C | C2 D D | C3 C | F2 F F | (F3/2 C/) C F | F2 E C | C3 :| |] %18
+V:3
+ A, | C2 D D | (C3/2 B,/) A, C | B,2 G, G, | A,3 A, | C2 D D | (C3/2 B,/) A, C | B,2 G, G, | %8
+ A,3 C | C2 B, C | C2 C C | (C A,) G, B, | (A,2 G,) A, | C2 D D | (C3/2 B,/) A, C | (A, G,) C B, | %16
+ A,3 :| |] %18
+V:4
+ F, | F,2 F, F, | F,2 F, F, | C,2 C, C, | F,3 F, | F,2 F, F, | F,2 F, F, | C,2 C, C, | F,3 F, | %9
+ A,2 B, A, | (G, F,) C, E, | F,2 B,, B,, | C,3 F, | F,2 F, F, | F,2 F, F, | C,2 C, C, | F,3 :| |] %18

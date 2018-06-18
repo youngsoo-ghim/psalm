@@ -1,0 +1,34 @@
+X:504
+T:266 왕의 명령 전달할 사자여
+Z:l.s.cOPENHAVER/G.W.Warren
+Z:Copyright July 6th 2000 by 전도환
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/4
+Q:1/4=108
+M:4/4
+I:linebreak $
+K:Eb
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ E2 E3/2 F/ | G3 A | G E E D | E3 z | G2 G3/2 G/ | B3 c | d B B =A | B4 | B2 B B | B3 B | %10
+w: 왕 의 명|령 전|달 할 사 자|여|불 멸 의|소 식|손 에 들 고|서|그 소 식|널 리|
+w: 마 른 사|막 또|습 한 땅 거|쳐|밀 림 과|바 다|높 은 산 지|나|주 저 치|말 고|
+w: 믿 음 주|사 그|길 을 닦 아|서|약 속 의|성 취|보 게 하 소|서|싸 움 이|없 고|
+ _d B B =A | B3 z | e2 d3/2 c/ | B3 B | A G F F | E4 | E2 E2 |] |] %18
+w: 전 파 하 여|서|대 왕 의|길 을|곧 게 닦 아|라|||
+w: 길 을 닦 아|서|주 님 의|길 을|예 비 하 여|라|||
+w: 다 툼 그 칠|때|평 화 의|왕 이|오 시 리 로|다|아 멘||
+V:2
+ B,2 C3/2 D/ | E3 E | E E B, B, | B,3 z | E2 E3/2 E/ | D3 =E | F F F F | F4 | B2 B B | B3 B | %10
+ F F F E | =D3 z | E2 E3/2 E/ | E3 G | F E E D | E4 | C2 B,2 |] |] %18
+V:3
+ G,2 G,3/2 B,/ | B,3 C | B, G, F, F, | G,3 z | B,2 C3/2 C/ | G,3 B, | B, D C C | D4 | B,2 B, B, | %9
+ B,3 B, | B, _D C C | B,3 z | B,2 A,3/2 A,/ | G,3 _D | C B, B, A, | G,4 | A,2 G,2 |] |] %18
+V:4
+ E,2 C,3/2 B,,/ | E,3 A,, | B,, B,, B,, B,, | E,3 z | E,2 C,3/2 C,/ | G,3 G, | F, F, F, F, | B,,4 | %8
+ B,2 B, B, | B,3 B, | F, F, F, F, | B,,3 z | G,2 A,3/2 A,/ | E,3 =E, | F, G,/A,/ B, B,, | E,4 | %16
+ A,,2 E,2 |] |] %18

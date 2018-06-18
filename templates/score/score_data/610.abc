@@ -1,0 +1,45 @@
+X:610
+T:289 고생과 수고가 다 지난 후
+Z:C.H.Gabriel/C.H.Gabriel
+Z:Copyright January 12th 2000 by 전도환
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/4
+Q:1/4=132
+M:6/4
+I:linebreak $
+K:G
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+"^빠르게" D G F E D C | B, D3/2 G/ B3 | B A ^G B A F | A =G E D3 | D ^C D E F G | F F3/2 G/ A3 | %6
+w: 고 생 과 수 고 가|다 지 난 후|광 명 한 천 국 에|편 히 쉴 때|주 님 을 모 시 고|나 살 리 니|
+w: 주 님 의 한 없 는|은 혜 로 써|예 비 한 그 집 에|나 이 르 러|거 기 서 주 님 을|뵈 옵 는 것|
+w: 앞 서 간 친 구 를|만 나 볼 때|기 쁨 이 내 맘 에|차 려 니 와|주 께 서 날 맞 아|주 시 리 니|
+ A ^c B A G F | G F E D3 | B B B B3 | B A B c3 | c c c c3 | c d A B3 | d B A G A B | c E G B3 | %14
+w: 영 원 히 빛 나 는|영 광 일 세|||||||
+w: 영 원 히 빛 나 는|영 광 일 세|영 광 일 세|영 광 일 세|내 가 누 릴|영 광 일 세|은 혜 로 주 얼 굴|뵈 옵 나 니|
+w: 영 원 히 빛 나 는|영 광 일 세|||||||
+ A G E D d c | B D A G3 |] |] %17
+w: |||
+w: 지 극 한 영 광 내|영 광 일 세||
+w: |||
+V:2
+ B, B, B, B, B, A, | G, B,3/2 B,/ D3 | D C B, D C C | B, B, C B,3 | A, A, A, C D E | D D3/2 E/ F3 | %6
+w: ||||||
+ F A G F E D | ^C C C D B, =C | D3- D G E | D3 D F E | D3 D F E | D3 D G E | D3- D C D | %13
+w: ||영 * 광 일|세 영 광 일|세 영 광 일|세 영 광 일|세 * * *|
+ E C E ^D3 | C C C D D E | D B, C B,3 |] |] %17
+w: ||||
+V:3
+ G, G, G, G, G, D, | D, G,3/2 D,/ G,3 | G, F, F, F, F, A, | G, G, G, G,3 | F, E, F, A, A, A, | %5
+ A, A,3/2 A,/ A,3 | A, A, A, A, A, A, | B, A, G, F, G, A, | G, G, G, G,3 | G, C B, A,2 G, | %10
+ F, F, F, F, A, G, | F, F, F, G,3 | B, G, C B, G, G, | G, G, E, F,3 | E, E, G, G, G, G, | %15
+ G, G, F, G,3 |] |] %17
+V:4
+ G,, G,, G,, G,, G,, G,, | G,, G,,3/2 G,,/ G,,3 | D, D, D, D, D, D, | G,, G,, G,, G,,3 | %4
+ A,, A,, A,, A,, A,, A,, | D, D,3/2 D,/ D,3 | A,, A,, A,, A,, A,, A,, | A,, A,, A,, D,3 | %8
+ G,, B,, D, G,3 | G, F, G, D,3 | D, D, D, D,3 | D, D, D, G,3 | G, G, G, G, G, G, | C, C, C, B,,3 | %14
+ C, C, C, B,, B,, C, | D, D, D, G,,3 |] |] %17

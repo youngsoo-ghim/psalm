@@ -1,0 +1,46 @@
+X:150
+T:135 갈보리산 위에
+Z:G.Bennard/G.Bennard
+Z:Copyright © 1998 by ÀüµµÈ¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/16
+Q:1/4=90
+M:6/8
+I:linebreak $
+K:Bb
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ D E | F3 =E G2 F4 F F | G3 ^F A2 G4 G G | A3 G F2 E2 F2 E2 | D6- D4 D E | F3 =E G2 F4 F F | %6
+w: 갈 보|리 산 위 에 십 자|가 섰 으 니 주 가|고 난 을 당 한 표|라 * 험 한|십 자 가 를 내 가|
+w: 멸 시|함 을 받 은 주 의|십 자 가 에 나 의|마 음 이 끌 리 도|다 * 귀 한|어 린 양 이 영 광|
+w: 험 한|십 자 가 에 주 가|흘 린 피 를 믿 는|맘 으 로 바 라 보|니 * 나 를|용 서 하 고 내 죄|
+w: 주 가|예 비 하 신 나 의|본 향 집 에 나 를|부 르 실 그 날 까|지 * 험 한|십 자 가 를 항 상|
+ G3 ^F A2 G4 G G | A3 G F2 e2 d2 c2 | B6- B4 A B | c3 c c2 c2 B2 A2 | B6- B4 B A | %11
+w: 사 랑 함 은 주 가|보 혈 을 흘 림 일|세 * 최 후|승 리 를 얻 기 까|지 * 주 의|
+w: 다 버 리 고 험 한|십 자 가 지 셨 도|다 * * *|||
+w: 사 하 시 려 주 가|흘 리 신 보 혈 일|세 * * *|||
+w: 달 게 지 고 내 가|죽 도 록 충 성 하|리 * * *|||
+ G3 G G2 B2 A2 G2 | F6- F4 F B | d3 d d2 d2 e2 d2 | G6- G4 e e | d3 c B2 F2 A2 c2 | B6- B4 |] |] %18
+w: 십 자 가 사 랑 하|리 * 빛 난|면 류 관 받 기 까|지 * 험 한|십 자 가 붙 들 겠|네 *||
+w: |||||||
+w: |||||||
+w: |||||||
+V:2
+ B, C | D3 ^C C2 D4 D D | E3 E E2 E4 =E E | _E3 E D2 C2 C2 C2 | B,6- B,4 B, C | D3 ^C C2 D4 D D | %6
+ E3 E E2 E4 =E E | _E3 E E2 G2 F2 E2 | D6- D4 C D | E3 E E2 E2 D2 E2 | (D2^C2E2 D4) F F | %11
+ E3 E E2 G2 F2 E2 | D6- D4 D D | F3 F F2 F2 G2 F2 | E6- E4 G G | F3 E D2 E2 E2 E2 | D6- D4 |] |] %18
+V:3
+ F, F, | B,3 B, G,2 B,4 B, B, | B,3 A, C2 B,4 C C | C3 A, B,2 A,2 A,2 F,2 | F,6- F,4 F, F, | %5
+ B,3 B, G,2 B,4 B, B, | B,3 A, C2 B,4 C C | C3 B, A,2 A,2 B,2 A,2 | B,6- B,4 F, F, | %9
+ A,3 A, A,2 A,2 B,2 F,2 | F,2=E,2G,2 F,4 B, B, | B,3 B, B,2 B,2 B,2 B,2 | B,6- B,4 B, B, | %13
+ B,3 B, B,2 B,2 B,2 B,2 | B,6- B,4 B, B, | B,3 A, B,2 A,2 C2 F,2 | F,6- F,4 |] |] %18
+V:4
+ B,, B,, | B,,3 B,, B,,2 B,,4 B,, B,, | E,3 E, E,2 E,4 C, C, | F,3 F, F,2 F,2 F,2 F,2 | %4
+ B,,6- B,,4 B,, B,, | B,,3 B,, B,,2 B,,4 B,, B,, | E,3 E, E,2 E,4 C, C, | F,3 F, F,2 F,2 F,2 F,2 | %8
+ B,,6- B,,4 F, F, | F,3 F, F,2 F,2 F,2 F,2 | B,,6- B,,4 D, D, | E,3 E, E,2 E,2 E,2 E,2 | %12
+ B,,6- B,,4 B,, B,, | B,,3 B,, B,,2 B,,2 B,,2 B,,2 | E,6- E,4 E, E, | F,3 F, F,2 F,2 F,2 F,2 | %16
+ B,,6- B,,4 |] |] %18

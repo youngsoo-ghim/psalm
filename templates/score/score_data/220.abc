@@ -1,0 +1,41 @@
+X:220
+T:278 사랑하는 주님 앞에
+Z:J.Montgomery/D.B.Towner
+Z:Copyright December 30th 1999 by 전도환
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/4
+Q:1/4=264
+M:3/2
+I:linebreak $
+K:Eb
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+"^조금느리게" B, E G | B3 A G3/2 F/ | E3 E A G | c3 B =A3/2 A/ | B3 B, E G | B3 A G3/2 F/ | E3 B e B | %7
+w: 사 랑 하|는 주 님 앞|에 형 제 자|매 한 자 리|에 크 신 은|헤 생 각 하|여 즐 거 운|
+w: 사 랑 하|는 주 님 앞|에 온 갖 충|성 다 바 쳐|서 괴 로 우|나 즐 거 우|나 주 님 만|
+w: 사 랑 하|는 주 님 예|수 같 은 주|로 섬 기 나|니 한 피 받|아 한 몸 이|룬 형 제 여|
+ G E G3 F | E3 |[M:4/2] F F G | A2- A3 A G A | B2- B3 B =A B | c2- c3 e d c | B2- B3 B =A B | %14
+w: 찬 송 부 르|네|내 주 예|수 * 본 을 받|아 * 모 든 사|람 * 내 몸 같|이 * 환 난 근|
+w: 힘 써 섬 기|세|우 리 주|님 * 거 룩 한|손 * 제 자 들|의 * 발 을 씻|어 * 남 섬 기|
+w: 친 구 들 이|여|한 몸 같|이 * 친 밀 하|고 * 마 음 조|차 * 하 나 되|어 * 우 리 주|
+ G2- G3 G ^F G | E2- E3 E D C | B,2- B,3 E D F | E2- E3 |] |] %19
+w: 심 * 위 로 하|고 * 진 심 으|로 * 사 랑 하|세 *||
+w: 는 * 종 의 도|를 * 몸 소 행|해 * 보 이 셨|네 *||
+w: 님 * 크 신 뜻|을 * 지 성 으|로 * 준 행 하|세 *||
+V:2
+ B, E G | B3 A G3/2 F/ | E3 E A G | c3 B =A3/2 A/ | B3 B, E G | B3 A G3/2 F/ | E3 B e B | %7
+ G E G3 F | E3 |[M:4/2] D D E | F2- F3 F =E F | G2- G3 G ^F G | A2- A3 z z2 | z E E E E G ^F G | %14
+ E2- E3 z z2 | z B, B, B, B, C B, A, | G,2- G,3 B, B, B, | B,2- B,3 |] |] %19
+V:3
+ G, G, B, | D3 C B,3/2 A,/ | G,3 G, C B, | A,3 G, F,3/2 E,/ | D,3 G, G, B, | D3 C B,3/2 A,/ | %6
+ G,3 G, G, G, | B, =A, B,3 _A, | G,3 |[M:4/2] z z2 | z B, B, B, B, z z2 | z E E E E z z2 | %12
+ z E E E E C B, A, | G,2- G,3 z z2 | z B, B, B, B, B, =A, B, | G,2- G,3 z z2 | %16
+ z E, E, E, E, G, F, A, | G,2- G,3 |] |] %19
+V:4
+ z z2 | B,,6 | E,6 | E,,4 F,,2 | B,,3 z z2 | B,,6 | E,6 | B,,6 | E,3 |[M:4/2] z z2 | %10
+ z B,, D, F, B,, z z2 | z E, G, B, E, z z2 | z A,, C, E, A, z z2 | z E,, G,, B,, E, z z2 | %14
+ z E, G, B, E, z z2 | z E,, G,, B,, E, z z2 | z E,, G,, B,, E, E, B,, B,, | E,2- E,3 |] |] %19

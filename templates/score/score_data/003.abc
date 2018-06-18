@@ -1,0 +1,28 @@
+X:2
+T:찬양 성부 성자 성령
+C:송영
+D:Tate and Brandy
+%%score (1 |2) (3 |4)
+L:1/4
+Q:1/4=315
+M:6/4
+I:linebreak $
+K:G
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ D | G2 G A2 A | B2 A G2 D | E2 E G2 E | D3- D2 D | G2 G A2 A | B2 c d2 B/A/ | G2 G A2 A | %8
+w: 찬|양 성 부 성|자 성 령 삼|위 일 체 신|께 * 영|세 무 궁 하|기 까 지 영- *|광 을 돌 리|
+ G3- G2 G/A/ | B2 B A2 A | G3- G2 |] |] %12
+w: 세 * 영- *|광 을 돌 리|세 *||
+V:2
+ D | D2 D D2 D | D2 C B,2 B, | C2 C E2 C | B,3- B,2 B, | D2 D D2 D | D2 D D2 D/C/ | B,2 B, C2 C | %8
+ B,3- B,2 B,/C/ | D2 D C2 C | B,3- B,2 |] |] %12
+V:3
+ D, | G,2 G, F,2 F, | G,2 F, G,2 G, | G,2 G, G,2 G, | G,3- G,2 G, | G,2 G, F,2 F, | G,2 A, B,2 G, | %7
+ G,2 G, F,2 F, | G,3- G,2 G, | G,2 G, F,2 F, | G,3- G,2 |] |] %12
+V:4
+ D, | B,,2 B,, D,2 D, | G,2 D, G,,2 G,, | C,2 C, C,2 C, | G,,3- G,,2 G,, | B,,2 B,, D,2 D, | %6
+ G,2 G, G,2 G,, | G,,2 G,, D,2 D, | G,,3- G,,2 G,, | G,2 G, D,2 D, | G,,3- G,,2 |] |] %12

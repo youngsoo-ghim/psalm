@@ -1,0 +1,43 @@
+X:364
+T:내 기도하는 그 시간
+Z:W.B.Bradbury
+Z:Copyright © 1997 by Àü µµ È¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/8
+Q:1/4=117
+M:6/8
+I:linebreak $
+K:Db
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ D | F2 G A2 A | B2 c d2 B | A2 F FE D | E2 F E2 D | F2 G A2 A | B2 c d2 B | A2 F FE D | %8
+w: 1.내|기 도 하 는|그 시 간 그|때 가 가- * 장|즐 겁 다 이|세 상 근 심|걱 정 에 얽|매 인 나- * 를|
+w: 2.내|기 도 하 는|그 시 간 내|게 는 가- * 장|귀 하 다 저|광 야 같 은|세 상 을 끝|없 이 방- * 황|
+w: 3.내|기 도 하 는|그 시 간 그|때 가 가- * 장|즐 겁 다 이|때 껏 지 은|큰 죄 로 내|마 음 섧- * 고|
+w: 4.내|기 도 하 는|그 시 간 그|때 가 가- * 장|즐 겁 다 주|세 상 에 서|일 찌 기 저|요 란 한- * 곳|
+ F2 E D2 A | d2 c d2 B | A2 F A2 A | d2 c d2 B | A2 F E2 D | F2 G A2 A | B2 c d2 B | A2 F FE D | %16
+w: 부 르 사 내|진 정 소 원|주 앞 에 낱|낱 이 바 로|아 뢰 어 큰|불 행 당 해|슬 플 때 나|위 로 받- * 게|
+w: 하 다 가 위|태 한 길 을|떠 나 서 주|께 로 내 가|이 끌 려 그|보 좌 앞 에|나 아 가 큰|은 혜 받- * 게|
+w: 아 파 도 참|마 음 으 로|뉘 우 쳐 다|숨 김 없 이|아 뢰 면 주|나 를 위 해|복 빌 어 새|은 혜 부- * 어|
+w: 피 하 여 빈|들 에 서 나|산 에 서 옴|밤 을 새 워|지 내 사 주|예 수 친 히|기 도 로 큰|본 을 보- * 여|
+ F2 E D2 :| D3 D3 |] |] %19
+w: 하 시 네|아 멘||
+w: 하 시 네|||
+w: 주 시 네|||
+w: 주 셨 네|||
+V:2
+ D | D2 E F2 F | G2 A B2 G | F2 D DC D | C2 D C2 D | D2 E F2 F | G2 A B2 G | F2 D DC D | %8
+ D2 C D2 F | F2 G A2 G | F2 D F2 D | F2 G A2 G | F2 D C2 D | D2 E F2 F | G2 A B2 G | F2 D DC D | %16
+ D2 C D2 :| B,3 A,3 |] |] %19
+V:3
+ F, | A,2 A, D2 D | D2 D D2 D | D2 A, A,G, F, | A,2 A, A,2 F, | A,2 A, D2 D | D2 D D2 D | %7
+ D2 A, A,G, F, | A,2 G, F,2 A, | A,2 A, A,2 D | D2 A, D2 F, | A,2 A, A,2 D | D2 A, A,2 F, | %13
+ A,2 A, D2 D | D2 D D2 D | D2 A, A,G, F, | A,2 G, F,2 :| G,3 F,3 |] |] %19
+V:4
+ D, | D,2 D, D,2 D, | G,2 G, G,2 G, | D,2 D, D,2 D, | A,,2 A,, A,,2 D, | D,2 D, D,2 D, | %6
+ G,2 G, G,2 G, | D,2 D, D,2 D, | A,,2 A,, D,2 D, | D,2 E, F,2 G, | D,2 D, D,2 D, | D,2 E, F,2 G, | %12
+ D,2 D, A,,2 D, | D,2 D, D,2 D, | G,2 G, G,2 G, | D,2 D, D,2 D, | A,,2 A,, D,2 :| G,,3 D,3 |] |] %19

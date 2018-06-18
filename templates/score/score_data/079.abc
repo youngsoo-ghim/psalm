@@ -1,0 +1,78 @@
+X:79
+T:주 하나님 지으신 모든 세계
+Z:E.A Edgren
+Z:Copyright © 1997 by Àü µµ È¯
+Z:All Rights Reserved
+%%score ( 1 2 ) 3 4 5 6 7
+L:1/8
+Q:1/4=80
+M:4/4
+I:linebreak $
+K:Bb
+V:1 treble nm="Femal"
+V:2 treble 
+V:3 bass nm="Male"
+V:4 treble
+V:5 treble
+V:6 bass
+V:7 bass nm="Unnamed-004"
+V:1
+ [DF] [DF] [DF] | [B,D]3 [DF] F [B,F] [EG] [EG] | [B,E]2 [EG]3 [EG] [EG] [^CG] | %3
+w: 1.주 하 나|님 지 으 신 모 든|세 계 내 마 음|
+w: 2.숲 속 이|나 험 한 산 골 짝|에 서 지 저 귀|
+w: 3.주 하 나|님 독 생 자 아 낌|없 이 우 리 를|
+w: 4.내 주 예|수 세 상 에 다 시|올 때 저 천 국|
+ [DF]3 [B,D] [DF] [DF] [CE] [A,E] | [B,D]4 z [DF] [DF] [DF] | [B,D]3 [DF] F [B,F] [EG] [EG] | %6
+w: 속 에 그 리 어 볼|때 하 늘 의|별 울 려 퍼 지 는|
+w: 는 저 새 소 리 들|과 고 요 하|게 흐 르 는 시 냇|
+w: 위 해 보 내 주 셨|네 십 자 가|에 피 흘 려 죽 으|
+w: 으 로 날 인 도 하|리 나 겸 손|히 업 드 려 경 배|
+ [B,E]2 [EG]3 [EG] [EG] [^CG] | [DF]3 [B,D] [DF] [DF] [CE] [A,E] | [B,D]4 z [DF] [DF] [DB] | %9
+w: 뇌 성 주 님 의|권 능 우 주 에 찼|네 주 님 의|
+w: 물 은 주 님 의|솜 씨 노 래 하 도|다 * * *|
+w: 신 주 내 모 든|죄 를 구 속 하 셨|네 * * *|
+w: 하 며 영 원 히|주 를 찬 양 하 리|라 * * *|
+ [Dd]3 [_Ac] [GB] [^FA] [GB] [EG] | [DF]4- [DF] [DB] [DB] [EA] | [A,C]4- [A,C] [CE] [EG] [CF] | %12
+w: 높 고 위 대 하 심|을 * 내 영 혼|이 * 찬 양 하|
+w: |||
+w: |||
+w: |||
+ [B,D]4 z [DF] [DF] [DB] | [Fd]3 [_Ac] [GB] [^FA] [GB] [EG] | [DF]4- [DF] [DB] [EA] [FB] | %15
+w: 네 주 님 의|높 고 위 대 하 심|을 * 내 영 혼|
+w: |||
+w: |||
+w: |||
+ [Gc]4- [Gc] [Fd] [Ge] [EA] | [DB]4 z :| :| %18
+w: 이 * 찬 양 하|네||
+w: |||
+w: |||
+w: |||
+V:2
+ x3 | x4 E x3 | x8 | x8 | x8 | x4 E x3 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x5 :| :| %18
+V:3
+ [B,,B,] [B,,B,] [B,,B,] | [B,,F,]3 [B,,B,] [C,A,] [D,F,] [E,B,] [E,B,] | %2
+ [E,G,]2 [E,B,]3 [E,B,] [E,B,] [=E,B,] | [F,B,]3 F, [F,,A,] [F,,A,] [F,,G,] [F,,F,] | %4
+ [B,,F,]4 z [B,,B,] [B,,B,] [B,,B,] | [B,,F,]3 [B,,B,] [C,A,] [D,F,] [E,B,] [E,B,] | %6
+ [E,G,]2 [E,B,]3 [E,B,] [E,B,] [=E,B,] | [F,B,]3 F, [F,,A,] [F,,A,] [F,,G,] [F,,F,] | %8
+ [B,,F,]4 z [B,,B,] [B,,B,] [B,,B,] | [B,,B,]3 [D,B,] [E,E] [E,E] [E,E] [E,B,] | %10
+ [B,,B,]4- [B,,B,] [B,,F,] F, [F,C] | [F,,F,]4- [F,,F,] [F,,A,] [F,,B,] [F,,A,] | %12
+ [B,,F,]4 z [B,,B,] [B,,B,] [B,,B,] | [B,,B,]3 [D,B,] [E,E] [E,E] [E,E] [E,B,] | %14
+ [B,,B,]4- [B,,B,] [B,,B,] [C,F,] [D,B,] | [E,B,]4- [E,B,] [D,=B,] [C,C] [F,C] | [B,,B,]4 z :| :| %18
+V:4
+ F F F | D3 F F F G G | E2 G3 G G G | F3 D F F E E | D4 z F F F | D3 F F F G G | E2 G3 G G G | %7
+ F3 D F F E E | D4 z F F B | d3 c B A B G | F4- F B B A | C4 C E G F | D4 z F F B | d3 c B A B G | %14
+ F4- F B A B | c4- c d e A | B4 z :| |] %18
+V:5
+ D D D | B,3 D E B, E E | B,2 E3 E E ^C | D3 B, D D C A, | B,4 z D D D | B,3 D E B, E E | %6
+ B,2 E3 E E ^C | D3 B, D D C A, | B,4 z D D D | D3 _A G ^F G E | D4- D D D E | A,4- A, C E C | %12
+ B,4 z D D D | F3 _A G ^F G E | D4- D D E F | G4 G F G E | D4 z :| |] %18
+V:6
+ B, B, B, | F,3 B, A, F, B, B, | G,2 B,3 B, B, B, | B,3 F, A, A, G, F, | F,4 z B, B, B, | %5
+ F,3 B, A, F, B, B, | G,2 B,3 B, B, B, | B,3 F, A, A, G, F, | F,4 z B, B, B, | B,3 B, E E E B, | %10
+ B,4- B, F, F, C | F,4 F, A, B, A, | F,4 z B, B, B, | B,3 B, E E E B, | B,4- B, B, F, B, | %15
+ B,4 B, =B, C C | B,4 z :| |] %18
+V:7
+ B,, B,, B,, | B,,3 B,, C, D, E, E, | E,2 E,3 E, E, =E, | F,3 F, F,, F,, F,, F,, | %4
+ B,,4 z B,, B,, B,, | B,,3 B,, C, D, E, E, | E,2 E,3 E, E, =E, | F,3 F, F,, F,, F,, F,, | %8
+ B,,4 z B,, B,, B,, | B,,3 D, E, E, E, E, | B,,4- B,, B,, F, F, | F,,4 F,, F,, F,, F,, | %12
+ B,,4 z B,, B,, B,, | B,,3 D, E, E, E, E, | B,,4 B,, B,, C, D, | E,4- E, D, C, F, | B,,4 z :| |] %18

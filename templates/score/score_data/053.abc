@@ -1,0 +1,33 @@
+X:53
+T:59 성전을 떠나가기 전
+Z:J.Ellerton
+Z:Copyright © 1999 by ÀüµµÈ¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/4
+Q:1/4=104
+M:3/4
+I:linebreak $
+K:Ab
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ A B c | e2 c | A2 d | c3 | F G A | c2 B | B3 | B e d | c2 A | c2 B | A2 B | c2 c | d2 G | A3 | %14
+w: 1~성 전 을|떠 나|가 기|전|머 리 를|숙 일|때|주 께 서|함 께|계 시|고 복|내 려|주 소|서|
+w: 2~집 으 로|돌 아|가 는|길|주 동 행|하 시|고|내 모 든|언 행|심 사|를 다|지 켜|주 소|서|
+w: 3~거 룩 한|날 이|다 가|고|저 녁 이|되 도|록|주 우 리|맘 에|빛 되|사 늘|계 시|옵 소|서|
+ A3 | A3 |] |] %17
+w: |||
+w: |||
+w: 아|멘||
+V:2
+ C E E | E2 E | D C F | E3 | E E E | =D2 D | E3 | G A B | E2 F | =E2 E | F2 F | E2 _G | =G2 E | %13
+ E3 | F3 | F3 |] |] %17
+V:3
+ E D C | A,2 A, | A,2 A, | A,3 | C C C | A,2 F, | G,3 | D C B, | A,2 A, | G,2 G, | A,2 A, | %11
+ A,2 =A, | B,2 D | C3 | D3 | C3 |] |] %17
+V:4
+ A, A, A, | C,2 E, | F, E, D, | A,,3 | A, G, F, | B,,2 B,, | E,3 | E, F, G, | A,2 F, | C,2 C, | %10
+ F,2 D, | E,2 E, | E,2 E, | A,,3 | D,3 | A,,3 |] |] %17

@@ -1,0 +1,32 @@
+X:248
+Z:[nwc보물창고]http://cafe.daum.net/nwc1
+%%score 1 2 3 4
+L:1/4
+Q:1/4=96
+M:4/4
+I:linebreak $
+K:F
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ D F G A | B B A2 | A d d d | c B A2 | A2 B B | A G F2 | E F G G | F E D2 | d2 d d | e d c2 | %10
+w: 1.언 약 의 주|하 나 님|우 리 들 의|아 버 지|믿 음 의|조 상 인|아 브 라 함|에- * 게|아 들 을|주 시 마|
+w: 2.아 들 이 삭|주 셔 서|그 약 속 을|이 루 고|손 으 로|만 지 며|확 인 하 게|하 셨 네|출 애 굽|약 속 은|
+w: 3.영 원 한 저|천 국 은|지 금 안 뵐|지 라 도|약 속 의|천 국 은|분 명 한 나|의 본 향|약 속 다|이 루 어|
+ B B B B | c B A2 | G G G ^G | A B A2 | F/ G/ A2 (E/F/) | D3 z |] %16
+w: 친 히 약 속|하 시 고|때 가 되 어|이 삭 을|나 게 하 셨 *|네|
+w: 보 지 못 하|였 어 도|아 브 라 함|죽 은 후|이 루 어 졌 *|네|
+w: 보 여 주 셨|으- * 니|주 님 예 수|믿 으 면|천 국 에 가 *|네|
+V:2
+ D D D D | D D ^C2 | D/ E/ F F F | F D/E/ F2 | G2 G G | F E D2 | ^C D C/D/ E | (D ^C) A,2 | %8
+ (F E) F F | G F F2 | D G E D/E/ | G/F/ F/E/ F2 | F F F F | F E (F E) | D/ D/ ^C2 C | A,3 z |] %16
+V:3
+ F, A, G, F, | G,/A,/ G,/F,/ E,2 | F,/G,/ A, A, A, | A, C C2 | ^C2 D D | C B, A,/=C/B,/A,/ | %6
+ B, B, B, B, | (A, G,) F,2 | B,2 A, A, | B, A, A,2 | G,/B,/ D C C | C- C C2 | D D D D | %13
+ D C (C A,) | A,/ G,/ E,2 G, | F,3 z |] %16
+V:4
+ D, C, B,, A,, | G,, G,, A,,2 | D, D, D,/^C,/ D,/E,/ | F, G, F,2 | A,2 G, E, | F, ^C, D,2 | %6
+ G,3/2 F,/ E, G, | (A, A,,) D,2 | (B,, C,) D, F,/E,/ | ^C, D, F,2 | G, G, G, G, | (A, G,) F,2 | %12
+ B,,/D,/ E,/F,/ G,/A,/ B, | A,/B,/ G, (F, ^C,) | D,/ B,,/ A,,2 A,, | D,3 z |] %16

@@ -1,0 +1,38 @@
+X:370
+T:455 주 안에 있는 나에게
+Z:E.E.Hewitt/W.J.Kirkpatrick
+Z:Copyright © 1997 by Jun
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/8
+Q:1/4=126
+M:6/8
+I:linebreak $
+K:G
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ D | G2 G GA B | D2 E D2 D | G2 G BA G | (A3- A2) D | G2 G GA B | D2 E D2 D | E2 c B2 A | G6 | %9
+w: 1.주|안 에 있- * 는|나 에 게 딴|근 심 있- * 으|랴 * 십|자 가 밑- * 에|나 아 가 내|짐 을 풀 었|네|
+w: 2.그|두 려 움- * 이|변 하 여 내|기 도 되- * 었|고 * 전|날 의 한- * 숨|변 하 여 내|노 래 되 었|네|
+w: 3.내|주 는 자- * 비|하 셔 서 늘|함 께 계- * 시|고 * 내|궁 핍 함- * 을|아 시 고 늘|채 워 주 시|네|
+w: 4.내|주 와 맺- * 은|언 약 은 영|불 변 하- * 시|니 * 그|나 라 가- * 기|까 지 는 늘|보 호 하 시|네|
+ B d d d2 d | B2 d G3 | B A G d3 | G A B A3 | B d d d2 d | B2 d G2 D | E E c B B A | G3- G2 :| |] %18
+w: 주 님 을 찬 송|하 면 서|할 렐 루 야|할 렐 루 야|내 앞 길 멀 고|험 해 도 나|주 님 만 따 라 가|리 *||
+w: |||||||||
+w: |||||||||
+w: |||||||||
+V:2
+ D | B,2 B, B,C D | B,2 C B,2 B, | D2 D DC B, | D3- D2 D | B,2 B, B,C D | B,2 C B,2 B, | %7
+ C2 E D2 C | B,6 | G G G G2 G | G2 G D3 | G G G F3 | G F G F3 | G G G G2 G | G2 G D2 D | %15
+ C C G G G F | D3- D2 :| |] %18
+V:3
+ D, | D,2 D, D,2 D, | G,2 G, G,2 G, | G,2 G, G,2 G, | F,3- F,2 D, | D,2 D, D,2 G, | G,2 G, G,2 G, | %7
+ G,2 G, G,2 F, | G,6 | D B, B, B,2 B, | D2 B, B,3 | D C B, A,3 | D D D D3 | D B, B, B,2 B, | %14
+ D2 B, B,2 G, | G, G, E D D C | B,3- B,2 :| |] %18
+V:4
+ D, | G,,2 G,, G,,2 G,, | G,,2 G,, G,,2 G,, | B,,2 B,, G,,2 G,, | D,3- D,2 D, | G,,2 G,, G,,2 G,, | %6
+ G,,2 G,, G,,2 G,, | C,2 C, D,2 D, | G,,6 | G, G, G, G,2 G, | G,2 G, G,3 | G, G, G, D,3 | %12
+ B, A, G, D,3 | G, G, G, G,2 G, | G,2 G, G,2 B,, | C, C, C, D, D, D, | G,,3- G,,2 :| |] %18

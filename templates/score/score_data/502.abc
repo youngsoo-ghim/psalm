@@ -1,0 +1,45 @@
+X:502
+T:빛의 사자들이여
+Z:J.E.Jones
+Z:Copyright © 1997 by Àü µµ È¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/16
+Q:1/4=104
+M:4/4
+I:linebreak $
+K:Ab
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ E3 E | A3 A A3 B c4 A3 c | B8 A8 | B4 B3 A B4 c3 B | A12 E3 E | A3 A A3 B c4 A3 c | B8 A8 | %7
+w: 빛 의|사 자 들 이 여 어 서|가 서|어 둠 을 물 리 치|고 주 의|진 리 모 르 는 백 성|에 게|
+w: 선 한|역 사 위 하 여 힘 을|내 라|주 함 께 하 시 겠|네 주 의|넓 은 사 랑 을 전 파|하 며|
+w: 주 님|부 탁 하 신 말 순 종|하 여|이 진 리 전 파 하|라 산 과|바 다 건 너 가 힘 을|다 해|
+w: 동 서|남 북 어 디 나 땅 끝|까 지|주 님 만 의 지 하|고 어 두|워 서 못 보 는 백 성|에 게|
+ B4 B3 =A B4 c3 =d | e12 z4 | c2 e4 c2 e4 f3 e | c12 z4 | d2 d4 B2 G4 F3 E | c12 z4 | %13
+w: 복 음 의 빛 비 춰|라|빛 의 사 자 들 이|여|복 음 의 빛 비 춰|라|
+w: 복 음 의 빛 비 춰|라|||||
+w: 복 음 의 빛 비 춰|라|||||
+w: 복 음 의 빛 비 춰|라|||||
+ c3 e e3 c e8 | c3 B A3 F A8 | c2 e4 c2 B4 A3 G | A12 |] |] %18
+w: 죄 로 어 둔 밤|밝 게 비 춰 라|빛 의 사 자 들 이|여||
+w: |||||
+w: |||||
+w: |||||
+V:2
+ C3 C | C3 C C3 D E4 C3 E | D8 C8 | E4 E3 E E4 E3 D | C4 (3D2D2D2 C4 C3 C | C3 C C3 D E4 C3 E | %6
+ D8 C8 | E4 E3 E E4 E3 _A | G4 G3 A B4 z4 | A2 A4 A2 A4 z4 | A4 A4 A4 z4 | G2 G4 G2 E4 z4 | %12
+ E4 E4 E4 z4 | A3 A A3 A A8 | E3 E F3 D C8 | E2 E4 E2 G4 E3 E | E4 F3 F E4 |] |] %18
+V:3
+ A,3 A, | A,3 A, A,3 A, A,4 A,3 A, | G,8 A,8 | G,4 G,3 ^F, G,4 A,3 G, | %4
+ A,4 (3F,2F,2F,2 E,4 A,3 A, | A,3 A, A,3 A, A,4 A,3 A, | G,8 A,8 | G,4 G,3 ^F, G,4 A,3 B, | %8
+ B,4 B,3 C D4 z4 | E2 C4 E2 C4 D3 C | E12 z4 | E2 E4 E2 B,4 D3 C | E12 z4 | E3 C C3 E C8 | %14
+ A,3 A, D3 A, A,8 | A,2 C4 B,2 D4 C3 B, | C4 D3 D C4 |] |] %18
+V:4
+ A,3 A, | A,3 A, A,3 A, A,4 A,3 A, | E,8 A,,8 | E,4 E,3 E, E,4 E,3 E, | A,,12 A,3 A, | %5
+ A,3 A, A,3 A, A,4 A,3 A, | E,8 F,8 | E,4 E,3 E, E,4 A,3 F, | E,12 z4 | A,2 A,4 A,2 A,4 z4 | %10
+ A,4 E,4 A,4 z4 | E,2 E,4 E,2 E,4 z4 | A,2E,2 C,2E,2 A,,4 z4 | F,3 F, F,3 F, F,8 | %14
+ A,3 C, D,3 D, A,,8 | A,2 A,4 A,2 E,4 E,3 E, | A,,12 |] |] %18

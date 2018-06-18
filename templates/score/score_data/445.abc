@@ -1,0 +1,41 @@
+X:445
+T:502 태산을 넘어 험곡에 가도
+Z:H.J.Zelley/G.H.Cook
+Z:Copyright © 1998 by ÀüµµÈ¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/8
+Q:1/4=180
+M:9/8
+I:linebreak $
+K:G
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ D E F | G3 G3 B A G | A3 d3 d e d | B3 G3 B A G | A6 D E F | G3 G3 B A G | A3 d3 d e d | %7
+w: 태 산 을|넘 어 험 곡 에|가 도 빛 가 운|데 로 걸 어 가|면 주 게 서|항 상 지 키 시|기 로 약 속 한|
+w: 캄 캄 한|밤 에 다 닐 지|라 도 주 께 서|나 의 길 되 시|고 나 에 게|밝 은 빛 이 되|시 니 길 잃 어|
+w: 광 명 한|그 빛 마 음 에|받 아 명 랑 한|천 국 바 라 보|고 할 렐 루|야 를 힘 차 게|불 러 날 마 다|
+ B3 G3 A B A | G6 d d d | e3 c3 c d e | d3 B3 d d d | d3 B3 B A G | A3 d3 D E F | G3 G3 B A G | %14
+w: 말 씀 변 치 않|네 하 늘 의|영 광 하 늘 의|영 광 나 의 맘|속 에 차 고 도|넘 쳐 할 렐 루|야 를 힘 차 게|
+w: 버 릴 염 려 없|네 * * *||||||
+w: 빛 에 걸 어 가|리 * * *||||||
+ A3 d3 d e d | B3 G3 A B A | G6 :| |] %18
+w: 불 러 영 원 히|주 를 찬 양 하|리||
+w: ||||
+w: ||||
+V:2
+ D E F | G3 D3 G D D | F3 F3 G G G | G3 D3 G G G | F6 D E F | G3 D3 G D D | F3 F3 G G G | %7
+ G3 D3 F F F | D6 G G G | G3 E3 G G G | G3 G3 G G G | G3 G3 G G G | F3 F3 D E F | G3 D3 G D D | %14
+ F3 F3 G G G | G3 D3 F F F | D6 :| |] %18
+V:3
+ D, E, F, | G,3 B,3 D C B, | D3 A,3 B, C B, | D3 B,3 ^C C C | D6 D, E, F, | G,3 B,3 D C B, | %6
+ D3 A,3 B, C B, | D3 B,3 C D C | B,6 B, B, B, | C3 G,3 C B, C | B,3 D3 B, B, B, | B,3 D3 ^C C C | %12
+ D3 A,3 D, E, F, | G,3 B,3 D C B, | D3 A,3 B, C B, | D3 B,3 C D C | B,6 :| |] %18
+V:4
+ D, E, F, | G,3 G,3 G, G, G, | D,3 D,3 G, G, G, | G,3 G,3 E, E, E, | D,6 D, E, F, | %5
+ G,3 G,3 G, G, G, | D,3 D,3 G, G, G, | G,3 G,3 D, D, D, | G,6 G, G, G, | C,3 C,3 E, D, C, | %10
+ G,3 G,3 G, G, G, | G,3 G,3 E, E, E, | D,3 D,3 D, E, F, | G,3 G,3 G, G, G, | D,3 D,3 G, G, G, | %15
+ G,3 G,3 D, D, D, | G,,6 :| |] %18

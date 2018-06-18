@@ -1,0 +1,42 @@
+X:45
+T:045+거룩한주의날
+Z:김영현사, 나인용곡
+Z:[nwc보물창고]http://cafe.daum.net/nwc1
+Z:박기형
+%%score 1 2 3 4
+L:1/8
+Q:1/4=92
+M:6/8
+I:linebreak $
+K:Ab
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+"^보통으로" E3 E2 E | A2 G F3 | E E E F2 E | E6 | A3 A2 G | F2 F F3 | E F A B2 A | A6 | B B E A2 B | %9
+w: 1.거 룩 한|주 의 날|주 앞 에 모 여|서|찬 양 과|경 배 를|주 님 께 드 리|세|주 님 의 크 신|
+w: 2.거 룩 한|주 의 날|주 앞 에 모 여|서|온 맘 과|마 음 을|다 주 께 드 리|세|한 없 는 주 의|
+w: 3.거 룩 한|주 의 날|주 앞 에 모 여|서|하 늘 의|소 망 을|다 함 께 누 리|세|날 마 다 주 의|
+ A3 G3 | c c A B2 c | B3 e3 | e e d c2 c | A3 d3 | c c c B2 G | A6 | E E F A2 G | G3 G3 | %18
+w: 사 랑|놀 라 운 주 의|은 혜|귀 하 신 주 께|영 광|영 광 을 돌 리|세|||
+w: 복 은|부 족 함 전 혀|없 네|귀 하 신 주 께|감 사|감 사 를 드 리|세|엎 드 려 경 배|하 세|
+w: 성 령|우 리 를 인 도|하 니|십 자 가 바 라|보 며|주 님 만 따 르|리|||
+ B B B c2 d | c3 c3 | e e d c3 | A A A d3 | E/ E/ F A c c B | A6 |] %24
+w: ||||||
+w: 주 님 의 크 신|은 혜|영 원 토 록|할 렐 루 야|소 리 높 여 찬 양 하|세|
+w: ||||||
+V:2
+ C3 D2 C | C2 E D3 | D D C B,2 D | C2 D C3 | E3 =E2 E | F2 D =D3 | E D C B,C D | C6 | E E E E2 E | %9
+ E3 E3 | E E E E2 A | (G2 F) E3 | E E E E2 _G | F3 F3 | E E E F E _D | C6 | C C D E2 =E | =E3 C3 | %18
+ E E E E2 E | (G2 F) E3 | E E E =EFG | F F _G F3 | E/ E/ B, C E E D | C6 |] %24
+V:3
+ A,3 G,2 A, | A,2 A, A,3 | G, B, A, G,2 G, | (A,2 B, A,3) | A,3 A,C B, | A,2 A, B,3 | %6
+ C B, A, G,A, B, | A,6 | G, G, B, C2 B, | C3 B,3 | A, A, C B,2 A, | (B,2 A,) B,3 | C C B, A,2 A, | %13
+ A,3 A,3 | A, A, A, A,G, B, | A,6 | A, A, A, A,2 B, | B,3 A,3 | A, A, C B,2 A, | B,2 A, B,3 | %20
+ C C B, C3 | C C A, A,3 | A,/ A,/ A, A, G, A, G, | A,6 |] %24
+V:4
+ A,,3 B,,2 A,, | A,,2 C, D,3 | E, E, E, E,2 E, | A,,6 | C,3 C,2 C, D,2 D, B,,3 | E, E, E, E,2 E, | %6
+ A,,6 | E, E, G, F,2 G, | A,3 E,3 | A, A, A, G,2 E, | (E,2 F,) G,3 | A, A, A, A,2 C, | D,3 D,3 | %13
+ E, E, E, =D,E, E, | A,,6 | A,, A,, A,, C,2 C, | D,3 F,3 | C, C, A, G,2 A, | (E,2 F,) G,3 | %19
+ A, A, A, C,=D,=E, | F, F, E, D,3 | C,/ C,/ =D, E, E, E, E, | A,,6 |] %23

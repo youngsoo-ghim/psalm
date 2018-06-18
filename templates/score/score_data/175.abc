@@ -1,0 +1,45 @@
+X:175
+T:162 신랑 되신 예수께서
+Z:E.R.Latta/W.J.Kirkpartrick
+Z:Copyright © 1999 by ÀüµµÈ¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/8
+Q:1/4=96
+M:4/4
+I:linebreak $
+K:Eb
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ E3/2 F/ | G G G G G G F E | G2 B2 B2 E3/2 F/ | G G G G B G F E | G2 F2 F2 G3/2 A/ | B4- B B G B | %6
+w: 1.~신 랑|되 신 예 수 께 서 다 시|오 실 때 밝 은|등 불 들 고 나 갈 준 비|됐 느 냐 그 날|밤 그 날 밤 에|
+w: 2.~주 를|나 와 맞 으 라 는 소 리|들 릴 때 기 뻐|하 며 주 를 맞 이 할 수|있 느 냐 그 날|밤 그 날 밤 에|
+w: 3.~항 상|깨 어 기 도 하 며 거 룩|한 기 름 준 비|하 지 않 고 주 를 맞 이|못 하 리 그 날|밤 그 날 밤 에|
+w: 4.~그 날|밤 에 영 화 로 운 혼 인|자 리 에 기 뻐|하 며 할 렐 루 야 찬 송|부 르 리 그 날|밤 그 날 밤 에|
+ e6 E3/2 F/ | G B B3/2 c/ B2 G3/2 E/ | F2 E2 E4 | G3 F F E3 | B3 A A G3 | e3 B c B B B | G2 F2 F4 | %13
+w: 주 님 맞|을 등 불 이 준 비 됐|느 냐 예|비 하 고 예|비 하 라 우|리 신 랑 예 수 오|실 때 밝|
+w: 주 님 맞|을 등 불 이 준 비 됐|느 냐 *|||||
+w: 주 님 맞|을 등 불 이 준 비 됐|느 냐 *|||||
+w: 주 님 맞|을 등 불 이 준 비 됐|느 냐 *|||||
+ G3 F F E3 | B3 A A G3 | e3 B c B B B | G2 F2 E2 :| |] %18
+w: 은 등 불 손|에 들 고 기|쁨 으 로 주 를 맞|겠 네 *||
+w: |||||
+w: |||||
+w: |||||
+V:2
+ E3/2 E/ | E E E E E E E E | E2 G2 G2 E3/2 E/ | E E E E G E B, E | E2 D2 D2 E3/2 F/ | G4- G G E G | %6
+ G G B A G2 E3/2 E/ | E G G3/2 A/ G2 E3/2 E/ | D2 B,2 B,4 | E3 B, B, B,3 | D3 F F E3 | %11
+ G3 G A G E E | E2 D2 D4 | E3 B, B, B,3 | D3 F F E3 | G3 G A G E E | E2 D2 B,2 :| |] %18
+V:3
+ G,3/2 A,/ | B, B, B, B, B, B, A, G, | B,2 E2 E2 G,3/2 A,/ | B, B, B, B, E B, B, =A, | %4
+ B,2 B,2 B,2 z2 | z2 E3/2 E/ E B, B, B, | B, B, =D C B,2 G,3/2 A,/ | B, F F3/2 F/ F2 B,3/2 G,/ | %8
+ A,2 G,2 G,4 | B,3 A, A, G,3 | F,3 B, B, B,3 | B,3 E E E B, G, | B,2 B,2 B,4 | B,3 A, A, G,3 | %14
+ F,3 B, B, B,3 | B,3 E E E B, G, | B,2 A,2 G,2 :| |] %18
+V:4
+ E,3/2 E,/ | E, E, E, E, E, E, E, E, | E,2 E,2 E,2 E,3/2 E,/ | E, E, E, E, E, E, D, C, | %4
+ B,,2 B,,2 B,,2 z2 | z2 E,3/2 E,/ E, E, E, E, | E,6 E,3/2 E,/ | E, E, E,3/2 E,/ E,2 E,3/2 E,/ | %8
+ B,,2 E,2 E,4 | E,3 E, E, E,3 | B,,3 B,, E, E,3 | E,3 E, E, E, G, E, | B,2 B,2 B,,4 | %13
+ E,3 E, E, E,3 | B,,3 B,, E, E,3 | E,3 E, E, E, G, E, | B,2 B,,2 E,2 :| |] %18

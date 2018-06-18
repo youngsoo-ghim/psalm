@@ -1,0 +1,30 @@
+X:195
+T:175 성령이여 우리 찬송 부를 때
+Z:W.H.Parker/J.F.Swift
+Z:Copyright July 4th 2000 by 전도환
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/4
+Q:1/4=108
+M:4/4
+I:linebreak $
+K:G
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ D B B A | G2 D2 | E c c B | A4 | d G A B | c2 E2 | G F B A | G4 | G2 G2 |] |] %10
+w: 성 령 이 여|우 리|찬 송 부 를|때|진 심 으 로|찬 양|하 게 합 소|서|||
+w: 성 령 이 여|우 리|기 도 드 릴|때|우 리 곁 에|계 셔|일 러 주 소|서|||
+w: 성 령 이 여|우 리|성 경 읽 을|때|그 속 에 서|빛 을|보 게 합 소|서|||
+w: 성 령 이 여|우 리|전 도 할 때|에|지 혜 로 운|말 씀|주 시 옵 소|서|||
+w: 성 령 이 여|우 리|겸 손 해 져|서|우 리 주 와|같 이|되 게 합 소|서|아 멘||
+V:2
+ B, D D C | B, C D2 | C E E G | F4 | D G F G | C2 C2 | D D D C | B,4 | C2 B,2 |] |] %10
+V:3
+ G, G, G, F, | G,2 G,2 | G, G, A, D | D4 | G, D C B, | G,2 G, A, | B, A, G, F, | G,4 | E,2 D,2 |] %9
+ |] %10
+V:4
+ G,, G,, G, D, | E,2 B,,2 | C, C, A,, B,,/C,/ | D,4 | B,, B, A, G,/=F,/ | E, D, C, A,, | %6
+ D, D, D, D, | G,,4 | C,2 G,,2 |] |] %10

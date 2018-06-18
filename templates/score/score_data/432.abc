@@ -1,0 +1,43 @@
+X:432
+T:462 큰 물결이 설레이는 어둔 바다
+Z:A.Blenkhorn/W.S.Nickel
+Z:Copyright © 1999 by ÀüµµÈ¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/4
+Q:1/4=468
+M:6/4
+I:linebreak $
+K:Eb
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ G | B3/2 B/ B B G E | E D F E2 G | B3/2 B/ B B G E | E D E F2 G | B3/2 B/ B B G E | E F G A2 c | %7
+w: 1.큰|물 결 이 설 레 는|어 둔 바 다 저|등 대 의 불 빛 도|희 미 한 데 이|풍 랑 에 배 저 어|항 해 하 는 주|
+w: 2.큰|풍 랑 이 이 배 를|위 협 하 며 저|깊 은 물 입 벌 려|달 려 드 나 이|바 다 에 노 저 어|항 해 하 는 주|
+w: 3.큰|소 리 로 물 결 을|명 하 시 면 이|바 다 는 고 요 히|잠 자 리 라 저|동 녘 이 환 하 게|밝 아 올 때 나|
+ B3/2 B/ B B G E | F/ G3/2 F E2 B | e3/2 e/ e B2 G | G E F E2 B | e3/2 e/ e e B G | G F E F2 G | %13
+w: 예 수 님 이 배 의|사 공 이 라 나|두 렴 없 네 두|렴 없 도 다 주|예 수 님 늘 깨 어|계 시 도 다 이|
+w: 예 수 님 이 배 의|사 공 이 라 *|||||
+w: 주 함 께 이 바 다|건 너 가 리 *|||||
+ B3/2 B/ B B G E | E F G A2 c | B3/2 B/ B B G E | F/ G3/2 F E2 |] |] %18
+w: 흉 흉 한 바 다 를|다 지 나 면 저|소 망 의 나 라 에|이 르 리 라||
+w: |||||
+w: |||||
+V:2
+ E | G3/2 G/ G G E B, | B, B, B, B,2 E | G3/2 G/ G G E E | B, B, B, D2 E | G3/2 G/ G G E E | %6
+ B, B, _D C2 E | E3/2 E/ E E E E | D/ D3/2 D E2 G | G3/2 G/ G G2 E | E B, B, B,2 G | %11
+ G3/2 G/ G G G E | E E E D2 E | G3/2 G/ G G E E | B, B, _D C2 E | E3/2 E/ E E E E | D/ D3/2 D E2 |] %17
+ |] %18
+V:3
+ B, | E3/2 E/ E E B, G, | G, F, A, G,2 B, | E3/2 E/ E E B, G, | B, A, G, B,2 B, | %5
+ E3/2 E/ E E B, G, | G, A, B, A,2 A, | G,3/2 G,/ G, G, B, G, | A,/ B,3/2 A, G,2 E | %9
+ B,3/2 B,/ B, E2 B, | B, G, A, G,2 E | B,3/2 B,/ B, B, E B, | =A, A, A, B,2 B, | %13
+ E3/2 E/ E E B, G, | G, A, B, A,2 A, | G,3/2 G,/ G, G, B, G, | A,/ B,3/2 A, G,2 |] |] %18
+V:4
+ E, | E,3/2 E,/ E, E, E, E, | B,, B,, B,, E,2 E, | E,3/2 E,/ E, E, E, E, | G, F, E, B,,2 E, | %5
+ E,3/2 E,/ E, E, E, E, | E, E, E, A,,2 A,, | E,3/2 E,/ E, E, E, E, | B,,/ B,,3/2 B,, E,2 E, | %9
+ E,3/2 E,/ E, E,2 E, | B,, B,, B,, E,2 E, | E,3/2 E,/ E, E, E, E, | C, C, C, B,,2 E, | %13
+ E,3/2 E,/ E, E, E, E, | E, E, E, A,,2 A,, | E,3/2 E,/ E, E, E, E, | B,,/ B,,3/2 B,, E,2 |] |] %18

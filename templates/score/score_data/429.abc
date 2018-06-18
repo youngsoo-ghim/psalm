@@ -1,0 +1,43 @@
+X:429
+T:489 세상 모든 풍파 너를 흔들어
+Z:J.Qatman Jr./E.O.Excell
+Z:Copyright © 1999 by ÀüµµÈ¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/8
+Q:1/4=100
+M:2/4
+I:linebreak $
+K:Eb
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ G G G A | B B B G | A2 G2 | A4 | F G A B | d c B A | G2 A2 | B4 | G G G A | B B B G | A2 G2 | A4 | %12
+w: 1.~세 상 모 든|풍 파 너 를|흔 들|어|약 한 마 음|낙 심 하 게|될 때|에|내 려 주 신|주 의 복 을|세 어|라|
+w: 2.~세 상 근 심|걱 정 너 를|누 르|고|십 자 가 를|등 에 지 고|나 갈|때|주 가 네 게|주 신 복 을|세 어|라|
+w: 3.~세 상 권 세|너 의 앞 길|막 을|때|주 만 믿 고|낙 심 하 지|말 아|라|천 사 들 이|너 를 보 호|하 리|니|
+ F G A B | d c B A | G2 F2 | E4 | B3 B | e B B G | A2 A2 | A4 | A3 A | d c B A | G2 A2 | B4 | %24
+w: 주 의 크 신|복 을 네 가|알 리|라|받 은|복 을 세 어|보 아|라|크 신|복 을 네 가|알 리|라|
+w: 두 렴 없 이|항 상 찬 송|하 리|라|||||||||
+w: 염 려 없 이|앞 만 보 고|나 가|라|||||||||
+ e3 e | d c z2 | d d c c | B4 | e e d e | d c B A | G2 F2 | E4 :| |] %33
+w: 받 은|복 을|세 어 보 아|라|주 의 크 신|복 을 네 가|알 리|라||
+w: |||||||||
+w: |||||||||
+V:2
+ E E E F | G G G E | F2 =E2 | F4 | D E F G | B A G F | E2 F2 | G4 | E E E F | G G G E | F2 =E2 | %11
+ F4 | D E F G | B A G F | E2 D2 | E4 | G3 G | G G G E | F E D C | B,4 | F3 F | B A G F | E2 F2 | %23
+ G4 | G3 G | B A B A | A A A A | A4 | G G G G | B A G F | E2 D2 | E4 :| |] %33
+V:3
+ B, B, B, B, | E B,3 | B, B, B, B, | B,4 | B, B, B, B, | B, B,3 | B, B, E E | E4 | B, B, B, B, | %9
+ E B,3 | B, B, B, B, | B,4 | B, B, B, B, | B, B,3 | B, B, A, A, | G,4 | E E E E | B, B,3 | %18
+ B, B, B, B, | B,4 | B, B, B, B, | B, B,3 | B, B, B, B, | E4 | B, B, B, E | E E D C | F F E E | %27
+ D4 | E E E E | E E C C | B,2 A,2 | G,4 :| |] %33
+V:4
+ E, E, E, E, | E, E,3 | B,, B,, B,, B,, | B,,4 | B,, B,, B,, B,, | B,, B,,3 | E, E, E, E, | E,4 | %8
+ E, E, E, E, | E, E,3 | B,, B,, B,, B,, | B,,4 | B,, B,, B,, B,, | B,, B,,3 | B,, B,, B,, B,, | %15
+ E,4 | E, E, E, E, | E, E,3 | B,, B,, B,, B,, | B,,4 | B,, B,, B,, B,, | B,, B,,3 | E, E, E, E, | %23
+ E,4 | E, E, E, E, | A, A, z2 | B, B, B, B, | B,4 | E, E, E, E, | A, A, A, A, | B,2 B,,2 | E,4 :| %32
+ |] %33

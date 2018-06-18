@@ -1,0 +1,43 @@
+X:430
+T:주와 같이 길 가는 것
+Z:A.B.Simpson
+Z:Copyright © 1997 by ÀüµµÈ¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/4
+Q:1/4=92
+M:4/4
+I:linebreak $
+K:F
+V:1 treble
+L:1/8
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ C2 DE F3 A | G2 F2 D F3 | F2 A2 c3 A | G2 A2 G4 | C2 DE F3 A | G2 F2 A c3 | B2 d2 c3 A | %7
+w: 주 와- * 같 이|길 가 는 것|즐 거 운 일|아 닌 가|우 리- * 주 님|걸 어 가 신|발 자 취 를|
+w: 어 린- * 아 이|같 은 우 리|미 련 하 고|약 하 나|주 의- * 손 에|이 끌 리 어|생 명 길 로|
+w: 꽃 이- * 피 는|들 판 이 나|험 한 골 짜|기 라 도|주 가- * 인 도|하 는 대 로|주 와 같 이|
+w: 옛 날- * 선 지|에 녹 같 이|우 리 들 도|천 국 에|들 려- * 올 라|갈 때 까 지|주 와 같 이|
+ G2 A2 F4 | A2 F2 c4 | f2 d2 c4 | c3 d c2 A2 | A4 G4 | A2 F2 c4 | f2 d2 c4 | c3 d c2 A2 | G4 F4 :| %16
+w: 밟 겠 네|한 걸 음|한 걸 음|주 예 수 와|함 께|날 마 다|날 마 다|우 리 는 걷|겠 네|
+w: 가 겠 네|||||||||
+w: 가 겠 네|||||||||
+w: 걷 겠 네|||||||||
+ |] %17
+w: |
+w: |
+w: |
+w: |
+V:2
+ C B, A,3/2 C/ | D D B,/ D3/2 | C F F3/2 F/ | F F E2 | C B, A,3/2 C/ | C C F/ F3/2 | D F F3/2 F/ | %7
+ E E F2 | F C F A | B F F2 | A3/2 F/ F F | F2 E2 | F F F2 | F F F2 | F3/2 F/ F F | E2 C2 :| |] %17
+V:3
+ A, B,/G,/ F,3/2 F,/ | B, B, F,/ B,3/2 | A, C A,3/2 C/ | =B, B, C2 | A, B,/G,/ F,3/2 F,/ | %5
+ B, A, C/ A,3/2 | B, B, A,3/2 C/ | B, C A,2 | C A, A, C | D B, A,2 | C3/2 B,/ A, C | C =B, C2 | %12
+ C A, A,2 | B, B, A,2 | A,3/2 B,/ A, C | C B, A,2 :| |] %17
+V:4
+ F, F, F,3/2 F,/ | B,, B,, B,,/ B,,3/2 | F, F, F,3/2 F,/ | D, G,, A,,2 | F, F, F,3/2 F,/ | %5
+ C, F, F,/ F,3/2 | B,, D, F,3/2 C,/ | C, C, F,2 | F, F, F,2 | F, F, F,2 | F,3/2 F,/ F, F, | %11
+ F, D, C,2 | F, F, F, _E, | D, B,, F,2 | F,3/2 F,/ F, F, | C,2 F,2 :| |] %17

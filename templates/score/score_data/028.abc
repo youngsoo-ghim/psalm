@@ -1,0 +1,40 @@
+X:28
+T:복의 근원 강림하사
+Z:R.Robinson/J.Wyeth
+Z:Copyright © 1997 by ÀüµµÈ¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/8
+Q:1/4=92
+M:3/4
+I:linebreak $
+K:D
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ F E | D2 D2 F A | E2 E2 F A | B2 A2 F E | D4 F E | D2 D2 F A | E2 E2 F A | B2 A2 F E | D4 A B/c/ | %9
+w: 1.~복 의|근 원 강 림|하 사 찬 송|하 게 하 소|서 한 량|없 이 자 비|하 심 측 량|할 길 없 도|다 천 사- *|
+w: 2.~주 의|크 신 도 움|받 아 이 때|까 지 왔 으|니 이 와|같 이 천 국|에 도 이 르|기 를 바 라|네 하 나- *|
+w: 3.~주 의|귀 한 은 혜|받 고 일 생|빚 진 자 되|네 주 의|은 혜 사 슬|되 사 나 를|주 계 매 소|서 우 리- *|
+ d2 c2 B A | BA F2 A B/c/ | d2 c2 B A | d4 F E | D2 D2 F A | E2 E2 F A | B2 A2 F E | D4 :| G6 | %18
+w: 들 의 찬 송|가- * 로 나 를- *|가 르 치 소|서 구 속|하 신 그 사|랑 을 항 상|찬 송 합 니|다||
+w: 님 의 품 을|떠- * 나 죄 에- *|빠 진 우 리|를 예 수|구 원 하 시|려 고 보 혈|흘 려 주 셨|네||
+w: 맘 은 연 약|하- * 여 범 죄- *|하 기 쉬 우|니 하 나|님 이 받 으|시 고 천 국|인 을 치 소|서|아|
+ F6 |] |] %20
+w: ||
+w: ||
+w: 멘||
+V:2
+ D C | D2 D2 D D | C2 C2 D D | D2 D2 D C | D4 D C | D2 D2 D D | C2 C2 D D | D2 D2 D C | D4 D G | %9
+ F2 A2 G F | GF D2 D G | F2 A2 G G | F4 D C | D2 D2 D D | C2 C2 D D | D2 D2 D C | D4 :| D6 | D6 |] %19
+ |] %20
+V:3
+ A, G, | F,2 F,2 A, A, | A,2 A,2 A, F, | G,2 F,2 A, G, | F,4 A, G, | F,2 F,2 A, A, | %6
+ A,2 A,2 A, F, | G,2 F,2 A, G, | F,4 A, G, | A,2 A,2 D D | D2 A,2 A, G, | A,2 A,2 D C | D4 A, G, | %13
+ F,2 F,2 A, A, | A,2 A,2 A, F, | G,2 F,2 A, G, | F,4 :| B,6 | A,6 |] |] %20
+V:4
+ D, A,, | D,2 D,2 D, F,, | A,,2 A,,2 D, D, | G,,2 D,2 A,, A,, | D,4 D, A,, | D,2 D,2 D, F,, | %6
+ A,,2 A,,2 D, D, | G,,2 D,2 A,, A,, | D,4 E, E, | D,2 F,2 G, D, | D,2 D,2 F, E, | D,2 F,2 G, A, | %12
+ D,4 D, A,, | D,2 D,2 D, F,, | A,,2 A,,2 D, D, | G,,2 D,2 A,, A,, | D,4 :| G,6 | D,6 |] |] %20

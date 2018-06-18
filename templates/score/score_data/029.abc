@@ -1,0 +1,34 @@
+X:29
+T:29 성도여 다 함께
+Z:C.B.Bateman/D.Evans가 스페인민요를 편곡
+Z:Copyright © 1997 by ÀüµµÈ¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/4
+Q:1/4=108
+M:4/4
+I:linebreak $
+K:A
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ A2 G A | F A E2 | c A d B | (A G) A2 | A2 G A | F A E2 | c A d B | (A G) A2 | c2 B c | d c B2 | %10
+w: 1.성 도 여|다 함 께|할 렐 루 야|아 * 멘|주 찬 양|하 여 라|할 렐 루 야|아 * 멘|주 보 좌|앞 에 서|
+w: 2.맘 문 을|열 어 라|할 렐 루 야|아 * 멘|온 하 늘|울 려 라|할 렐 루 야|아 * 멘|인 도 자|되 시 며|
+w: 3.주 찬 양|하 여 라|할 렐 루 야|아 * 멘|찬 양 은|끝 없 다|할 렐 루 야|아 * 멘|거 룩 한|집 에 서|
+ c2 B c | d c B2 | A2 G A | F A E2 | c A d B | (A G) A2 :| |] %17
+w: 택 하 신|은 혜 를|다 찬 송|하 여 라|할 렐 루 야|아 * 멘||
+w: 친 구 가|되 신 주|그 사 랑|끝 없 다|할 렐 루 야|아 * 멘||
+w: 주 은 총|기 리 며|늘 찬 송|부 르 자|할 렐 루 야|아 * 멘||
+V:2
+ E2 E E | D D C2 | E E F F | (E D) C2 | E2 E E | D D C2 | E E F F | (E D) C2 | E2 E E | F E E2 | %10
+ E2 E E | D E E2 | E A, B, E | F D E2 | E F F F | E D C2 :| |] %17
+V:3
+ C2 B, A, | A, A, A,2 | A, C B, D | C B, A,2 | C2 B, A, | A, A, A,2 | A, C B, D | C B, A,2 | %8
+ A,2 D C | A, A, G,2 | A,2 G, A, | F, A, G,2 | C E D C | A, A, B, G, | A, C B, D | C B, A,2 :| |] %17
+V:4
+ A,,2 E, C, | D, F, A,2 | A, A, D, D, | E,2 A,,2 | A,,2 E, C, | D, F, A,2 | A, A, D, D, | %7
+ E,2 A,,2 | A,2 G, A, | F, A, E,2 | A,,2 E,/D,/ C, | B,, C,/D,/ E,2 | A,, C, B,, A,, | %13
+ D, F, G, E, | A, F, D, D, | E,2 A,,2 :| |] %17

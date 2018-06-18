@@ -1,0 +1,49 @@
+X:242
+T:황무지가 장미꽃같이
+Z:/J.M.Marris
+Z:Copyright © 1997 by Àü µµ È¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/8
+Q:1/4=104
+M:4/4
+I:linebreak $
+K:Eb
+V:1 treble
+V:2 treble
+V:3 bass
+L:1/4
+V:4 bass
+V:1
+ B, B, | E2 E2 E D E F | G6 z2 | B B B c B2 AG | F6 B, B, | E2 E2 E D E F | G6 z2 | B B E A G2 F2 | %8
+w: 황 무|지 가 장 미 꽃 같|이|피 는 것 을 볼 때- *|에 구 속|함 의 노 래 부 르|며|거 룩 한 길 다 니|
+w: 하 나|님 의 아 름 다 움|과|그 의 영 광 볼 때- *|에 모 든|괴 롬 잊 어 버 리|고|거 룩 한 길 다 니|
+w: 마 른|땅 에 샘 물 터 지|고|사 막 에 물 흐 를- *|때 기 쁨|으 로 찬 송 부 르|며|거 룩 한 길 다 니|
+w: 거 기|악 한 짐 승 없 으|니|두 려 울 것 없 겠- *|네 기 쁨|으 로 노 래 부 르|며|거 룩 한 길 다 니|
+w: 거 기|죄 인 전 혀 없 으|니|거 룩 한 자 뿐 이- *|라 주 가|주 신 면 류 관 쓰|고|거 룩 한 길 다 니|
+ E6 G3/2 A/ | B2 G2 B2 E3/2 F/ | G6 B2 | c B2 G (c B2) G | F6 B3/2 B/ | e2 e2 e2 =d3/2 c/ | B6 z2 | %15
+w: 리 거 기|거 룩 한 그 길|에 검|은 구 름 없 * 으|니 낮 과|같 이 맑 고 밝|은|
+w: 리 * *|||||||
+w: 리 * *|||||||
+w: 리 * *|||||||
+w: 리 * *|||||||
+ B B E A G2 F2 | E6 :| |] %18
+w: 거 룩 한 길 다 니|리||
+w: |||
+w: |||
+w: |||
+w: |||
+V:2
+ B, B, | B,2 B,2 B, B, B, D | E6 (3B,EG | G G G A G2 FE | D6 B, B, | B,2 B,2 B, B, B, D | %6
+ E6 (3B,EG | G G E E E2 D2 | E6 E3/2 F/ | G2 E2 G2 E3/2 D/ | E2 E3/2 E/ E2 G2 | A G2 E (A G2) E | %12
+ D2 F3/2 D/ D2 E3/2 F/ | G2 E2 A2 A3/2 A/ | G2 E3/2 F/ G2 (3B,EG | G G E E E2 D2 | E6 :| |] %18
+V:3
+ B,/ B,/ | G, G, G,/A,/ B, | B, B, B, z | E/ E/ E/ E/ E B, | B, B,/ B,/ B, B,/ B,/ | %5
+ G, G, G,/A,/ B, | B, B, B, z | E/ E/ B,/ C/ B, A, | G,3 B,3/4 B,/4 | E B, E B,3/4 B,/4 | %10
+ B, B,3/4 B,/4 B, E | E/ E B,/ E3/2 B,/ | B, B,3/4 B,/4 B, B,3/4 B,/4 | B, _D C C3/4 E/4 | %14
+ E E3/4 D/4 E z | E/ E/ B,/ C/ B, A, | G,3 :| |] %18
+V:4
+ B, B, | E,2 E,2 E,F, G,B, | E,2 E,2 E,2 z2 | E, E, E, E, E,2 D,E, | B,,2 B,, B,, B,,2 B, B, | %5
+ E,2 E,2 E,F, G,B, | E,2 E,2 E,2 z2 | E, E, G, A, B,2 B,,2 | E,6 E,3/2 E,/ | %9
+ E,2 E,2 E,2 G,3/2 B,/ | E,2 E,3/2 E,/ E,2 E,2 | E, E,2 E, E,3 E, | B,,2 D,3/2 F,/ B,A, G,3/2 F,/ | %13
+ E,2 G,2 A,2 A,3/2 A,/ | E,2 G,3/2 B,/ E,2 z2 | E, E, G, A, B,2 B,,2 | E,6 :| |] %18

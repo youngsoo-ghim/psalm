@@ -1,0 +1,38 @@
+X:326
+T:368 내 죄를 회개하고
+Z:소안련(W.L.Swallen)/
+Z:Copyright © 1999 by ÀüµµÈ¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/8
+Q:1/4=100
+M:4/8
+I:linebreak $
+K:Ab
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ E | E c B c | A2 E E | F A G A | B3 E | E c B c | A2 E E | F A G B | A4 | c/ c3/2 A B | c A3 | %11
+w: 1.내|죄 를 회 개|하 고 주|예 수 믿 으|니 내|주 를 사 랑|하 며 잘|섬 기 리 로|다|나 어 디 가|든 지|
+w: 2.내|주 의 뜻 을|따 라 나|살 려 하 오|니 이|세 상 있 을|동 안 주|섬 기 리 로|다|||
+w: 3.내|모 든 정 성|드 려 주|위 해 일 하|며 내|주 의 말 씀|따 라 잘|섬 기 리 로|다|||
+w: 4.주|님 의 능 력|크 사 날|도 와 주 시|니 내|본 분 다 하|여 서 주|섬 기 리 로|다|||
+w: 5.내|직 분 감 당|하 고 저|천 국 올 라|가 내|주 를 길 이|길 이 잘|섬 기 리 로|다|||
+ B3/2 A/ G A | B4 | c/ c3/2 A B | c A3 | B3/2 B/ A G | A3 :| |] %18
+w: 무 엇 하 든|지|주 예 수 위|하 여|진 실 하 리|라||
+w: |||||||
+w: |||||||
+w: |||||||
+w: |||||||
+V:2
+ C | C E D E | C2 C C | D F E E | G3 D | C E D E | C2 C C | D F E E | E4 | E/ E3/2 E E | E E3 | %11
+ E3/2 E/ E E | G4 | E/ E3/2 E E | E E3 | F3/2 F/ E E | E3 :| |] %18
+V:3
+ A, | A, A, G, G, | A,2 A, A, | A, D B, C | D3 B, | A, A, G, G, | A,2 A, A, | A, D B, D | C4 | %9
+ A,/ A,3/2 C D | E C3 | D3/2 C/ B, C | D4 | A,/ A,3/2 C D | E C3 | D3/2 D/ C B, | C3 :| |] %18
+V:4
+ A, | A, A, E, E, | A,,2 A,, A,, | D, D, E, E, | E,3 G, | A, A, E, E, | A,,2 A,, A,, | %7
+ D, D, E, E, | A,,4 | A,/ A,3/2 C D | E C3 | D3/2 C/ B, C | D4 | A,/ A,3/2 C D | E C3 | %15
+ D3/2 D/ C B, | C3 :| |] %18

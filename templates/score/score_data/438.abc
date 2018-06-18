@@ -1,0 +1,41 @@
+X:438
+T:495 내 영혼이 은총입어
+Z:C.F.Butler/J.M.Black
+Z:Copyright © 1998 by ÀüµµÈ¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/8
+Q:1/4=76
+M:3/4
+I:linebreak $
+K:Ab
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ E A3/2 B/ | c3 E F A | A3 A G F | E3 c c3/2 A/ | B3 E A3/2 B/ | c3 E F A | A3 A G F | %7
+w: 1~내 영 혼|이 은 총 입|어 중 한 죄|짐 벗 고 보|니 슬 픔 많|은 이 세 상|도 천 국 으|
+w: 2~주 의 얼|굴 뵙 기 전|에 멀 리 뵈|던 하 늘 나|라 내 맘 속|에 이 뤄 지|니 날 로 날|
+w: 3~높 은 산|이 거 친 들|이 초 막 이|나 궁 궐 이|나 내 주 예|수 모 신 곳|이 그 어 디|
+ E3 c B3/2 A/ | A3 A d3/2 d/ | d3 d c3/2 A/ | c3 c c3/2 c/ | e3 c c A | B3 E A3/2 B/ | c3 E F A | %14
+w: 로 화 하 도|다 할 렐 루|야 찬 양 하|세 내 모 든|죄 사 함 받|고 주 예 수|와 동 행 하|
+w: 로 가 깝 도|다 * * *||||||
+w: 나 하 늘 나|라 * * *||||||
+ A3 A G F | E3 c B3/2 A/ | A3 :| |] %18
+w: 니 그 어 디|나 하 늘 나|라||
+w: ||||
+w: ||||
+V:2
+ C C3/2 D/ | E3 C D F | F3 F E D | C3 E E3/2 E/ | E3 D C3/2 D/ | E3 C D F | F3 F E D | %7
+ C3 E D3/2 C/ | C3 C F3/2 F/ | F3 F E3/2 C/ | E3 E E3/2 E/ | A3 A A A | G3 D C3/2 D/ | E3 C D F | %14
+ F3 F E D | C3 E D3/2 C/ | C3 :| |] %18
+V:3
+ A, A,3/2 A,/ | A,3 A, A, D | D3 D A, A, | A,3 A, A,3/2 A,/ | G,3 G, A,3/2 A,/ | A,3 A, A, D | %6
+ D3 D A, A, | A,3 A, G,3/2 A,/ | A,3 A, A,3/2 A,/ | A,3 A, A,3/2 A,/ | A,3 A, A,3/2 A,/ | %11
+ C3 E E C | E3 G, A,3/2 A,/ | A,3 A, A, D | D3 D A, A, | A,3 A, G,3/2 A,/ | A,3 :| |] %18
+V:4
+ A,, A,,3/2 A,,/ | A,,3 A,, D, D, | D,3 D, D, D, | A,,3 A,, A,,3/2 C,/ | E,3 E, A,,3/2 A,,/ | %5
+ A,,3 A,, D, D, | D,3 D, D, D, | E,3 E, E,3/2 A,,/ | A,,3 A, D,3/2 D,/ | D,3 D, A,,3/2 A,,/ | %10
+ A,,3 A, A,3/2 A,/ | A,3 A, A, A, | E,3 E, A,,3/2 A,,/ | A,,3 A,, D, D, | D,3 D, D, D, | %15
+ E,3 E, E,3/2 A,,/ | A,,3 :| |] %18

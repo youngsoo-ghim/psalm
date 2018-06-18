@@ -1,0 +1,35 @@
+X:589
+T:넓은 들에 익은 곡식
+C:J.O.Thompson(1885)/J.B.O.Clemm(1885)
+%%score (1|2)(3|4)
+L:1/8
+Q:1/4=135
+M:6/8
+I:linebreak $
+K:G
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ "^보통으로"B2 B B AG | G2 G AG E | D2 D G2 G | B3/2A1/2 G A3 | B2 B BA G | G2 G AG E | D2 G Bd c | B2 A G3 | %8
+w: 1.넓 은 들- * 에|익 은 곡- * 식|황 금 물 결|뒤- * 치 며|어 디 든- * 지|태 양 빛- * 에|향 기 진- * 동|하 도 다|
+w: 2.추 수 할- * 것|많 은 때- * 에|일 꾼 매 우|적- * 으 니|열 심 있- * 는|일 꾼 들- * 을|주 여 보- * 내|주 소 서|
+w: 3.먼 동 틀- * 때|일 어 나- * 서|이 찍 들 에|나- * 아 가|황 혼 때- * 가|되 기 까- * 지|추 수 하- * 게|하 소 서|
+w: 4.거 둬 들- * 인|모 든 알- * 곡|천 국 창 고|들- * 인 후|주 가 베- * 풀|잔 치 자- * 리|우 리 참- * 여|하 겠 네|
+ "^후렴"d2 B d2 B | c2 c c3/2B1/2 A | B2 B/c/ d2 d | ed B A3 | B2 B BA G | G2 G AG E | D2 G Bd c | B2 A G3 :| %16
+w: 무 르 익 은|저 곡 식- * 은|낫 을- * 기 다|리- * 는 데|기 회 지- * 나|가 기 전- * 에|어 서 추- * 수|합 시 다|
+ G3 G3 |]
+w: 아 멘
+V:2
+ D2 D D2 D | E2 E E2 C | B,2 B, B,2 B, | D2 ^C D3 | D2 D D2 D | E2 E E2 C | B,2 B, D2 E | %7
+ D2 C B,3 | G2 G G2 G | F2 F F3/2G1/2 F | G2 G G2 G | G2 G F3 | D2 D D2 D | E2 E E2 C | B,2 B, D2 E | %15
+ D2 C B,3 :| C3 B,3 |]
+V:3
+ G,2 G, G,F, G, | G,2 C C2 G, | G,2 G, D,2 D, | G,3/2A,1/2 A, F,3 | G,2 G, G,F, G, | G,2 C C2 G, | %6
+ G,2 G, G,2 G, | G,E, F, G,3 | B,2 D B,2 G, | A,2 A, A,2 D | D2 D/C/ B,2 B, | CB, D D3 | %12
+ G,2 G, G,F, G, | G,2 C C2 G, | G,2 G, G,2 G, | G,E, F, G,3 :| E,3 G,3 |]
+V:4
+ G,,2 G,, G,,A,, B,, | C,2 C, C,2 C, | G,,2 G,, G,,2 G,, | G,3/2F,1/2 E, D,3 | G,,2 G,, G,,A,, B,, | %5
+ C,2 C, C,2 C, | G,,2 G,, G,,B,, C, | D,2 D, G,,3 | G,2 G, G,2 G, | D,2 D, D,2 D, | G,2 G, G,2 G, | %11
+ G,2 G, D,3 | G,,2 G,, G,,A,, B,, | C,2 C, C,2 C, | G,,2 G,, G,,B,, C, | D,2 D, G,,3 :| C,3 G,,3 |]

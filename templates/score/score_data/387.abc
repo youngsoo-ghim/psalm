@@ -1,0 +1,35 @@
+X:387
+T:멀리 멀리 갔더니
+Z:W.G.Fischer
+Z:Copyright © 1997 by Àü µµ È¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/8
+Q:1/4=80
+M:3/4
+I:linebreak $
+K:G
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ D G | B3 G A B | G4 B c | d3 e d B | A4 G A | B3 G A B | G4 E E | D3 G B3/2 A/ | G4 D G | %9
+w: 멀 리|멀 리 갔 더|니 처 량|하 고 곤 하|며 슬 프|고 또 외 로|와 정 처|없 이 다 니|니 예 수|
+w: 예 수|예 수 내 주|여 섭 섭|하 여 울 때|에 눈 물|씻 어 주 시|고 나 를|위 로 하 소|서 * *|
+w: 다 니|다 가 쉴 때|에 쓸 쓸|한 곳 만 나|도 홀 로|있 게 마 시|고 주 여|보 호 하 소|서 * *|
+ B3 G A B | G4 B c | d3 e d B | A4 G A | B3 G A B | G4 E E | D3 G B3/2 A/ | G4 | G6 | G6 |] |] %20
+w: 예 수 내 주|여 지 금|내 게 오 셔|서 떠 나|가 지 마 시|고 길 이|함 께 하 소|서|아|멘||
+w: |||||||||||
+w: |||||||||||
+V:2
+ D D | G3 G F F | G4 G G | G3 G G G | F4 D D | G3 G F F | D4 C C | B,3 D D3/2 D/ | D4 D D | %9
+ G3 G F F | G4 G G | G3 G G G | F4 D D | G3 G F F | D4 C C | B,3 D D3/2 D/ | D4 | E6 | D6 |] |] %20
+V:3
+ B, B, | D3 B, C D | B,4 G, A, | B,3 C B, D | D4 B, C | D3 B, C D | B,4 G, G, | G,3 B, D3/2 C/ | %8
+ B,4 B, B, | D3 B, C D | B,4 G, A, | B,3 C B, D | D4 B, C | D3 B, C D | B,4 G, G, | %15
+ G,3 B, D3/2 C/ | B,4 | C6 | B,6 |] |] %20
+V:4
+ G, G, | G,3 G, D, D, | G,4 G, G, | G,3 G, G, G, | D,4 G, G, | G,3 G, D, D, | G,4 C, C, | %7
+ D,3 D, D,3/2 D,/ | G,,4 G, G, | G,3 G, D, D, | G,4 G, G, | G,3 G, G, G, | D,4 G, G, | %13
+ G,3 G, D, D, | G,4 C, C, | D,3 D, D,3/2 D,/ | G,,4 | C,6 | G,,6 |] |] %20

@@ -1,0 +1,35 @@
+X:465
+T:523 나 형제를 늘 위해
+Z:H.A.Walter/J.Y.Peek
+Z:Copyright Jult 8th 2000 by 전도환
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/4
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:F
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ A2 G F | C3 C | D E G F | F2 E2 | B2 A G | E3 D | C E G B | A3 z | A2 G F | C3 C | F A c ^c | %11
+w: 나 형 제|를 늘|위 해 진 실|하 고|날 보 는|자 늘|위 해 정 결|코|담 대 하|여 이|세 상 환 난|
+w: 저 원 수|도 내|참 된 친 구|삼 고|남 주 면|서 그|일 을 잊 으|리|연 약 한|나 늘|온 유 겸 손|
+w: 늘 바 빠|도 나|힘 써 기 도|하 며|주 와 함|께 늘|교 통 하 리|라|주 가 신|길 그|발 자 취 를|
+ e2 d2 | d2 e d | c3 A | B A A3/2 G/ | c3 z | d2 e d | c3 A | B A A3/2 G/ | F3 z | F2 F2 |] |] %22
+w: 중 에|나 용 감|히 늘|승 리 하 리|라|나 용 감|히 늘|승 리 하 리|라|||
+w: 하 여|늘 섬 기|며 기|쁘 게 살 리|라|늘 섬 기|며 기|쁘 게 살 리|라|||
+w: 따 라|믿 음 으|로 늘|살 게 하 소|서|믿 음 으|로 늘|살 게 하 소|서|아 멘||
+V:2
+ F2 C C | C3 C | C C C C | C2 C2 | E2 E E | C3 C | C C E E/ D/ | C3 z | F2 C C | C3 C | C F F F | %11
+ F2 F2 | F2 F F | F3 F | F F E3/2 E/ | F3 z | F2 F F | F3 F | F F E3/2 E/ | F3 z | D2 C2 |] |] %22
+V:3
+ C2 B, A, | A,3 A, | A, G, B, A, | A,2 G,2 | G,2 C B, | G,3 F, | E, G, B, G, | F,3 z | C2 B, A, | %9
+ A,3 A, | A, C A, A, | B,2 B,2 | B,2 ^G, G, | A,3 C | D C C3/2 C/ | C3 z | B,2 B, ^G, | A,3 C | %18
+ D C C3/2 B,/ | A,3 z | B,2 A,2 |] |] %22
+V:4
+ F,2 F, F, | F,3 F, | F, F, F, F, | C,2 C,2 | C,2 C, C, | C,3 C, | C, C, C, C, | F,3 z | %8
+ F,2 F, F, | F,3 F, | F, F, F, F, | B,,2 B,,2 | B,,2 =B,, B,, | C,3 C, | C, C, C3/2 B,/ | A,3 z | %16
+ B,2 B,, =B,, | C,3 C, | C, C, C,3/2 C,/ | F,3 z | B,,2 F,2 |] |] %22

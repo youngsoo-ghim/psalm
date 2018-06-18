@@ -1,0 +1,252 @@
+2018-03-12 10:08:10,342 - psalm - INFO - {
+    "Count": 1, 
+    "Items": [
+        {
+            "update_date": "2018-03-12 03:11:03", 
+            "church_id": "03128_20180312030939", 
+            "address_eng": "29, Daehak-ro 3-gil, Jongno-gu, Seoul, Korea", 
+            "reg_date": "2018-03-12 03:11:03", 
+            "address": "\uc11c\uc6b8 \uc885\ub85c\uad6c \ub300\ud559\ub85c3\uae38 29 (\uc5f0\uc9c0\ub3d9)", 
+            "address_detail": "\uc8fc\ucc28\uc7a5(\uc0d8\ud50c\uad50\ud68c\uc815\ubcf4)", 
+            "church_name": "OO\uad50\ud68c(\uc0d8\ud50c\uad50\ud68c)", 
+            "zip_code": "03128"
+        }
+    ], 
+    "ScannedCount": 3, 
+    "ResponseMetadata": {
+        "RetryAttempts": 0, 
+        "HTTPStatusCode": 200, 
+        "RequestId": "RTUD0ME3E1HRKMFBT7E8V5212NVV4KQNSO5AEMVJF66Q9ASUAAJG", 
+        "HTTPHeaders": {
+            "x-amzn-requestid": "RTUD0ME3E1HRKMFBT7E8V5212NVV4KQNSO5AEMVJF66Q9ASUAAJG", 
+            "content-length": "418", 
+            "server": "Server", 
+            "connection": "keep-alive", 
+            "x-amz-crc32": "2691537619", 
+            "date": "Mon, 12 Mar 2018 01:08:10 GMT", 
+            "content-type": "application/x-amz-json-1.0"
+        }
+    }
+}
+2018-03-12 10:08:15,185 - psalm - DEBUG - <Request 'http://localhost:5000/church?church_name=OO교회(샘플교회)' [GET]>
+2018-03-12 10:08:15,199 - psalm - DEBUG - [{u'update_date': u'2018-03-12 03:11:03', u'church_id': u'03128_20180312030939', u'address_eng': u'29, Daehak-ro 3-gil, Jongno-gu, Seoul, Korea', u'reg_date': u'2018-03-12 03:11:03', u'address': u'\uc11c\uc6b8 \uc885\ub85c\uad6c \ub300\ud559\ub85c3\uae38 29 (\uc5f0\uc9c0\ub3d9)', u'address_detail': u'\uc8fc\ucc28\uc7a5(\uc0d8\ud50c\uad50\ud68c\uc815\ubcf4)', u'church_name': u'OO\uad50\ud68c(\uc0d8\ud50c\uad50\ud68c)', u'zip_code': u'03128'}]
+2018-03-12 10:08:15,200 - psalm - INFO - get_church_info succeeded:
+2018-03-12 10:08:15,200 - psalm - INFO - {
+    "Count": 1, 
+    "Items": [
+        {
+            "update_date": "2018-03-12 03:11:03", 
+            "church_id": "03128_20180312030939", 
+            "address_eng": "29, Daehak-ro 3-gil, Jongno-gu, Seoul, Korea", 
+            "reg_date": "2018-03-12 03:11:03", 
+            "address": "\uc11c\uc6b8 \uc885\ub85c\uad6c \ub300\ud559\ub85c3\uae38 29 (\uc5f0\uc9c0\ub3d9)", 
+            "address_detail": "\uc8fc\ucc28\uc7a5(\uc0d8\ud50c\uad50\ud68c\uc815\ubcf4)", 
+            "church_name": "OO\uad50\ud68c(\uc0d8\ud50c\uad50\ud68c)", 
+            "zip_code": "03128"
+        }
+    ], 
+    "ScannedCount": 3, 
+    "ResponseMetadata": {
+        "RetryAttempts": 0, 
+        "HTTPStatusCode": 200, 
+        "RequestId": "6KG9H0KQIOIU4UPCF12TQP6JCFVV4KQNSO5AEMVJF66Q9ASUAAJG", 
+        "HTTPHeaders": {
+            "x-amzn-requestid": "6KG9H0KQIOIU4UPCF12TQP6JCFVV4KQNSO5AEMVJF66Q9ASUAAJG", 
+            "content-length": "418", 
+            "server": "Server", 
+            "connection": "keep-alive", 
+            "x-amz-crc32": "2691537619", 
+            "date": "Mon, 12 Mar 2018 01:08:15 GMT", 
+            "content-type": "application/x-amz-json-1.0"
+        }
+    }
+}
+2018-03-12 10:09:04,617 - psalm - INFO - regChruchInfo succeeded:
+2018-03-12 10:09:04,618 - psalm - DEBUG - {
+    "ResponseMetadata": {
+        "RetryAttempts": 0, 
+        "HTTPStatusCode": 200, 
+        "RequestId": "47L5PVMFCJ2ALEKQDPQIDBTOCVVV4KQNSO5AEMVJF66Q9ASUAAJG", 
+        "HTTPHeaders": {
+            "x-amzn-requestid": "47L5PVMFCJ2ALEKQDPQIDBTOCVVV4KQNSO5AEMVJF66Q9ASUAAJG", 
+            "content-length": "2", 
+            "server": "Server", 
+            "connection": "keep-alive", 
+            "x-amz-crc32": "2745614147", 
+            "date": "Mon, 12 Mar 2018 01:09:04 GMT", 
+            "content-type": "application/x-amz-json-1.0"
+        }
+    }
+}
+2018-03-12 10:09:09,007 - psalm - INFO - get_user_for_id succeeded:
+2018-03-12 10:09:09,008 - psalm - DEBUG - {
+    "Item": {
+        "update_date": "2018-03-12 03:11:29", 
+        "account_email": "yskim@gmail.com", 
+        "firstname": "영수", 
+        "lastname": "김", 
+        "church_id": "03128_20180312030939", 
+        "reg_date": "2018-02-05 19:43:47", 
+        "pwd": "111111"
+    }, 
+    "ResponseMetadata": {
+        "RetryAttempts": 0, 
+        "HTTPStatusCode": 200, 
+        "RequestId": "T0PRJJ050KM1OUHTHMMJ0R7UUJVV4KQNSO5AEMVJF66Q9ASUAAJG", 
+        "HTTPHeaders": {
+            "x-amzn-requestid": "T0PRJJ050KM1OUHTHMMJ0R7UUJVV4KQNSO5AEMVJF66Q9ASUAAJG", 
+            "content-length": "243", 
+            "server": "Server", 
+            "connection": "keep-alive", 
+            "x-amz-crc32": "2917871593", 
+            "date": "Mon, 12 Mar 2018 01:09:08 GMT", 
+            "content-type": "application/x-amz-json-1.0"
+        }
+    }
+}
+2018-03-12 10:09:09,009 - psalm - DEBUG - <Response 763 bytes [200 OK]>
+2018-03-12 10:09:09,025 - psalm - INFO - get_church_name succeeded:
+2018-03-12 10:09:09,025 - psalm - DEBUG - {
+    "Item": {
+        "address_detail": "\uc624! \ub098\uc758 \uc8fc(\uc0d8\ud50c\uad50\ud68c\uc815\ubcf4)", 
+        "address": "\uc11c\uc6b8 \uc885\ub85c\uad6c \ub300\ud559\ub85c3\uae38 29 (\uc5f0\uc9c0\ub3d9)", 
+        "church_id": "03128_20180312030939", 
+        "church_name": "\uc624! \ub098\uc758 \uc8fc\uad50\ud68c(\uc0d8\ud50c\uad50\ud68c)", 
+        "zip_code": "03128"
+    }, 
+    "ResponseMetadata": {
+        "RetryAttempts": 0, 
+        "HTTPStatusCode": 200, 
+        "RequestId": "RFI56FVNEH0INLOLBUHSE41R4NVV4KQNSO5AEMVJF66Q9ASUAAJG", 
+        "HTTPHeaders": {
+            "x-amzn-requestid": "RFI56FVNEH0INLOLBUHSE41R4NVV4KQNSO5AEMVJF66Q9ASUAAJG", 
+            "content-length": "259", 
+            "server": "Server", 
+            "connection": "keep-alive", 
+            "x-amz-crc32": "2907815751", 
+            "date": "Mon, 12 Mar 2018 01:09:08 GMT", 
+            "content-type": "application/x-amz-json-1.0"
+        }
+    }
+}
+2018-03-12 10:09:09,026 - psalm - DEBUG - <Response 864 bytes [200 OK]>
+2018-03-12 10:09:16,673 - psalm - DEBUG - <type 'list'>
+2018-03-12 10:09:16,673 - psalm - DEBUG - [
+  {
+    "worship_date": "2018-03-11 10:40:00", 
+    "worship_name": "주일예배(샘플)", 
+    "update_date": "2018-03-12 10:06:03", 
+    "church_id": "03128_20180312030939", 
+    "reg_date": "2018-03-12 10:06:03", 
+    "church_name": "OO교회(샘플교회)"
+  }
+]
+2018-03-12 10:09:16,673 - psalm - INFO - list_procedure succeeded:
+2018-03-12 10:09:39,746 - psalm - INFO - get_procedure succeeded:
+2018-03-12 10:09:39,747 - psalm - DEBUG - {
+    "worship_date": "2018-03-11 10:40:00", 
+    "worship_name": "주일예배(샘플)", 
+    "update_date": "2018-03-12 10:06:03", 
+    "church_id": "03128_20180312030939", 
+    "reg_date": "2018-03-12 10:06:03", 
+    "worship_procedure": {
+        "11": {
+            "stand_up": "Y", 
+            "etc": "OOO님", 
+            "title": "기도"
+        }, 
+        "10": {
+            "stand_up": "Y", 
+            "etc": "다함께", 
+            "link": {
+                "kind": "hymn", 
+                "link_to": "384"
+            }, 
+            "title": "찬송"
+        }, 
+        "13": {
+            "contents": "주  말씀  채우소서\r\n\r\n성령이여 오소서 우리 가운데 오소서\r\n닫힌 마음 열고서 주 말씀 채우소서", 
+            "title": "응답송"
+        }, 
+        "12": {
+            "etc": "OOO님", 
+            "link": {
+                "kind": "bible", 
+                "to_s": "45", 
+                "to_p": "마가복음", 
+                "to_line": "1", 
+                "from_s": "1", 
+                "from_p": "마가복음", 
+                "from_line": "1"
+            }, 
+            "title": "성경봉독"
+        }, 
+        "15": {
+            "stand_up": "Y", 
+            "etc": "다함께 일어서서", 
+            "contents": "주 예수 그리스도의 은총과 하나님의 사랑과\r\n성령께서 이루어주시는 친교가 우리 가운데\r\n영원토록 함께 있기를 주님의 이름으로 축원합니다. 아멘.", 
+            "title": "서로를  위한  축복의  선언"
+        }, 
+        "14": {
+            "etc": "OOO 선생님", 
+            "contents": "복음의  시작,  천국의  도래", 
+            "title": "증언"
+        }, 
+        "16": {
+            "stand_up": "Y", 
+            "etc": "나가면서", 
+            "contents": "산 밑으로\r\n\r\n산 밑으로 내려가자 산 밑으로 내려가자\r\n주의 발길 따라서 산 밑으로 내려가자\r\n우리 힘은 작지만 아주 작지만\r\n주께서 쓰실 때는 크게 쓰시니\r\n산 밑으로 내려가자 산 밑으로 내려가자\r\n주의 발길 따라서 산 밑으로 내려가자", 
+            "title": "폐회송"
+        }, 
+        "1": {
+            "contents": "• 증언 : OOO 선생님\r\n• 사회 성경봉독 : OOO님\r\n• 기도 : OOO님\r\n• 찬양팀 OOO, OOOO", 
+            "title": "안내"
+        }, 
+        "3": {
+            "etc": "OOO님", 
+            "title": "마음  가다듬기  (징)"
+        }, 
+        "2": {
+            "etc": "OOO님, OOO님", 
+            "title": "제단에  불  밝힘"
+        }, 
+        "5": {
+            "stand_up": "Y", 
+            "etc": "찬양팀  인도로  다함께", 
+            "link": {
+                "kind": "hymn", 
+                "link_to": "539"
+            }, 
+            "title": "찬송"
+        }, 
+        "4": {
+            "stand_up": "Y", 
+            "etc": "사회자", 
+            "title": "예배의  부름"
+        }, 
+        "7": {
+            "etc": "동영상 시청", 
+            "title": "지금  여기에"
+        }, 
+        "6": {
+            "stand_up": "Y", 
+            "etc": "찬양팀  인도로  다함께", 
+            "link": {
+                "kind": "hymn", 
+                "link_to": "442"
+            }, 
+            "title": "찬송"
+        }, 
+        "9": {
+            "stand_up": "Y", 
+            "etc": "다함께", 
+            "contents": "모든 생명체 속에 실존하시며 역사하시는\r\n영원과 이상의 표상이신 하나님 아버지,\r\n하늘과 땅을 늘 새롭게 창조하시는 당신을 믿습니다.\r\n하나님의 외아들, 우리 주 예수 그리스도가\r\n이 땅에 온전한 사람의 형상으로 태어나시어,\r\n억압과 고통 속에 있는 민중에게 하나님 나라를 보여주셨으며, 모든 율법을 완성하심으로써 정의와 평화와 사랑의 모범이 되셨고, 본디오 빌라도 치하에서 고난을 받으시고,\r\n십자가에 못 박혀 죽으셨으며,\r\n장사된 지 사흘 만에 죽은 자 가운데서 부활하시어,\r\n우리에게 끊임없이 새로운 생명의 길을 보여주고 계심을 믿습니다. 성령을 믿사오며, 거룩한 공교회와, 모든 성도의 교제를 믿으며, 남과 북이 하나 됨을 믿으며, 전 인류가 하나님의 품안에서 하나 됨을 믿습니다.\r\n죄의 용서와 존재의 부활을 믿으며, 영원한 생명을 믿습니다. 아멘.", 
+            "title": "신앙고백"
+        }, 
+        "8": {
+            "etc": "사회자", 
+            "title": "광고"
+        }
+    }, 
+    "church_name": "OO교회(샘플교회)"
+}

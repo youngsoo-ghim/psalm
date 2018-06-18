@@ -1,0 +1,37 @@
+X:64
+T:기뻐하며 경배하세
+Z:H.van Dyke/L.van Beethoven
+Z:Copyright © 1997 by Jun
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/4
+Q:1/4=116
+M:4/4
+I:linebreak $
+K:G
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ B B c d | d c B A | G G A B | B3/2 A/ A2 | B B c d | d c B A | G G A B | A3/2 G/ G2 | A A B G | %9
+w: 1.기 뻐 하 며|경 배 하 세|영 광 의 주|하 나 님|주 앞 에 서|우 리 마 음|피 어 나 는|꽃 같 아|죄 와 슬 픔|
+w: 2.땅 과 하 늘|만 물 들 이|주 의 솜 씨|빛 내 고|별 과 천 사|노 래 소 리|끊 임 없 이|드 높 아|물 과 숲 과|
+w: 3.우 리 주 는|사 랑 이 요|빛 과 진 리|이 시 니|삶 이 기 쁜|샘 이 되 어|바 다 처 럼|넘 치 네|아 버 지 의|
+w: 4.새 벽 별 의|노 래 따 라|힘 찬 찬 송|부 르 니|주 의 사 랑|줄 이 되 어|한 맘 되 게|하 시 네|노 래 하 며|
+ A B/c/ B G | A B/c/ B A | G A D B- | B B c d | d c B c/A/ | G G A B | A3/2 G/ G2 :| G2 G2 |] |] %18
+w: 사 라- * 지 고|의 심- * 구 름|걷 히 니 변|* 함 없 는|기 쁨 의 주- *|밝 은 빛 을|주 시 네|||
+w: 산 과- * 골 짝|들 판- * 이 나|바 다 나 모|* 든 만 물|주 의 사 랑- *|기 뻐 찬 양|하 여 라|||
+w: 사 랑- * 안 에|우 리- * 모 두|형 제 니 서|* 로 서 로|사 랑 하 게- *|도 와 주 시|옵 소 서|||
+w: 행 진- * 하 여|사 움- * 에 서|이 기 고 승|* 전 가 를|높 이 불 러- *|주 께 영 광|돌 리 세|아 멘||
+V:2
+ D D D D | D D D D | D D D D | D3/2 D/ D2 | D D E =F | =F E E E | D D F G | F3/2 D/ D2 | F D D G | %9
+ F D D D | F G/F/ F ^D | E/=D/ ^C D D- | D D E =F | =F E E E | D D F G | F3/2 D/ D2 :| E2 D2 |] |] %18
+V:3
+ G, G, A, B, | B, A, G, F, | G, G, F, G, | G,3/2 F,/ F,2 | G, G, G, A,/B,/ | B, C D C | D B, C D | %7
+ C3/2 B,/ B,2 | A, F, G, B, | D G,/A,/ G, B, | D B,/A,/ B, B, | B, A,/G,/ F, G,- | %12
+ G, G, G, A,/B,/ | B, C D C | D B, C D | C3/2 B,/ B,2 :| C2 B,2 |] |] %18
+V:4
+ G, G, G, G, | D, D, D, C, | B,, B,, A,, G,, | D,3/2 D,/ D,2 | G, G, G, G, | G, A, B, C | %6
+ B, G, D, D, | D,3/2 G,,/ G,,2 | D, D, D, D, | D, D, D, D, | D, D, ^D, B,, | E, A,, =D, G,,- | %12
+ G,, G, G, G, | G, A, B, A,/C/ | B, G, D, D, | D,3/2 G,,/ G,,2 :| C,2 G,,2 |] |] %18

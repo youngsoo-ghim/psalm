@@ -1,0 +1,39 @@
+X:230
+T:230. 우리의 참된 구주시니
+Z:Benedictine Plainsong, 13th Century
+Z:[nwc보물창고]http://cafe.daum.net/nwc1
+%%score 1 ( 2 3 ) ( 4 5 )
+L:1/4
+Q:1/4=96
+M:none
+I:linebreak $
+K:D
+V:1 treble
+L:1/8
+V:2 treble
+L:1/8
+V:3 treble 
+V:4 bass
+V:5 bass 
+V:1
+ (DF) A A (AB) A G F E D D2 | (DF) A A (AB) A G F E D D2"^//" | A (Bc) d (dc) A B A G F E2 | %3
+w: 1.우 * 리 의 참 * 되 신 구 주 시 니|다 * 함 께 모 * 여 서 경 배 하 세|나 주 * 님 앞 * 에 죄 인 이 오 니|
+w: 2.주 * 님 의 살 * 과 피 기 념 하 여|생 * 명 의 떡 * 과 잔 받 아 먹 네|내 영 * 혼 영 * 생 주 신 주 님 께|
+w: 3.주 * 님 은 진 * 리 의 근 원 되 사|피 * 흘 려 우 * 리 죄 씻 어 주 고|내 믿 * 음 굳 * 게 하 여 주 시 며|
+w: 4.사 * 랑 의 구 * 주 님 은 혜 로 써|우 * 리 가 구 * 원 을 받 았 으 니|나 주 * 님 모 * 습 보 게 하 시 고|
+ (FA) G F E D E F D E D D2"^//" |] %4
+w: 정 * 성 을 다 하 여 찬 송 합 니 다|
+w: 온 * 정 성 다 하 여 찬 송 합 니 다|
+w: 소 * 망 과 평 화 를 얻 게 하 소 서|
+w: 주 * 님 의 영 광 을 찬 양 합 니 다|
+V:2
+ (DF) A A (AB) [D-A] G F E D D2 | (DF) A A (AB) [D-A] G F E D D2 | [EA] (Bc) d (dc) A B A G F E2 | %3
+ (FA) G F ED E F D E D [F,D]2 |] %4
+V:3
+ D E F x/ D B, D | D E F x/ D B, D | x/ F3/2 A3/2 F G/ F/ E | C D B,- B,/ A, B, x |] %4
+V:4
+ B, C- C D/ B, G, F, | B, C- C D/ B, G, [B,,F,] | %2
+ C,/ [D,B,]3/2 [F,-A,] [F,C]/ [D,F,] [E,B,] [G,B,] | %3
+ A, B, G,- [G,,G,]/ C,/ D,/ [G,,B,,] [D,,A,,] |] %4
+V:5
+ B, C F,- F,/ B, G, B,, | B, C F,- F,/ B, G, x | C,/ x6 | A, B, G, x/ F,, x2 |] %4

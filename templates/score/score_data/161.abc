@@ -1,0 +1,40 @@
+X:161
+T:159 할렐루야 우리 예수
+Z:P.P.Bliss/P.P.Bliss
+Z:Copyright © 1999 by ÀüµµÈ¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/16
+Q:1/4=100
+M:3/4
+I:linebreak $
+K:F
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ c3 c | c6 A2 G3 A | F4 C4 F3 F | G6 B2 A3 G | A8 c3 c | c6 A2 G3 A | F4 C4 F3 F | G6 B2 A3 G | %8
+w: 1.~할 렐|루 야 우 리|예 수 부 활|승 천 하 셨|네 세 상|사 람 찬 양|하 니 천 사|화 답 하 도|
+w: 2.~할 렐|루 야 우 리|예 수 왕 의|왕 이 되 시|고 우 리|들 의 중 보|되 심 성 령|증 거 하 시|
+w: 3.~할 렐|루 야 우 리|예 수 흠 과|티 가 없 도|다 무 덤|속 에 있 는|죄 인 주 가|일 으 키 시|
+ F8 F3 F | d6 d2 d3 d | c4 A4 A3 c | B6 B2 A3 G | A8 F3 F | d6 d2 d3 d | c4 A4 A3 c | B6 B2 A3 G | %16
+w: 다 구 주|예 수 부 활|하 사 사 망|권 세 이 겼|네 구 주|예 수 부 활|하 사 사 망|권 세 이 겼|
+w: 네 구 주|예 수 부 활|하 사 처 음|열 매 되 셨|네 구 주|예 수 부 활|하 사 처 음|열 매 되 셨|
+w: 네 구 주|예 수 부 활|하 사 영 광|주 로 오 시|네 구 주|예 수 부 활|하 사 영 광|주 로 오 시|
+ F8 :| |] %18
+w: 네||
+w: 네||
+w: 네||
+V:2
+ F3 F | F6 F2 E3 E | C4 C4 C3 F | E6 G2 F3 E | F8 F3 F | F6 F2 E3 E | C4 C4 C3 F | E6 G2 F3 E | %8
+ F8 F3 F | F6 F2 F3 F | F4 F4 F3 F | E6 G2 F3 E | F8 F3 F | F6 F2 F3 F | F4 F4 F3 F | E6 G2 F3 E | %16
+ F8 :| |] %18
+V:3
+ A,3 A, | A,6 C2 B,3 B, | A,4 A,4 A,3 A, | C6 C2 C3 C | C8 A,3 A, | A,6 C2 B,3 B, | %6
+ A,4 A,4 A,3 A, | C6 C2 C3 B, | A,8 A,3 A, | B,6 B,2 B,3 B, | A,4 C4 C3 A, | G,6 C2 C3 C | %12
+ C8 A,3 A, | B,6 B,2 B,3 B, | A,4 C4 C3 A, | G,6 C2 C3 B, | A,8 :| |] %18
+V:4
+ F,3 F, | F,6 F,2 C,3 C, | F,4 F,4 F,3 F, | C,6 C,2 C,3 C, | F,8 F,3 F, | F,6 F,2 C,3 C, | %6
+ F,4 F,4 F,3 F, | C,6 C,2 C,3 C, | F,8 F,3 F, | B,,6 C,2 D,3 E, | F,4 F,4 F,3 F, | C,6 C,2 C,3 C, | %12
+ F,8 F,3 F, | B,,6 C,2 D,3 E, | F,4 F,4 F,3 F, | C,6 C,2 C,3 C, | F,8 :| |] %18

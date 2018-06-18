@@ -1,0 +1,47 @@
+X:185
+T:179 이 기쁜 소식을
+Z:F.Bottome/W.J.Kirkpatrick
+Z:Copyright © 1999 by ÀüµµÈ¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/8
+Q:1/4=100
+M:3/4
+I:linebreak $
+K:C
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ G2 | G3 A G E | G4 c2 | c3 d c A | c4 A2 | G3 A G E | G4 E2 | E3 E D C | D4 G2 | G3 A G E | %10
+w: 1.~이|기 쁜 소 식|을 온|세 상 전 하|세 큰|환 난 고 통|을 당|하 는 자 에|게 주|믿 는 성 도|
+w: 2.~만|왕 의 왕 께|서 저|사 로 잡 힌|자 다|구 원 하 시|고 참|자 유 주 셨|네 승|리 의 노 래|
+w: 3.~한|없 는 사 랑|과 그|크 신 은 혜|를 늘|의 심 하 면|서 안|믿 는 자 에|게 내|작 은 입 으|
+ G4 c2 | c3 d c A | c4 A2 | G4 c2 | e4 d2 | c4 c2 | e3 d c d | e4 c2 | c3 d c A | c4 A2 | %20
+w: 들 다|전 할 소 식|은 성|령 이|오 셨|네 성|령 이 오 셨|네 성|령 이 오 셨|네 내|
+w: 가 온|성 에 들 리|니 성|령 이|오 셨|네 *|||||
+w: 로 곧|증 거 하 리|니 성|령 이|오 셨|네 *|||||
+ G3 A G E | G4 E2 | E3 E D C | D4 G2 | G3 A G E | G4 c2 | c3 d c A | c4 A2 | G4 c2 | e4 d2 | c4 :| %31
+w: 주 의 보 내|신 성|령 이 오 셨|네 이|기 쁜 소 식|을 온|세 상 전 하|세 성|령 이|오 셨|네|
+w: |||||||||||
+w: |||||||||||
+ |] %32
+w: |
+w: |
+w: |
+V:2
+ E2 | E3 F E C | E4 E2 | F3 F F F | F4 F2 | E3 F E C | E4 C2 | C3 C A, A, | B,4 F2 | E3 F E C | %10
+ E4 G2 | F3 F F F | F4 F2 | E4 E2 | G4 F2 | E4 E2 | G3 F E F | G4 E2 | F3 F F F | F4 F2 | %20
+ E3 F E C | E4 C2 | C3 C A, A, | B,4 F2 | E3 F E C | E4 G2 | F3 F F F | F4 F2 | E4 E2 | G4 F2 | %30
+ E4 :| |] %32
+V:3
+ C2 | C3 C C G, | C4 G,2 | A,3 A, A, C | A,4 C2 | C3 C C G, | C4 G,2 | A,3 A, ^F, F, | G,4 B,2 | %9
+ C3 C C G, | C4 _B,2 | A,3 A, A, C | A,4 C2 | C4 C2 | C4 B,2 | C4 G,2 | C3 G, G, G, | C4 G,2 | %18
+ A,3 A, A, C | A,4 C2 | C3 C C G, | C4 G,2 | A,3 A, ^F, F, | G,4 B,2 | C3 C C G, | C4 _B,2 | %26
+ A,3 A, A, C | A,4 C2 | C4 C2 | C4 B,2 | C4 :| |] %32
+V:4
+ C,2 | C,3 C, C, C, | C,4 C,2 | F,3 F, F, F, | F,4 F,2 | C,3 C, C, C, | C,4 C,2 | A,,3 A,, D, D, | %8
+ G,,4 G,,2 | C,3 C, C, C, | C,4 E,2 | F,3 F, F, F, | F,4 F,2 | G,4 G,2 | G,4 G,2 | C,4 C,2 | %16
+ C,3 C, C, C, | C,4 C,2 | F,3 F, F, F, | F,4 F,2 | C,3 C, C, C, | C,4 C,2 | A,,3 A,, D, D, | %23
+ G,,4 G,,2 | C,3 C, C, C, | C,4 E,2 | F,3 F, F, F, | F,4 G,2 | G,4 G,2 | G,4 G,2 | C,4 :| |] %32

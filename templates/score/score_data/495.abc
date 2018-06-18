@@ -1,0 +1,43 @@
+X:495
+T:271 익은 곡식 거둘 자가
+Z:L.N.Morris/L.N.Morris
+Z:Copyright © 1999 by ÀüµµÈ¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/16
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:Ab
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ E3 E | A3 A A3 A A3 E C3 D | E4 F4 E4 B3 A | G4 F4 E4 D4 | C12 E3 E | A3 A A3 A A3 c B3 A | %6
+w: 익 은|곡 식 거 둘 자 가 없 는|이 때 에 누 가|가 서 거 둘|까 내 가|어 찌 게 을 러 서 앉 아|
+w: 주 가|두 루 다 니 시 며 일 꾼|부 르 나 따 르|는 자 적 구|나 보 라|주 의 사 랑 하 는 익 은|
+w: 주 가|나 를 인 도 하 니 언 제|어 디 나 기 뻐|가 서 일 하|리 주 가|명 령 내 리 실 때 능 력|
+ F4 B4 B4 B3 A | G4 d4 c4 B4 | A12 c3 d | e12 d4 | c12 d3 c | B12 d4 | c12 A3 B | %13
+w: 있 을 까 어 서|가 자 밭 으|로 보 내|주 소|서 보 내|주 소|서 제 단|
+w: 곡 식 을 어 서|거 두 러 가|자 * *|||||
+w: 받 아 서 기 뻐|거 두 리 로|다 * *|||||
+ c3 c c3 c d3 c A3 A | A3 A A3 A B3 A G3 F | E3 c c3 d c4 B4 | A12 :| |] %18
+w: 숯 불 내 입 술 에 대 니|어 찌 주 저 할 까 주 여|나 를 보 내 주 소|서||
+w: |||||
+w: |||||
+V:2
+ C3 C | C3 C C3 C C3 C A,3 B, | C4 D4 C4 D3 C | E4 D4 C4 B,4 | A,12 C3 C | C3 C C3 C C3 E D3 E | %6
+ D4 =D4 D4 D3 F | E4 F4 E4 D4 | C12 A3 B | c4 c3 c c3 A F3 G | A4 F4 E4 B3 A | G4 G3 G G3 F E3 G | %12
+ A4 F4 E4 C3 D | E3 E E3 E F3 E C3 _G | F3 F F3 F F3 F E3 D | C3 E E3 F A4 G4 | E12 :| |] %18
+V:3
+ A,3 A, | E,3 E, E,3 E, E,3 A, E,3 E, | A,4 A,4 A,4 A,3 A, | B,4 A,4 G,4 G,4 | E,12 A,3 A, | %5
+ E,3 E, E,3 E, E,3 A, G,3 A, | A,4 A,4 A,4 F,3 B, | B,4 G,4 A,4 G,4 | E,12 z4 | %9
+ z4 A,3 A, A,3 A, A,3 A, | A,4 A,4 A,4 z4 | z4 E3 E E3 E G,3 B, | A,4 A,4 A,4 E,3 E, | %13
+ A,3 A, A,3 A, A,3 A, A,3 C | D3 D D3 D D3 D A,3 A, | A,3 A, A,3 A, E4 D4 | C12 :| |] %18
+V:4
+ A,,3 A,, | A,,3 A,, A,,3 A,, A,,3 A,, A,,3 A,, | A,,4 A,,4 A,,4 A,,3 A,, | E,4 E,4 E,4 E,4 | %4
+ A,,12 A,,3 A,, | A,,3 A,, A,,3 A,, A,,3 A,, B,,3 C, | D,4 B,,4 B,,4 B,,3 B,, | E,4 E,4 E,4 E,4 | %8
+ A,,12 z4 | z4 A,,3 A,, A,,3 A,, A,,3 A,, | A,,4 A,,4 A,,4 z4 | z4 E,3 E, E,3 E, E,3 E, | %12
+ A,,4 A,,4 A,,4 A,,3 A,, | A,,3 A,, A,,3 A,, A,,3 A,, A,,3 A,, | D,3 D, D,3 D, D,3 D, D,3 D, | %15
+ E,3 E, E,3 E, E,4 E,4 | A,,12 :| |] %18

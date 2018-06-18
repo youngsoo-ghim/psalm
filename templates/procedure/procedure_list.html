@@ -1,0 +1,154 @@
+        {% extends "layout/design_1.html" %}
+        {% block title %}{% if session['USER_INFO']['CHURCH_NAME'] %}{{ session['USER_INFO']['CHURCH_NAME'] }} 예배목록{% endif %}{% endblock %}
+        {% block content %}
+        <!--<main role="main" class="col-12 col-md-9 col-xl-8 py-md-3 pl-md-10 bd-content" style="max-width: 46rem;">-->
+        <main role="main" class="col-12 col-md-9 col-xl-12 py-md-3 pl-md-10 mx-auto" >
+
+            <!--</div>-->
+            <div class="container">
+                <h1 class="display-4">{% if session['USER_INFO']['CHURCH_NAME'] %}{{ session['USER_INFO']['CHURCH_NAME'] }} 예배목록{% else %}예배목록{% endif %}</h1>
+                    <form id="f" name="f" action="{{ url_for('go_procedure_list') }}" method="get">
+                    <input type="hidden" name="church_id" id="church_id" />
+                    <input type="hidden" name="worship_date" id="worship_date" />
+                    <input type="hidden" name="esk_worship_date" id="esk_worship_date" value="{{ esk_worship_date }}"/>
+                    <input type="hidden" name="esk_church_id" id="esk_church_id" value="{{ esk_church_id }}"/>
+                <!-- Example row of columns -->
+                <hr/>
+                    <input type="text" name="worship_name" id="worship_name" placeholder="예배이름"/>
+                    <button type="button" name="search" id="search" >검색</button>
+                <hr/>
+                <!--{% for i in range(5, 10, 2) %}{{ i }} {% endfor %}-->
+                    <table class="table table-striped" id="procedure_list">
+                        <thead>
+                            <tr>
+                                <th width="5%" scope="col">#</th>
+                                <th width="25%" scope="col">교회이름</th>
+                                <th width="*"  scope="col">예배이름</th>
+                                <th width="20%" scope="col" class="">예배일시
+                                    <div class="d-inline border border-info rounded-circle bg-info align-middle text-center text-white" style="width: 25px; height: 25px;" data-toggle="tooltip" data-placement="top" title="예배 시작 시간 입니다. 예배 시간이 같으시면 최초 시간만 입력 하여 저장하여 사용 하세요.">
+                                        <small>!</small>
+                                    </div>
+                                </th>
+                                <th width="20%" cope="col">등록일자</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                    {% set y = '' %}
+                    {% if items %}
+                        {% for item in items %}
+                            {% set y = loop.index|string %}
+                        <tr>
+                        <!--{{ y }}-->
+                            <th scope="row" class="align-middle text-center">
+                            {{ y }}
+                            </th>
+                            <td class="align-middle">
+                            {{ item.church_name }}
+                            </td>
+                            <td class="align-middle">
+                                <a href="#" onclick="go_detail('{{ item.church_id }}', '{{ item.worship_date }}')">{{ item.worship_name }}</a>
+                            </td>
+                            <td class="align-middle text-center">
+                            {{ item.worship_date|e }}
+                            </td>
+                            <td class="align-middle text-center">
+                            {{ item.reg_date }}<br/>
+                            {# item.update_date|e #}
+                            </td>
+                        </tr>
+                        {% endfor %}
+                    {% else %}
+                        <tr>
+                            <th colspan="5">조회된 데이터가 없습니다.</th>
+                        </tr>
+                    {% endif %}
+                        </tbody>
+                    </table>
+
+                    <div class="mx-auto" style="text-align: center;">
+                        <!--<a herf="/user/regId" class="btn btn-lg btn-primary" >가입</a>-->
+                        <button type="button" id="reg" name="reg" class="btn btn-lg btn-primary" >신규등록</button>
+                        <button type="button" id="continu" name="continu" class="btn btn-lg btn-primary" >계속조회</button>
+                    </div>
+                    </form>
+            </div> <!-- /container -->
+        </main>
+        <script>
+            $(function(){
+                {# 로그인 후 교회 정보가 없으면 교회 정보 등록 하도록 alert 창 띄운다 #}
+                {% if not 'CHURCH_ID' in session['USER_INFO'] %}
+                var ok = confirm("주보등록 교회 정보가 없습니다. /n 교회 정보를 등록 하시고 이용 하세요. /n 페이지를 이동 하시겠습니까?");
+                if(ok){
+                } else {}
+                {% endif %}
+
+                $('[data-toggle="tooltip"]').tooltip()
+
+                {# 신규 등록 페이지 이동 거의 쓸일 없을 거 같음 #}
+                $("#reg").click(function (event){
+                    $("#f").attr("method", "POST");
+                    $("#f").attr("action", "{{ url_for('go_procedure') }}");
+                    $("#f").submit();
+                });
+
+                {# 검색 처리 #}
+                $("#search").click(function (evnet){
+                    <!--if(!$("#worship_name").val()){-->
+                        <!--alert("예배이름이 입력 되지 않았습니다.");-->
+                        <!--$("#worship_name").focus();-->
+                        <!--return false;-->
+                    <!--}-->
+                    $("#esk_worship_date").val('');
+                    $("#esk_church_id").val('');
+                    console.log($("#esk_church_id").val());
+                    $("#f").attr("method", "GET");
+                    $("#f").attr("action", "{{ url_for('go_procedure_list') }}");
+                    $("#f").submit();
+                });
+
+                $("#continu").click(function (evnet){
+                    if( $("#esk_worship_date").val() == "" ){
+                        alert("더 이상 조회 할 데이터가 없습니다!");
+                        return false;
+                    }
+                    $.ajax({
+                        type : 'GET'
+                        , url : '{{ url_for('rest_go_procedure_list_continue') }}'
+                        , data : $("#f").serialize()
+                        , dataType : 'json'
+                        , success : function( data, status ){
+                            console.log(data);
+                            if( data.esk_worship_date == null ){
+                                alert("더 이상 조회 할 데이터가 없습니다!");
+                            }
+                            var html = "";
+                            $.each(data.items, function(index, item) {
+                                html += "<tr><<th scope='row' class='align-middle text-center'>"+ String(Number($("tr:last").children().eq(0).text())+1)+"</th>"
+                                     + "<td class='align-middle'>"+item.church_name+"</td>"
+                                     + "<td class='align-middle'><a href='#' onclick='go_detail(&quot;" +item.church_id+"&quot;,&quot;"+item.worship_date+"&quot;)' >"+item.worship_name+"</a></td>"
+                                     + "<td class='align-middle text-center'>"+item.worship_date+"</td>"
+                                     + "<td class='align-middle text-center'>"+item.reg_date+"</td></tr>";
+                            });
+                            $("#procedure_list").find('tbody').append(html);
+                            console.log(data.esk_worship_date);
+                            console.log(data.esk_church_id);
+                            $("#esk_worship_date").val(data.esk_worship_date);
+                            $("#esk_church_id").val(data.esk_church_id);
+                        }
+                        , error : function( xhr, status, error ){
+                            console.log(error);
+                            console.log(status);
+                        }
+                    });
+                });
+
+            });
+
+            function go_detail(church_id, worship_date){
+                $("#church_id").val(church_id);
+                $("#worship_date").val(worship_date);
+                $("#f").attr("method", "POST");
+                $("#f").submit();
+            }
+        </script>
+        {% endblock %} {# contente end #}

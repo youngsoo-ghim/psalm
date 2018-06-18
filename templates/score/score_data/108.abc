@@ -1,0 +1,34 @@
+X:108
+T:그 어린 주 예수
+Z:미상/C.H.Gabriel
+Z:Copyright © 1997 by Àü µµ È¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/4
+Q:1/4=94
+M:3/4
+I:linebreak $
+K:Ab
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ E | A A c/B/ | A A E | F A F | E2 E | A A B | c c e | e c A | B2 E | A A c/B/ | A A E | F d F | %12
+w: 그|어 린 주- *|예 수 눌|자 리 없|어 그|귀 하 신|몸 이 구|유 에 있|네 저|하 늘 의- *|별 들 반|짝 이 는|
+w: 저|육 축 소- *|리 에 아|기 잠 깨|나 그|순 하 신|예 수 우|시 지 않|네 귀|하 신 예- *|수 를 나|사 랑 하|
+w: 주|예 수 내- *|곁 에 가|까 이 계|셔 그|한 없 는|사 랑 늘|베 푸 시|고 온|세 상 아- *|기 들 다|품 어 주|
+ E2 E | A A B | c e d | E E G | A2 | A3 | A3 |] |] %20
+w: 데 그|어 린 주|예 수 꼴|위 에 자|네|아|멘||
+w: 니 새|날 이 밝|도 록 함|께 하 소|서||||
+w: 사 주|품 안 에|안 겨 살|게 하 소|서||||
+V:2
+ E | E E E | E E C | D F D | C2 C | C E E | E E E | E E =D | E2 E | E E E | E E C | D F D | C2 C | %13
+ C E E | E E F | E C D | C2 | D3 | C3 |] |] %20
+V:3
+ E, | C C E/D/ | C C A, | A, A, A, | A,2 A, | A, A, G, | A, A, C | C A, A, | G,2 E, | C C E/D/ | %10
+ C C A, | A, A, A, | A,2 A, | A, A, G, | A, A, B, | C A, B, | A,2 | F,3 | E,3 |] |] %20
+V:4
+ E, | A,, A,, A,, | A,, A,, A,, | D, D, D, | A,,2 A,, | A,, C, E, | A, A, A, | A, A, F, | E,2 E, | %9
+ A,, A,, A,, | A,, A,, A,, | D, D, D, | A,,2 A,, | A,, C, E, | A, C, D, | E, E, E, | A,,2 | D,3 | %18
+ A,,3 |] |] %20

@@ -1,0 +1,37 @@
+X:44
+T:56 지난 이레 동안에
+Z:J.Newton/L.Mason
+Z:Copyright May 19th 2000 by Jun
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/8
+Q:1/4=92
+M:3/4
+I:linebreak $
+K:G
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ G A | B3 B c B | A4 F G | A3 c B A | G4 G A | B3 B c B | A4 d c | B G F2 E2 | D4 d c | B3 d c B | %10
+w: 지 난|이 레 동 안|에 예 수|인 도 했 으|니 주 의|전 에 모 여|서 크 신|축 복 빕 니|다 가 장|복 된 이 날|
+w: 주 의|공 로 힘 입|어 은 혜|주 심 빌 떼|에 화 목|하 게 하 시|고 죄 를|벗 겨 주 소|서 세 상|걱 정 면 하|
+w: 하 나|님 의 이 름|을 찬 송|하 러 왔 으|니 모 임|중 에 계 시|고 영 광|나 타 내 소|서 기 쁜|하 늘 잔 치|
+w: 주 의|기 쁜 복 음|을 죄 인|듣 게 하 시|고 모 든|믿 는 사 람|을 위 로|하 여 주 소|서 주 님|오 실 때 까|
+ A4 B c | d3 G c B | A4 d c | B3 d c B | A4 B c | d/G/ A/c/ B2 A2 | G4 | G6 | G6 |] |] %20
+w: 은 하 늘|안 식 표 로|다 가 장|복 된 이 날|은 하 늘|안 * 식 * 표 로|다||||
+w: 고 오 늘|쉬 게 하 소|서 세 상|걱 정 면 하|고 오 늘|쉬 * 게 * 하 소|서||||
+w: 의 맛 을|보 게 하 소|서 기 쁜|하 늘 잔 치|의 맛 을|보 * 게 * 하 소|서||||
+w: 지 이 날|지 키 리 로|다 주 님|오 실 때 까|지 이 날|지 * 키 * 리 로|다|아|멘||
+V:2
+ D D | D3 G A G | F4 D E | F3 F F F | D4 D D | D3 G A G | F4 D D | D E D2 ^C2 | D4 D D | G3 G F G | %10
+ F4 G G | G3 G A G | F4 D D | D3 G F G | F4 G G | G G G2 F2 | G4 | E6 | D6 |] |] %20
+V:3
+ B, C | D3 D D D | D4 A, A, | A,3 A, D C | B,4 B, C | D3 D D D | D4 A, A, | B, B, A,2 G,2 | %8
+ F,4 B, A, | G,3 D D D | D4 G, A, | B,3 B, D D | D4 B, A, | G,3 D D D | D4 G, A, | B, E D2 C2 | %16
+ B,4 | C6 | B,6 |] |] %20
+V:4
+ G, G, | G,3 G, F, G, | D,4 D, D, | D,3 D, D, D, | G,4 G, G, | G,3 G, F, G, | D,4 F, F, | %7
+ G, G, A,2 A,,2 | D,4 G, G, | G,3 B, A, G, | D,4 G, G, | G,3 G, F, G, | D,4 D, F, | G,3 B, A, G, | %14
+ D,4 G, G, | G, C, D,2 D,2 | G,,4 | C,6 | G,,6 |] |] %20

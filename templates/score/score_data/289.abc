@@ -1,0 +1,48 @@
+X:289
+T:208 주 예수 내 맘에 들어와
+Z:R.H.McDaniel/C.H.Gabriel
+Z:Copyright © 1998 by ÀüµµÈ¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/8
+Q:1/4=96
+M:4/4
+I:linebreak $
+K:Ab
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ C D | E2 F G A2 A B | c2 c d c3 B | A A2 F A A2 A | E6 C D | E2 F G A2 A B | c2 c d c3 c | %7
+w: 주 예|수 내 맘 에 들 어|와 계 신 후 변|하 여 새 사 람 되|고 내 가|늘 바 라 던 참 빛|을 찾 음 도 주|
+w: 주 예|수 내 맘 에 들 어|와 계 신 후 망|령 된 행 실 을 끊|고 머 리|털 보 다 도 더 많|던 내 죄 가 눈|
+w: 내 맘|에 소 망 을 든 든|히 가 짐 은 주|예 수 내 맘 에 오|심 의 심|의 구 름 이 사 라|져 버 림 도 주|
+w: 사 망|의 음 침 한 골 짜|기 가 다 가 밝|은 빛 홀 연 히 보|고 저 멀|리 하 늘 문 환 하|게 보 임 도 주|
+w: 나 이|제 천 성 에 올 라|가 살 기 는 주|예 수 내 맘 에 오|심 천 성|을 향 하 여 내 가|곧 가 리 니 그|
+ c B2 B =d d2 B | e6 e2 | c c2 B c c2 A | c6 B2 | A A2 F A A2 A | E6 C D | E2 F G A2 A B | %14
+w: 예 수 내 맘 에 오|심 주|예 수 내 맘 에 오|심 주|예 수 내 맘 에 오|심 물 밀|듯 내 맘 에 기 쁨|
+w: 보 다 더 희 어 졌|네 *||||||
+w: 예 수 내 맘 에 오|심 *||||||
+w: 예 수 내 맘 에 오|심 *||||||
+w: 기 쁨 비 길 데 없|네 *||||||
+ c2 c d e2 d2 | c c2 A c c2 B | A6 |] |] %18
+w: 이 넘 침 은 주|예 수 내 맘 에 오|심||
+w: ||||
+w: ||||
+w: ||||
+w: ||||
+V:2
+ A, B, | C2 D D C2 C D | E2 E F E3 E | F F2 D F F2 D | C6 A, B, | C2 D D C2 C D | E2 E F E3 E | %7
+ =D D2 D A A2 A | G2 A2 B2 G2 | E E2 D E2 C2 | E E2 E E2 E2 | F F2 D F2 D2 | C C2 C C2 A, B, | %13
+ C2 D D C2 E E | E2 E E A2 F2 | E E2 C E E2 D | C6 |] |] %18
+V:3
+ E, E, | A,2 A, A, E,2 E, E, | A,2 A, A, A,3 A, | D D2 A, D D2 A, | A,6 E, E, | %5
+ A,2 A, A, E,2 E, E, | A,2 A, A, A,3 A, | A, A,2 A, B, B,2 B, | B,2 C2 _D2 B,2 | %9
+ A, A,2 A, A,2 E,2 | A, A,2 A, A,2 A,2 | D D2 A, D2 A,2 | A, A,2 A, A,2 E, E, | %13
+ A,2 A, A, E,2 A, G, | A,2 A, B, C2 A,2 | A, A,2 A, A, A,2 E, | E,6 |] |] %18
+V:4
+ A,, A,, | A,,2 A,, A,, A,,2 A,, A,, | A,,2 A,, A,, A,,3 C, | D, D,2 D, D, D,2 F, | A,6 A,, A,, | %5
+ A,,2 A,, A,, A,,2 A,, A,, | A,,2 A,, A,, A,,3 A,, | B,, B,,2 B,, B,, B,,2 =D, | E,6 E,2 | %9
+ A,, A,,2 A,, A,,2 A,,2 | A,, A,,2 A,, A,,2 C,2 | D, D,2 D, D,2 F,2 | A, E,2 C, A,,2 A,, A,, | %13
+ A,,2 A,, A,, A,,2 C, E, | A,2 A, A, A,2 D,2 | E, E,2 E, E, E,2 E, | A,,6 |] |] %18

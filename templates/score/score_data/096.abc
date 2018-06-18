@@ -1,0 +1,36 @@
+X:96
+T:94 예수님은 누구신가
+Z:J.Hart/J.J.Rousseau
+Z:Copyright © 1998 by ÀüµµÈ¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/4
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:F
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ A A/G/ F F | G G A/G/ F | c c/B/ A A | G/F/ G/A/ F2 | A A/B/ c c | d d c/B/ A | A A/B/ c c | %7
+w: 예 수- * 님 은|누 구 신- * 가|우 는- * 자 의|위- * 로- * 와|없 는- * 자 의|풍 성 이- * 며|천 한- * 자 의|
+w: 예 수- * 님 은|누 구 신- * 가|약 한- * 자 의|강- * 함- * 과|눈 먼- * 자 의|빛 이 시- * 며|병 든- * 자 의|
+w: 예 수- * 님 은|누 구 신- * 가|추 한- * 자 의|정- * 함- * 과|죽 은- * 자 의|생 명 이- * 며|죄 인- * 들 의|
+w: 예 수- * 님 은|누 구 신- * 가|온 교- * 회 의|머- * 리- * 와|만 국- * 인 의|구 주 시- * 며|모 든- * 왕 의|
+ d d c2 | A A/G/ F F | G G A/G/ F | c c/B/ A A | G/F/ G/A/ F2 |] |] %13
+w: 높 음 과|잡 힌- * 자 의|놓 임 되- * 고|우 리- * 기 쁨|되- * 시- * 네||
+w: 고 침 과|죽 은- * 자 의|부 활 되- * 고|우 리- * 생 명|되- * 시- * 네||
+w: 중 보 와|멸 망- * 자 의|구 원 되- * 고|우 리- * 평 화|되- * 시- * 네||
+w: 왕 이 요|심 판- * 하 실|주 님 되- * 고|우 리- * 영 광|되- * 시- * 네||
+V:2
+ F F F F | E E F F | F F F F | E/D/ E F2 | F F F F | F F F F | F F F F | F F F2 | F F F F | %9
+ E E F F | F F F F | E/D/ E F2 |] |] %13
+V:3
+ C C/B,/ A, A, | C C C/B,/ A, | A, A,/G,/ F, C | B,/A,/ B,/C/ A,2 | F, F,/G,/ A, A, | %5
+ B, B, A,/G,/ F, | F, F,/G,/ A, A, | B, B, A,2 | C C/B,/ A, A, | C C C/B,/ A, | A, A,/G,/ F, C | %11
+ B,/A,/ B,/C/ A,2 |] |] %13
+V:4
+ F, F, F, F, | C, C, F, F, | F, F, F, F, | C, C, F,2 | F, F, F, F, | B,, D, F, F, | F, F, F, F, | %7
+ B,, B,, F,2 | F, F, F, F, | C, C, F, F, | F, F, F, F, | C, C, F,2 |] |] %13

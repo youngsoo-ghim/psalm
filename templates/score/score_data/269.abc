@@ -1,0 +1,47 @@
+X:269
+T:211 그 참혹한 십자가에
+Z:Anonymous/Anonymous
+Z:Copyright © 1999 by ÀüµµÈ¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/4
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:Ab
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ E | A3/2 B/ c E | F G A c | B3/2 F/ G B | A3 E | A3/2 B/ c E | F G A c | B3/2 F/ G B | A3 c | %9
+w: 1.그|참 혹 한 십|자 가 에 주|달 려 흘 린|피 샘|물 같 이 늘|흐 르 니 죄|많 은 형 제|여 값|
+w: 2.그|흉 악 한 한|강 도 는 제|죄 를 깨 달|아 죄|없 으 신 주|예 수 를 구|주 로 믿 었|네 내|
+w: 3.온|백 성 의 죄|사 하 신 하|나 님 어 린|양 그|십 자 가 지|심 으 로 온|인 류 구 했|네 저|
+ d3/2 d/ d/c/ B | c3/2 c/ c A | c A c e | (B3/2 c/ B) E | A3/2 B/ c E | F G A c | B3/2 F/ G B | %16
+w: 없 어 도- * 다|나 와 서 네|죄 를 고 하|면 * * 흰|눈 보 다 더|희 도 록 참|성 결 얻 으|
+w: 지 은 죄- * 흉|악 하 나 주|예 수 믿 으|면 * * 용|서 받 은 강|도 같 이 곧|용 서 받 으|
+w: 영 원 한- * 새|나 라 에 다|같 이 모 여|서 * * 금|거 문 고 한|곡 조 로 새|노 래 부 르|
+ A3 c | d3/2 d/ d/c/ B | c3/2 c/ c A | c A c e | (B3/2 c/ B) E | A3/2 B/ c E | F G A c | %23
+w: 리 나|믿 노 라- * 나|믿 노 라 보|혈 의 공 로|를 * * 흠|없 어 도 피|흘 리 사 날|
+w: 리 *|||||||
+w: 리 *|||||||
+ B3/2 F/ G B | A3 :| |] %26
+w: 구 원 하 셨|네||
+w: |||
+w: |||
+V:2
+ C | C3/2 C/ C C | D D C E | E3/2 D/ E D | C3 C | C3/2 C/ C C | D D C E | E3/2 D/ E D | C3 E | %9
+ F3/2 F/ F/E/ D | E3/2 E/ E E | E E E E | D3 C | C3/2 C/ C C | D D C E | E3/2 D/ E D | C3 E | %17
+ F3/2 F/ F/E/ D | E3/2 E/ E E | E E E E | D3 C | C3/2 C/ C C | D E C E | E3/2 D/ E D | C3 :| |] %26
+V:3
+ A, | A,3/2 A,/ A, A, | A, G, A, A, | G,3/2 A,/ B, G, | A,3 A, | A,3/2 A,/ A, A, | A, G, A, A, | %7
+ G,3/2 A,/ B, G, | A,3 A, | A,3/2 A,/ A, G, | A,3/2 A,/ A, A, | A, A, A, A, | G,3 A, | %13
+ A,3/2 A,/ A, A, | A, G, A, A, | G,3/2 A,/ B, G, | E,3 A, | A,3/2 A,/ A, G, | A,3/2 A,/ A, A, | %19
+ A, A, A, A, | G,3 A, | A,3/2 A,/ A, A, | A, G, A, A, | G,3/2 A,/ B, G, | E,3 :| |] %26
+V:4
+ A,, | A,,3/2 A,,/ A,, A,, | D, E, A,, A,, | E,3/2 E,/ E, E, | A,,3 A,, | A,,3/2 A,,/ A,, A,, | %6
+ D, E, A,, A,, | E,3/2 E,/ E, E, | A,,3 A,, | D,3/2 D,/ D, E, | A,,3/2 A,,/ A,, C, | %11
+ A,, C, A,, C, | E,3 A,, | A,,3/2 A,,/ A,, A,, | D, E, A,, A,, | E,3/2 E,/ E, E, | A,,3 A,, | %17
+ D,3/2 D,/ D, E, | A,,3/2 A,,/ A,, C, | A,, C, A,, C, | E,3 A,, | A,,3/2 A,,/ A,, A,, | %22
+ D, E, A,, A,, | E,3/2 E,/ E, E, | A,,3 :| |] %26

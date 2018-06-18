@@ -1,0 +1,60 @@
+X:371
+T:419 구주여 광풍이 일어
+Z:M.A.Baker/H.R.Palmer
+Z:Copyright © 1999 by ÀüµµÈ¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/8
+Q:1/4=135
+M:6/8
+I:linebreak $
+K:Bb
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ F G F F B d | c3 G2 B | A G F E2 F | D3- D2 F | F G F F B d | c3 G2 B | A G F G2 A | B6 | %8
+w: 1.구 주 여 광 풍 이|일 어 큰|물 결 이 뛰 놀|며 * 온|하 늘 이 어 둠 에|싸 여 피|할 을 곳 모 르|니|
+w: 2.구 주 여 떨 리 는|내 맘 저|풍 랑 과 같 아|서 * 늘|불 안 에 싸 여 서|사 니 날|붙 들 어 주 소|서|
+w: 3.사 나 운 광 풍 이|자 고 큰|물 결 이 그 치|니 * 그|잔 잔 한 바 다 와|같 이 내|마 음 이 편 하|다|
+ D D D D D D | G3 A3 | B A G F2 =E | F3- F2 D/ E/ | F G F F B d | c3 G2 B | A G F G2 A | B3- B2 D | %16
+w: 우 리 가 죽 게 된|것 을|안 돌 아 봅 니|까 * 깊 은|바 다 에 빠 지 게|된 때 주|무 시 려 합 니|까 * 큰|
+w: 세 상 의 풍 파 가|나 를|삼 키 려 합 니|다 * 지 금|죽 게 된 날 돌 아|보 사 곧|구 원 해 줍 소|서 * *|
+w: 구 주 여 늘 함 께|계 서|떠 나 지 맙 소|서 * 복 된|항 구 에 즐 거 이|가 서 그|언 덕 에 쉬 리|라 * *|
+ D D D D D D | E2 E E3 | C3- C2 C | D6 | D D D D D D | E2 E E2 E | F F F F F F | G G G G2 G | %24
+w: 바 람 과 물 결 아|잔 잔 해|잔 * 잔|해|사 납 게 뛰 노 는|파 도 나 저|흉 악 한 마 귀 나|아 무 것 도 주|
+w: ||||||||
+w: ||||||||
+ A A A A A A | B2 B B2 B | c c c c B c | d2 d d2 F | d2 c B A G | F2 D F3 | E2 C E3 | D2 B, D2 F | %32
+w: 편 안 히 잠 들 어|누 신 배 뒤|엎 어 놀 능 력 이|없 도 다 주|예 수 풍 파 를|꾸 짖 어|잔 잔 해|잔 잔 해 주|
+w: ||||||||
+w: ||||||||
+ d2 c B A G | F2 D F3 | E3 C2 F | D6 :| |] %37
+w: 예 수 풍 파 를|꾸 짖 어|잔 잔 하|라||
+w: |||||
+w: |||||
+V:2
+ D E D D D F | E3 E2 G | F E D C2 D | B,3- B,2 D | D E D D D F | E3 E2 G | F E D E2 E | D6 | %8
+ B, B, B, C C C | B,3 E3 | D E D C2 C | C3- C2 B,/ C/ | D E D D D F | E3 E2 G | F E D E2 E | %15
+ D3- D2 B, | B, B, B, B, B, B, | A,2 A, A,3 | A,3- A,2 A, | B,6 | B, B, B, B, B, B, | %21
+ A,2 A, A,2 A, | B, B, B, B, B, B, | B, B, B, E2 =E | F F F ^F F F G2 D D2 D | F F F F F F | %26
+ F2 F F2 F | F2 E D F E | D2 B, D3 | C2 A, C3 | B,2 B, B,2 F | F2 E D F E | D2 B, D3 | C3 A,2 A, | %34
+ B,6 :| |] %36
+V:3
+ B, B, B, B, B, B, | G,3 C2 C | C C F, F,2 F, | F,3- F,2 B, | B, B, B, B, B, B, | G,3 C2 C | %6
+ C A, F, A,B, C | B,6 | F, F, F, ^F, F, F, | G,3 C3 | B, C B, A,2 G, | A,3- A,2 F,/ F,/ | %12
+ B, B, B, B, B, B, | G,3 C2 C | C A, F, A,B, C | B,3- B,2 F, | F, F, F, F, F, F, | F,2 F, F,3 | %18
+ F,2 F, F,3 | F,2 F, F,3 | F, F, F, F, F, F, | F,2 F, F,2 F, | _A, A, A, A, A, A, | %23
+ G, G, G, B,2 C | C C C C C C | B,2 B, B,2 B, | A, A, A, A, G, A, | B,2 B, B,2 F, | %28
+ B,2 B, B, B, B, | B,2 F, B,3 | A,2 F, F,3 | F,2 D, F,2 F, | B,2 B, B, B, B, | B,2 F, B,3 | %34
+ A,3 F,2 F, | F,6 :| |] %37
+V:4
+ B,, B,, B,, B,, B,, B,, | E,3 E,2 E, | F, F, F, F,,2 F,, | B,,3- B,,2 B,, | %4
+ B,, B,, B,, B,, B,, B,, | E,3 E,2 E, | F, F, F, F,,2 F,, | B,,6 | B,, B,, B,, A,, A,, A,, | %9
+ G,,3 F,,3 | G,, A,, B,, C,2 C, | F,,3- F,,2 B,,/ B,,/ | B,, B,, B,, B,, B,, B,, | E,3 E,2 E, | %14
+ F, F, F, F,,2 F,, | B,,3- B,,2 B,, | B,, B,, B,, B,, B,, B,, | C,2 C, C,3 | F,,2 F,, F,,3 | %19
+ B,,2 B,, B,,3 | B,, B,, B,, B,, B,, B,, | C,2 C, C,2 C, | D, D, D, D, D, D, | E, E, E, E,2 C, | %24
+ F, F, F, D, D, D, | G,2 G, G,2 G, | F, F, F, F, F, F, | B,2 B, B,2 F, | B,,2 B,, B,, B,, B,, | %29
+ B,,2 B,, B,,3 | F,,2 F,, F,,3 | B,,2 B,, B,,2 F, | B,,2 B,, B,, B,, B,, | B,,2 B,, B,,3 | %34
+ F,,3 F,,2 F,, | B,,6 :| |] %37

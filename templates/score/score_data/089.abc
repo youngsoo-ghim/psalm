@@ -1,0 +1,44 @@
+X:89
+T:89 샤론의 꽃 예수
+Z:I.A.Guirey/C.H.Gabriel
+Z:Copyright © 1999 by ÀüµµÈ¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/8
+Q:1/4=92
+M:3/4
+I:linebreak $
+K:D
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ F3 E D E | F2 A4 | B3 A D E | F6 | E3 ^D E F | G3 A c B | A4 G2 | F6 | F3 E D E | F3 G A D | %10
+w: 1.샤 론 의 꽃|예 수|나 의 마 음|에|거 룩 하 고|아 름 답 게|피 소|서|내 생 명 이|참 사 랑 의|
+w: 2.샤 론 의 꽃|예 수|이 세 상 에|서|어 느 꽃 과|비 교 할 수|있 으|랴|나 의 삶 에|한 결 같 은|
+w: 3.샤 론 의 꽃|예 수|모 든 질 병|을|한 이 없 는|능 력 으 로|고 치|사|고 통 하 며|근 심 하 는|
+w: 4.샤 론 의 꽃|예 수|길 이 피 소|서|주 의 영 광|이 땅 위 에|가 득|해|천 하 만 민|주 님 앞 에|
+ d4 c2 | B6 | (d2 c2) B2 | A3 B A F | D G F2 E2 | D6 | A2 A4- | A4 B A | A2 A4- | A4 z2 | %20
+w: 향 기|로|간 * 데|마 다 풍 겨|나 게 하 소|서|예 수|* 샤 론|의 꽃||
+w: 은 혜|와|사 * 랑|으 로 가 득|하 게 하 소|서|||||
+w: 자 에|게|크 * 신|힘 과 소 망|내 려 주 소|서|||||
+w: 엎 드|려|경 * 배|하 며 영 광|돌 릴 때 까|지|||||
+ (d2 c2) B2 | A3 B A F | D G F2 E2 | D6 :| |] %25
+w: 나 * 의|맘 에 사 랑|으 로 피 소|서||
+w: |||||
+w: |||||
+w: |||||
+V:2
+ D3 A, A, A, | D2 D4 | D3 D D C | D6 | C3 ^B, C =D | C3 C E G | F4 E2 | D6 | D3 A, A, A, | %9
+ D3 D D D | D4 D2 | D6 | (B2 A2) G2 | F3 G F D | D E D2 C2 | D6 | z4 C D | ED C2 z2 | z4 D E | %19
+ FE D2 z2 | (B2 A2) G2 | F3 G F D | D E D2 C2 | A,6 :| |] %25
+V:3
+ A,3 G, F, G, | A,2 F,4 | G,3 F, A, A, | A,6 | G,3 F, G, F, | E,3 E, A, A, | A,4 A,2 | A,6 | %8
+ A,3 G, F, G, | A,3 E, F, F, | A,4 A,2 | G,6 | D4 D2 | D3 D D A, | B, B, A,2 G,2 | F,6 | z4 E, F, | %17
+ G,F, E,2 z2 | z4 F, G, | A,G, F,2 z2 | D4 D2 | D3 D D A, | B, B, A,2 G,2 | F,6 :| |] %25
+V:4
+ D,3 D, D, D, | D,2 D,4 | D,3 D, F, A, | D,6 | A,,3 A,, A,, A,, | A,,3 A,, A,, A,, | A,,4 B,,C, | %7
+ D,6 | D,3 D, D, D, | D,3 D, D, D, | F,4 F,2 | G,6 | (G,,3 A,,) B,,C, | D,3 D, D, D, | %14
+ B,, G,, A,,2 A,,2 | D,6 | z4 A,, A,, | A,,2 A,,2 z2 | z4 D, D, | D,2 D,2 z2 | (G,,3 A,,) B,,C, | %21
+ D,3 D, D, D, | B,, G,, A,,2 A,,2 | D,6 :| |] %25

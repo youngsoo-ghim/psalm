@@ -1,0 +1,48 @@
+X:197
+T:178 은혜가 풍성한 하나님은
+Z:U.Nakada/M.J.Harris
+Z:Copyright © 1999 by ÀüµµÈ¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/16
+Q:1/4=108
+M:4/4
+I:linebreak $
+K:Eb
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ E3 F | G4 G2 G2 B4 B3 G | F E3- E8 G2 B2 | e4 e2 c2 B4 B3 G | F12 E3 F | G4 G2 G2 B4 B3 G | %6
+w: 1.은 혜|가 풍 성 한 하 나|님 은 * 믿 는|자 한 사 람 한 사|람 어 제|나 오 늘 도 언 제|
+w: 2.정 욕|과 죄 악 에 물 든|맘 을 * 성 령|의 불 길 로 태 우|사 정 결|케 합 소 서 태 우|
+w: 3.희 생|의 제 물 로 돌 아|가 신 * 주 리|주 예 수 님 이 시|여 구 속|의 은 혜 를 내 리|
+w: 4.주 님|의 깊 으 신 은 혜|만 을 * 세 상|에 널 리 전 하 리|라 하 늘|의 능 력 과 권 세|
+ F E3- E8 e2 c2 | B4 B2 E2 G4 G3 F | E12 B4 | e4 e3 e e4 d3 c | c B3- B8 B2 B2 | e4 e3 e e4 d3 c | %12
+w: 든 지 * 변 찮|고 보 호 해 주 시|네 주|여 성 령 의 은 사|들 을 * 오 늘|도 내 리 어 줍 소|
+w: 소 서 * 깨 끗|케 하 여 주 옵 소|서 *||||
+w: 시 사 * 오 늘|도 구 원 해 줍 소|서 *||||
+w: 로 써 * 오 늘|도 입 혀 주 옵 소|서 *||||
+ B12 E3 F | G4 G3 G B4 B3 G | F E3- E8 e2 c2 | B4 B2 E2 G4 G3 F | E12 :| E8 E8 |] |] %19
+w: 서 성 령|의 뜨 거 운 불 길|로 써 * 오 늘|도 충 만 케 합 소|서|아 멘||
+w: |||||||
+w: |||||||
+w: |||||||
+V:2
+ E3 E | E4 E2 E2 G4 G3 E | D E3- E8 E2 G2 | G4 A2 A2 G4 G3 E | D12 E3 E | E4 E2 E2 G4 G3 E | %6
+ D E3- E8 E2 E2 | E4 E2 E2 E4 E3 D | E12 G4 | G4 G3 G A4 A3 A | A G3 G3 G A G3 G2 G2 | %11
+ G4 G3 G F4 F3 E | D4 D3 E F4 E3 E | E4 E3 E G4 G3 E | D E3 B,3 B, C B,3 E2 E2 | %15
+ E4 E2 E2 E4 D3 B, | B,12 :| C8 B,8 |] |] %19
+V:3
+ G,3 A, | B,4 B,2 B,2 E4 E3 B, | A, G,3- G,8 B,2 E2 | B,4 C2 E2 E4 E3 B, | B,12 G,3 A, | %5
+ B,4 B,2 B,2 E4 E3 B, | A, G,3- G,8 A,2 A,2 | G,4 G,2 =A,2 B,4 B,3 _A, | G,12 E4 | %9
+ B,4 B,3 B, C4 E3 E | E E3 E3 E C B,3 E2 E2 | B,4 B,3 B, =A,4 A,3 A, | B,4 F,3 G, _A,4 G,3 A, | %13
+ B,4 B,3 B, E4 E3 B, | A, G,3 G,3 G, A, G,3 A,2 A,2 | G,4 G,2 =A,2 B,4 B,3 _A, | G,12 :| A,8 G,8 |] %18
+ |] %19
+V:4
+ E,3 E, | E,4 E,2 E,2 E,4 E,3 E, | B,, E,3- E,8 E,2 E,2 | E,4 A,2 A,2 E,4 E,3 E, | B,,12 E,3 E, | %5
+ E,4 E,2 E,2 E,4 E,3 E, | B,, C,3- C,8 C,2 A,,2 | B,,4 B,,2 C,2 B,,4 B,,3 B,, | E,12 E,4 | %9
+ E,4 E,3 E, A,4 A,3 A, | E, E,3 E,3 E, E, E,3 E,2 E,2 | E,4 E,3 E, F,4 F,3 F, | %12
+ B,,4 B,,3 B,, B,,4 E,3 E, | E,4 E,3 E, E,4 E,3 E, | E, E,3 E,3 E, E, E,3 C,2 A,,2 | %15
+ B,,4 B,,2 C,2 B,,4 B,,3 B,, | E,12 :| A,,8 E,8 |] |] %19

@@ -1,0 +1,37 @@
+X:536
+T:326 죄짐에 눌린 사람은
+Z:J.H.Stockton/J.H.Stockton
+Z:Copyright © 1999 by ÀüµµÈ¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/4
+Q:1/4=96
+M:4/4
+I:linebreak $
+K:G
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ D | D3/2 E/ D G | B3/2 B/ A G | d d B G | A3 B | d3/2 d/ B G | G3/2 G/ E D | D G B A | G3 z | %9
+w: 1~죄|짐 에 눌 린|사 람 은 다|주 께 나 오|라 주|말 씀 의 지|할 때 에 곧|평 안 얻 으|리|
+w: 2~큰|기 쁨 주 신|주 께 서 보|혈 을 흘 렸|네 눈|같 이 희 게|할 피 에 온|몸 을 잠 그|세|
+w: 3~길|되 신 우 리|구 세 주 늘|인 도 하 시|네 너|지 체 말 고|믿 으 면 참|복 을 받 겠|네|
+w: 4~이|성 회 하 나|되 어 서 영|광 길 행 하|세 한|없 는 은 혜|받 아 서 영|원 히 누 리|세|
+ d3/2 B/ B/A/ G | G3/2 E/ E D | D G B G | A3 z | d3/2 B/ B/A/ G | G3/2 E/ E D | D G B A | G3 :| |] %18
+w: 의 지 하 * 세|의 지 하 세|주 의 지 하|세|구 하 시 * 네|구 하 시 네|곧 구 하 시|네||
+w: |||||||||
+w: |||||||||
+w: |||||||||
+V:2
+ B, | B,3/2 C/ B, D | G3/2 G/ D D | G G G G | F3 G | G3/2 G/ G D | E3/2 E/ C B, | B, D D D | D3 z | %9
+ G3/2 G/ D D | E3/2 C/ C B, | D D G G | F3 z | G3/2 G/ D D | E3/2 C/ C B, | B, D D D | D3 :| |] %18
+V:3
+ G, | G,3/2 G,/ G, B, | D3/2 D/ C B, | B, B, D D | D3 G, | B,3/2 B,/ D D | C3/2 C/ G, G, | %7
+ G, B, D C | B,3 z | B,3/2 D/ D/C/ B, | C3/2 G,/ G, G, | B, B, D B, | D3 z | B,3/2 D/ D/C/ B, | %14
+ C3/2 G,/ G, G, | G, B, D C | B,3 :| |] %18
+V:4
+ G, | G,3/2 G,/ G, G, | G,3/2 G,/ G, G, | G,, G,, G,, B,, | D,3 G, | G,3/2 G,/ G, B,, | %6
+ C,3/2 C,/ C, G,, | D, D, D, D, | G,3 z | G,3/2 G,/ G, G, | C,3/2 C,/ G,, G,, | G, G, G, G, | %12
+ D,3 z | G,3/2 G,/ G, G, | C,3/2 C,/ G,, G,, | D, D, D, D, | G,3 :| |] %18

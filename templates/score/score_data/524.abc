@@ -1,0 +1,42 @@
+X:524
+T:313 가루길을 밝히 보이시니
+Z:G.F.Root
+Z:Copyright © 1997 by ÀüµµÈ¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/16
+Q:1/4=96
+M:4/4
+I:linebreak $
+K:Bb
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ F4 G3 F D4 F4 | B4 c3 B G8 | A4 A3 B c4 d4 | B4 A3 G F8 | F4 G3 F D4 F4 | B4 c3 B G8 | %6
+w: 갈 길 을 밝 히|보 이 시 니|주 앞 에 빨 리|나 갑 시 다|우 리 를 찾 는|구 주 예 수|
+w: 우 리 를 오 라|하 시 는 말|기 쁘 게 듣 고|즐 겨 하 세|구 주 를 믿 기|지 체 말 고|
+w: 주 오 늘 여 기|계 시 오 니|다 와 서 주 의|말 씀 듣 세|듣 기 도 하 며|생 각 하 니|
+ A4 A3 B c4 d4 | B12 z4 | d4 d4 e6 d2 | d2 c2 c2 G2 c8 | c4 c4 d6 c2 | c2 B2 B2 G2 F8 | %12
+w: 곧 오 라 하 시|네|죄 악 벗 은|우 리 영 혼 은|기 뻐 뛰 며|주 를 보 겠 네|
+w: 속 속 히 나 가|세|||||
+w: 참 이 치 시 로|다|||||
+ F4 G3 F D4 F4 | B4 c3 B G8 | A4 A3 B c4 d4 | B12 z4 :| |] %17
+w: 하 늘 에 계 신|주 예 수 를|영 원 히 모 시|리||
+w: |||||
+w: |||||
+V:2
+ D4 E3 D B,4 D4 | F4 F3 F E8 | C4 C3 D E4 F4 | D4 E3 E D8 | D4 E3 D B,4 D4 | F4 F3 F E8 | %6
+ C4 C3 D E4 F4 | D12 z4 | F4 F4 G6 F2 | E2 E2 E2 E2 E8 | E4 E4 F6 E2 | D2 D2 D2 E2 D8 | %12
+ D4 E3 D B,4 D4 | F4 F3 F E8 | C4 C3 D E4 F4 | D12 z4 :| |] %17
+V:3
+ B,4 B,3 B, F,4 B,4 | B,4 B,3 B, B,8 | F,4 F,3 F, A,4 A,4 | B,4 B,3 B, B,8 | B,4 B,3 B, F,4 B,4 | %5
+ B,4 B,3 B, B,8 | F,4 F,3 F, A,4 A,4 | B,12 z4 | B,4 B,4 B,6 B,2 | G,2 G,2 G,2 G,2 G,8 | %10
+ A,4 A,4 A,6 A,2 | B,2 B,2 B,2 B,2 B,8 | B,4 B,3 B, F,4 B,4 | B,4 B,3 B, B,8 | F,4 F,3 F, A,4 A,4 | %15
+ B,12 z4 :| |] %17
+V:4
+ B,,4 B,,3 B,, B,,4 B,,4 | D,4 D,3 D, E,8 | F,4 F,3 F, F,4 F,4 | B,,4 B,,3 B,, B,,8 | %4
+ B,,4 B,,3 B,, B,,4 B,,4 | D,4 D,3 D, E,8 | F,4 F,3 F, F,4 F,4 | B,,12 z4 | B,,4 B,,4 B,,6 B,,2 | %9
+ E,2 E,2 E,2 E,2 E,8 | F,4 F,4 F,6 F,2 | B,,2 B,,2 B,,2 B,,2 B,,8 | B,,4 B,,3 B,, B,,4 B,,4 | %13
+ D,4 D,3 D, E,8 | F,4 F,3 F, F,4 F,4 | B,,12 z4 :| |] %17

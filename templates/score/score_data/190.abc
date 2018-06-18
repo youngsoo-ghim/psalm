@@ -1,0 +1,43 @@
+X:190
+T:성령이여 강림하사
+Z:E.H.Stokes/J.R.sweney
+Z:Copyright © 1997 by Jun
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/4
+Q:1/4=468
+M:6/4
+I:linebreak $
+K:G
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ B2 B A2 G | D2 E G2 A | B2 c d2 e | d2 B A3 | B2 B A2 G | D2 E G2 A | B2 c d2 B | A2 G G3 | %8
+w: 성 령 이 여|강 림 하 서|나 를 감 화|하 시 고|애 통 하 며|회 개 할 맘|충 만 하 게|합 소 서|
+w: 성 령 이 여|강 림 하 사|크 신 권 능|줍 소 서|원 하 옵 고|원 하 오 니|충 만 하 게|합 소 서|
+w: 힘 이 없 고|연 약 하 나|업 드 려 서|비 오 니|성 령 강 림|하 옵 소 서|충 만 하 게|합 소 서|
+w: 정 케 하 고|위 로 하 사|복 을 받 게|합 소 서|충 만 하 게|하 시 오 니|무 한 감 사|합 니 다|
+ A2 A d3 | B2 B d3 | e2 e d2 B | d2 B A3 | B2 B A2 G | D2 E G2 A | B2 c d2 B | A2 G G3 :| G3 G3 |] %17
+w: 예 수 여|비 오 니|나 의 기 도|들 으 사|애 통 하 며|회 개 할 맘|충 만 하 게|합 소 서|아 멘|
+w: |||||||||
+w: |||||||||
+w: |||||||||
+ |] %18
+w: |
+w: |
+w: |
+w: |
+V:2
+ G2 G D2 D | B,2 C D2 D | G2 F G2 G | G2 G F3 | G2 G D2 D | B,2 C D2 D | G2 F G2 G | F2 G G3 | %8
+ F2 F F3 | G2 G G3 | G2 G G2 G | B2 G F3 | G2 G D2 D | B,2 C D2 D | G2 F G2 G | F2 G G3 :| E3 D3 |] %17
+ |] %18
+V:3
+ D2 D C2 B, | G,2 G, B,2 C | D2 D D2 C D2 D D3 | D2 D C2 B, | G,2 G, B,2 C | D2 D D2 D | %6
+ C2 B, B,3 | D2 D (A,2 D) | D2 D B,3 | C2 C D2 D | D2 D D3 | D2 D C2 B, | G,2 G, B,2 C | %13
+ D2 D D2 D | C2 B, B,3 :| C3 B,3 |] |] %17
+V:4
+ G,2 G, G,2 G, | G,,2 G,, G,,2 G,, | G,2 A, B,2 C B,2 G, D,3 | G,2 G, G,2 G, | G,,2 G,, G,,2 G,, | %5
+ G,2 A, B,2 G, | D,2 G,, G,,3 | B,,2 B,, B,,3 | G,2 G, G,3 | C2 C B,2 G, | G,2 G, D,3 | %11
+ G,2 G, G,2 G, | G,,2 G,, G,,2 G,, | G,2 A, B,2 G, | D,2 G,, G,,3 :| C,3 G,,3 |] |] %17

@@ -1,0 +1,35 @@
+X:22
+T:26 만유의 주 앞에
+Z:C.Wesley/J.Darwall
+Z:Copyright © 1997 by ÀüµµÈ¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/4
+Q:1/4=112
+M:3/4
+I:linebreak $
+K:D
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ D | F D A F | d3 c | B A G F | E3 E | F D B A | ^G E e d | c2 B2 | A3 A | B2 c2 | d3 D | E F G A | %12
+w: 1.만|유 의 주 앞|에 다|경 배 하 여|라 감|사 를 드 리|고 개 선 가|부 르|자 *||||
+w: 2.영|원 한 그 나|라 주|다 스 리 시|니 생|명 의 열 쇠|는 주 님 의|것 이|라 *||||
+w: 3.저|원 수 망 하|고 나|죄 짐 벗 은|후 내|맘 에 영 원|한 기 쁨 이|넘 친|다 *||||
+w: 4.참|소 망 가 지|고 그|날 을 기 리|며 주|다 시 오 실|때 기 쁘 게|맞 으|리 네|맘 열|어 한|소 리 로 기|
+ B c d e | d2 c2 | d3 :| d2 d2 |] |] %17
+w: |||||
+w: |||||
+w: |||||
+w: 뻐 주 를 찬|양 하|라|아 멘||
+V:2
+ D | D D E F | F3 F | G D C D | C3 C | D D F F | E E E F | E3 D | C3 D | D2 G2 | F3 D | A, D G F | %12
+ D F F E | F2 E G | F3 :| G2 F2 |] |] %17
+V:3
+ F, | A, F, A, A, | D3 D | D A, A, A, | A,3 A, | A, F, D D | B, ^G, A, A, | A,2 ^G,2 | A,3 F, | %9
+ G,2 G,2 | A,3 F, | A, A, D D | B, ^A, B, B, | A,2 A,2 | A,3 :| B,2 A,2 |] |] %17
+V:4
+ D, | D, D, C, D, | B,3 B, | A, G, F, E, | A,,3 A,, | D, D, B,, B,, | E, D, C, D, | E,2 E,2 | %8
+ A,,3 D, | G,2 E,2 | D,3 D, | C, D, B, A, | G, F, B, G, | A,2 A,,2 | D,3 :| G,2 D,2 |] |] %17

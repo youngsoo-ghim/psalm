@@ -1,0 +1,45 @@
+X:260
+T:194 우리를 죄에서 구하시려
+Z:P.P.Bilhorn/P.P.Bilhorn
+Z:Copyright © 1999 by ÀüµµÈ¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/8
+Q:1/4=104
+M:4/4
+I:linebreak $
+K:Bb
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ F2 F F F2 D E | F2 G A B4 | c2 c c c2 B c | d2 B G F4 | F2 F F F2 D E | F2 G A B4 | c2 c c c3 d | %7
+w: 1.~우 리 를 죄 에 서|구 하 시 려|주 예 수 십 자 가|지 셨 으 니|기 쁘 게 부 르 세|할 렐 루 야|나 구 원 얻 었|
+w: 2.~우 리 를 주 께 서|구 했 으 니|이 전 에 행 하 던|악 한 일 과|추 하 고 더 러 운|모 든 죄 를|온 전 히 버 렸|
+w: 3.~나 지 금 죄 에 서|사 함 받 아|거 룩 한 백 성 이|되 었 으 니|이 육 신 장 막 을|벗 을 때 도|겁 날 것 없 겠|
+w: 4.~우 리 가 이 세 상|떠 날 때 에|예 수 의 손 목 을|굳 게 잡 고|영 원 히 즐 거 운|천 국 에 서|주 함 께 살 겠|
+ B6 z2 | e2 e3/2 e/ e4 | d2 d3/2 d/ d4 | c c c c c2 B c | (d4 B2) z2 | e2 e3/2 e/ e4 | %13
+w: 네|찬 송 하 세|찬 송 하 세|주 님 나 를 구 하 셨|네 *|찬 송 하 세|
+w: 네||||||
+w: 네||||||
+w: 네||||||
+ d2 d3/2 d/ d4 | c c c c d3 c | B6 z2 :| |] %17
+w: 찬 송 하 세|주 가 구 원 하 셨|네||
+w: ||||
+w: ||||
+w: ||||
+V:2
+ D2 D D D2 B, C | D2 E E D4 | E2 E E E2 D E | F2 D E D4 | D2 D D D2 B, C | D2 E E D4 | %6
+ E2 E E E3 F | D6 z2 | G2 G3/2 G/ G4 | F2 F3/2 F/ F4 | E E E E E2 D E | (F4 D2) z2 | %12
+ G2 G3/2 G/ G4 | F2 F3/2 F/ F4 | F F F F F3 E | (D2 E2 D2) z2 :| |] %17
+V:3
+ B,2 B, B, B,2 F, F, | B,2 A, C B,4 | A,2 A, A, A,2 B, A, | B,2 B, B, B,4 | B,2 B, B, B,2 F, F, | %5
+ B,2 A, C B,4 | A,2 A, A, A,3 A, | B,6 z2 | B,2 B,3/2 B,/ B,4 | B,2 B,3/2 B,/ B,4 | %10
+ A, A, A, A, A,2 B, A, | B,6 z2 | B,2 B,3/2 B,/ B,4 | B,2 B,3/2 B,/ B,4 | A, A, A, A, B,3 A, | %15
+ (B,2 G,2 F,2) z2 :| |] %17
+V:4
+ B,,2 B,, B,, B,,2 B,, B,, | F,2 F, F, B,,4 | F,2 F, F, F,2 F, F, | B,,2 B,, B,, B,,4 | %4
+ B,,2 B,, B,, B,,2 B,, B,, | F,2 F, F, B,,4 | F,2 F, F, F,3 F, | B,,6 z2 | E,2 E,3/2 E,/ E,4 | %9
+ B,,2 B,,3/2 B,,/ B,,4 | F, F, F, F, F,2 F, F, | B,,6 z2 | E,2 E,3/2 E,/ E,4 | %13
+ B,,2 B,,3/2 B,,/ B,,4 | F, F, F, F, F,3 F, | B,,6 z2 :| |] %17

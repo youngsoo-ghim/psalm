@@ -1,0 +1,44 @@
+X:608
+T:295 후일에 생명 그칠 때
+Z:F.J.crosby/G.C.Stebbins
+Z:Copyright © 1999 by ÀüµµÈ¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/8
+Q:1/4=69
+M:3/4
+I:linebreak $
+K:F
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ A A B | A3 G C G | F3 F E F | B3 A G3/2 D/ | G3 A A B | A3 G C G | F3 A G A | c B A3 G | %8
+w: 후 일 에|생 명 그 칠|때 여 전 히|찬 송 못 하|나 성 부 의|집 에 깰 때|에 내 기 쁨|한 량 없 겠|
+w: 후 일 에|장 막 같 은|몸 무 너 질|때 는 모 르|나 정 녕 히|내 가 알 기|는 주 예 비|하 신 집 있|
+w: 후 일 에|석 양 가 까|와 서 산 에|해 가 질 때|에 주 께 서|쉬 라 하 실|때 영 원 한|안 식 얻 겠|
+w: 그 날 을|늘 기 다 리|고 내 등 불|밝 게 켰 다|가 주 께 서|문 을 여 실|때 이 영 혼|들 어 가 겠|
+ F3 A A c | c3 d A c | c3 c c B | B c e3 d | c3 A A c | c3 d A c | c3 c c F | F B A3 G | F3 :| F6 | %18
+w: 네 내 주 예|수 뵈 올 때|에 그 은 혜|찬 송 하 겠|네 내 주 예|수 뵈 올 때|에 그 은 혜|찬 송 하 겠|네|아|
+w: 네 * * *||||||||||
+w: 네 * * *||||||||||
+w: 네 * * *||||||||||
+ F6 |] |] %20
+w: 멘||
+w: ||
+w: ||
+w: ||
+V:2
+ F F F | F3 E C E | C3 C B, C | F3 F F3/2 D/ | C3 F F F | F3 E C E | C3 F E _E | D F F3 E | %8
+ C3 F F A | A3 A F A | B3 A A G | G A B3 B | A3 F F A | A3 A F F | E3 E _E E | D D CFE C | C3 :| %17
+ D6 | C6 |] |] %20
+V:3
+ C C D | C3 B, B, B, | A,3 A, G, A, | D3 C =B,3/2 B,/ | _B,3 C C D | C3 B, B, B, | A,3 C B, C | %7
+ D _D C3 B, | A,3 C C F | F3 F C F | E3 C C C | C C C3 E | F3 C C F | F3 F C A, | B,3 B, A, C | %15
+ B, F, F,A,C B, | A,3 :| B,6 | A,6 |] |] %20
+V:4
+ F, F, F, | F,3 C, E, C, | F,3 F, G, F, | B,,3 F, G,3/2 F,/ | E,3 F, F, F, | F,3 C, E, C, | %6
+ F,3 F, C, F, | B,, B,, C,3 C, | F,3 F, F, F, | F, C, F, F, F, F, | G, C, G, F, C, C, | %11
+ C, C, C,3 C, | F,3 F, F, F, | F, C, F, F, F, F, | G, C, G, G, F, A,, | B,, B,, C,3 C, | F,3 :| %17
+ B,,6 | F,6 |] |] %20

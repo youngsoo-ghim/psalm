@@ -1,0 +1,28 @@
+X:566
+T:301 사랑의 하나님
+Z:St.Augustine/P.Abelard
+Z:Copyright January 12th 2000 by 전도환
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/4
+Q:1/4=104
+M:4/4
+I:linebreak $
+K:G
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+"^조금빠르게" D | G A B A | G3 B | d d c B | A3 B | G c B A | G B A A | B c B A | G3 |] |] %10
+w: 사|랑 의 하 나|님 귀|하 신 이 름|은 내|나 이 비 록|어 려 도 잘|알 수 있 지|요||
+w: 온|천 하 만 물|은 그|림 책 같 으|니 그|고 운 그 림|보 아 서 그|사 랑 알 지|요||
+w: 저|고 운 화 초|밭 비|오 다 개 이|면 하|늘 에 뻗 친|무 지 개 참|아 름 다 와|요||
+w: 저|푸 른 하 늘|의 수|많 은 별 들|도 주|하 나 님 의|사 랑 을 늘|속 삭 이 지|요||
+V:2
+ B, | E F G F | G3 G | G G G G | F3 F | E G G F | E ^C D F | G G G F | G3 |] |] %10
+V:3
+ G, | B, D D D/C/ | B,3 D | D D E D | D3 B, | B, E D C | B, G, F, D | D E D3/2 C/ | B,3 |] |] %10
+V:4
+ G, | E, D,/C,/ B,,/C,/ D, | G,,3 G, | B, B,, C, G, | D,3 D, | E, C, G, D, | E, E, D, D, | %7
+ G, C, D, D, | G,,3 |] |] %10

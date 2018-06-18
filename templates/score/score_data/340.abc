@@ -1,0 +1,35 @@
+X:340
+T:366 어지러운 세상 중에
+Z:C.F.Alexander/J.Jenks
+Z:Copyright © 1999 by ÀüµµÈ¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/4
+Q:1/4=396
+M:6/4
+I:linebreak $
+K:Eb
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ E2 F G2 F | B2 G F E2 | B2 c/d/ e2 c | B2 G F3 | B2 c/d/ e2 | c | B2 G F E2 | (G3/2 F/) E B2 c | %8
+w: 1.어 지 러 운|세 상 중 에|기 쁜- * 소 리|들 리 네|예 수- * 말|씀|하 시 기 를|믿 * 는 자 여|
+w: 2.세 상 헛 된|신 과 영 화|모 두- * 내 어|버 렸 네|예 수- * 친|히|하 신 말 씀|날 * 더 귀 히|
+w: 3.기 쁜 때 나|슬 픈 때 나|바 쁜- * 때 나|틈 날 때|예 수- * 친|히|하 신 말 씀|날 * 더 귀 히|
+w: 4.주 여 크 신|은 혜 로 써|부 름- * 듣 게|하 시 고|복 종- * 하|는|맘 을 주 사|따 * 라 가 게|
+ G2 F E3 :| |] %10
+w: 따 르 라||
+w: 여 겨 라||
+w: 여 겨 라||
+w: 하 소 서||
+V:2
+ E2 D E2 D | E2 E D E2 | E2 E E2 E | E2 E D3 | E2 E E2 E | E2 E D E2 | (E3/2 D/) E E2 E | %7
+ E2 D E3 :| |] %9
+V:3
+ G,2 A, B,2 B, | B,2 B, A, G,2 | G,2 A, G,2 A, | B,2 B, B,3 | G,2 A, G,2 A, | B,2 B, A, G,2 | %6
+ B,3/2 A,/ G, G,2 C | B,2 A, G,3 :| |] %9
+V:4
+ E,2 E, E,2 A, | G,2 E, B,, E,2 | E,2 E, E,2 A, | G,2 E, B,,3 | E,2 E, E,2 A, | A,2 F, C, F,2 | %6
+ E,2 E, E,2 A,, | B,,2 B,, E,3 :| |] %9

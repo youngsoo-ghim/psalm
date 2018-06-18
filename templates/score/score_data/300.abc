@@ -1,0 +1,42 @@
+X:300
+T:내 맘이 낙심되며
+Z:J.B.Evans
+Z:Copyright © 1997 by Àü µµ È¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/8
+Q:1/4=76
+M:6/8
+I:linebreak $
+K:Bb
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ F G F D2 B | B3 A3 | A c A G2 A | F6 | F G F D2 B | B3 A3 | G A B A2 G | c6 | F G F D2 B | B3 A3 | %10
+w: 내 맘 이 낙 심|되 며|근 심 에 눌 릴|때|주 께 서 내 게|오 사|위 로 해 주 시|네|가 는 길 캄 캄|하 고|
+w: 희 망 이 사 라|지 고|친 구 날 버 릴|때|주 내 게 속 삭|이 며|새 희 망 주 시|네|싸 움 이 맹 렬|하 여|
+w: 번 민 이 가 득|차 고|눈 물 이 흐 를|때|주 나 의 곁 에|오 사|용 기 를 주 시|네|환 난 이 닥 쳐|와 서|
+ A c A G2 A | F6 | G ^F G B2 G | =F3 d3 | c G B A2 c | B3- B2 F | F =E F G2 _G | F2 B d2 c | %18
+w: 괴 로 움 많 으|나|주 께 서 함 께|하 며|내 짐 을 지 시|네 * 그|은 혜 가 내 게|족 하 네 그|
+w: 두 려 워 떨 때|에|승 리 의 왕 이|되 신|주 음 성 들 리|네 * *|||
+w: 슬 픔 에 잠 길|때|주 님 의 능 력|입 어|원 수 를 이 기|네 * *|||
+ B A c B2 G | F3- F2 F | G ^F G B2 G | F2 B e2 d | c G B A2 c | B6 |] |] %25
+w: 은 혜 가 족 하|네 * 이|괴 론 세 상 나|지 날 때 그|은 혜 가 족 하|네||
+w: |||||||
+w: |||||||
+V:2
+ D E D B,2 D | E3 E3 | E E E E2 E | D6 | D E D B,2 D | E3 C3 | =E E E E2 E | _E6 | D E D B,2 D | %9
+ E3 E3 | E E E E2 E | D6 | E E E E2 E | D3 =F3 | =E E E _E2 E | D3- D2 D | D ^C D _E2 E | %17
+ D2 D F2 ^F | G ^F F G2 E | D3- D2 D | E E E E2 E | D2 D E2 F | =E E E _E2 E | D6 |] |] %25
+V:3
+ B, B, B, F,2 F, | F,3 F,3 | F, A, C A,2 C | B,6 | B, B, B, F,2 F, | F,3 F,3 | B, A, G, C2 B, | %7
+ A,6 | B, B, B, F,2 F, | F,3 F,3 | F, A, C A,2 C | B,6 | B, A, B, B,2 B, | B,3 =B,3 | %14
+ _B, B, G, F,2 A, | B,3- B,2 B, | B, B, B, B,2 B, | B,2 F, B,2 B, | B, C A, B,2 B, | B,3- B,2 B, | %20
+ B, A, B, B,2 B, | B,2 B, B,2 B, | B, C C C2 A, | B,6 |] |] %25
+V:4
+ B,, B,, B,, B,,2 B,, | C,3 C,3 | F, F, F, F,2 F, | B,6 | B,, B,, B,, B,,2 B,, | F,3 F,3 | %6
+ C, C, C, C,2 C, | F,6 | B,, B,, B,, B,,2 B,, | C,3 C,3 | F, F, F, F,2 F, | B,6 | E, E, E, G,2 E, | %13
+ B,,3 G,3 | C, C, C, F,2 F, | B,,3- B,,2 B,, | B,, B,, B,, B,,2 B,, | B,,2 B,, B,,2 D, | %18
+ E, E, E, E,2 E, | B,,3- B,,2 B,, | E, E, E, G,2 E, | B,2 _A, G,2 F, | G, G, C, F,2 F, | B,,6 |] |] %25

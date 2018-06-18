@@ -1,0 +1,40 @@
+X:545
+T:이 눈에 아무 증거 아니 뵈어도
+C:T.Mitani(1901)/R.Lowry(1826~1899)
+%%score (1|2)(3|4)
+L:1/8
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:Ab
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ "^조금 빠르게"E2 A3/2 B/ c c B A | A A G F E4 | E G G G G B B G | A2 d c B4 | E2 A3/2 B/ c c B A | A A G F E4 | %6
+w: 이 눈 에 아 무 증 거|아 니 뵈 어 도|믿 음 만 을 가 지 고 서|늘 걸 으 며|이 귀 에 아 무 소 리|아 니 들 려 도|
+w: 이 눈 에 보 기 에 는|어 떠 하 든 지|이 미 얻 은 증 거 대 로|늘 믿 으 며|이 맘 에 의 심 없 이|살 아 갈 때 에|
+w: 주 님 의 거 룩 함 을|두 고 맹 세 한|주 하 나 님 아 버 지 는|참 미 쁘 다|그 귀 한 모 든 약 속|믿 는 자 에 게|
+ F G A B c c e d | c2 B2 A4 | "^후렴"c2 e2 c3/2B/ A2 | A B A F F2 E2 | G G G2 A A A2 | B c d c B4 | %12
+w: 하 나 님 의 약 속 위 에|서 리 라|걸 어 가- * 세|믿 음 위 에 서 서|나 가 세 나 가 세|의 심 버 리 고|
+w: 우 리 소 원 주 안 에 서|이 루 리|||||
+w: 능 치 못 할 무 슨 일 이|있 을 까|||||
+ c2 e2 c3/2B/ A2 | A B A F F2 E2 | F G A B c c e d | c2 B2 A4 |]
+w: 걸 어 가- * 세|믿 음 위 에 서 서|눈 과 귀 에 아 무 증 거|없 어 도|
+w: |||
+w: |||
+V:2
+ C2 C3/2 E/ E E E E | D F E D C4 | B, E E E E E E E | E2 E E (E2 D2) | C2 C3/2 E/ E E E E | %5
+ D F E D C4 | D E E E E E E F | E2 E2 E4 | A2 A2 E3/2D/ C2 | D D D D D2 C2 | E E E2 E E E2 | %11
+ G A B A G4 | A2 A2 E3/2D/ C2 | D D D D D2 B,2 | D E E E E E E F | E2 E2 E4 |]
+V:3
+ A,2 A,3/2 A,/ A, A, A, A, | F, A, A, A, A,4 | G, B, B, B, B, G, G, B, | A,2 G, A, G,4 | %4
+ A,2 A,3/2 A,/ A, A, A, A, | F, A, A, A, A,4 | A, B, A, G, A, A, A, A, | A,2 D2 C4 | %8
+ E2 C2 A,2 A,2 | F, F, F, A, A,2 A,2 | B, B, B,2 C C C2 | E E E E E4 | E2 C2 A,2 A,2 | %13
+ F, F, F, A, A,2 A,2 | A, B, A, G, A, A, A, A, | A,2 D2 C4 |]
+V:4
+ A,,2 A,,3/2 A,,/ A,, A,, C, C, | D, D, D, D, A,,4 | E, E, E, E, E, E, E, D, | C,2 B,, A,, E,4 | %4
+ A,,2 A,,3/2 A,,/ A,, A,, C, C, | D, D, D, D, A,,4 | D, D, C, E, G, G, B,, C, | D,2 D,2 A,4 | %8
+ A,2 A,2 A,,2 A,,2 | D, D, D, D, A,,2 A,,2 | E, E, E,2 E, E, E,2 | E, E, E, E, E,4 | %12
+ A,2 A,2 A,,2 A,,2 | D, D, D, D, A,,2 A,,2 | D, D, C, E, A, A, C, D, | E,2 E,2 A,4 |]

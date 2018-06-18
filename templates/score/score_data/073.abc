@@ -1,0 +1,37 @@
+X:73
+T:73 내 눈을 들어 두루 살피니
+Z:J.Campbell. Duke of Argy2/C.H.Purday
+Z:Copyright May 20th 2000 by 전도환
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/4
+Q:1/4=108
+M:4/4
+I:linebreak $
+K:F
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ A2 A A | B3 A | A G F G | A3 F | G2 E2 | F4 | A2 A A | B3 A | A G F G | A3 F | G2 E2 | F4 | %12
+w: 내 눈 을|들 어|두 루 살 피|니 산|악 이|라|날 돕 는|구 원|어 디 서 오|나 그|어 디|서|
+w: 주 께 서|나 의|가 는 곳 마|다 지|키 시|며|졸 지 도|않 고|깨 어 계 셔|서 늘|지 키|네|
+w: 여 호 와|나 의|보 호 자 시|니 늘|지 키|며|오 른 편|그 늘|되 신 날 개|로 가|려 주|사|
+w: 여 호 와|나 의|영 혼 지 키|사 돌|보 시|며|내 모 든|환 난|면 케 하 시|고 늘|지 키|네|
+ G2 G A | B2 G2 | c B A G | A3 c | d2 c2 | B3 A | c B A G | F4 | F2 F2 |] |] %22
+w: 하 늘 과|땅 을|지 은 여 호|와 날|도 와|주 심|확 실 하 도|다|||
+w: 이 스 라|엘 을|지 키 시 는|이 쉬|지 도|않 고|살 펴 주 신|다|||
+w: 낮 에 는|해 가|상 치 못 하|며 또|밤 의|달 이|해 치 못 하|네|||
+w: 이 날 로|부 터|영 원 무 궁|히 주|너 의|출 입|지 켜 주 시|리|아 멘||
+V:2
+ F2 F F | F3 F | E E D E | F3 A, | D2 C2 | C4 | F2 F F | F3 F | E E F E | F3 A, | D2 C2 | C4 | %12
+ E2 E F | E2 E2 | F E F E | F3 F | F2 F2 | E3 F | F G F E | F4 | D2 C2 |] |] %22
+V:3
+ C2 C C | D3 C | B, B, A, G, | F,3 F, | B,2 G,2 | A,4 | C2 C C | D3 C | B, B, A, G, | F,3 F, | %10
+ B,2 G,2 | A,4 | C2 B, A, | G,2 C2 | C C C C | C3 C | B,2 C2 | C3 C | D D C B, | A,4 | B,2 A,2 |] %21
+ |] %22
+V:4
+ F,2 F, F, | F,3 F, | C, C, C, C, | F,3 D, | B,,2 C,2 | F,4 | F,2 F, F, | F,3 F, | C, C, C, C, | %9
+ F,3 D, | B,,2 C,2 | F,4 | C,2 C, C, | C,2 C,2 | A, G, F, C, | F,3 A, | B,2 A,2 | G,3 F, | %18
+ B,, B,, C, C, | F,4 | B,,2 F,2 |] |] %22

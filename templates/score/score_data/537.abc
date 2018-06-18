@@ -1,0 +1,37 @@
+X:537
+T:329 형제여 지체말라
+Z:G.F.Root
+Z:Copyright May 18th 2000 by Jun
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/8
+Q:1/4=135
+M:6/8
+I:linebreak $
+K:A
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ E E E F2 E | E A2- A2 A | B B B A A B | c3- c2 E | E E E G F E | E A2- A2 B | c d c B F G | A6 | %8
+w: 형 제 여 지 체|말 라 * 왜|거 기 서 방 황 하|나 * 그|은 혜 를 입 은 자|중 에 * 주|너 희 를 두 시 려|네|
+w: 형 제 여 지 체|말 라 * 네|온 몸 을 드 리 어|라 * 주|예 수 께 구 원 이|있 고 * 또|영 생 할 길 이 있|네|
+w: 형 제 여 네 맘|속 에 * 늘|성 령 이 권 하 시|네 * 왜|주 님 의 구 원 을|떠 나 * 죄|가 운 데 살 려 하|나|
+w: 형 제 여 지 체|말 라 * 이|기 회 를 잃 지 말|라 * 주|너 에 게 복 주 실|때 니 * 곧|주 앞 에 나 아 오|라|
+ c3 A2 z | A3 F2 z | E2 E G F E | (E3 A3) | c3 A2 z | A3 F2 z | E2 E G F E | A6 |] |] %17
+w: |||||||||
+w: 오 라|오 라|지 체 말 고 오|라 *|오 라|오 라|지 체 말 고 오|라||
+w: |||||||||
+w: |||||||||
+V:2
+ C C C D2 C | C C2- C2 C | E E E E E E | E3- E2 C | C C C D D D | C C2- C2 D | E F E D D D | C6 | %8
+ E3 C2 z | F3 D2 z | D2 D D D D | C6 | E3 C2 z | F3 D2 z | D2 D D D D | C6 |] |] %17
+V:3
+ A, A, A, A,2 A, | A, A,2- A,2 A, | G, G, G, F, F, G, | A,3- A,2 A, | A, A, A, B, A, G, | %5
+ A, A,2- A,2 A, | A, A, A, G, B, B, | A,6 | A,3 A,2 z | A,3 A,2 z | G,2 G, B, B, B, | A,6 | %12
+ A,3 A,2 z | A,3 A,2 z | G,2 G, B, B, B, | A,6 |] |] %17
+V:4
+ A,, A,, A,, A,,2 A,, | A,, A,,2- A,,2 A,, | E, E, E, E, E, E, | A,,3- A,,2 A,, | %4
+ A,, A,, A,, E, E, E, | A,, A,,2- A,,2 A,, | A, A, A, E, E, E, | A,,6 | A,,3 A,,2 z | D,3 D,2 z | %10
+ E,2 E, E, E, E, | A,,6 | A,,3 A,,2 z | D,3 D,2 z | E,2 E, E, E, E, | A,,6 |] |] %17

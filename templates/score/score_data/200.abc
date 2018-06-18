@@ -1,0 +1,41 @@
+X:200
+T:235 달고 오묘한 그 말씀
+Z:P.P.Bliss/P.P.Bliss
+Z:Copyright © 1999 by ÀüµµÈ¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/8
+Q:1/4=149
+M:6/8
+I:linebreak $
+K:G
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ B2 B B c B | B2 A A3 | D A A B2 A | (G3 D3) | B2 B B c B | B2 A A3 | D A A B2 A | G6 | B2 B Bc d | %9
+w: 1.달 고 오 묘 한|그 말 씀|생 명 의 말 씀|은 *|귀 한 그 말 씀|진 실 로|생 명 의 말 씀|이|나 의 길- * 과|
+w: 2.귀 한 그 말 씀|내 노 래|제 목 이 되 도|다 *|모 든 사 람 에|복 주 는|생 명 의 말 씀|을|값 도 없- * 이|
+w: 3.널 리 울 리 고|퍼 지 는|생 명 의 말 씀|은 *|맘 에 용 서 와|평 안 을|골 고 루 주 나|니|다 만 예- * 수|
+ e3 d3 | B2 B Bc d | e3 d3 | d c c c3 | c B B B3 | B A G A2 F | (G2 B d3) | d c c c3 | c B B B3 | %18
+w: 믿 음|밝 히 보- * 여|주 니|아 름 답 고|귀 한 말 씀|생 명 샘 이 로|다 * *|아 름 답 고|귀 한 말 씀|
+w: 받 아|생 명 길- * 을|가 니|||||||
+w: 말 씀|들 어 복- * 을|받 네|||||||
+ B A G A2 F | G6 :| G3 G3 |] |] %22
+w: 생 명 샘 이 로|다|아 멘||
+w: ||||
+w: ||||
+V:2
+ D2 D D E D | D2 C C3 | C C C D2 C | B,6 | D2 D D E D | D2 C C3 | C C C D2 C | B,6 | G2 G GA G | %9
+ G3 G3 | G2 G GA G | G3 G3 | A A A A3 | A G G G3 | E E E F2 D | (D3 G3) | A A A A3 | A G G G3 | %18
+ E E E F2 D | D6 :| E3 D3 |] |] %22
+V:3
+ G,2 G, G, G, G, | G,2 F, F,3 | A, F, F, F,2 F, | G,6 | G,2 G, G, G, G, | G,2 F, F,3 | %6
+ A, F, F, F,2 F, | G,6 | G,2 G, DC B, | C3 B,3 | G,2 G, DC B, | C3 B,3 | D D D D3 | D D D D3 | %14
+ C C B, D2 C | B,6 | D D D D3 | D D D D3 | C C B, D2 C | B,6 :| C3 B,3 |] |] %22
+V:4
+ G,2 G, G, G, G, | D,2 D, D,3 | D, D, D, D,2 D, | G,6 | G,2 G, G, G, G, | D,2 D, D,3 | %6
+ D, D, D, D,2 D, | G,,6 | G,2 G, G,2 G, | C,3 G,3 | G,2 G, G,2 G, | C,3 G,3 | F, F, F, F,3 | %13
+ G, G, G, G,3 | C, C, E, D,2 D, | G,6 | F, F, F, F,3 | G, G, G, G,3 | C, C, E, D,2 D, | G,6 :| %20
+ C,3 G,3 |] |] %22

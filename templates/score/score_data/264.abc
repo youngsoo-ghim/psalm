@@ -1,0 +1,47 @@
+X:264
+T:198 정결하게 하는 샘이
+Z:M.J.Harris/M.J.Harris
+Z:Copyright July 5th 2000 by 전도환
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/8
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:Eb
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ G3 G A G F E | A2 A4 z2 | A3 F B A G F | G6 z2 | B3 B B G A B | c2 c4 z2 | B G E A G2 F2 | E6 z2 | %8
+w: 정 결 하 게 하 는|샘 이|나 의 앞 에 있 도|다|성 령 께 서 권 고|하 되|죄 씻 으 라 하 시|네|
+w: 나 가 는 길 비 록|좁 고|내 뜻 대 로 안 되|도|모 든 욕 심 다 버|리 고|주 만 따 라 가 겠|네|
+w: 나 의 마 음 제 단|위 에|불 길 같 이 타 도|다|영 원 토 록 찬 양|하 며|주 께 영 광 돌 리|리|
+w: 감 사 하 신 주 의|은 혜|나 를 영 접 하 셨|네|내 가 지 은 모 든|죄 와|허 물 용 서 하 셨|네|
+w: 성 부 하 나 님 께|영 광|성 자 예 수 께 영|광|성 령 님 께 크 신|영 광|돌 려 보 낼 찌 어|다|
+ G3 G A G2 z | B3 B c B2 z | e3 B c B A G | F6 z2 | G3 G A G F E | B2 B2 z2 B c | B G E A G2 F2 | %15
+w: |||||||
+w: |||||||
+w: 찬 양 하 리|찬 양 하 리|죽 임 당 한 어 린|양|주 께 영 광 돌 리|어 라 우 리|죄 를 씻 어 주 셨|
+w: |||||||
+w: |||||||
+ E6 z2 |] |] %17
+w: ||
+w: ||
+w: 네||
+w: ||
+w: ||
+V:2
+ E3 E E E E E | D2 D4 z2 | F3 D G F E D | E6 z2 | G3 G G E F G | A2 A4 z2 | G E C E E2 D2 | E6 z2 | %8
+ E3 E E E2 z | G3 G A G2 z | G3 G A G F E | D D F E D2 F2 | E3 E E E E E | G2 G2 z2 G A | %14
+ G E C E E2 D2 | E6 z2 |] |] %17
+V:3
+ B,3 B, C B, A, G, | B,2 B,4 z2 | B,3 B, B, B, B, B, | B,6 z2 | E3 E E B, C E | E2 E4 z2 | %6
+ E B, A, C B,2 A,2 | G,6 z2 | B,3 B, C B,2 z | E3 E E E2 z | B,3 E E E B, B, | B, B, D C B,2 A,2 | %12
+ B,3 B, C B, A, G, | B,2 E2 z2 E E | E B, A, C B,2 A,2 | G,6 z2 |] |] %17
+V:4
+ E,3 E, E, E, E, E, | F,2 F,4 z2 | B,,3 B,, B,, B,, B,, B,, | E,6 z2 | E,3 E, E, E, E, E, | %5
+ A,2 A,4 z2 | E, E, A,, A,, B,,2 B,,2 | E,6 z2 | E,3 E, E, E,2 z | E,3 E, E, E,2 z | %10
+ E,3 E, E, E, E, E, | B,,6 z2 | E,3 E, E, E, E, E, | E,2 E,2 z2 E, E, | E, E, A,, A,, B,,2 B,,2 | %15
+ E,6 z2 |] |] %17

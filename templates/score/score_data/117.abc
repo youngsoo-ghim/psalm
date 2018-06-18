@@ -1,0 +1,37 @@
+X:117
+T:117 만백성 기뻐하여라
+Z:English Traditional Corol/Arr. by Stainer
+Z:Copyright © 1970 by ÀüµµÈ¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/4
+Q:1/4=104
+M:4/4
+I:linebreak $
+K:G
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ E | E B B A | G F E D | E F G A | B3 E | E B B A | G F E D | E F G A | B3 B | c A B c | d e B A | %11
+w: 만|백 성 기 뻐|하 여 라 하|늘 의 평 화|가 저|마 귀 권 세|이 기 고 우|리 를 구 했|네 구|세 주 의 탄|생 하 심 다|
+w: 양|치 는 목 자|들 에 게 한|천 사 나 타|나 전|해 주 는 이|소 식 은 세|상 죄 대 속|할 하|나 님 의 독|생 성 자 탄|
+w: 그|천 사 가 말|하 기 를 무|서 워 말 아|라 동|정 녀 의 몸|을 빌 려 주|탄 생 하 셨|네 높|은 곳 엔 주|께 영 광 땅|
+ G E F G | A2 (G A) | B2 c B | B A G F | E2 G/ F/ E | A2 (G A) | B c d e | B A G F | E3 |] |] %21
+w: 함 께 기 리|세 오 *|기 쁘 다|반 가 운 소|식 주 오 셨|네 이 *|땅 위 에 평|화 내 리 시|네||
+w: 생 하 심 이|라 * *|||||||||
+w: 에 는 평 화|라 * *|||||||||
+V:2
+ E | E G F ^D | E =D C B, | E ^D E E | ^D3 E | E G F ^D | E =D C B, | E ^D E E | ^D3 E | E D D G | %10
+ =F E D ^D | E ^C D G | F2 (G D) | D2 E D | G F E ^D | E2 B,/ B,/ ^C | D2 (E F) | G G G G | %18
+ G F E ^D | E3 |] |] %21
+V:3
+ E, | G, E, F, B, | B, B, G, G, | G, B, B, E, | F,3 E, | G, E, F, B, | B, B, G, G, | G, B, B, E, | %8
+ F,3 ^G, | A, A, G, G, | G, G, G, F, | G, G, A, D | (D =C) (B, A,) | G,2 G, G, | D C B, A, | %15
+ G,2 G,/ G,/ G, | (F, A,) (D C) | B, G, D C | D C B, A, | G,3 |] |] %21
+V:4
+ E, | E, E, ^D, B,, | E, B,, C, G,, | C, B,, E, C, | B,,3 E, | E, E, ^D, B,, | E, B,, C, G,, | %7
+ C, B,, E, C, | B,,3 E, | A, F, G, E, | B,, C, G,, B,, | E, E, D, B,, | D,2 (E, F,) | G,2 C, G, | %14
+ G,, A,, B,, B,, | E,2 E,/ E,/ E, | (D, =C,) (B,, A,,) | G,, E, B,, C, | G,, A,, B,, B,, | E,3 |] %20
+ |] %21

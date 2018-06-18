@@ -1,0 +1,28 @@
+X:4
+T:성부 성자와 성령
+T:그에게 영광과 능력이 세세토록 있기를 원하노라 아멘
+C:Gloria Patri/H.W.Greatorex
+%%score (1|2) (3 4)
+L:1/4
+Q:1/4=108
+M:4/4
+I:linebreak $
+K:Eb
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ E3/2 E/ E E/ E/ | E D z E | F2 B2 | B B B c | d2 c2 | B2 z B | B G c B | B A z A | A F B A | %9
+w: 성 부 성 자 와|성 령 영|원 히|영 광 받 으|옵 소|서 태|초 로 지 금|까 지 또|길 이 영 원|
+ A G z2 | d2 d d | e2 (E F) | G2 (G F) | E4 |] %15
+w: 무 궁|성 삼 위 |께 아 *|멘 아 *|멘|
+V:2
+ B,3/2 B,/ B, B,/ B,/ | B, B, z B, | B,2 D2 | E G F G | F2 (F E) | D2 z D | E E E E | D D z D | %8
+ D D D F | F E z2 | F2 F F | E2 B, C | B,2 D2 | E4 |] %15
+V:3
+ G,3/2 G,/ G, G,/ G,/ | A, A, z G, | F,2 F,2 | G, B, B, B, | B,2 =A,2 | B,2 z B, | G, E, A, G, | %7
+ F, F, z F, | F, B, F, B, | B, B, z2 | B,2 B, B, | B,2 E,2 | E,2 A,2 | G,4 |] %15
+V:4
+ E,3/2 E,/ E, E,/ E,/ | F, F, z E, | D,2 B,,2 | E, E, D, E, | F,2 F,2 | B,,2 z B,, | E, E, E, E, | %7
+ B,, B,, z B,, | B,, B,, B,, B,, | E, E, z2 | A,2 A, A, | G,2 G,, A,, | B,,2 B,,2 | E,4 |] %15

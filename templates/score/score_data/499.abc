@@ -1,0 +1,45 @@
+X:499
+T:277 흑암에 사는 백성들을 보라
+Z:J.McGranahan/J.McGranahan
+Z:Copyright July 6th 2000 by 전도환
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/16
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:Ab
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ c4 A3 F E6 C2 | E2 F2 G2 A2 c4 B4 | B4 B3 =A B6 B2 | c2 _A2 A3 F | E8 c4 A3 F E6 C2 | %5
+w: 흑 암 에 사 는|백 성 들 을 보 라|수 많 은 심 령|멸 망 하 겠|네 그 누 가 갈 까|
+w: 구 원 의 문 은|넓 게 열 렸 으 니|십 자 가 군 병|일 어 나 거|라 너 희 의 힘 을|
+w: 왜 너 는 멸 망|길 을 가 려 느 냐|주 음 성 듣 고|응 답 하 여|라 널 구 원 하 려|
+w: 온 천 하 만 민|승 리 의 그 날 에|영 광 과 찬 송|주 께 드 리|네 속 죄 함 받 아|
+ E2 F2 G2 A2 c4 B4 | d4 c3 B c2 A2 A2 F2 | E4 G4 A8 | E8 A4 G4 | G3 F F3 F F8 | F8 B4 A4 | %11
+w: 주 의 복 음 들 고|생 명 을 구 원 하 는|곳 으 로||||
+w: 하 나 로 뭉 쳐 서|죄 악 의 쇠 사 슬 을|끊 어 라|큰 권 세|주 께 있 으 니|큰 권 세|
+w: 예 수 죽 었 으 니|생 명 의 이 복 음 을|전 하 라||||
+w: 구 원 받 았 으 니|기 쁘 게 할 렐 루 야|부 르 세||||
+ A3 G G3 G G8 | E2 E2 F2 G2 A3 A A2 c2 | c4 B4 d4 c2 e2 | e4 d2 B2 A4 =G4 | B8 A8 |] |] %17
+w: ||||||
+w: 주 께 있 으 니|너 는 가 서 주 의 복 음|전 하 라 주 가|너 항 상 지 키|리 라||
+w: ||||||
+w: ||||||
+V:2
+ E4 F3 D C6 A,2 | E2 F2 G2 A2 E4 E4 | E4 E3 E E6 E2 | E2 E2 =D3 D | E8 E4 F3 D C6 A,2 | %5
+ E2 F2 G2 A2 E4 E4 | G4 G3 G A2 E2 F2 D2 | C4 D4 C8 | C8 C4 E4 | E3 D D3 D D8 | =D8 D4 F4 | %11
+ F3 E E3 E E8 | E2 E2 F2 G2 A3 A A2 A2 | A4 G4 F4 E2 _G2 | _G4 F2 D2 C4 D4 | D8 C8 |] |] %17
+V:3
+ A,4 A,3 A, A,6 E,2 | E,2 F,2 G,2 A,2 A,4 G,4 | G,4 G,3 ^F, G,6 G,2 | A,2 C2 B,3 A, | %4
+ G,8 A,4 A,3 A, A,6 E,2 | E,2 F,2 G,2 A,2 E4 E4 | E4 E3 E E2 C2 D2 A,2 | A,4 B,4 A,8 | %8
+ A,8 E,4 A,4 | A,3 A, A,3 A, A,8 | B,8 F,4 B,4 | B,3 B, B,3 B, B,8 | %12
+ E,2 E,2 F,2 G,2 A,3 A, A,2 E2 | E4 E4 D4 E2 A,2 | A,4 A,2 A,2 A,4 B,4 | G,8 A,8 |] |] %17
+V:4
+ A,,4 D,3 D, A,,6 A,,2 | E,2 F,2 G,2 A,2 E,4 E,4 | E,4 E,3 E, E,6 E,2 | A,,2 A,,2 B,,3 B,, | %4
+ E,8 A,,4 D,3 D, A,,6 A,,2 | E,2 F,2 G,2 A,2 E,4 E,4 | E,4 E,3 E, A,2 A,2 D,2 D,2 | E,4 E,4 A,,8 | %8
+ A,,8 A,,4 C,4 | D,3 D, D,3 D, D,8 | B,,8 B,,4 =D,4 | E,3 E, E,3 E, E,8 | %12
+ E,2 E,2 F,2 G,2 A,3 A, A,2 A,2 | E,4 E,4 A,4 A,2 C,2 | D,4 D,2 D,2 E,4 E,4 | E,8 A,,8 |] |] %17

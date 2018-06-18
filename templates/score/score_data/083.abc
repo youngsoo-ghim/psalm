@@ -1,0 +1,52 @@
+X:83
+T:83 나의 맘에 수심 구름
+Z:J.B.Mackay/J.B.Mackay
+Z:Copyright © 1999 by ÀüµµÈ¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/16
+Q:1/4=96
+M:4/4
+I:linebreak $
+K:Db
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ F3 G | A3 A A2 B2 A2 F2 F3 A | d3 e d2 B2 A4 F3 G | A3 d d2 B2 A2 F2 F3 D | E12 F3 G | %5
+w: 1.~나 의|맘 에 수 심 구 름 가 득|하 게 덮 이 고 슬 픈|눈 물 속 절 없 이 흐 를|때 인 자|
+w: 2.~무 거|운 짐 등 에 지 고 인 생|길 을 가 는 자 힘 이|없 어 쓰 러 지 려 할 때|에 능 력|
+w: 3.~지 은|죄 를 돌 아 보 니 부 끄|럽 고 괴 로 와 자 나|깨 나 맘 에 화 평 없 을|때 추 한|
+w: 4.~요 단|강 을 건 너 가 서 시 온|성 을 향 할 때 나 와|항 상 동 행 할 이 누 굴|까 두 려|
+ A3 A A2 B2 A2 F2 F3 A | d3 e d2 B2 A4 D3 E | F3 A A2 B2 A2 F2 E3 F | D12 A3 F | A12 d3 e | %10
+w: 하 고 부 드 러 운 음 성|으 로 부 르 사 나 를|위 로 할 이 누 가 있 을|까 주 예|수 주 예|
+w: 있 는 팔 을 펴 서 나 의|손 을 붙 들 어 나 를|구 해 줄 이 누 가 있 을|까 * *||
+w: 죄 인 용 납 하 여 품 에|안 아 주 시 고 깨 끗|한 맘 주 실 이 가 누 굴|까 * *||
+w: 움 의 검 은 구 름 모 두|헤 쳐 버 리 고 나 의|갈 길 인 도 할 이 누 굴|까 * *||
+ d8- d6 B2 | A3 A A2 B2 A2 F2 F3 D | E12 F3 G | A2 A2 A3 B A6 A2 | B2 d2 d3 B A4 D3 E | %15
+w: 수 * 주|예 수 밖 에 누 가 있 으|랴 슬 퍼|낙 심 될 때 에 내|친 구 되 시 는 구 주|
+w: |||||
+w: |||||
+w: |||||
+ F3 A d2 B2 A2 F2 E3 F | D12 :| |] %18
+w: 예 수 밖 에 다 시 없 도|다||
+w: |||
+w: |||
+w: |||
+V:2
+ D3 E | F3 F F2 G2 F2 D2 D3 F | F3 F G2 G2 F4 D3 E | F3 F G2 G2 F2 D2 D3 D | C12 D3 E | %5
+ F3 F F2 G2 F2 D2 D3 F | F3 F G2 G2 F4 D3 D | D3 F F2 G2 F2 D2 C3 C | D12 z4 | z4 F3 F F4 z4 | %10
+ z4 G3 G G6 G2 | F3 F F2 G2 F2 D2 D3 D | C12 D3 E | F2 F2 F3 G F6 F2 | G2 G2 G3 G F4 D3 D | %15
+ D3 F F2 G2 F2 D2 C3 C | D12 :| |] %18
+V:3
+ A,3 A, | D3 D D2 D2 D2 A,2 A,3 A, | A,3 A, B,2 D2 D4 A,3 A, | D3 A, B,2 D2 D2 A,2 =G,3 G, | %4
+ A,12 A,3 A, | D3 D D2 D2 D2 A,2 A,3 A, | A,3 A, B,2 D2 D4 F,3 G, | A,3 D D2 D2 D2 A,2 G,3 A, | %8
+ F,12 z4 | z4 D3 D D4 z4 | z4 B,3 B, B,6 D2 | D3 D D2 D2 D2 A,2 G,3 G, | A,12 A,3 A, | %13
+ D2 D2 D3 D D6 D2 | D2 B,2 B,3 D D4 F,3 G, | A,3 D A,2 D2 D2 A,2 G,3 A, | F,12 :| |] %18
+V:4
+ D,3 D, | D,3 D, D,2 D,2 D,2 D,2 D,3 D, | D,3 D, G,2 G,2 D,4 D,3 D, | %3
+ D,3 D, G,2 G,2 D,2 D,2 B,,3 B,, | A,,12 D,3 D, | D,3 D, D,2 D,2 D,2 D,2 D,3 D, | %6
+ D,3 D, G,2 G,2 D,4 D,3 D, | D,3 D, D,2 D,2 D,2 D,2 A,,3 A,, | D,12 z4 | z4 D,3 D, D,4 z4 | %10
+ z4 G,3 G, G,6 G,2 | D,3 D, D,2 D,2 D,2 D,2 B,,3 B,, | A,,12 D,3 D, | D,2 D,2 D,3 D, D,6 D,2 | %14
+ G,2 G,2 G,3 G, D,4 D,3 D, | D,3 D, D,2 D,2 D,2 D,2 A,,3 A,, | D,12 :| |] %18

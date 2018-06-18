@@ -1,0 +1,46 @@
+X:231
+T:231. 우리 다 같이 무릎 꿇고서
+Z:Afro-American Spiritual. Arr. by W. Cosren
+Z:[nwc보물창고]http://cafe.daum.net/nwc1
+Z:231
+%%score 1 2 3 4
+L:1/4
+Q:1/4=96
+M:2/2
+I:linebreak $
+K:Eb
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ B, C | E2 E3/2 C/ | E/ G3/2 F F | E4- | E2 G A | B2 B3/2 G/ | B/ d3/2 c c | B4- | B2 E G | %9
+w: 1.우 리|다 같 이|무 릎 꿇 고|서|* 주 의|몸 인 이|떡 을 뗍 시|다||
+w: 2.우 리|다 같 이|무 릎 꿇 고|서|* 주 의|피 인 이|잔 을 듭 시|다|* 우 리|
+ B2 B B | B2 c B | A2 A A | A2 B2 | G2 G2 | E/ G3/2 F2 | E4- | E2 :| c d | e2 e3/2 B/ | %19
+w: ||||||||||
+w: 주 앞 에|서 무 릎|을 꿇 때|에 자|비 를|베 푸 소|서||3.우 리|다 같 이|
+ c/ c3/2 c c | B4- | B2 B c | e2 e3/2 B/ | c/ c3/2 c c | (B4 | c2) E G | B2 B B | B2 c B | A2 A A | %29
+w: ||||||||||
+w: 무 릎 꿇 고|서|* 우 리|하 나 님|찬 양 드 리|세|* 우 리|주 앞 에|서 무 릎|을 꿇 때|
+ A2 B2 | G2 G2 | E/ G3/2 F2 | E4- | E2 |] %34
+w: |||||
+w: 에 자|비 를|베 푸 소|서||
+V:2
+ B, C | B,2 C3/2 C/ | C C C D | B,2"^꿇고  서" C C | B,2 E D | E2 E3/2 E/ | E/ E3/2 E E | %7
+ D2"^뗍시" E E |"^다" F2 C D | E2 G F | =E2 G G | F2 F F | (F E) (D F) | (E F) (E D) | C C (D/ C/ D) | %15
+ C2"^베푸소" C/ C/ A, |"^서" B,2 :| D D | E2 E3/2 E/ | E/ E3/2 E D | E2"^꿇고" F F |"^서" G2 F A | %22
+ G2 G3/2 G/ | E/ E3/2 E D | (F2 E2 | D2) C D | E2 G F | =E2 G G | F2 F F | (F E) (D F) | %30
+ (E F) (E D) | C C (D/C/ D) | C2"^베푸 소  서" C/ C/ A, | B,2 |] %34
+V:3
+ B, A, | G,2 G,3/2 G,/ | A, A, A, A, | G,2 A, A, | G,2 B, B, | B,2 G,3/2 B,/ | G,/ B,3/2 G, =A, | %7
+ F,2 B, B, | A,2 A, B, | B,2 B, B, | C2 C C | C2 C C | B,2 B,2 | (B, =B,) (C G,) | A, A, A,2 | %15
+ A,2 A,/ A,/ F, | G,2 :| A, A, | G,2 B,3/2 B,/ | A,/ A,3/2 A, A, | [G,B,]2 [A,C] [A,C] | %21
+ [B,D]2 D D | (B, =B,) C3/2 _D/ | C/ C3/2 A, A, | (B,2 C2 | A,2) A, B, | B,2 B, B, | C2 C C | %28
+ C2 C C | B,2 B,2 | (B, =B,) (C G,) | A, A, A,2 | A,2 A,/ A,/ F, | G,2 |] %34
+V:4
+ B,, B,, | E, D, C, B,, | A,, F, B,, B,, | E,4- | E,2 E, F, | G,2 E,3/2 E,/ | E,/ C,3/2 F, F, | %7
+ B,,2 C, C, | D,2 B,, A,, | G,,2 E, _D, | C,2 =E, E, | F,2 E, E, | (D, C,) (B,, D,) | %13
+ (E, D,) (C, B,,) | A,, F,, B,,2 | E,4- | E,2 :| B,, B,, | B,,2 G,,3/2 G,,/ | A,,/ A,,3/2 B,, B,, | %20
+ (G,,2 A,,2 | B,,2) A, A, | G,2 E,3/2 E,/ | A,/ A,3/2 F, F, | (G,4 | F,2) B,, A,, | G,,2 E, _D, | %27
+ C,2 =E, E, | F,2 E, E, | (D, C,) (B,, D,) | (E, D,) (C, B,,) | A,, F,, B,,2 | E,4- | E,2 |] %34

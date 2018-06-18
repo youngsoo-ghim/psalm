@@ -1,0 +1,41 @@
+X:380
+T:424 나의 생명 되신 주
+Z:F.J.Crosby/W.H.Doane
+Z:Copyright July 6th 2000 by 전도환
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/16
+Q:1/4=80
+M:3/4
+I:linebreak $
+K:Ab
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ c3 B | A6 B2 A3 F | E8 E2 E2 | F A3 E A3 c3 B | B8 c3 B | A6 B2 A3 F | E8 E2 E2 | F A3 E A3 c3 B | %8
+w: 나 의|생 명 되 신|주 주 님|앞 에 나 아 갑 니|다 주 의|흘 린 보 혈|로 정 케|하 사 받 아 주 소|
+w: 괴 론|세 상 지 날|때 나 를|인 도 하 여 주 소|서 주 를|믿 고 나 가|면 나 의|길 을 잃 지 않 겠|
+w: 세 상|살 아 갈 때|에 주 를|더 욱 사 랑 합 니|다 밝 고|빛 난 천 국|에 나 의|영 혼 들 어 가 겠|
+ A8 A3 B | c8 c3 d | e8 c3 B | A6 A2 B2 c2 | B8 c3 B | A6 B2 A3 F | E8 E2 E2 | F A3 E A3 c3 B | %16
+w: 서 * *||||||||
+w: 네 날 마|다 날 마|다 주 를|찬 송 하 겠|네 주 의|사 랑 의 줄|로 나 를|귿 게 잡 아 매 소|
+w: 네 * *||||||||
+ A8 | A12 | A12 |] |] %20
+w: ||||
+w: 서||||
+w: |아|멘||
+V:2
+ E3 D | C6 E2 F3 D | C8 C2 C2 | D F3 E E3 E3 E | E8 E3 D | C6 E2 F3 D | C8 C2 C2 | D F3 E E3 E3 E | %8
+ C8 E3 E | A8 A3 A | A8 A3 E | E6 E2 E2 E2 | E8 E3 D | C6 E2 F3 D | C8 C2 C2 | D F3 E E3 E3 D | %16
+ C8 | D12 | C12 |] |] %20
+V:3
+ A,3 E, | E,6 A,2 A,3 A, | A,8 A,2 A,2 | A, A,3 A, A,3 A,3 G, | G,8 A,3 E, | E,6 A,2 A,3 A, | %6
+ A,8 A,2 A,2 | A, A,3 A, A,3 A,3 G, | A,8 C3 D | E2 E2 E4 A,3 B, | C2 C2 C4 E3 D | C6 A,2 G,2 A,2 | %12
+ G,8 A,3 E, | E,6 A,2 A,3 A, | A,8 A,2 A,2 | A, A,3 A, A,3 A,3 G, | A,8 | F,12 | E,12 |] |] %20
+V:4
+ A,,3 A,, | A,,6 C,2 D,3 D, | A,,8 A,,2 A,,2 | D, D,3 C, C,3 E,3 E, | E,8 A,,3 A,, | %5
+ A,,6 C,2 D,3 D, | A,,8 A,,2 A,,2 | D, D,3 C, C,3 E,3 E, | A,,8 A,3 A, | A,2 A,2 A,4 A,3 A, | %10
+ A,2 A,2 A,4 E,3 E, | A,,6 C,2 B,,2 A,,2 | E,8 A,,3 A,, | A,,6 C,2 D,3 D, | A,,8 A,,2 A,,2 | %15
+ D, D,3 C, C,3 E,3 E, | A,,8 | D,12 | A,,12 |] |] %20

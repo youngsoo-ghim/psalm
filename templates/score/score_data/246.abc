@@ -1,0 +1,49 @@
+X:246
+T:나 가난 복지 귀한 성에
+Z:미상
+Z:Copyright © 1997 by Àü µµ È¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/16
+Q:1/4=84
+M:4/4
+I:linebreak $
+K:Ab
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ E4 | E2 A2 A2 B2 c2 A2 A2 G2 | F A3 A3 F E6 E2 | E A3 A2 B2 c c3 B A3 | B12 z2 E2 | %5
+w: 나|가 난 복 지 귀 한 성 에|들 어 가 려 고 내|중 한 짐 을 벗 어 버 렸|네 죄|
+w: 그|불 과 구 름 기 둥 으 로|인 도 하 시 니 나|가 는 길 이 형 통 하 겟|네 그|
+w: 내|주 린 영 혼 만 나 로 써|먹 여 주 시 니 그|양 식 내 게 생 명 되 겠|네 이|
+ E2 A2 A2 B2 c2 A2 A2 G2 | F A3 A3 F E6 E2 | E2 A2 A2 B2 c c3 B B3 | A12 z4 | c e3 e3 c A6 G2 | %10
+w: 중 에 다 시 방 황 할 일|전 혀 없 으 니 저|생 명 시 냇 가 에 살 겠|네|길 이 살 겠 네 나|
+w: 요 단 강 을 내 가 지 금|건 넌 후 에 는 저|생 명 시 냇 가 에 살 겠|네||
+w: 후 로 생 명 양 식 주 와|함 께 먹 으 며 저|생 명 시 냇 가 에 살 겠|네||
+ F A3 A3 F E6 E2 | E2 A2 A2 B2 c c3 B A3 | B12 z4 | c e3 e3 c A6 G2 | F A3 A3 F E6 E2 | %15
+w: 길 이 살 겠 네 저|생 명 시 냇 가 에 살 겠|네|길 이 살 겠 네 나|길 이 살 겠 네 저|
+w: |||||
+w: |||||
+ E2 A2 A2 B2 c c3 B B3 | A12 :| |] %18
+w: 생 명 시 냇 가 에 살 겠|네||
+w: |||
+w: |||
+V:2
+ C4 | C2 C2 C2 D2 E2 D2 D2 E2 | D F3 F3 D C6 C2 | C C3 C2 D2 E E3 E =D3 | _D12 z2 D2 | %5
+ C2 C2 C2 D2 E2 C2 C2 E2 | D F3 F3 D C6 C2 | C2 C2 C2 D2 E E3 D D3 | C12 z4 | E E3 E3 E C6 E2 | %10
+ D F3 F3 D C6 C2 | C2 C2 C2 D2 E E3 E =D3 | E12 z4 | E E3 E3 E C6 E2 | D F3 F3 D C6 C2 | %15
+ C2 C2 C2 D2 E E3 D D3 | C4 D3 D C4 :| |] %18
+V:3
+ A,4 | A,2 E,2 E,2 E,2 A,2 E,2 E,2 A,2 | A, D3 D3 A, A,6 A,2 | A, E,3 E,2 E,2 A, A,3 G, F,3 | %4
+ G,12 z2 G,2 | A,2 E,2 E,2 E,2 A,2 E,2 E,2 A,2 | A, D3 D3 A, A,6 A,2 | %7
+ A,2 E,2 E,2 G,2 A, A,3 G, E,3 | E,12 z4 | A, C3 C3 A, A,6 A,2 | A, D3 D3 A, A,6 A,2 | %11
+ A,2 E,2 E,2 E,2 A, A,3 G, F,3 | G,12 z4 | A, C3 C3 A, A,6 A,2 | A, D3 D3 A, A,6 A,2 | %15
+ A,2 E,2 E,2 G,2 A, A,3 G, E,3 | E,4 F,3 _F, E,4 :| |] %18
+V:4
+ A,,4 | A,,2 A,,2 A,,2 A,,2 A,,2 A,,2 A,,2 C,2 | D, D,3 D,3 D, A,,6 A,,2 | %3
+ A,, A,,3 A,,2 A,,2 A,, A,,3 B,, B,,3 | E,12 z2 E,2 | A,,2 A,,2 A,,2 A,,2 A,,2 A,,2 A,,2 C,2 | %6
+ D, D,3 D,3 D, A,,6 A,,2 | A,,2 A,,2 A,,2 E,2 A, A,3 E, E,3 | A,,12 z4 | A, A,3 A,3 A, A,,6 C,2 | %10
+ D, D,3 D,3 D, A,,6 A,,2 | A,,2 A,,2 A,,2 A,,2 A,, A,,3 B,, B,,3 | E,12 z4 | %13
+ A, A,3 A,3 A, A,,6 C,2 | D, D,3 D,3 D, A,,6 A,,2 | A,,2 A,,2 A,,2 E,2 A, A,3 E, E,3 | A,,12 :| |] %18

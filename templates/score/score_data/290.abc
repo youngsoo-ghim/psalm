@@ -1,0 +1,41 @@
+X:290
+T:412 우리는 주님을 늘 배반하나
+Z:S.Clough/I.D.Sankey
+Z:Copyright © 1998 by NoteWorthy ArtWare, Inc.
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/4
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:G
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ D2 D G | B2 G B | (B A) E F | G2 D D | D2 G B | d2 B B | B2 A G | A3 D | D2 D G | B2 G B | %10
+w: 우 리 는|주 님 을|늘 * 배 반|하 나 내|주 예 수|여 전 히|날 부 르|사 그|참 되 신|사 랑 을|
+w: 주 께 서|풍 성 한|은 * 사 를|내 려 내|영 혼 이|나 날 이|복 받 으|니 주|예 수 를|그 대 도|
+w: 무 거 운|짐 지 고|애 * 타 는|인 생 주|예 수 께|돌 아 와|곧 믿 어|라 내|주 예 수|그 대 를|
+ (B A) E F | G2 D G | G2 F E | D2 G A | B2 A A | G3 B | d2 d e | d2 B B | B2 B c | B2 A G | %20
+w: 베 * 푸 시|나 니 내|형 제 여|주 님 을|곧 따 르|라 주|널 위 해|비 네 주|널 위 해|비 네 주|
+w: 구 * 주 로|섬 겨 곧|따 르 면|풍 성 한|복 받 겠|네 *|||||
+w: 돌 * 보 실|때 에 참|복 락 과|안 위 가|늘 있 겠|네 *|||||
+ G2 F E | D2 G G | (G F) E F | G4 |] |] %25
+w: 널 위 해|비 네 늘|빌 * 으 시|네||
+w: |||||
+w: |||||
+V:2
+ B,2 B, B, | D2 B, D | C2 C C | B,2 B, B, | B,2 D G | G2 G G | G2 D ^C | D3 D | B,2 B, B, | %9
+ D2 B, D | C2 C C | B,2 B, B, | E2 D C | B,2 ^B, B, | C2 F F | G3 G | G2 G G | G2 G G | G2 G G | %19
+ G2 F E | E2 D C | B,2 D D | D2 C C | B,4 |] |] %25
+V:3
+ G,2 G, G, | G,2 G, G, | F,2 A, A, | G,2 G, G, | G,2 B, D | B,2 D D | D2 D A, | F,3 F, | %8
+ G,2 G, G, | G,2 G, G, | F,2 A, A, | G,2 G, G, | G,2 G, G, | G,2 A, A, | G,2 =C C | B,3 D | %16
+ B,2 B, C | B,2 D D | D2 D E | D2 C B, | C2 G, G, | G,2 B, B, | A,2 G, A, | G,4 |] |] %25
+V:4
+ G,2 G, G, | G,2 G, G, | D,2 D, D, | G,2 G, G, | G,2 G, G, | G,2 G, G, | G,2 F, E, | D,3 D, | %8
+ G,,2 G,, G,, | G,,2 G,, G,, | D,2 D, D, | G,,2 G,, G,, | C,2 C, C, | G,2 E, E, | D,2 D, D, | %15
+ G,3 G, | G,2 G, G, | G,2 G, G, | G,2 G, G, | G,2 D, E, | C,2 C, C, | D,2 D, D, | D,2 D, D, | %23
+ G,,4 |] |] %25

@@ -1,0 +1,35 @@
+X:111
+T:111 귀중한 보배합을
+Z:Anonymous/Anonymous
+Z:Copyright © 1998 by ÀüµµÈ¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/8
+Q:1/4=149
+M:6/8
+I:linebreak $
+K:F
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ A ^G A B2 A | =G3 D3 | G ^F G A2 G | C6 | F E F G2 F | E3 B3 | B A B c2 B | A6 | A ^G A B2 A | %9
+w: 1.귀 중 한 보 배|합 을|주 앞 에 드 리|고|우 리 의 몸 과|맘 도|다 함 께 바 치|세|진 리 는 오 묘|
+w: 2.주 께 서 주 신|은 혜|한 없 이 크 오|니|주 께 서 주 신|것 을|감 사 히 바 치|세|기 쁨 은 충 만|
+w: 3.들 에 서 밤 을|새 며|양 치 던 목 자|들|하 늘 의 빛 난|영 광|보 고 서 놀 랐|네|천 사 의 기 쁜|
+ =G3 D3 | G ^F G A2 G | C6 | F E F A2 c | c3 B3 | A B A A2 G | F6 :| |] %17
+w: 하 고|사 랑 은 성 결|해|주 께 서 탄 생|하 신|거 룩 한 날 일|세||
+w: 하 고|소 망 은 불 변|해|정 성 과 만 을|다 해|경 배 를 드 리|세||
+w: 소 식|목 자 가 듣 고|서|찾 아 와 경 배|하 며|영 광 을 돌 렸|네||
+V:2
+ C =B, C D2 C | _B,3 B,3 | B, A, B, C2 B, | A,6 | A, G, A, B,2 A, | C3 C3 | C C C E2 G | F6 | %8
+ C =B, C D2 C | _B,3 B,3 | B, A, B, C2 B, | A,6 | A, G, A, C2 _E | D3 D3 | C D C C2 B, | A,6 :| |] %17
+V:3
+ F, F, F, F,2 F, | G,3 G,3 | E, ^D, E, E,2 E, | F,6 | F, F, F, F,2 F, | G,3 E,3 | E, E, E, G,2 C | %7
+ C6 | F, F, F, F,2 F, | G,3 G,3 | E, ^D, E, E,2 E, | F,6 | F, F, F, F,2 F, | F,3 F,3 | %14
+ F, F, F, E,2 E, | C,6 :| |] %17
+V:4
+ F, F, F, F,2 F, | B,,3 B,,3 | C, C, C, C,2 C, | F,6 | F, F, F, F,2 F, | C,3 C,3 | %6
+ C, C, C, C,2 C, | F,6 | F, F, F, F,2 F, | B,,3 B,,3 | C, C, C, C,2 C, | F,6 | F, F, F, F,2 A,, | %13
+ B,,3 B,,2- =B,, | C, C, C, C,2 C, | F,,6 :| |] %17

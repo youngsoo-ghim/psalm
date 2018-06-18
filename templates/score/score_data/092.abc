@@ -1,0 +1,36 @@
+X:92
+T:위에 계신 나의 친구
+Z:J.Oartman Jr.1856~1926)/B.F.Butts
+%%score (1|2)(3|4)
+L:1/8
+Q:1/4=80
+M:3/4
+I:linebreak $
+K:Bb
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ "^보통으로"F D E | F3 d c B | F3 B A B | c3 e d c | B3 F D E | F3 B c B | G3 B A G | F3 F G A | B3 | %9
+w: 1.~위 에 계|신 나 의 친|구 그 의 사|랑 지 극 하|다 이 는 예|수 그 리 스|도 나 의 구|주 나 의 친|구|
+w: 2.~나 를 위|해 죽 으 시|고 나 를 구|원 하 셨 으|니 기 쁨 으|로 경 배 하|며 찬 양 하|리 나 의 친|구|
+w: 3.~내 맘 속|에 늘 계 시|고 영 원 토|록 함 께 하|네 가 지 되|어 하 나 되|리 포 도 나|무 나 의 친|구|
+w: 4.~그 날 이|와 황 금 길|에 그 의 영|광 바 라 보|며 그 의 팔|로 날 안 을|때 만 나 보|리 나 의 친|구|
+[M:4/4] "^후렴"B A B | c4- c e d c | B4- B B A B | c4- c e d c | d4- d F =E F | d4- d d c B | G4- G B A G | F3 B B2 A2 | B4- B :|
+w: 사 랑 하|는 * 나 의 친 구 * 늘 가 까 이 * 계 시 도 다 * 그 의 사 랑 * 놀 랍 도 다 * 변 함 없 는 나 의 친 구
+V:2
+ D B, C | D3 F E D | D3 D C D | E3 G F E | D3 D B, C | D3 D E D | E3 E E E | D3 D E E | D3 | %9
+[M:4/4] z z2 | z A A A A G F E | D D E E D z z2 | z A A A A G F E | F F F F F F =E F | %14
+ z F F F F z z2 | z E E E E E E E | D3 F E2 E2 | D4- D :|
+V:3
+ B, F, F, | B,3 B, B, B, | B,3 F, F, F, | A,3 A, A, A, | B,3 B, F, F, | B,3 B, B, B, | %6
+ B,3 G, A, B, | B,3 B, C C | B,3 |[M:4/4] z z2 | z C C C C z z2 | z F, G, G, F, z z2 | %12
+ z C C C C z z2 | z B, B, B, B, z z2 | z B, B, B, B, z z2 | z B, B, B, B, G, A, B, | B,3 D C2 C2 | %17
+ B,4- B, :|
+w: |||||||||사 랑 하 는 나 의 친 구 늘 가 까 이 계 시 도 다 그 의 사 랑 놀 랍 도 다
+V:4
+ B,, B,, B,, | B,,3 B,, B,, B,, | B,,3 B,, B,, B,, | F,3 F, F, F, | B,,3 B,, B,, B,, | %5
+ B,,3 B,, B,, B,, | E,3 E, E, E, | F,3 F, F, F, | B,,3 |[M:4/4] z z2 | z F, A, C F, z z2 | %11
+ z B,, B,, B,, B,, z z2 | z F, A, C F, z z2 | z B,, B,, B,, B,, z z2 | z B,, B,, B,, B,, z z2 | %15
+ z E, E, E, E, E, E, E, | F,3 F, F,2 F,2 | B,,4- B,, :|

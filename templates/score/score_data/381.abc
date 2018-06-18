@@ -1,0 +1,45 @@
+X:381
+T:425 나 캄캄한 밤 죄의 길에
+C:J.W.van DeVenter(1855~1939)/W.S.Weeden(1847~1908)
+%%score (1|2)(3|4)
+L:1/16
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:Eb
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ "^보통으로"B,2 | E3 E E3 F G3 G G3 A | B3 B B3 c B6 B2 | c3 c A3 c B3 B B3 G | F3 B d3 c B8 | "^후렴"e4 d4 c4 B4 | %6
+w: 나|캄 캄 한 밤 죄 의 길 에|방 황 했 으 나 주|크 신 사 랑 비 칠 때 곧|어 둠 떠 났 네||
+w: 저|검 은 구 름 하 늘 덮 고|풍 랑 일 어 나 온|세 상 캄 캄 하 여 도 내|맘 에 빛 있 네||
+w: 나|빛 가 운 데 행 할 때 에|주 함 께 하 니 이|어 둔 세 상 등 지 고 나|전 진 하 리 라|사 랑 의 빛|
+w: 나|넓 게 퍼 진 저 들 판 을|건 너 갈 때 에 저|영 광 스 런 그 열 매 다|추 수 하 겠 네||
+w: 나|잠 시 후 에 영 광 의 빛|내 게 비 칠 때 그|영 광 스 런 주 얼 굴 나|친 히 뵙 겠 네||
+ A3 A A3 A A8 | d4 c4 B4 A4 | G3 A B3 c B8 | G3 F G3 A B4 c4 | d3 d d3 d d8 | e3 e d3 c B3 c B3 A | %12
+w: ||||||
+w: ||||||
+w: 오 늘 내 맘 에|사 랑 의 빛|항 상 있 도 다|내 가 예 수 믿 고|죄 짐 벗 은 후|마 음 속 에 항 상 그 빛|
+w: ||||||
+w: ||||||
+ G4 F4 E6 |]
+w: |
+w: |
+w: 있 도 다
+w: |
+w: |
+V:2
+ B,2 | B,3 B, B,3 D E3 E E3 F | G3 G G3 A G6 G2 | A3 A A3 A G3 G G3 E | D3 D F3 E D8 | %5
+ G4 G4 G4 G4 | D3 D D3 D D8 | D4 D4 D4 D4 | E3 F G3 A G8 | E3 D E3 F G4 G4 | A3 A A3 A (F3G A4) | %11
+ G3 G G3 G G3 A G3 F | E4 D4 E6 |]
+V:3
+ G,2 | G,3 G, G,3 A, B,3 B, B,3 B, | E3 E E3 E E6 E2 | E3 E C3 E E3 E E3 B, | B,3 B, =A,3 A, B,8 | %5
+ B,4 B,4 B,4 B,4 | B,3 B, B,3 B, B,8 | F,4 A,4 F,4 B,4 | B,3 B, E3 E E8 | B,3 B, B,3 B, E4 B,4 | %10
+ B,3 B, B,3 B, B,8 | B,3 B, B,3 B, E3 E E3 C | B,4 A,4 G,6 |]
+V:4
+ E,2 | E,3 E, E,3 E, E,3 E, E,3 E, | E,3 E, E,3 E, E,6 E,2 | A,3 A, A,3 A, E,3 E, E,3 E, | %4
+ F,3 F, F,3 F, B,,8 | E,4 E,4 E,4 E,4 | F,3 F, F,3 F, F,8 | B,,4 B,,4 B,,4 B,,4 | %8
+ E,3 E, E,3 E, E,8 | E,3 E, E,3 E, E,4 E,4 | B,,3 B,, B,,3 B,, B,,8 | %11
+ E,3 E, E,3 E, E,3 E, E,3 A,, | B,,4 B,,4 E,6 |]

@@ -1,0 +1,37 @@
+X:145
+T:145 오 거룩하신 주님
+Z:F.J.Crosby/W.H.Doane
+Z:Copyright Jun 25th 2000 by 전도환
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/4
+Q:1/4=84
+M:4/4
+I:linebreak $
+K:F
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ E | A G F E | D2 E B | c c B/A/ B | A3 E | A G F E | D2 E B | c c B/A/ B | A3 c | B/A/ G A B | %10
+w: 오|거 룩 하 신|주 님 그|상 하 신 * 머|리 조|롱 과 욕 에|싸 여 가|시 관 쓰 * 셨|네 아|침 * 해 처 럼|
+w: 주|당 하 신 그|고 난 죄|인 위 함 * 이|라 내|지 은 죄 로|인 해 주|형 벌 받 * 았|네 내|주 * 여 비 옵|
+w: 나|무 슨 말 로|주 께 다|감 사 드 * 리|랴 끝|없 는 주 의|사 랑 한|없 이 고 * 마|와 보|잘 * 것 없 는|
+ c2 c G | A G F F | E3 c | B/c/ d c B | A2 B E | F E D G | E3 | F2 E2 |] |] %19
+w: 밝 던 주|님 의 얼 굴|이 고|통 * 과 치 욕|으 로 창|백 해 지 셨|네|||
+w: 나 니 이|약 한 죄 인|을 은|혜 * 와 사 랑|으 로 늘|지 켜 주 소|서|||
+w: 나 를 주|의 것 삼 으|사 주|님 * 만 사 랑|하 며 나|살 게 하 소|서|아 멘||
+V:2
+ C | C/D/ D A,/B,/ C | C B, C E/D/ | C E E E/D/ | C3 C | C/D/ D A,/B,/ C | C B, C E/D/ | %7
+ C E E E/D/ | C3 E | D D/C/ C F | F E/D/ E E | F E E D | ^C3 D | D G G G | G ^F G C/B,/ | %15
+ A,/B,/ C C B, | C3 | C2 C2 |] |] %19
+V:3
+ A, | A,/B,/ C D G, | A, G, G, E, | E, A, A, ^G, | E,3 A, | A,/B,/ C D G, | A, G, G, E, | %7
+ E, A, A, ^G, | E,3 A,/G,/ | F, G, G, F,/G,/ | A, G,/F,/ G, C | C C/B,/ A, A, | A,3 A, | %13
+ G,/A,/ B, C D | E D D G, | F, G, A, G, | G,3 | A,2 G,2 |] |] %19
+V:4
+ A,/G,/ | F, E, D, C, | F,, G,, C, ^G,, | A,,/B,,/ C,/D,/ E, E, | A,,3 A,/G,/ | F, E, D, C, | %6
+ F,, G,, C, ^G,, | A,,/B,,/ C,/D,/ E, E, | A,,3 A,, | D, E, F,/E,/ D, | C,2 C, C, | %11
+ F, C, D,/E,/ F,/G,/ | A,3 ^F, | G, G,/^F,/ E, D, | C, D, G,, C, | D, E, F, G,, | C,3 | F,,2 C,2 |] %18
+ |] %19

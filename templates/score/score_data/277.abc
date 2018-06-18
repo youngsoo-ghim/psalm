@@ -1,0 +1,43 @@
+X:277
+T:335 양때를 떠나서
+Z:H.Bonar/J.Zundel
+Z:Copyright © 1999 by ÀüµµÈ¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/8
+Q:1/4=60
+M:6/8
+I:linebreak $
+K:F
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ C | F2 F FE F | G3- G2 C | G2 G GF G | A3- A2 C | A2 A A2 A | AB c c2 B | A2 A A2 G | F3- F2 C | %9
+w: 1~양|때 를 떠 * 나|서 * 길|잃 어 버 * 린|나 * 목|자 의 소 리|싫 * 어 서 먼|길 로 나 갔|네 * 방|
+w: 2~양|잃 은 목 * 자|는 * 그|양 을 찾 * 으|러 * 산|넘 고 물 을|건 * 너 서 사|막 을 지 났|네 * 갈|
+w: 3~내|목 자 예 * 수|는 * 날|사 랑 하 * 셔|서 * 내|상 한 몸 을|고 * 치 사 그|피 로 씻 었|네 * 길|
+w: 4~양|때 를 떠 * 나|서 * 맘|대 로 다 * 녔|네 * 나|지 금 목 자|따 * 르 며 그|음 성 듣 도|다 * 나|
+ G2 G GF G | A3- A2 C | A2 A AG A | B3- B2 C | A2 A A2 A | AB c c2 B | A2 A A2 G | F3- F2 :| %17
+w: 탕 한 이 * 몸|은 * 불|효 막 심 * 하|여 * 부|친 의 음 성|싫 * 어 서 먼|길 로 나 갔|네 *|
+w: 길 을 모 * 르|고 * 나|지 쳐 있 * 을|때 * 그|목 자 마 침|나 * 타 나 날|구 원 하 셨|네 *|
+w: 잃 은 양 * 찾|아 * 큰|위 로 주 * 시|고 * 그|우 리 안 에|이 * 끌 어 늘|보 호 하 시|네 *|
+w: 이 제 후 * 로|는 * 방|황 치 않 * 으|며 * 내|아 버 지 의|집 * 에 서 영|원 히 살 겠|네 *|
+ F3 F3 |] |] %19
+w: ||
+w: ||
+w: ||
+w: 아 멘||
+V:2
+ C | C2 C C2 F | E3- E2 C | E2 E ED E | F3- F2 C | F2 F F2 F | FG A A2 G | F2 F E2 E | F3- F2 C | %9
+ E2 E ED E | F3- F2 C | F2 F FE F | E3- E2 C | F2 F F2 F | FG A A2 G | F2 F E2 E | F3- F2 :| %17
+ D3 C3 |] |] %19
+V:3
+ A, | A,2 A, A,G, A, | B,3- B,2 C | C2 C C2 C | C3- C2 A, | C2 C C2 C | C2 F _E2 D | C2 C C2 B, | %8
+ A,3 A,2 A, | C2 C C2 C | C3- C2 C | C2 C CB, A, | G,3- G,2 C | C2 C C2 C | C2 F _E2 D | %15
+ C2 C C2 B, | A,3- A,2 :| B,3 A,3 |] |] %19
+V:4
+ F, | F,2 F, F,2 F, | C,3- C,2 C, | C,2 C, C,2 C, | F,3- F,2 F, | F,2 F, F,2 F, | F,2 F, F,2 B,, | %7
+ C,2 C, C,2 C, | F,3- F,2 F, | C,2 C, C,2 C, | C,3- C,2 C, | C,2 C, C,2 C, | C,3- C,2 C, | %13
+ F,,2 F, F,2 F, | F,2 F, F,2 B,, | C,2 C, C,2 C, | F,3- F,2 :| B,,3 F,,3 |] |] %19

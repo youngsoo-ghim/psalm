@@ -1,0 +1,37 @@
+X:563
+T:411 예수 사랑하심은
+Z:A.B.Warner/W.B.Bradbury
+Z:Copyright © 1998 by NoteWorthy ArtWare, Inc.
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/8
+Q:1/4=96
+M:2/4
+I:linebreak $
+K:Eb
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ B G G F | G B B2 | c c e c | c B B2 | B G G F | G B B2 | c c B E | G F E2 | B2 G B | c e3 | %10
+w: 예 수 사 랑|하 심 은|거 룩 하 신|말 일 세|우 리 들 은|약 하 나|예 수 권 세|많 도 다|날 사 랑|하 심|
+w: 나 를 사 랑|하 시 고|나 의 죄 를|다 씻 어|하 늘 문 을|여 시 고|들 어 가 게|하 시 네|||
+w: 내 가 연 약|할 수 록|더 욱 귀 히|여 기 사|높 은 보 좌|위 에 서|낮 은 나 를|보 시 네|||
+w: 세 상 사 는|동 안 에|나 와 함 께|하 시 고|세 상 떠 나|가 는 날|천 국 가 게|하 소 서|||
+ B2 G E | G F3 | B2 G B | c e2 c | B E G3/2 F/ | E4 | A4 | G4 |] |] %19
+w: 날 사 랑|하 심|날 사 랑|하 심 성|경 에 써 있|네|아|멘||
+w: |||||||||
+w: |||||||||
+w: |||||||||
+V:2
+ G E E D | E E E2 | E E E E | E E E2 | G E E D | E E E2 | E E E E | E D E2 | G2 E G | A A3 | %10
+ G2 E E | E D3 | G2 E G | A A2 A | G E E D | E4 | E4 | E4 |] |] %19
+V:3
+ B, B, B, B, | B, G, G,2 | A, A, A, A, | A, G, G,2 | B, B, B, B, | B, G, G,2 | A, A, G, B, | %7
+ B, A, G,2 | B,2 B, E | E C3 | E2 B, B, | B, B,3 | B,2 B, E | E C2 E | E B, B, A, | G,4 | C4 | %17
+ B,4 |] |] %19
+V:4
+ E, E, E, B,, | E, E, E,2 | A,, A,, C, C, | E, E, E,2 | E, E, E, B,, | E, E, E,2 | A,, C, E, G, | %7
+ B, B,, E,2 | E,2 E, E, | A, A,3 | E,2 E, G, | B, B,,3 | E,2 E, E, | A, A,2 C, | E, G, B, A, | %15
+ E,4 | A,,4 | E,4 |] |] %19

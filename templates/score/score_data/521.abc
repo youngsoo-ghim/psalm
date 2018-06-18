@@ -1,0 +1,50 @@
+X:521
+T:구원으로 인도하는
+Z:미상/J.R.Sweney
+Z:Copyright © 1997 by Àü µµ È¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/16
+Q:1/4=112
+M:4/4
+I:linebreak $
+K:Eb
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ G4 G3 F E4 G3 A | B8 G6 z2 | B4 F3 G A4 G3 F | G12 z4 | G4 G3 G A4 B3 c | B8 G6 z2 | %6
+w: 구 원 으 로 인 도|하 는|그 문 은 참 좁 으|며|생 명 으 로 인 도|하 는|
+w: 이 세 상 의 많 은|사 람|큰 문 으 로 들 어|가|넓 은 길 로 갈 지|라 도|
+w: 구 원 의 문 열 렸|으 니|주 의 공 로 힘 입|어|주 저 말 고 들 어|가 서|
+ B4 F3 G A4 G3 F | E12 z4 | c4 c3 c e4 d3 c | c8 B6 z2 | B4 c3 B A4 B3 A | G12 z4 | %12
+w: 그 길 은 참 험 하|니|우 리 몸 에 매 어|있 는|그 더 러 운 죄 짐|을|
+w: 멸 망 길 로 끝 나|니|세 상 헛 된 부 귀|영 화|모 두 내 어 버 리|고|
+w: 생 명 길 로 갑 시|다|구 원 의 문 닫 힌|후 엔|들 어 가 고 싶 으|나|
+ c4 c3 c e4 d3 c | c8 B6 z2 | B4 F3 d d2 c2 B3 =A | (B8 _A8) | G4 G3 F E4 G3 A | B8 G6 z2 | %18
+w: 하 나 없 이 벗 어|놓 고|힘 써 서 들 어 갑 시|다 *|구 원 으 로 인 도|하 는|
+w: 주 의 말 씀 순 종|하 여|그 생 명 길 로 갑 시|다 *|||
+w: 한 번 닫 힌 구 원|의 문|또 열 려 지 지 않 으|리 *|||
+ B4 F3 G A4 G3 F | G12 z4 | G4 G3 G A4 B3 c | B8 G6 z2 | B4 F3 G A4 G3 F | E12 z4 |] |] %25
+w: 그 좁 은 문 들 어|가|영 생 으 로 인 도|하 는|그 생 명 길 갑 시|다||
+w: |||||||
+w: |||||||
+V:2
+ E4 E3 E E4 E3 F | G8 E6 z2 | D4 D3 E F4 E3 D | E12 z4 | E4 E3 E E4 E3 E | E8 E6 z2 | %6
+ D4 D3 E F4 E3 D | E12 z4 | E4 E3 E E4 E3 E | E8 E6 z2 | D4 A3 G F4 G3 F | E12 z4 | %12
+ E4 E3 E E4 E3 E | E8 E6 z2 | D4 D3 F F2 F2 F3 F | (D8 F8) | E4 E3 E E4 E3 F | G8 E6 z2 | %18
+ D4 D3 E F4 E3 D | E12 z4 | E4 E3 E E4 E3 E | E8 E6 z2 | D4 D3 E F4 E3 D | E12 z4 |] |] %25
+V:3
+ B,4 B,3 A, G,4 B,3 B, | E8 B,6 z2 | B,4 B,3 B, B,4 B,3 B, | B,12 z4 | B,4 B,3 B, A,4 G,3 A, | %5
+ G,8 B,6 z2 | B,4 B,3 B, B,4 B,3 A, | G,12 z4 | A,4 A,3 A, C4 B,3 A, | A,8 G,6 z2 | %10
+ F,4 B,3 B, B,4 B,3 B, | B,12 z4 | A,4 A,3 A, C4 B,3 A, | A,8 G,6 z2 | F,4 B,3 B, B,2 E2 D3 C | %15
+ B,16 | B,4 B,3 A, G,4 B,3 B, | E8 B,6 z2 | B,4 B,3 B, B,4 B,3 B, | B,12 z4 | %20
+ B,4 B,3 B, A,4 G,3 A, | G,8 B,6 z2 | B,4 B,3 B, B,4 B,3 A, | G,12 z4 |] |] %25
+V:4
+ E,4 E,3 E, E,4 E,3 E, | E,8 E,6 z2 | B,,4 B,,3 B,, B,,4 B,,3 B,, | E,12 z4 | %4
+ E,4 _D,3 D, C,4 B,,3 A,, | E,8 E,6 z2 | B,,4 B,,3 B,, B,,4 B,,3 B,, | E,12 z4 | %8
+ A,4 A,3 A, A,4 A,3 A, | E,8 E,6 z2 | B,,4 B,,3 B,, B,,4 B,,3 B,, | E,12 z4 | %12
+ A,4 A,3 A, A,4 A,3 A, | E,8 E,6 z2 | F,4 F,3 F, F,2 F,2 F,3 F, | B,16 | E,4 E,3 E, E,4 E,3 E, | %17
+ E,8 E,6 z2 | B,,4 B,,3 B,, B,,4 B,,3 B,, | E,12 z4 | E,4 _D,3 D, C,4 B,,3 A,, | E,8 E,6 z2 | %22
+ B,,4 B,,3 B,, B,,4 B,,3 B,, | E,12 z4 |] |] %25

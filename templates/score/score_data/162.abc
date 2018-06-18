@@ -1,0 +1,46 @@
+X:162
+T:다시 사신 구세주
+C:A.H.Ackley(1934)/A.H.Ackley(1934)
+%%score (1|2)(3|4)
+L:1/8
+M:6/8
+I:linebreak $
+K:Bb
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ "^보통으로"F | F2 G G2 B | B3 G2 D | F2 F G2 G | D3- D2 F | d2 d d2 c | B3 G2 A | B2 B c2 d | c3- c2 F | %9
+w: 후|활 하 신 구|세 주 나|항 상 섬 기|네 * 온|세 상 조 롱|해 도 주|정 녕 사 셨|네 * 그|
+w: 온|세 상 살 펴|보 니 주|사 랑 알 겠|네 * 니|맘 이 아 플|때 도 주|사 랑 알 겠|네 * 이|
+w: 주|믿 는 성 도|들 아 다|기 쁜 노 래|로 * 주|예 수 우 리|왕 께 다|찬 양 드 리|세 * 이|
+ F2 G G2 B | B3 G2 D | F2 F G2 G | D3- D2 D | C2 D =E2 F | G c2- c2 B | A3 G3 | F3- F2 "^후렴"F |
+w: 은 혜 로 운|손 길 부|드 러 운 음|성 * 주|예 수 나 와|함 께 * 늘|계 시|네 * 예|
+w: 세 상 풍 파|이 길 힘|주 시 는 주|님 * 마|침 내 영 광|중 에 * 주|오 시|리 * *|
+w: 세 상 소 망|이 요 참|친 구 되 시|는 * 주|예 수 영 원|토 록 * 찬|양 하|세 * *|
+ d3- d2 F | d3- d2 c | B2 B cB G | F3- F2 F | F2 E E2 G | G2 F F2 B | B2 B GA B | c3- c2 F | %25
+w: 수 * 예|수 * 늘|살 아 계- * 셔|서 * 주|동 행 하 여|주 시 며 늘|말 씀 하- * 시|네 * 예|
+ d3- d2 F | d3- d2 c | B2 B c2 ^c | d3- d2 d | d2 d e2 d | d2 c HG2 B | Hf2 d c2 B | B3- B2 |]
+w: 수 * 예|수 * 내|구 세 주 예|수 * 내|맘 에 살 아|계 시 네 늘|살 아 계 시|네 *|
+V:2
+ D | D2 D D2 D | D3 D2 D | D2 D D2 D | B,3- B,2 D | F2 F ^F2 F | G3 D2 =F | E2 E E2 E | _E3- E2 E | %9
+ D2 D D2 D | D3 D2 D | D2 D D2 D | B,3- B,2 B, | B,2 B, C2 C | =E E2- E2 E | =E3 E3 | %16
+ F3- F2 F | F3- F2 F | (F2 G _A2) A | G2 G E2 E | D3- D2 D | D2 C C2 E | E2 D D2 F | %23
+ =E2 E E2 E | _E3- E2 F | F3- F2 F | (F2 G _A2) A | G2 G G2 G | ^F3- F2 F | =F2 F G2 F | %30
+ =E2 E E2 G | B2 F E2 D | D3- D2 |]
+V:3
+ B, | B,2 B, B,2 F, | F,3 B,2 F, | B,2 B, B,2 B, | F,3- F,2 B, | D2 D D2 D | D3 B,2 A, | %7
+ G,2 G, B,2 B, | A,3- A,2 A, | B,2 B, B,2 F, | F,3 B,2 F, | B,2 B, B,2 B, | F,3- F,2 F, | %13
+ =E,2 F, G,2 A, | B, B,2- B,2 D | C3 B,3 | A,3- A,2 z | z z B, B,2 z | z z B, B,2 B, | %19
+ B,2 B, G,2 B, | B,3- B,2 B, | A,2 A, A,2 A, | B,2 B, B,2 D | C2 C C2 B, | A,3- A,2 z | %25
+ z z B, B,2 z | z z B, B,2 B, | E2 E B,2 G, | A,3- A,2 A, | =B,2 B, B,2 B, | _B,2 B, B,2 ^C | %31
+ D2 B, A,2 F, | F,3- F,2 |]
+w:|||||||||||||||||예 수|예 수|||||||예 수|예 수
+V:4
+ B,, | B,,2 B,, B,,2 B,, | B,,3 B,,2 B,, | B,,2 B,, B,,2 B,, | B,,3- B,,2 B,, | B,2 B, A,2 A, | %6
+ G,3 G,2 D, | C,2 C, C,2 C, | F,3- F,2 F, | B,,2 B,, B,,2 B,, | B,,3 B,,2 B,, | B,,2 B,, B,,2 B,, | %12
+ B,,3- B,,2 B,, | C,2 C, C,2 C, | C, C,2- C,2 C, | C,3 C,3 | F,3- F,2 z | z z B,, B,,2 z | %18
+ z z B,, B,,2 D, | E,2 E, E,2 E, | B,,3- B,,2 B,, | F,2 F, F,2 F, | B,,2 B,, B,,2 B,, | %23
+ C,2 C, C,2 C, | F,3- F,2 z | z z B,, B,,2 z | z z B,, B,,2 D, | E,2 E, E,2 E, | D,3- D,2 D, | %29
+ G,2 G, G,2 G, | C,2 C, HC,2 =E, | HF,2 F, F,2 B,, | B,,3- B,,2 |]

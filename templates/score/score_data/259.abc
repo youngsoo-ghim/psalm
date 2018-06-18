@@ -1,0 +1,45 @@
+X:259
+T:193 예수 십자가에 흘린 피로써
+Z:E.A.Hoffman/E.A.Hoffman
+Z:Copyright © 1999 by ÀüµµÈ¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/8
+Q:1/4=96
+M:4/4
+I:linebreak $
+K:Ab
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ C E | A2 A2 A E C E | A2 A2 A2 A B | c2 c c c2 B A | B6 c B | A2 A2 A c B A | F2 F2 F2 A F | %7
+w: 1.~예 수|십 자 가 에 흘 린|피 로 써 그 대|는 씻 기 어 있 는|가 더 러|운 죄 회 개 하 는|능 력 을 그 대|
+w: 2.~주 예|수 와 밤 낮 으 로|늘 함 께 그 대|는 행 동 을 하 는|가 아 무|데 나 어 디 든 지|그 대 는 십 자|
+w: 3.~주 님|예 수 다 시 올 때|그 대 는 영 접|할 예 복 이 있 는|가 그 대|몸 은 거 룩 한 곳|성 전 에 들 어|
+w: 4.~모 든|죄 에 더 러 워 진|예 복 을 주 앞|에 지 금 다 벗 어|서 샘 물|같 이 솟 아 나 는|보 혈 로 눈 보|
+ E2 E E A2 G G | A6 c B | A6 A G | F6 A F | E2 A B c2 d c | B6 c B | A2 A2 A c B A | F2 F2 F2 A F | %15
+w: 는 참 의 지 하 는|가 예 수|의 보 혈|로 그 대|는 씻 기 어 있 는|가 마 음|속 의 여 러 가 지|죄 악 을 깨 끗|
+w: 가 붙 들 고 있 는|가 * *|||||||
+w: 갈 준 비 가 됐 는|가 * *|||||||
+w: 다 더 희 게 씻 으|라 * *|||||||
+ E2 E E A2 G G | A6 :| |] %18
+w: 이 씻 기 어 있 는|가||
+w: |||
+w: |||
+w: |||
+V:2
+ A, C | C2 C2 C C A, C | C2 D2 C2 E E | E2 E E E2 E =D | E6 E D | C2 C2 C E E E | D2 D2 D2 F D | %7
+ C2 C C E2 D D | C6 E D | C6 C E | D6 F D | C2 E E E2 E E | E6 E D | C2 C2 C E E E | D2 D2 D2 F D | %15
+ C2 C C E2 D D | C6 :| |] %18
+V:3
+ E, E, | E,2 E,2 E, A, E, A, | E,2 F,2 E,2 A, G, | A,2 A, A, A,2 B, B, | G,6 A, E, | %5
+ E,2 E,2 E, A, G, A, | A,2 A,2 A,2 D A, | A,2 A, A, C2 B, B, | A,6 z2 | z2 A, A, A,2 z2 | %10
+ z2 A, A, A,2 D A, | A,2 A, G, A,2 B, A, | G,2 G, G, G,2 A, E, | E,2 E,2 E, A, G, A, | %14
+ A,2 A,2 A,2 D A, | A,2 A, A, C2 B, B, | A,6 :| |] %18
+V:4
+ A,, A,, | A,,2 A,,2 A,, A,, A,, A,, | A,,2 D,2 A,,2 C, E, | A,2 A, A, A,2 G, F, | E,6 E, E, | %5
+ A,,2 A,,2 A,, A,, B,, C, | D,2 D,2 D,2 D, D, | E,2 E, E, E,2 E, E, | A,,6 z2 | %9
+ z2 A,, A,, A,,2 z2 | z2 D, D, D,2 D, D, | A,,2 C, E, A,2 G, A, | E,2 E, E, E,2 E, E, | %13
+ A,,2 A,,2 A,, A,, B,, C, | D,2 D,2 D,2 D, D, | E,2 E, E, E,2 E, E, | A,,6 :| |] %18

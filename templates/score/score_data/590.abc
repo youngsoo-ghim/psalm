@@ -1,0 +1,37 @@
+X:590
+T:309 논 밭에 오곡백과
+Z:J.S.B.Monsell/Lausanne Psalter
+Z:Copyright May 18th 2000 by Jun
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/4
+Q:1/4=104
+M:4/4
+I:linebreak $
+K:Bb
+V:1 treble
+L:1/8
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ F2 | B3 c dc BA | G4 G2 G2 | F2 B2 B2 A2 | B6 F2 | B3 c dc BA | G4 G2 G2 | F2 B2 B2 A2 | B6 B2 | %9
+w: 논|밭 에 오 * 곡 *|백 과 거|두 게 한 신|주 목|소 리 가 * 다 *|듬 어 할|렐 루 야 찬|양 철|
+w: 사|막 에 샘 * 이 *|솟 아 꽃|피 게 하 시|니 시|냇 물 노 * 래 *|하 고 산|들 은 춤 추|네 메|
+w: 은|혜 로 거 * 둔 *|곡 식 주|앞 에 바 치|고 구|원 을 받 * 은 *|이 몸 주|님 께 바 치|세 겸|
+ B3 A B2 AG | A4 A2 A2 | G2 B2 cB AG | A6 F2 | B3 A BA GF | G4 G2 G2 | F2 B2 B2 A2 | B6 |] |] %18
+w: 따 라 거 둔 *|열 매 주|님 의 은 * 혜 *|라 참|고 마 우 * 신 *|주 를 다|찬 양 하 여|라||
+w: 마 른 모 든 *|땅 에 단|비 를 주 * 시 *|고 오|곡 이 풍 * 성 *|하 게 주|축 복 하 셨|네||
+w: 손 히 무 릎 *|꿇 어 마|음 을 드 * 리 *|고 생|명 을 주 * 신 *|주 께 다|경 배 드 리|세||
+V:2
+ F | F3/2 F/ F F | (E F) E E/C/ | D D D B, | (C D C) F | F3/2 F/ F F | (E F) E E/C/ | D D D B, | %8
+ (C D C) F | F3/2 F/ F F | (F =E) F F | F F E D | (F G F) F | F3/2 F/ F D | (B, =B,) C C | %15
+ D D E E | D3 |] |] %18
+V:3
+ F, | B,3/2 A,/ B, B, | (B, =B,) C _B, | B, B, C C | (B, G, F,) F, | B,3/2 A,/ B, B, | %6
+ B, =B, C _B, | B, B, C C | (B, G, F,) B, | B,3/2 C/ B, C | (A, B,) C A, | B, B, G, B, | %12
+ (A, B, A,) A, | B,3/2 C/ D/C/ B,/A,/ | (G, F,) E, G, | B, B, C C | B,3 |] |] %18
+V:4
+ F, | D,3/2 F,/ B, D, | (E, D,) C, E, | D, G, C, F, | B,,3 F, | D,3/2 F,/ B, D, | (E, D,) C, E, | %7
+ D, G, C, F, | B,,3 B, | B,3/2 A,/ B, A,/ G,/ | (F, G,) A, F,/_E,/ | D, B,, C, G, | F,3 E, | %13
+ D,3/2 F,/ B,, D, | E, D, C, E, | D, G, C, F, | B,,3 |] |] %18

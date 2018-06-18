@@ -1,0 +1,35 @@
+X:376
+T:422 나그네와 같은 내가
+Z:W.Williams, T.Hastings
+Z:Copyright November 13th 1999 by 전도환
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/16
+Q:1/4=88
+M:3/4
+I:linebreak $
+K:D
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ A3 A | A4 F4 d3 A | B4 A4 d3 d | e3 e d4 c4 | d8 A3 A | A4 F4 d3 A | B4 A4 d3 d | e3 e d4 c4 | %8
+w: 나 그|네 와 같 은|내 가 힘 이|부 족 하 오|니 전 능|하 신 나 의|주 여 내 손|잡 고 가 소|
+w: 수 정|같 은 생 명|수 로 항 상|대 어 주 시|고 불 과|구 름 기 둥|으 로 갈 길|인 도 하 소|
+w: 요 단|강 을 건 널|때 에 검 이|없 게 하 시|고 저 기|뵈 는 가 나|안 땅 편 히|닿 게 하 소|
+ d8 F3 F | F4 D4 F3 F | E3 E D4 C4 | D8 A3 A | A4 F4 A3 A | G3 G F4 E4 | F8 | G12 | F12 |] |] %18
+w: 서 하 늘|양 식 내 게|먹 여 주 소|서 하 늘|양 식 내 게|먹 여 주 소|서||||
+w: 서 나 의|주 여 힘 과|방 패 되 소|서 나 의|주 여 힘 과|방 패 되 소|서||||
+w: 서 나 의|주 께 항 상|찬 송 드 리|리 나 의|주 께 항 상|찬 송 드 리|리|아|멘||
+V:2
+ F3 F | F4 D4 F3 F | G4 F4 A3 A | G3 G F4 E4 | F8 F3 F | F4 D4 F3 F | G4 F4 A3 A | G3 G F4 E4 | %8
+ F8 D3 D | D4 D4 D3 D | B,3 B, A,4 A,4 | A,8 F3 F | F4 D4 D3 D | E3 E D4 C4 | D8 | D12 | D12 |] |] %18
+V:3
+ D3 D | D4 A,4 A,3 D | D4 D4 A,3 A, | B,3 B, A,4 A,4 | A,8 D3 D | D4 A,4 A,3 D | D4 D4 A,3 A, | %7
+ B,3 B, A,4 A,4 | A,8 A,3 A, | A,4 F,4 A,3 A, | G,3 G, F,4 E,4 | F,8 D3 D | D4 A,4 A,3 A, | %13
+ B,3 B, A,4 A,4 | A,8 | B,12 | A,12 |] |] %18
+V:4
+ D,3 D, | D,4 D,4 D,3 D, | G,4 D,4 F,3 F, | G,3 G, A,4 A,,4 | D,8 D,3 D, | D,4 D,4 D,3 D, | %6
+ G,4 D,4 F,3 F, | G,3 G, A,4 A,,4 | D,8 D,3 D, | D,4 D,4 D,3 D, | G,,3 G,, A,,4 A,,4 | D,8 D,3 D, | %12
+ D,4 D,4 F,3 F, | G,3 G, A,4 A,,4 | D,8 | G,,12 | D,12 |] |] %18

@@ -1,0 +1,53 @@
+X:293
+T:414 주의 사랑 비췰 때에
+Z:C.E.Breck/W.J.Kirkpatrick
+Z:Copyright © 1999 by ÀüµµÈ¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/8
+Q:1/4=84
+M:6/8
+I:linebreak $
+K:Eb
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ E2 F G2 A | B2 c B G F | E3 G3 | F6 | F2 F F2 G | A2 A A B c | c3 A3 | G6 | B2 B Bc d | e2 c B3 | %10
+w: 1.주 의 사 랑|비 췰 때 에 기|쁨 오|네|근 심 걱 정|물 러 가 고 기|쁨 오|네|기 도 하- * 게|하 시 며|
+w: 2.주 의 사 랑|비 췰 때 에 이|세 상|은|아 름 답 고|활 기 차 게 다|변 하|네|화 평 중- * 에|내 영 혼|
+w: 3.주 의 사 랑|비 췰 때 에 이|세 상|은|어 둠 슬 픔|중 한 짐 이 다|없 겠|네|우 리 들- * 의|가 는 길|
+w: 4.주 의 사 랑|비 췰 때 에 그|광 채|가|찬 란 하 게|우 리 둘 러 비|취 겠|네|세 상 모- * 두|이 기 고|
+ A2 A AB c | c2 A G3 | E2 F G2 A | Be d e2 A | G3 F3 | E3- E2 B | B3 G3 | B3- B2 B | c3 (A2 c) | %19
+w: 희 미 한- * 것|물 리 쳐|주 의 사 랑|비- * 췰 때 기|쁨 오|네 * 그|큰 사|랑 * 내|맘 속 *|
+w: 영 광 스- * 런|새 생 명|다 시 찾 게|되- * 었 네 그|큰 사|랑 * *||||
+w: 밝 히 비- * 춰|주 시 며|복 을 받 게|하- * 시 네 그|큰 사|랑 * *||||
+w: 천 국 생- * 활|할 때 도|주 의 사 랑|비- * 취 네 그|큰 사|랑 * *||||
+ B6 | e2 e ed c | f2 f f d B | d3 c3 | B3- B2 A | G3 B3 | e3- e2 B | c3 (A2 c) | B6 | E2 F G2 A | %29
+w: 에|명 랑 하- * 게|비 췰 때 에 찬|송 하|네 * 그|큰 사|랑 * 내|맘 속 *|에|화 평 함 과|
+w: ||||||||||
+w: ||||||||||
+w: ||||||||||
+ B2 e e c A | G3 F3 | E6 :| |] %33
+w: 기 쁨 주 네 그|큰 사|랑||
+w: ||||
+w: ||||
+w: ||||
+V:2
+ E2 E E2 F | G2 A G E D | E3 E3 | D6 | D2 D D2 E | F2 F F G A | A3 F3 | E6 | G2 G G2 G | G2 A G3 | %10
+ D2 D D2 D | A2 F E3 | E2 F G2 A | BG F G2 F | E3 D3 | E3- E2 G | G3 E3 | G3- G2 G | A3 (E2 A) | %19
+ G6 | G2 G G2 G | F2 F F F D | (F2 B) (=A2 F) | z [DF][EG] [FA][EG] F | E3 G3 | G3- G2 G | %26
+ A3 (E2 A) | G6 | E2 F G2 A | B2 B A A F | E3 D3 | E6 :| |] %33
+V:3
+ G,2 A, B,2 B, | E2 E B, B, B, | B,3 B,3 | B,6 | B,2 B, B,2 B, | D2 D B, B, B, | B,3 B,3 | B,6 | %8
+ E2 E B,2 B, | B,2 E E3 | B,2 B, B,2 B, | B,2 B, B,3 | E,2 F, G,2 A, | B,2 B, B,2 C | B,3 A,3 | %15
+ G,3- G,2 z | z2 E B,2 B, | E3- E2 E | E3 C2 E | E6 | E2 C C=B, C | B,2 B, B, B, B, | %22
+ (B,2 F) (F2 E) | D3- D2 z | z2 B, E2 E | B,3- B,2 E | E3 (C2 E) | E6 | E,2 F, G,2 A, | %29
+ B,2 _D C E C | B,3 (B,2 A,) | G,6 :| |] %33
+V:4
+ E,2 E, E,2 E, | E,2 E, E, E, A, | G,3 E,3 | B,,6 | B,,2 B,, B,,2 B,, | B,,2 B,, B,, B,, B,, | %6
+ B,,3 B,,C,D, | E,6 | E,2 E, E,2 E, | E,2 E, E,3 | F,2 F, B,,2 B,, | D,2 B,, E,3 | E,2 F, G,2 A, | %13
+ B,2 B, E,2 A, | B,3 B,,3 | E,3- E,2 E, | E,2 E, E,2 E, | E,2 E, E,2 z | z2 A, A,2 A, | E,6 | %20
+ C,2 C, C,D, E, | D,2 D, D, D, G, | F,3 F,3 | B,,3- B,,2 B,, | E,2 E, E,2 E, | E,2 E, E,2 z | %26
+ z2 A, A,2 A, | E,6 | E,2 F, G,2 A, | B,2 G, A, A, A, | B,3 B,,3 | E,6 :| |] %33

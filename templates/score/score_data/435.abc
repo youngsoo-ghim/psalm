@@ -1,0 +1,40 @@
+X:435
+T:나의 영원하신 기업
+Z:S.J.Vail
+Z:Copyright © 1997 by Àü µµ È¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/16
+Q:1/4=88
+M:3/4
+I:linebreak $
+K:G
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ D3 G | B6 G2 F3 A | G4 D4 G3 B | d6 B2 G3 B | A8 D3 G | B6 B2 B3 d | d4 c4 B3 A | G6 B2 B3 A | %8
+w: 나 의|영 원 하 신|기 업 생 명|보 다 귀 하|다 나 의|갈 길 다 가|도 록 나 와|동 행 하 소|
+w: 세 상|부 귀 안 일|함 과 모 든|명 예 버 리|고 험 한|길 을 가 는|동 안 나 와|동 행 하 소|
+w: 어 둔|골 짝 지 나|가 며 험 한|바 다 건 너|서 천 국|문 에 이 르|도 록 나 와|동 행 하 소|
+ G8 F3 G | A8 c3 F | G8 B3 c | d8 d3 B | A8 D3 G | B6 B2 B3 d | d4 c4 B3 A | G6 B2 B3 A | G8 | %17
+w: 서 주 께|로 가 까|이 주 께|로 가 오|니 나 의|갈 길 다 가|도 록 나 와|동 행 하 소|서|
+w: 서 * *|||||||||
+w: 서 * *|||||||||
+ G12 | G12 |] |] %20
+w: 아|멘||
+w: |||
+w: |||
+V:2
+ D3 D | G6 D2 D3 D | D4 D4 D3 D | G6 G2 G3 G | F8 D3 D | G6 G2 G3 =F | E4 E4 E3 E | D6 G2 F3 F | %8
+ G8 D3 D | F8 F3 D | D8 G3 A | B8 B3 G | F8 D3 D | G6 G2 G3 =F | E4 E4 E3 E | D6 G2 F3 F | G8 | %17
+ E12 | D12 |] |] %20
+V:3
+ B,3 B, | D6 B,2 A,3 C | B,4 B,4 B,3 B, | B,6 D2 D3 D | D8 B,3 B, | D6 D2 D3 G, | G,4 G,4 G,3 A, | %7
+ B,6 D2 D3 C | B,8 A,3 B, | C8 A,3 C | B,8 D3 D | D8 D3 D | D8 B,3 B, | D6 D2 D3 G, | %14
+ G,4 G,4 G,3 A, | B,6 D2 D3 C | B,8 | C12 | B,12 |] |] %20
+V:4
+ G,3 G, | G,6 G,2 D,3 D, | G,4 G,4 G,3 G, | G,6 G,2 B,3 G, | D,8 G,3 G, | G,6 G,2 G,3 B,, | %6
+ C,4 C,4 C,3 C, | D,6 D,2 D,3 D, | G,,8 D,3 D, | D,8 D,3 D, | G,8 G,3 G, | G,8 G,3 G, | %12
+ D,8 G,3 G, | G,6 G,2 G,3 B,, | C,4 C,4 C,3 C, | D,6 D,2 D,3 D, | G,,8 | C,12 | G,,12 |] |] %20

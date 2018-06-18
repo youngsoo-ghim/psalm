@@ -1,0 +1,44 @@
+X:222
+T:524 우리 다시 만날 때까지
+Z:J.E.Rankin/W.G.Tomer
+Z:Copyright May 3rd 2000 by 전도환
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/8
+Q:1/4=92
+M:4/4
+I:linebreak $
+K:C
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ E3 E E E E E | G2 D2 E2 z2 | A3 A A A A A | A4 G2 z2 | G3 G G G G G | G4 E2 z2 | E3 E A G C D | %7
+w: 우 리 다 시 만 날|때 까 지|하 나 님 이 함 께|계 셔|훈 계 로 써 인 도|하 며|도 와 주 시 기 를|
+w: 우 리 다 시 만 날|때 까 지|하 나 님 이 함 께|계 셔|간 데 마 다 보 호|하 며|양 식 주 시 기 를|
+w: 우 리 다 시 만 날|때 까 지|하 나 님 이 함 께|계 셔|위 태 한 일 면 케|하 고|품 어 주 시 기 를|
+w: 우 리 다 시 만 날|때 까 지|하 나 님 이 함 께|계 셔|사 망 권 세 이 기|도 록|지 켜 주 시 기 를|
+ E2 D2 C2 E3/2 F/ | G2 c2 e2 d3/2 c/ | A2 c2 c2 B3/2 A/ | G3 A GE CE | D6 E3/2 F/ | %12
+w: 바 라 네 * *|||||
+w: 바 라 네 * *|||||
+w: 바 라 네 다 시|만 날 때 다 시|만 날 때 예 수|앞 에 만 * 날 *|때 다 시|
+w: 바 라 네 * *|||||
+ G2 c2 e2 d3/2 c/ | A2 c2 c4 | c3 A G E C D | E2 D2 C4 |] |] %17
+w: |||||
+w: |||||
+w: 만 날 때 다 시|만 날 때|그 때 까 지 계 심|바 라 네||
+w: |||||
+V:2
+ C3 C C C C C | C2 B,2 C2 z2 | C3 F F F F F | F4 E2 z2 | D3 D D D F F | E4 C2 z2 | C3 C F E C C | %7
+ C2 B,2 C2 C3/2 D/ | E2 E2 G2 G3/2 G/ | F2 A2 A2 G3/2 F/ | E3 F EC C2 | B,6 C3/2 D/ | %12
+ E2 E2 G2 G3/2 G/ | F2 A2 A4 | F3 F E C C C | C2 B,2 C4 |] |] %17
+V:3
+ G,3 G, G, G, G, G, | G,2 G,2 G,2 z2 | F,3 C C C C C | C4 C2 z2 | B,3 B, B, B, D D | C4 G,2 z2 | %6
+ G,3 G, C C G, A, | G,2 F,2 E,2 G,3/2 G,/ | G,2 G,2 C2 C3/2 C/ | C2 C2 C2 C3/2 C/ | C3 C CG, E,G, | %11
+ G,6 G,3/2 G,/ | G,2 G,2 C2 C3/2 C/ | C2 C2 C4 | A,3 C C G, G, A, | G,2 F,2 E,4 |] |] %17
+V:4
+ C,3 C, C, C, C, C, | E,2 G,2 C,2 z2 | F,3 F, F, F, F, F, | C,4 C,2 z2 | G,3 G, G, G, G,, G,, | %5
+ C,4 C,2 z2 | C,3 C, C, C, E, F, | G,2 G,,2 C,2 C,3/2 C,/ | C,2 C,2 C,2 E,3/2 E,/ | %9
+ F,2 F,2 F,2 F,3/2 F,/ | C,3 C, C,2 C,2 | G,,6 C,3/2 C,/ | C,2 C,2 C,2 E,3/2 E,/ | F,2 F,2 F,4 | %14
+ F,3 F, C, C, E, F, | G,2 G,,2 C,4 |] |] %17

@@ -1,0 +1,53 @@
+X:177
+T:164 오랫동안 고대하던
+Z:J.M.Kirk/J.M.Kirk
+Z:Copyright © 1999 by ÀüµµÈ¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/16
+Q:1/4=108
+M:4/4
+I:linebreak $
+K:G
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ D3 D | G3 G G3 A B3 B A3 G | d3 d d3 d B4 B3 A | G3 G G3 A B3 B A3 G | A3 A A3 B A4 B3 A | %5
+w: 1.~오 랫|동 안 고 대 하 던 천 년|왕 국 이 를 때 주 의|신 부 공 중 으 로 들 려|올 라 가 겠 네 항 상|
+w: 2.~그 때|모 든 성 도 들 의 기 도|응 답 되 리 니 하 나|님 을 모 르 는 이 천 지|간 에 없 으 리 모 든|
+w: 3.~주 의|구 속 함 을 얻 는 천 만|성 도 일 제 히 거 룩|한 산 시 온 성 에 기 쁨|으 로 모 이 리 화 평|
+w: 4.~우 리|주 의 평 화 로 운 천 년|왕 국 이 를 때 그 곳|에 는 죄 와 고 통 사 망|없 어 지 겠 네 천 만|
+ G3 G G3 A B3 B A3 G | G3 A G3 E D4 G3 A | B3 B c3 c B3 G A3 A | G12 B3 c | d3 d d3 d d3 d B3 A | %10
+w: 깨 어 기 도 하 며 어 서|준 비 합 시 다 우 리|주 님 세 상 다 시 오 시|네 우 리|주 님 세 상 다 시 오 시|
+w: 질 병 근 심 고 통 눈 물|없 이 하 시 려 우 리|주 님 세 상 다 시 오 시|네 * *||
+w: 함 과 인 애 로 써 세 상|다 스 리 시 려 우 리|주 님 세 상 다 시 오 시|네 * *||
+w: 성 도 간 절 하 게 주 를|고 대 하 도 다 우 리|주 님 세 상 다 시 오 시|네 * *||
+ G12 G3 A | B3 B B3 B d3 d d3 B | A12 D3 D | G3 G G3 A B3 B A3 G | G3 A G3 E D4 G3 A | %15
+w: 네 할 렐|루 야 주 님 다 시 오 시|네 약 한|마 귀 결 박 하 고 세 상|다 스 리 시 려 할 렐|
+w: |||||
+w: |||||
+w: |||||
+ B3 B c3 c B3 G A3 A | G12 :| G8 G8 |] |] %19
+w: 루 야 주 가 다 시 오 시|네|아 멘||
+w: ||||
+w: ||||
+w: ||||
+V:2
+ D3 D | D3 D D3 D G3 G D3 D | G3 G G3 G G4 G3 D | D3 D D3 D G3 G D3 D | F3 F F3 G F4 G3 D | %5
+ D3 D D3 D G3 G D3 D | E3 E E3 C B,4 D3 D | D3 D E3 E G3 G F3 F | D12 D3 D | G3 G G3 G G3 G G3 D | %10
+ D4 E3 E D4 D3 D | G3 G G3 G G3 G G3 G | F4 E3 E F4 D3 D | D3 D D3 D G3 G D3 D | %14
+ E3 E E3 C B,4 D3 D | D3 D E3 E G3 G F3 F | D12 :| E8 D8 |] |] %19
+V:3
+ D,3 D, | B,3 B, B,3 C D3 D C3 B, | B,3 B, B,3 B, D4 D3 C | B,3 B, B,3 C D3 D C3 B, | %4
+ D3 D D3 D D4 D3 C | B,3 B, B,3 C D3 D C3 B, | C3 C C3 G, G,4 G,3 F, | G,3 G, G,3 G, G,3 B, C3 C | %8
+ B,12 G,3 A, | B,3 B, B,3 B, B,3 B, D3 C | B,4 C3 C B,4 B,3 C | D3 D D3 D B,3 B, B,3 D | %12
+ D4 ^C3 C D4 D,3 D, | B,3 B, B,3 C D3 D C3 B, | C3 C C3 G, G,4 G,3 F, | G,3 G, G,3 G, G,3 B, C3 C | %16
+ B,12 :| C8 B,8 |] |] %19
+V:4
+ D,3 D, | G,3 G, G,3 G, G,3 G, G,3 G, | G,3 G, G,3 G, G,3 G, G,3 G, | G,3 G, G,3 G, G,3 G, G,3 G, | %4
+ D,3 D, D,3 D, D,4 G,3 G, | G,3 G, G,3 G, G,3 G, G,3 G, | C,3 C, C,3 C, G,,4 B,,3 D, | %7
+ G,3 G, C,3 C, D,3 D, D,3 D, | G,12 G,3 G, | G,3 G, G,3 G, G,3 G, G,3 G, | G,4 C,3 C, G,4 G,3 G, | %11
+ G,3 G, G,3 G, G,3 G, G,3 G, | D,4 E,3 E, D,4 D,3 D, | G,3 G, G,3 G, G,3 G, G,3 G, | %14
+ C,3 C, C,3 C, G,,4 B,,3 D, | G,3 G, C,3 C, D,3 D, D,3 D, | G,12 :| C,8 G,8 |] |] %19

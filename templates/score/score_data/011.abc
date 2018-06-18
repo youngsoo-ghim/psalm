@@ -1,0 +1,33 @@
+X:11
+T:홀로 한 분 하나님께
+Z:김두완
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/4
+M:3/4
+I:linebreak $
+K:F
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass nm="Bas"
+V:1
+"^보통으로" A A G | F3 | F E F | G3 | G G A | B3 | c c B | A3 | c c B | A3 | A G A | B3 | d B d | %13
+w: 홀 로 한|분|하 나 님|께|천 하 만|민|경 배 하|라|만 국 왕|을|다 스 리|고|온 세 상|
+w: 독 생 성|자|예 수 님|께|모 든 죄|인|회 개 하|라|세 상 만|민|구 원 하|고|놀 라 운|
+w: 보- * 혜|사|성 령 님|께|모 든 삶|을|맡 기 어|라|말 씀 으|로|도 우 시|고|죄 악 을|
+ c2 B | A A G | F3 | G G c | c3 | A A B | c3 | d d d | c2 (F/B/) | A A G | F3 | F3 | F3 |] %26
+w: 만 민|기 르 신|다|만 국 왕|을|다 스 리|고|온 세 상|만 민 *|기 르 신|다|||
+w: 은 혜|베 푸 신|다|세 상 만|민|구 원 하|고|놀 라 운|은 혜 *|베 푸 신|다|||
+w: 이 길|힘 주 신|다|말 씀 으|로|도 우 시|고|죄 악 을|이 길 *|힘 주 신|다|아|멘|
+V:2
+ F F E | D3 | D C C | E3 | E E D | D3 | E E D | C3 | F F E | F3 | F F ^F | G3 | F D F | F2 E | %14
+ F F E | C3 | E E E | E3 | F F G | A3 | F F F | G2 F | F F E | C3 | D3 | C3 |] %26
+V:3
+ C C C | A,3 | B, G, A, | B,3 | G, G, ^F, | G,3 | G, G, G, | F,3 | A, A, C | A,3 | D D D | D3 | %12
+ B, B, B, | A,2 G, | C C B, | A,3 | C C C | C3 | C C C | C3 | B,3/2 B,/ =B, | C2 D | C C B, | A,3 | %24
+ B,3 | A,3 |] %26
+V:4
+ F, F, C, | D,3 | B,, C, F, | C,3 | C, B,, A,, | G,,3 | C, C, D,/E,/ | F,3 | F, F, C, | D,3 | %10
+ D,/C,/ B,, A,, | G,,3 | B,, B,, B,, | C,2 C, | C, C, C, | F,3 | C, C, C, | C,2 G, | F, F, F, | %19
+ F,3 | B,3/2 A,/ G,/F,/ | E,2 B,, | C, C, C, | F,3 | B,,3 | F,3 |] %26

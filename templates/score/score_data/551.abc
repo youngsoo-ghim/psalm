@@ -1,0 +1,35 @@
+X:551
+T:296 오늘까지 복과 은혜
+Z:J.D.Burns/J.M.Haydn
+Z:Copyright © 1970 by ÀüµµÈ¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/4
+Q:1/4=104
+M:4/4
+I:linebreak $
+K:Ab
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ A B c d | e d c B | A A A d | c B A2 | A B c d | e d c B | A A A d | c B A2 | F F E E | A A A G | %10
+w: 오 늘 까 지|복 과 은 혜|내 려 주 신|주 앞 에|감 사 찬 송|부 르 면 서|새 해 맞 이|합 니 다|우 리 갈 길|비 춰 주 는|
+w: 죄 인 위 해|십 자 가 에|희 생 하 신|우 리 주|그 사 랑 에|감 격 하 여|이 몸 바 치|옵 니 다|우 리 갈 길|다 가 도 록|
+w: 주 의 얼 굴|뵙 고 살 면|하 루 하 루|즐 겁 고|주 와 함 께|짐 을 지 면|짐 이 점 점|가 벼 워|이 땅 위 에|영 광 의 날|
+ B B c A | G F E2 | G G A E | F G A B | c/B/ A/G/ F d | c B A2 :| A2 A2 |] |] %18
+w: 주 의 빛 을|기 리 고|사 랑 줄 로|매 어 주 는|은- * 혜- * 찬 양|합 니 다|||
+w: 친 구 되 어|주 시 고|원 수 들 도|사 랑 하 게|새- * 마- * 음 을|주 소 서|||
+w: 밝 아 오 는|때 까 지|사 랑 의 기|휘 날 리 며|봉- * 사- * 하 며|살 리 라|아 멘||
+V:2
+ E E E A | G F E E | C E F F | E3/2 D/ C2 | E E E A | G F E E | C E F F | E3/2 D/ C2 | D D C C | %9
+ C E E E | E E E E/F/ | E =D E2 | E E E C | D =E F G | A E D F | E3/2 D/ C2 :| D2 C2 |] |] %18
+V:3
+ C B, A, A, | B, A,/B,/ A, G, | A, A, A, A, | A, G, A,2 | C B, A, A, | B, A,/B,/ A, G, | %6
+ A, A, A, A, | A, G, A,2 | A, A, A,/B,/ C/D/ | E C C B, | G, G, A, A,/C/ | B,3/2 A,/ G,2 | %12
+ B, B, A, A, | A, C C _E | E A, A, A, | A, G, A,2 :| F,2 E,2 |] |] %18
+V:4
+ A, A, A, F, | E, F,/G,/ A, E, | F, C, D, B,, | E, E, A,,2 | A, A, A, F, | E, F,/G,/ A, E, | %6
+ F, C, D, B,, | E, E, A,,2 | D, D, A,, A,, | A,,/B,,/ C,/D,/ E, E, | E, E, A,, C,/A,,/ | %11
+ B,, B,, E,2 | E,3/2 D,/ C, A,, | D, C, F, _E, | A, C, D, B,, | C,/D,/ E, A,,2 :| D,2 A,,2 |] |] %18

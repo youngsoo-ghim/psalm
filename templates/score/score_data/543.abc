@@ -1,0 +1,37 @@
+X:543
+T:342 어려운 일 당할때
+Z:E.P.stites/I.D.Sankey
+Z:Copyright © 1997 by ÀüµµÈ¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/8
+Q:1/4=75
+M:6/8
+I:linebreak $
+K:G
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ B2 A c2 B | B2 A G3 | G2 E G2 E | DG B A3 | B2 A c2 B | A2 G E3 | DG B d2 B | B2 A G3 | %8
+w: 어 려 운 일|당 할 때|나 의 믿 음|적- * 으 나|의 지 하 는|내 주 를|더- * 욱 의 지|합 니 다|
+w: 성 령 게 서|내 맘 에|밝 히 비 춰|주- * 시 네|인 도 하 심|따 라 서|주- * 만 의 지|합 니 다|
+w: 밝 을 때 에|노 래 며|어 둘 때 에|기- * 도 와|위 태 할 때|도 움 을|주- * 께 간 구|합 니 다|
+w: 생 명 있 을|동 안 에|예 수 의 지|합- * 니 다|천 국 올 라|가 도 록|의- * 지 할 것|뿐 일 세|
+ d2 B d2 B | B2 A A3 | B2 F G2 G | A2 E F3 | G2 G A2 A | B2 B c3 | d2 e dB G | B2 A G3 :| |] %17
+w: 세 월 지 나|갈 수 록|의 지 할 것|뿐 일 세|아 무 일 을|만 나 도|예 수 의- * 지|합 니 다||
+w: |||||||||
+w: |||||||||
+w: |||||||||
+V:2
+ D2 C E2 D | D2 C B,3 | E2 C D2 C | B,2 D D3 | D2 C E2 D | E2 E C3 | B,G D G2 D | D2 C B,3 | %8
+ G2 C E2 D | D2 D D3 | ^D2 D E2 E | ^C2 C D3 | D2 B, D2 D | D2 =F E3 | D2 G G2 G | G2 F G3 :| |] %17
+V:3
+ G,2 G, G,2 G, | F,2 F, G,3 | G,2 G, G,2 G, | G,2 G, F,3 | G,2 G, G,2 G, | G,2 G, G,3 | %6
+ G,D, G, B,2 G, | F,2 F, G,3 | B,2 G, B,2 G, | G,2 F, F,3 | F,2 B, B,2 B, | A,2 A, A,3 | %12
+ G,2 G, F,2 F, | G,2 G, G,3 | G,2 G, B,D B, | D2 C B,3 :| |] %17
+V:4
+ G,,2 G,, G,,2 G,, | D,2 D, G,,3 | C,2 C, C,2 C, | G,,2 G,, D,3 | G,,2 G,, G,,2 G,, | C,2 C, C,3 | %6
+ G,,2 G,, G,2 G, | D,2 D, G,,3 | G,2 G, G,2 G,, | D,2 D, D,3 | B,,2 B,, E,2 E, | A,,2 A,, D,2 =C, | %12
+ B,,2 G,, D,2 D, | G,2 G,, C,3 | B,,2 C, D,2 E, | D,2 D, G,,3 :| |] %17

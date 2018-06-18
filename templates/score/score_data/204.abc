@@ -1,0 +1,47 @@
+X:204
+T:379 주의 말씀 듣고서
+Z:Anonymous/P.P.Bliss
+Z:Copyright © 1999 by ÀüµµÈ¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/8
+Q:1/4=162
+M:6/8
+I:linebreak $
+K:Eb
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ E2 F G2 A | B2 c B3 | B2 G B2 G | G F2- F2 z | E2 F G2 A | B2 c B3 | B2 G B2 G | F E2- E2 z | %8
+w: 1.주 의 말 씀|듣 고 서|준 행 하 는|자 는 *|반 석 위 에|터 닦 고|집 을 지 음|같 아 *|
+w: 2.주 의 말 씀|듣 고 도|행 치 않 는|자 는 *|모 래 위 에|터 닦 고|집 을 지 음|같 아 *|
+w: 3.세 상 모 든|사 람 들|집 을 짓 는|자 니 *|반 석 위 가|아 니 면|모 래 위 에|짓 네 *|
+ G2 B e2 B | c2 c B3 | B2 G B2 G | G F2- F2 z | G2 B e2 B | c2 c B3 | B2 G B2 G | F E2- E2 z | %16
+w: 비 가 오 고|물 나 며|바 람 부 딪|쳐 도 *|반 석 위 에|세 운 집|넘 어 지 지|않 네 *|
+w: 비 가 오 고|물 나 며|바 람 부 딪|칠 때 *|모 래 위 에|세 운 집|크 게 무 너|지 네 *|
+w: 우 리 구 주|오 셔 서|지 은 상 을|줄 때 *|세 운 공 력|따 라 서|영 영 상 벌|주 리 *|
+ G2 B B3 | A2 c c3 | B2 G B2 G | G F2- F2 z | E2 F G2 A | B2 e (e c2) | B2 G B2 G | F E2- E2 z :| %24
+w: 잘 짓 고|잘 짓 세|우 리 집 잘|짓 세 *|만 세 반 석|위 에 다 *|우 리 집 잘|짓 세 *|
+w: ||||||||
+w: ||||||||
+ |] %25
+w: |
+w: |
+w: |
+V:2
+ E2 E E2 F | G2 A G3 | G2 E G2 E | E D2- D2 z | E2 E E2 F | G2 A G3 | G2 E G2 E | D E2- E2 z | %8
+ E2 E G2 G | A2 A G3 | G2 E G2 E | E D2- D2 z | E2 E G2 G | A2 A G3 | G2 E G2 E | D E2- E2 z | %16
+ E2 G G3 | A2 A A3 | G2 E G2 E | E D2- D2 z | E2 E E2 F | G2 G A3 | G2 E G2 E | D E2- E2 z :| |] %25
+V:3
+ G,2 A, B,2 B, | E2 E E3 | E2 B, E2 B, | B, B,2- B,2 z | G,2 A, B,2 B, | E2 E E3 | E2 B, E2 B, | %7
+ A, G,2- G,2 z | B,2 G, B,2 E | E2 E E3 | E2 B, E2 B, | B, B,2- B,2 z | B,2 G, B,2 E | E2 E E3 | %14
+ E2 B, E2 B, | A, G,2- G,2 z | B,2 E E3 | C2 E E3 | E2 B, E2 B, | B, B,2- B,2 z | G,2 A, B,2 B, | %21
+ B,2 B, (C E2) | E2 B, E2 B, | A, G,2- G,2 z :| |] %25
+V:4
+ E,2 E, E,2 E, | E,2 E, E,3 | E,2 E, E,2 E, | B,, B,,2- B,,2 z | E,2 E, E,2 E, | E,2 E, E,3 | %6
+ E,2 E, E,2 E, | B,, E,2- E,2 z | E,2 E, E,2 E, | A,,2 C, E,3 | E,2 E, E,2 E, | B,, B,,2- B,,2 z | %12
+ E,2 E, E,2 E, | A,,2 C, E,3 | E,2 E, E,2 E, | B,, E,2- E,2 z | E,2 E, E,3 | A,2 A, A,3 | %18
+ E,2 E, E,2 E, | B,, B,,2- B,,2 z | E,2 E, E,2 E, | E,2 E, A,3 | E,2 E, E,2 E, | B,, E,2- E,2 z :| %24
+ |] %25

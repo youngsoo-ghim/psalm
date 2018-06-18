@@ -1,0 +1,45 @@
+X:249
+T:주 사랑하는 자 다 찬송할 때에
+Z:I.Watts/R.Lowry
+Z:Copyright © 1997 by Àü µµ È¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/8
+Q:1/4=69
+M:6/8
+I:linebreak $
+K:F
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ F | A3 F3 | CD E F2 G | A2 F cB A | G3- G2 G | A2 A B2 A | G2 F D2 F | G2 G A2 G | F2 D C2 C | %9
+w: 주|사 랑|하- * 는 자 다|찬 송 할- * 때|에 * 그|보 좌 앞 에|둘 러 서 그|보 좌 앞 에|둘 러 서 큰|
+w: 주|믿 지|않- * 는 자 다|찬 송 못- * 하|나 * 천|부 의 자 녀|된 자 들 천|부 의 자 녀|된 자 들 그|
+w: 저|하 늘|황- * 금 길 나|이 르 기- * 전|에 * 시|온 성 언 덕|위 에 서 시|온 성 언 덕|위 에 서 수|
+w: 내|눈 물|다- * 씻 고 늘|찬 송 부- * 르|리 * 저|임 마 누 엘|주 앞 에 저|임 마 누 엘|주 앞 에 나|
+ F3 G3 | A2 c B2 G | F2 F G2 E | F3- F2 A | c3 A2 A | A3 F3 | A3/2 G/ F c3/2 B/ A | G3 c2 B | %17
+w: 영 광|돌 리 세 큰|영 광 돌 리|세 * 저|밝 고 도|묘 한|시 온 성 향 하 여|가 세 내|
+w: 기 쁨|전 하 세 그|기 쁨 전 하|세 * *|||||
+w: 많 은|천 사 들 날|인 도 하 리|라 * *|||||
+w: 영 광|누 리 리 나|영 광 누 리|리 * *|||||
+ A2 A A B c | d3 dc B | A3/2 A/ A G/ G3/2 G | F3- F2 :| |] %22
+w: 주 의 찬 란 한|성 에- * 찬|송 하 며 올 라 가|세 *||
+w: |||||
+w: |||||
+w: |||||
+V:2
+ C | F3 C3 | C2 C C2 E | F2 C AG F | E3- E2 E | F2 F F2 F | D2 D D2 C | E2 E F2 E | D2 =B, C2 C | %9
+ C3 E3 | F2 A G2 D | C2 C C2 C | C3- C2 F | A3 F2 F | F3 C3 | F3/2 C/ C F3/2 F/ F | E3 E2 G | %17
+ F2 F F F F | F3 F2 G | F3/2 F/ F E/ E3/2 E | F3- F2 :| |] %22
+V:3
+ B, | D3 A,3 | B,2 B, A,2 C | C2 B, C2 C | C3- C2 C | C2 C D2 C | B,2 B, F,2 A, | C2 C C2 G, | %8
+ G,2 F, E,2 A, | A,3 C3 | C2 C D2 B, | A,2 A, B,2 B, | A,3- A,2 C | C3 C2 C | C3 A,3 | %15
+ C3/2 B,/ A, A,3/2 D/ C | C3 G,2 C | C2 C C B, A, | B,3 B,C D | C3/2 C/ C B,/ B,3/2 B, | %20
+ A,3- A,2 :| |] %22
+V:4
+ F, | F,3 F,,3 | C,2 C, F,2 C, | F,2 F, F,2 F, | C,3- C,2 C, | F,2 F, F,2 F, | B,,2 B,, B,,2 F, | %7
+ C,2 C, C,2 C, | G,,2 G,, C,2 F, | F,3 C,3 | F,2 F, B,,2 B,, | C,2 C, C,2 C, | F,,3- F,,2 F, | %13
+ F,3 F,2 F, | F,3 F,3 | F,3/2 F,/ F, F,3/2 F,/ F, | C,3 C,2 C, | F,2 F, F, F, F, | %18
+ B,,3 B,,A,, B,, | C,3/2 C,/ C, C,/ C,3/2 C, | F,,3- F,,2 :| |] %22

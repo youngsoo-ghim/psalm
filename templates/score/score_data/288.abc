@@ -1,0 +1,37 @@
+X:288
+T:예수로 나의 구주 삼고
+Z:F.J.Crosby(1873)/P.P.Knapp(1873)
+%%score (1|2)(3|4)
+L:1/8
+Q:1/4=98
+M:9/8
+I:linebreak $
+K:D
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ "^보통으로"F E D | A3 A3 G A B | A6 A F A | d3 c2 c B A ^G | A6 F E D | A3 A3 G A B | A6 D E F | %7
+w: 예 수 를|나 의 구 주 삼|고 성 령 과|피 로 써 거 듭 나|니 이 세 상|에 서 내 영 혼|이 하 늘 의|
+w: 온 전 히|주 께 맡 긴 내|영 사 랑 의|음 성 을 듣 는 중|에 천 사 들|왕 래 하 는 것|과 하 늘 의|
+w: 주 안 에|기 쁨 누 리 므|로 마 음 의|풍 랑 이 잔 잔 하|니 세 상 과|나 는 간 곳 없|고 구 속 한|
+ G3 E3 D E C | D6 "^후렴"A A A | d3 A3 B B B | A6 A A A | B3 d3 c c B | c6 c d e | d3 A3 B A B | %14
+w: 영 광 누 리 도|다 이 것 이|나 의 간 증 이|요 이 것 이|나 의 찬 송 일|세 나 사 는|동 안 끊 임 없|
+w: 영 광 보 리 로|다 * * *||||||
+w: 주 만 보 이 도|다 * * *||||||
+ A6 D E F | G3 E3 D3/2 E/ C | D6 :| D3 D3 |]
+w: 이 구 주 를|찬 송 하 리 로|다|아 멘
+V:2
+ D D D | F3 F3 D D D | D6 F D F | F3 E2 E E E E | E6 D D D | F3 F3 D D D | D6 D D D | %7
+ D3 B,3 D C A, | A,6 F F F | F3 F3 G G G | F6 F F F | G3 A3 A A ^G | A6 G G G | F3 F3 G F G | %14
+ F6 D C D | D3 B,3 D3/2 C/ A, | A,6 :| B,3 A,3 |]
+V:3
+ A, G, F, | A,3 A,3 B, F, G, | F,6 A, A, A, | A,3 A,2 A, D C B, | C6 A, G, F, | A,3 A,3 B, F, G, | %6
+ F,6 F, G, A, | B,3 G,3 F, G, E, | F,6 D D D | A,3 D3 D D D | D6 D D D | D3 D3 E E E | E6 A, B, C | %13
+ D3 D3 D D D | D6 A, A, A, | B,3 G,3 F,3/2 G,/ E, | F,6 :| G,3 F,3 |]
+V:4
+ D, D, D, | D,3 D,3 D, D, D, | D,6 D, D, D, | D,3 E,2 E, E, E, E, | A,,6 D, D, D, | %5
+ D,3 D,3 D, D, D, | D,6 D, D, D, | G,,3 G,,3 A,, A,, A,, | D,6 D, D, D, | D,3 D,3 G, G, G, | %10
+ D,6 D, D, D, | G,3 F,3 E, E, E, | A,6 A, A, A, | D,3 D,3 D, D, D, | D,6 F, E, D, | %15
+ G,,3 G,,3 A,,3/2 A,,/ A,, | D,6 :| G,,3 D,3 |]

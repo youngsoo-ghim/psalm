@@ -1,0 +1,43 @@
+X:50
+T:71 내게 있는 모든 것을
+Z:J.W.Van De Venter/W.S.Weeden
+Z:Copyright © 1999 by ÀüµµÈ¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/8
+Q:1/4=92
+M:4/4
+I:linebreak $
+K:D
+V:1 treble
+V:2 treble
+V:3 bass
+L:1/4
+V:4 bass
+L:1/4
+V:1
+ F3 F G2 F2 | E3 E F2 E2 | D3 D G2 F2 | E2 F2 D4 | F3 F G2 F2 | E3 E F2 E2 | D3 D G2 F2 | %7
+w: 1.~내 게 있 는|모 든 것 을|아 낌 없 이|바 치 네|사 랑 하 고|의 지 하 여|주 만 따 라|
+w: 2.~내 게 있 는|모 든 것 을|겸 손 하 게|바 치 네|세 상 복 락|멀 리 하 니|나 를 받 아|
+w: 3.~내 게 있 는|모 든 것 을|주 를 위 해|바 치 네|크 신 권 능|충 만 하 게|내 게 내 려|
+ E2 F2 D4 | d3 c B2 A2 | G6 z2 | c3 B A2 G2 | F6 z2 | F3 G B2 A2 | d3 c c2 B2 | A3 G F2 E2 | %15
+w: 가 겠 네|주 께 드 리|네|주 께 드 리|네|사 랑 하 는|구 주 앞 에|모 두 드 리|
+w: 줍 소 서||||||||
+w: 줍 소 서||||||||
+ D6 z2 :| D4 D4 |] |] %18
+w: 네|||
+w: |||
+w: |아 멘||
+V:2
+ D3 D D2 D2 | C3 C C2 C2 | D3 D D2 D2 | C2 C2 D4 | D3 D D2 D2 | C3 C C2 C2 | D3 D D2 D2 | %7
+ C2 C2 D4 | F3 A G2 F2 | E6 z2 | E3 G F2 E2 | D6 z2 | D3 E G2 F2 | F3 A A2 G2 | F3 E D2 C2 | %15
+ D6 z2 :| B,4 A,4 |] |] %18
+V:3
+ A,3/2 A,/ B, A, | G,3/2 G,/ A, G, | F,3/2 F,/ B, A, | G, A, F,2 | A,3/2 A,/ B, A, | %5
+ G,3/2 G,/ A, G, | F,3/2 F,/ B, A, | G, A, F,2 | A, z A, z | C/ C/ C/ C/ C z | A, z A, z | %11
+ A,/ A,/ A,/ A,/ A, z | A,3/2 A,/ D D | A,3/2 D/ D D | D3/2 A,/ A, A, | F,3 z :| G,2 F,2 |] |] %18
+V:4
+ D,3/2 D,/ D, D, | A,,3/2 A,,/ A,, A,, | D,3/2 D,/ D, D, | A,, A,, D,2 | D,3/2 D,/ D, D, | %5
+ A,,3/2 A,,/ A,, A,, | D,3/2 D,/ D, D, | A,, A,, D,2 | D, z D, z | A,,/ A,,/ C,/ E,/ A,, z | %10
+ A,, z A,, z | D,/ D,/ F,/ A,/ D, z | D,3/2 D,/ D, D, | D,3/2 F,/ G, G, | A,3/2 A,/ A,, A,, | %15
+ D,3 z :| G,,2 D,2 |] |] %18

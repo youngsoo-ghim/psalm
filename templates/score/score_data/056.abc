@@ -1,0 +1,35 @@
+X:56
+T:60 우리의 주여
+Z:J.Ellerton/E.J.Hopkins
+Z:Copyright May 19th 2000 by 전도환
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/4
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:Ab
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ E2 E F | E2 A2 | A G A B | c4 | A2 A B | A2 c2 | c B c =d | e4 | e2 A A | d2 d2 | d B c d | c4 | %12
+w: 우 리 의|주 여|폐 회 하 기|전|또 한 번|주 께|찬 송 하 오|며|구 주 의|평 안|내 려 주 시|기|
+w: 구 주 의|이 름|찬 양 하 고|서|돌 아 갈|때 에|안 위 하 시|고|우 리 와|종 일|함 께 하 셔|서|
+w: 고 요 한|밤 에|주 의 자 녀|들|흑 암 중|에 도|지 켜 주 소|서|주 께 는|밤 과|낮 이 없 으|니|
+w: 살 동 안|항 상|평 안 주 시|고|근 심 할|때 에|위 로 하 시|고|세 상 의|수 고|지 나 간 후|에|
+ A2 B A | A2 F2 | E E F E | E4 | F2 E2 |] |] %18
+w: 겸 손 히|꿇 어|간 구 합 니|다|||
+w: 범 죄 치|않 게|도 와 주 소|서|||
+w: 영 원 히|편 안|내 려 주 소|서|||
+w: 영 원 히|안 식|얻 게 하 소|서|아 멘||
+V:2
+ C2 C C | E2 E2 | E D D D | C4 | E2 E E | F2 A2 | A A A A | G4 | E2 E E | G2 F2 | E E E E | E4 | %12
+ C2 C C | B,2 B,2 | B, B, D D | C4 | D2 C2 |] |] %18
+V:3
+ A,2 A, A, | A,2 A,2 | E, E, F, G, | A,4 | C2 C C | C2 C2 | =D D C B, | B,4 | A,2 C C | D2 B,2 | %10
+ B, B, G, G, | A,4 | A,2 A, A, | F,2 A,2 | G, G, G, G, | A,4 | A,2 A,2 |] |] %18
+V:4
+ A,,2 A,, A,, | C,2 C,2 | B,, B,, B,, B,, | A,,4 | A,2 A, A, | F,2 F,2 | B,, B,, B,, B,, | E,4 | %8
+ C,2 C C | B,2 A,2 | G, G, E, E, | A,,4 | F,2 F, F, | D,2 D,2 | E, E, E, E, | A,,4 | D,2 A,,2 |] |] %18

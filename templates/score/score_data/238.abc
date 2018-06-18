@@ -1,0 +1,35 @@
+X:238
+T:238. 해 지는 저편
+Z:B. K. Brock
+Z:[nwc보물창고]http://cafe.daum.net/nwc1
+Z:238
+%%score 1 2 3 4
+L:1/8
+Q:1/4=96
+M:4/4
+I:linebreak $
+K:Eb
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ B, E G | c2 B3 E D E | G2 F3 B, D F | c2 B3 c B A | G2- G3 B, E G | c2 B3 e e d | d2 c3 c d e | %7
+w: 1.해 지 는|저 편 새 하 늘|에 는 우 리 주|예 수 계 시 오|니 * 고 난 은|가 고 찬 란 한|새 벽 영 광 의|
+w: 2.해 지 는|저 편 구 름 도|없 고 무 서 운|폭 풍 없 으 리|니 * 즐 거 운|그 날 영 원 한|그 날 해 지 는|
+w: 3.해 지 는|저 편 하 나 님|나 라 주 께 서|우 리 인 도 하|네 * 주 님 이|나 를 영 접 해|주 니 영 원 히|
+w: 4.해 지 는|저 편 그 영 광|중 에 먼 저 간|성 도 만 나 보|리 * 영 원 한|본 향 그 리 운|그 곳 이 별 의|
+ e2 B3 A G F | E2- E3 | E4 E4 |] %10
+w: 날 이 밝 으 리|라 *||
+w: 저 편 기 쁨 넘|쳐 *||
+w: 주 를 찬 송 하|리 *||
+w: 슬 픔 없 으 리|라 *|아 멘|
+V:2
+ B, B, E | G2 E3 B, B, B, | E2 D3 B, B, D | D2 D3 D E F | E2- E3 B, B, E | G2 G3 G G B | %6
+ B2 A3 F ^F F | G2 G3 D D D | B,2- B,3 | C4 B,4 |] %10
+V:3
+ G, G, B, | B,2 G,3 G, F, G, | B,2 A,3 D, F, B, | A,2 F,3 F, F, B, | B,2- B,3 G, G, B, | %5
+ E2 E3 B, B, E | E2 E3 E C C | B,2 E3 C B, A, | G,2- G,3 | A,4 G,4 |] %10
+V:4
+ E, E, E, | E,2 E,3 E, E, E, | B,,2 B,,3 B,, B,, B,, | B,,2 B,,3 B,, C, D, | E,2- E,3 E, E, E, | %5
+ E,2 E,3 E, E, G, | A,2 A,3 A, =A, A, | B,2 B,,3 B,, B,, B,, | E,2- E,3 | A,,4 E,4 |] %10

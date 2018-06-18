@@ -1,0 +1,44 @@
+X:234
+T:220 구주 예수 그리스도
+Z:I.Baxter/S.J.Vail
+Z:Copyright © 1998 by ÀüµµÈ¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/8
+M:6/8
+I:linebreak $
+K:none
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ G | G2 E G2 c | c2 A G2 E | A2 G E2 C | E3 D2 G | G2 E G2 c | c2 A G2 c | e2 c e2 d | %8
+w: 구|주 예 수 그|리 스 도 다|시 세 상 오|실 때 기|쁨 으 로 우|리 맞 아 길|이 같 이 살|
+w: 괴|롬 없 고 죽|음 없 는 하|늘 나 라 올|라 가 그|생 명 가 물|가 에 서 편|히 쉬 게 되|
+w: 천|국 에 는 해|와 달 과 별|과 등 불 없|어 도 하|늘 나 라 밝|은 빛 이 찬|란 하 게 비|
+w: 밝|고 밝 은 성|전 안 에 쉴|새 없 이 들|리 는 거|문 고 와 노|래 소 리 기|이 하 고 묘|
+w: 만|국 백 성 사|면 에 서 주|의 보 좌 둘|러 서 천|사 노 래 화|답 하 며 길|이 찬 양 하|
+ d3 c2 c d2 ^c d2 e | c2 A c2 A | G2 G A2 G | E2 C D2 G | G3- G2 G | (A3 c2) c | e2 c e2 d | %15
+w: 겠 네 영 화 롭 고 아|름 다 운 우|리 본 향 천|국 에 서 주|와 * 같|이 * 영|원 히 살 겠|
+w: 리 라 * * * * *|||||||
+w: 치 네 * * * * *|||||||
+w: 하 다 * * * * *|||||||
+w: 겠 네 * * * * *|||||||
+ c3- c2 |] |] %17
+w: 네 *||
+w: ||
+w: ||
+w: ||
+w: ||
+V:2
+ E | E2 C E2 G | A2 F E2 C | F2 E C2 C | C3 B,2 D | E2 C E2 G | A2 F E2 E | G2 G G2 F | F3 E2 E | %9
+ F2 E F2 G | E2 E E2 F | E2 E F2 E | C2 C B,2 E | E3 E2 E | (F3 A2) E | G2 G G2 F | E3- E2 |] |] %18
+V:3
+ C | C2 G, C2 C | C2 C C2 C | C2 C C2 G, | G,3 G,2 B, | C2 G, C2 C | C2 C C2 C | C2 C C2 G, | %8
+ G,3 G,2 G, | G,2 G, G,2 B, | C2 C C2 C | C2 C C2 C | G,2 G, G,2 z | z2 C C2 z | z2 C C2 C | %15
+ C2 C C2 G, | G,3- G,2 |] |] %18
+V:4
+ C, | C,2 C, C,2 E, | F,2 F, C,2 C, | C,2 C, C,2 E, | G,3 G,2 G,, | C,2 C, C,2 E, | F,2 F, C,2 C, | %7
+ C,2 E, G,2 G,, | G,,3 C,2 C, | G,2 G, G,2 G, | A,2 A, A,2 F, | C,2 C, C,2 C, | C,2 E, G,2 z | %13
+ z2 C, C,2 z | z2 F, F,2 C, | C,2 E, G,2 G,, | C,3- C,2 |] |] %18

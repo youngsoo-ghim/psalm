@@ -1,0 +1,35 @@
+X:605
+T:287 오늘 모여 찬송함은
+Z:J.C.Davison/L.van Beethoven
+Z:Copyright © 1997 by ÀüµµÈ¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/4
+Q:1/4=116
+M:4/4
+I:linebreak $
+K:G
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ B B c d | d c B A | G G A B | B3/2 A/ A2 | B B c d | d c B A | G G A B | A3/2 G/ G2 | A A B G | %9
+w: 오 늘 모 여|찬 송 함 은|형 제 자 매|즐 거 움|거 룩 하 신|주 뜻 대 로|혼 인 예 식|행 하 세|신 랑 신 부|
+w: 세 상 에 서|사 는 동 안|한 길 가 게|하 시 고|맘 과 뜻 이|하 나 되 어|주 따 르 게|합 소 서|서 로 믿 고|
+w: 아 버 지 여|우 리 들 이|기 도 하 고|바 랄 것|저 들 부 부|세 상 에 서|해 로 하 게|합 소 서|이 두 사 람|
+ A B/c/ B G | A B/c/ B A | G A D B- | B B c d | d c B c/A/ | G G A B | A3/2 G/ G2 :| G2 G2 |] |] %18
+w: 이 두- * 사 람|한 몸- * 되 기|원 하 며 온|* 집 안 이|하 나 되 고- *|한 뜻 되 게|합 소 서|||
+w: 존 경- * 하 며|서 로- * 돕 고|사 랑 해 고|* 와 낙 을|함 께 하 며- *|승 리 하 게|합 소 서|||
+w: 감 화- * 하 사|항 상- * 주 를|섬 기 며 이|* 세 상 을|떠 날 때 에- *|천 국 가 게|합 소 서|||
+V:2
+ D D D D | D D D D | D D D D | D3/2 D/ D2 | D D E =F | =F E E E | D D F G | F3/2 D/ D2 | F D D G | %9
+ F D D D | F G/F/ F ^D | E/=D/ ^C D D- | D D E =F | =F E E E | D D F G | F3/2 D/ D2 :| E2 D2 |] |] %18
+V:3
+ G, G, A, B, | B, A, G, F, | G, G, F, G, | G,3/2 F,/ F,2 | G, G, G, A,/B,/ | B, C D C | D B, C D | %7
+ C3/2 B,/ B,2 | A, F, G, B, | D G,/A,/ G, B, | D B,/A,/ B, B, | B, A,/G,/ F, G,- | %12
+ G, G, G, A,/B,/ | B, C D C | D B, C D | C3/2 B,/ B,2 :| C2 B,2 |] |] %18
+V:4
+ G, G, G, G, | D, D, D, C, | B,, B,, A,, G,, | D,3/2 D,/ D,2 | G, G, G, G, | G, A, B, C | %6
+ B, G, D, D, | D,3/2 G,,/ G,,2 | D, D, D, D, | D, D, D, D, | D, D, ^D, B,, | E, A,, =D, G,,- | %12
+ G,, G, G, G, | G, A, B, A,/C/ | B, G, D, D, | D,3/2 G,,/ G,,2 :| C,2 G,,2 |] |] %18

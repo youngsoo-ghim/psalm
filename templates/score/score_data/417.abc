@@ -1,0 +1,49 @@
+X:417
+T:476 주 예수 넓은 품에
+Z:F.J.Crosby/W.H.Doane
+Z:Copyright © 1998 by ÀüµµÈ¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/4
+Q:1/4=104
+M:4/4
+I:linebreak $
+K:G
+V:1 treble
+L:1/16
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ B4 A3 G D4 G4 | (B6 c2) B8 | d4 e3 d B4 G4 | A12 z4 | B4 A3 G D4 G4 | (B6 c2) d8 | %6
+w: 주 예 수 넓 은|품 * 에|나 편 히 안 겨|서|그 크 신 사 랑|안 * 에|
+w: 주 예 수 넓 은|품 * 에|나 편 히 안 기|니|이 세 상 악 한|세 * 력|
+w: 주 예 수 죄 인|위 * 해|십 자 가 졌 으|니|이 만 세 반 석|위 * 에|
+ d2c2 B2 A2 G4 F4 | G12 z4 | A4 A3 B A4 A4 | A8 d8 | ^c4 c3 c B4 A4 | A8 d4 z4 | A4 A3 B A4 d4 | %13
+w: 나- * 편 히 쉬 겠|네|영 관 의 들 을|넘 고|저 푸 른 바 다|넘 어|천 사 의 노 래|
+w: 나- * 해 치 못 하|네|슬 픔 과 근 심|걱 정|이 후 에 없 으|리 니|시 험 이 닥 쳐|
+w: 나- * 굳 게 서 겠|네|밤 지 나 가 기|가 지|나 참 고 기 다|리 며|새 아 침 동 터|
+ d8 B8 | A4 ^c3 d e4 c4 | (d12 =c4) | B4 A3 G D4 G4 | (B6 c2) B8 | d4 e3 d B4 G4 | A12 z4 | %20
+w: 소 리|내 귀 에 들 리|네 *|주 예 수 넓 은|품 * 에|나 편 히 안 겨|서|
+w: 와 도|나 염 려 없 겠|네 *|||||
+w: 올 때|주 만 나 뵙 겠|네 *|||||
+ B4 A3 G D4 G4 | (B6 c2) d8 | d2c2 B2 A2 G4 F4 | G12 z4 |] |] %25
+w: 그 크 신 사 랑|안 * 에|나- * 편 히 쉬 겠|네||
+w: |||||
+w: |||||
+V:2
+ D D3/4 D/4 D D | G2 G2 | G G3/4 G/4 G G | F3 z | D D3/4 D/4 D D | G2 =F2 | E E/ E/ D D | D3 z | %8
+ F F3/4 G/4 F F | F2 F2 | E G3/4 G/4 G G | F2 F z | F F3/4 G/4 F F | G2 G2 | F E3/4 F/4 G E | %15
+ (F G A2) | D D3/4 D/4 D D | G2 G2 | G G3/4 G/4 G G | F3 z | D D3/4 D/4 D D | G2 =F2 | %22
+ E E/ E/ D D | D3 z |] |] %25
+V:3
+ D C3/4 B,/4 B, B, | D3/2 E/ D2 | B, C3/4 B,/4 D D | D3 z | D C3/4 B,/4 B, B, | D2 G,2 | %6
+ G,/E/ D/ C/ B, A,/C/ | B,3 z | D D3/4 D/4 D D | D2 A,2 | A, E3/4 E/4 D ^C | D2 A, z | %12
+ D D3/4 D/4 D C | B,2 D2 | D A,3/4 A,/4 A, A, | (A,3 D) | D C3/4 B,/4 B, B, | D3/2 E/ D2 | %18
+ B, C3/4 B,/4 D D | D3 z | D C3/4 B,/4 B, B, | D2 G,2 | G,/E/ D/ C/ B, A,/C/ | B,3 z |] |] %25
+V:4
+ G, G,3/4 G,/4 G, G, | G,2 G,2 | G, G,3/4 G,/4 G, B,, | D,3 z | G, G,3/4 G,/4 G, G, | G,2 B,,2 | %6
+ C, C,/ C,/ D, D, | G,,3 z | D, D,3/4 D,/4 D, D, | D,2 D,2 | A, A,3/4 A,/4 A, A, | D,2 D, z | %12
+ D, D,3/4 D,/4 D, D, | G,2 G,2 | A, A,3/4 A,/4 A,, A,, | (D, E, F,2) | G, G,3/4 G,/4 G, G, | %17
+ G,2 G,2 | G, G,3/4 G,/4 G, B,, | D,3 z | G, G,3/4 G,/4 G, G, | G,2 B,,2 | C, C,/ C,/ D, D, | %23
+ G,,3 z |] |] %25

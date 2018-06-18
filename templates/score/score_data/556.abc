@@ -1,0 +1,38 @@
+X:556
+T:날마다 주님을 의지하는
+C:권기창(1988)/문성모(1988)
+%%score (1|2)(3|4)
+L:1/16
+Q:1/4=86
+M:6/8
+I:linebreak $
+K:G
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ "^보통으로"E3 B, E2 G2 E2 G2 | B2 B2 A2 B6 | A3 G E2 D3 E G2 | E3 D B,2 B,6 | E3 B, E2 G2 E2 G2 |
+w: 1.날 마 다 주 님 을|의 지 하 는|우 리 집 온 가 족|복 되 어 라|다 함 께 모 여 서|
+w: 2.아 버 지 어 머 니|사 랑 하 고|형 제 와 자 매 들|우 애 하 니|세 상 의 풍 파 가|
+w: 3.말 씀 과 기 도 가|풍 성 하 고|기 쁨 과 감 사 가|가 득 하 니|하 나 님 우 리 집|
+ B2 B2 A2 B6 | A3 G E2 D3 E G2 | A3 G A2 G6 |"^후렴" B3 d d2 d6 | e3 d B2 B6 | A2 A2 G2 E3 G B2 |
+w: 찬 양 하 니|하 늘 의 위 로 가|넘 쳐 나 네
+w: 밀 려 와 도|주 사 랑 안 에 서|두 렴 없 네 할 렐 루 야 우 리 가 정 사 랑 과 행 복 의
+w: 생 각 하 사|대 대 로 복 되 게|하 시 도 다
+ A3G B2 A6 | B3 d d2 d6 | e3 d B2 B6 | A2 A2 G2 E3 G B2 | A3 G A2 G6 :|
+w: 안 * 식 처 할 렐 루 야 우 리 가 정 주 님 만 모 시 고 살 아 가 리
+V:2
+ E3 B, E2 G2 E2 G2 | B2 B2 A2 B6 | E3 D C2 B,3 C D2 | E3 D B,2 B,6 | E3 B, E2 G2 E2 G2 | %5
+ B2 B2 A2 B6 | E3 D C2 B,3 C D2 | D3 D D2 D6 | G3 G G2 G6 | G3 G G2 G6 | E2 E2 E2 B,3 B, G2 | %11
+ F3E G2 F6 | G3 G G2 G6 | G3 G G2 G6 | E2 E2 E2 B,3 B, G2 | F3 E F2 D6 :|
+V:3
+ E,3 B,, E,2 G,2 E,2 G,2 | B,2 B,2 A,2 B,6 | C3 B, G,2 F,3 G, B,2 | G,3 F, G,2 G,6 | %4
+ E,3 B,, E,2 G,2 E,2 G,2 | B,2 B,2 A,2 B,6 | C3 B, G,2 F,3 G, B,2 | C3 B, C2 B,6 | D3 B, B,2 B,6 | %9
+ C3 B, D2 D6 | C2 C2 C2 G,3 G, D2 | D4 D2 D6 | D3 B, B,2 B,6 | C3 B, D2 D6 | C2 C2 C2 G,3 G, D2 | %15
+ C3 B, C2 B,6 :|
+V:4
+ E,3 B,, E,2 G,2 E,2 G,2 | B,2 B,2 A,2 B,6 | A,3 G, E,2 D,3 E, G,2 | E,3 D, B,,2 B,,6 | %4
+ E,3 B,, E,2 G,2 E,2 G,2 | B,2 B,2 A,2 B,6 | A,3 G, E,2 D,3 E, G,2 | D,3 D, D,2 G,,6 | %8
+ G,3 G, G,2 G,6 | C,3 D, E,2 G,6 | C,2 C,2 C,2 E,3 B,, G,,2 | D,4 D,2 D,6 | G,3 G, G,2 G,6 | %13
+ C,3 D, E,2 G,6 | C,2 C,2 C,2 E,3 B,, G,,2 | D,3 E, D,2 G,,6 :|

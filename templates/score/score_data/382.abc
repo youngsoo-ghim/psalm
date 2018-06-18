@@ -1,0 +1,38 @@
+X:382
+T:너 근심 걱정 말아라
+Z:W.S.Martin
+Z:Copyright © 1997 by Àü µµ È¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/8
+Q:1/4=99
+M:6/8
+I:linebreak $
+K:Bb
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ D E =E FB =c | d2 c B3 | F A G E2 G | (F3 D3) | D E =E FB =c | d2 c B3 | F A G F2 c | B6 | %8
+w: 너 근 심 걱- * 정|말 아 라|주 너 를 지 키|리 *|주 날 개 밑- * 에|거 하 라|주 너 를 지 키|리|
+w: 어 려 워 낙- * 심|될 때 에|주 너 를 지 키|리 *|위 험 한 일- * 을|당 할 때|주 너 를 지 키|리|
+w: 너 쓸 것 미- * 리|아 시 고|주 너 를 지 키|리 *|구 하 는 것- * 을|주 시 며|주 너 를 지 키|리|
+w: 어 려 운 시- * 험|당 해 도|주 너 를 지 키|리 *|구 주 의 품- * 에|거 하 라|주 너 를 지 키|리|
+ B3 A2 G | G2 F F3 | F A G E3 | E G F D3 | F3 B2 B | cB c d3 | c B G F B A | B6 | B3 B3 |] |] %18
+w: 주 너 를|지 키 리|아 무 때 나|어 디 서 나|주 너 를|지- * 키 리|늘 지 켜 주- * 시|리|아 멘||
+w: ||||||||||
+w: ||||||||||
+w: ||||||||||
+V:2
+ B, C ^C D2 _E | F2 E D3 | E E E =C2 E | (D3 B,3) | B, C ^C D2 _E | F2 E D3 | E E E E2 E | D6 | %8
+ G3 F2 E | E2 D D3 | D F E C3 | C E D B,3 | D3 F2 F | G2 G ^F3 | G G E D2 C | DB, E D3 | E3 D3 |] %17
+ |] %18
+V:3
+ F, F, F, B,F, A, | B,2 A, F,3 | A, C B, A,2 A, | (B,3 F,3) | F, F, F, B,F, A, | B,2 A, F,3 | %6
+ A, C B, A,2 A, | B,6 | B,3 B,2 B, | B,2 B, B,3 | F, F, F, A,3 | A, A, F, F,3 | B,3 B,2 B, | %13
+ G,2 G, B,3 | G, B, B, F,2 F, | F,D, G, F,3 | G,3 F,3 |] |] %18
+V:4
+ B,, B,, B,, B,,2 F, | B,2 F, B,,3 | F, F, F, F,2 F, | B,,6 | B,, B,, B,, B,,2 F, | B,2 F, B,,3 | %6
+ F, F, F, F,2 F, | B,,6 | E,3 E,2 E, | B,,2 B,, B,,3 | F, F, F, F,3 | F, F, F, B,,3 | B,,3 D,2 D, | %13
+ E,2 E, D,3 | E, E, E, F,2 F, | B,,6 | E,3 B,,3 |] |] %18

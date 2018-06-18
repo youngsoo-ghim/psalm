@@ -1,0 +1,41 @@
+X:426
+T:2115 이 죄인을 완전케 하옵시고
+Z:J.L.Nicholson
+Z:Copyright © 1999 by ÀüµµÈ¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/4
+Q:1/4=104
+M:3/4
+I:linebreak $
+K:Ab
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ E | E A B | c3/2 B/ A | B c B | A2 E | E A B | c3/2 B/ A | B c B | A2 c | e c A | F/A/ A A | %11
+w: 1.~이|죄 인 을|완 전 케|하 옵 시|고 내|맘 속 에|거 하 심|원 합 니|다 죄|가 운 데|빠 * 졌 던|
+w: 2.~저|보 좌 에|앉 으 신|주 예 수|여 몸|드 리 는|일 까 지|도 우 소|서 내|온 몸 과|지 * 식 도|
+w: 3.~그|상 하 신|발 아 래|엎 드 려|서 날|깨 끗 게|하 심 을|비 옵 니|다 날|정 결 케|하 * 는 피|
+ d d d | c2 E | E A c | c3/2 B/ A | B3/2 A/ B | A3 | B B B | B2 A | c A F | E2 E | F A d | %22
+w: 몸 과 맘|을 흰|눈 보 다|더 희 게|하 옵 소|서|눈 보 다|더 욱|희 어 지|게 곧|씻 어 서|
+w: 드 리 오|니 흰|눈 보 다|더 희 게|하 옵 소|서||||||
+w: 믿 사 오|니 흰|눈 보 다|더 희 게|하 옵 소|서||||||
+ c3/2 B/ A | B3/2 A/ B | A2 :| A3 | A3 |] |] %28
+w: 정 결 케|하 옵 소|서|아|멘||
+w: ||||||
+w: ||||||
+V:2
+ C | C E E | E3/2 D/ C | D E D | C2 C | C E E | E3/2 D/ C | D E D | C2 E | E E E | D/F/ F F | %11
+ F F F | E2 C | C E E | E3/2 D/ C | E3/2 E/ D | C3 | D D D | D2 C | C C D | C2 C | D F F | %22
+ E3/2 D/ C | E3/2 E/ D | C2 :| D3 | C3 |] |] %28
+V:3
+ A, | A, A, G, | A,3/2 A,/ A, | G, G, G, | A,2 A, | A, A, G, | A,3/2 A,/ A, | G, G, G, | A,2 A, | %9
+ C A, A, | A, A, A, | A, A, A, | A,2 A, | A, A, A, | A,3/2 G,/ A, | G,3/2 F,/ G, | A,3 | G, G, G, | %18
+ G,2 A, | A, A, A, | A,2 A, | A, A, A, | A,3/2 G,/ A, | G,3/2 F,/ G, | A,2 :| F,3 | E,3 |] |] %28
+V:4
+ A,, | A,, C, E, | A,3/2 A,/ A, | E, E, E, | A,,2 A,, | A,, C, E, | A,3/2 A,/ A, | E, E, E, | %8
+ A,,2 A, | A, A, C, | D, D, D, | D, D, D, | A,,2 A,, | A,, C, A,, | E,3/2 E,/ E, | E,3/2 E,/ E, | %16
+ A,,3 | E, E, E, | E,2 F, | F, F, D, | A,,2 A,, | D, D, D, | E,3/2 E,/ E, | E,3/2 E,/ E, | A,,2 :| %25
+ D,3 | A,,3 |] |] %28

@@ -1,0 +1,54 @@
+X:135
+T:어저께나 오늘이나
+Z:A.B.Simpson/J.H.Burke
+Z:Copyright © 1997 by Jun
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/8
+Q:1/4=180
+M:6/8
+I:linebreak $
+K:Bb
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ F2 F FD F | B2 c d2 B | G2 B A2 G | F6 | F2 F FD F | B2 c d2 B | c2 c cd c | c6 | e2 e ed c | %9
+w: 어 저 께- * 나|오 늘 이 나|아 무 때 든|지|영 원 토- * 록|변 함 없 는|거 룩 한- * 말|씀|믿 고 순- * 종|
+w: 풍 랑 이- * 는|바 다 위 로|걸 어 오 시|고|갈 릴 리- * 의|험 한 풍 파|잔 잔 케- * 하|고|겟 세 마- * 네|
+w: 허 물 많- * 은|베 드 로 를|용 서 하 시|고|의 심 많- * 은|도 마 에 게|확 신 주- * 시|고|사 랑 하- * 는|
+w: 엠 마 오- * 로|행 하 시 던|주 님 오 늘|도|한 결 갗- * 이|우 리 곁 에|함 께 계- * 시|고|우 리 들- * 을|
+ d2 d dc B | G2 B A2 G | F6 | F2 F FD F | B2 c d2 B | c2 c B2 A | B6 | d2 d dc B | B2 B cB G | %18
+w: 하 는 이- * 의|생 명 되 시|며|한 량 없- * 이|아 름 다 운|기 쁜 말 일|세|어 저 께- * 나|오 늘 이- * 나|
+w: 동 산 에- * 서|우 리 위 하|여|눈 물- * 짓 고|기 도 하 신|고 난 의 주|님|||
+w: 그 의 제- * 자|가 슴 에 안|고|부 드 러- * 운|사 랑 으 로|품 어 주 셨|네|||
+w: 영 접 하- * 러|다 시 오 실|때|변 함 없- * 는|영 광 의 주|다 시 뵈 오|리|||
+ F2 B Bc d | c6 | d2 d dc B | B2 B cB G | F2 e d2 c | B6 | B2 F G2 A | B6 | d2 d de d | c6 | %28
+w: 영 원 무- * 궁|히|한 결 같- * 은|주 예 수- * 께|찬 양 합 시|다|세 상 지 나|고|변 할 지- * 라|도|
+w: ||||||||||
+w: ||||||||||
+w: ||||||||||
+ f2 d dc B | B2 B e3 | d2 B c2 A | B6 |] |] %33
+w: 영 원 하- * 신|주 예 수|찬 양 합 시|다||
+w: |||||
+w: |||||
+w: |||||
+V:2
+ D2 D DB, D | D2 E F2 D | E2 G F2 E | D6 | D2 D DB, D | D2 E F2 D | F2 F F2 F | F6 | F2 F F2 F | %9
+ F2 F FE D | E2 G F2 =E | F6 | D2 D DB, D | D2 E F2 F | G2 G F2 E | D6 | F2 F FE D | G2 G G2 E | %18
+ D2 D DE F | F6 | F2 F FE D | G2 G G2 E | D2 F F2 E | D6 | D2 D E2 E | D6 | F2 F FG F | F6 | %28
+ F2 F F2 F | G2 G G3 | F2 D E2 E | D6 |] |] %33
+V:3
+ F,2 F, F,2 F, | F,2 F, B,2 B, | B,2 B, B,2 B, | B,6 | F,2 F, F,2 F, | F,2 F, B,2 B, | %6
+ A,2 A, A,B, A, | A,6 | A,2 A, A,B, B, | B,2 B, B,2 B, | B,2 B, C2 B, | A,6 | B,2 B, B,2 B, | %13
+ B,2 B, B,2 B, | B,2 E D2 C | B,6 | B,2 B, B,2 B, | B,2 B, B,2 B, | B,2 B, B,2 B, | A,6 | %20
+ B,2 B, B,2 B, | B,2 B, B,2 B, | B,2 A, B,2 F, | F,6 | F,2 B, B,2 F, | F,6 | F,2 F, B,2 B, | A,6 | %28
+ B,2 B, B,A, B, | B,2 B, B,3 | B,2 B, A,2 C | B,6 |] |] %33
+V:4
+ B,,2 B,, B,,2 B,, | B,,2 B,, B,,2 B,, | E,2 E, E,2 E, | B,,6 | B,,2 B,, B,,2 B,, | %5
+ B,,2 B,, B,,2 B,, | F,2 F, F,2 F, | F,6 | F,2 F, F,2 F, | B,,2 B,, B,,2 B,, | E,2 E, C,2 C, | %11
+ F,6 | B,,2 B,, B,,2 B,, | B,,2 B,, B,,2 D, | E,2 E, F,2 F, | B,,6 | B,,2 B,, B,,2 B,, | %17
+ E,2 E, E,2 E, | B,,2 B,, B,,2 B,, | F,6 | B,,2 B,, B,,2 B,, | E,2 E, E,2 E, | F,2 F, F,2 F, | %23
+ B,,6 | B,,2 B,, E,2 C, | B,,6 | B,,2 B,, B,,2 B,, | F,6 | D,2 B,, B,,C, D, | E,2 E, E,3 | %30
+ F,2 F, F,2 F, | B,,6 |] |] %33

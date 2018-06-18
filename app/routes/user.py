@@ -29,21 +29,22 @@ def go_login(result=None):
     #return render_template('customer/signin.html', name=name)
     app.logger.debug(app.template_folder)
     app.logger.debug(app.jinja_loader)
+    app.logger.debug(session)
     return render_template('user/logIn.html', result=result )
 
-@app.route('/user/info', methods=['GET'])
+@app.route('/user', methods=['GET'])
 def go_reg_user():
     # 사용자 정보는 세션에 있고 교회 정보만 조회
-    if 'USER_INFO' in session:
-        if session['USER_INFO']['SIGNIN_YN'] == 'Y':
-            pass
+    # if 'USER_INFO' in session:
+    #     if session['USER_INFO']['SIGNIN_YN'] == 'Y':
+    #         pass
 
-    return render_template('user/user_info.html')
+    return render_template('user/user_reg.html')
 
 """
 사용자 정보 등록
 """
-@app.route('/user/info', methods=['POST'])
+@app.route('/user', methods=['POST'])
 def do_reg_user():
     app.logger.debug(request)
     # 교회에 해당 아이디를 생서 우편번호화 생성 일자 결합
@@ -59,6 +60,16 @@ def do_reg_user():
 
 
 """
+사용자 정보 수정 화면
+"""
+@app.route('/user/info', methods=['GET'])
+#@auth.login_required
+def go_update_user():
+    item = User.get_user_for_id(session['USER_INFO']['ACCOUNT_EMAIL'])
+    church_item = Church.get_church_name(session['USER_INFO']['CHURCH_ID'])
+    return render_template('user/user_info.html', item=item , church_item=church_item)
+
+"""
 사용자 정보 수정
 """
 @app.route('/user/<account_email>', methods=['POST'])
@@ -71,23 +82,37 @@ def do_update_user(account_email=None):
     #account_email = session['USER_INFO']['ACCOUNT_EMAIL']
 
     # 등록 되어있는 교회 정보가 없는 경우 처리
-    if request.form['new_yn'] == "Y":
+    if 'Y' in request.form['new_yn']:
 
         # 교회에 해당 아이디를 생서 우편번호화 생성 일자 결합
         church_id = create_church_id(request.values['zip_code']);
         #request['church_id'] = church_id
 
-        # 입력반응 사용자 정보 저장
-        User.update_user_info(request, account_email, church_id)
-
         # 입력 받은 교회 정보 저장
         church.insert_chruch(church_id)
 
+        # 입력반응 사용자 정보 저장
+        User.update_user_info(request, account_email, church_id)
+
+        # 최최 교회 등록시 교회 정보 없음 교회 정보 다시 입력? 다시 로그인 하도록 할까?
+        session['USER_INFO']['LASTNAME'] = request.values['lastname']
+        session['USER_INFO']['FIRSTNAME'] = request.values['firstname']
+        session['USER_INFO']['CHURCH_ID'] = church_id
+        session['USER_INFO']['CHURCH_NAME'] = request.values['church_name']
+
+        session.modified = True
     # 등록 되어 있는 교회 정보가 있는 경우 처리
     else:
         User.update_user_info(request, account_email, request.values['church_id'])
+        # 최최 교회 등록시 교회 정보 없음 교회 정보 다시 입력? 다시 로그인 하도록 할까?
+        session['USER_INFO']['LASTNAME'] = request.values['lastname']
+        session['USER_INFO']['FIRSTNAME'] = request.values['firstname']
+        session['USER_INFO']['CHURCH_ID'] = request.values['church_id']
+        session['USER_INFO']['CHURCH_NAME'] = request.values['church_name']
 
-    return redirect(url_for('go_weekly_paper'))
+        session.modified = True
+
+    return redirect(url_for('go_procedure_list'))
 
 
 """
@@ -112,6 +137,7 @@ def ajax_check_user():
 @auth.verify_password
 def do_login():
     app.logger.debug(request)
+    app.logger.debug(session)
     # if request.method == 'POST':
     #     resulta = request.form['account_email']
 
@@ -127,18 +153,25 @@ def do_login():
             session['USER_INFO']['ACCOUNT_EMAIL'] = item['account_email']
             session['USER_INFO']['LASTNAME'] = item['lastname']
             session['USER_INFO']['FIRSTNAME'] = item['firstname']
+            session['USER_INFO']['ROLE'] = item['role']
+            # if request.form['account_email'] in item['official_user']:
+            #     session['USER_INFO']['OFFICIAL_USER'] = request.form['account_email']
+            # session.permanent = True
+            # from datetime import timedelta
+            # app.permanent_session_lifetime = timedelta(minutes=1)
             # 최초 가입자는 교회정보가 없음
             if 'church_id' in item:
                 session['USER_INFO']['CHURCH_ID'] = item['church_id']
+                session['USER_INFO']['CHURCH_NAME'] = Church.get_church_name(item['church_id'])['church_name']
             else:
                 # 교회 정보 없을 경우 교회 정보 등로 하는 화면 이동
                 session['USER_INFO']['CHURCH_ID'] = ''
-                return redirect(url_for('go_church_info'))
+                return redirect(url_for('go_church_info'), code=307)
 
             #session['USER_INFO']['CHURCH_NAME'] = item['church_name']
             #print(url_for('regId', regId='regId'))
             #return redirect(url_for('userregId'))
-            return redirect(url_for('go_weekly_paper'))
+            return redirect(url_for('go_procedure_list'))
         else:
             abort(400)
             #result = 'DANGER'
@@ -159,11 +192,11 @@ def do_logout():
     return redirect(url_for('go_index'))
 
 
-@app.errorhandler(400)
-def uncaughtError(error):
-    return '잘못된 사용입니다.'
-
-
-@auth.error_handler
-def unauthorized():
-    return make_response(jsonify({'error':'Unauthorized access'}), 401)
+# @app.errorhandler(400)
+# def uncaughtError(error):
+#     return '잘못된 사용입니다.'
+#
+#
+# @auth.error_handler
+# def unauthorized():
+#     return make_response(jsonify({'error':'Unauthorized access'}), 401)

@@ -1,0 +1,49 @@
+X:372
+T:420 그 누가 나의 괴롬 알며
+Z:Negro Spiritual/Negro Spiritual
+Z:Copyright © 1999 by ÀüµµÈ¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/8
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:G
+V:1 treble
+L:1/4
+V:2 treble
+L:1/4
+V:3 bass
+V:4 bass
+V:1
+ B/ D E/ G3/2 A/ | B/4 B3/4 B B2 | B/ D E/ G G | E D2 z | B/ D E/ G3/2 A/ | B/4 B3/4 B B2 | %6
+w: 그 누 가 나 의|괴 롬 알 며|또 나 의 슬 픔|알 까|주 밖 에 누 가|알 아 주 랴|
+w: 그 누 가 나 의|괴 롬 알 며|또 나 의 슬 픔|알 까|주 밖 에 누 가|알 아 주 랴|
+w: 그 누 가 나 의|괴 롬 알 며|또 나 의 슬 픔|알 까|주 밖 에 누 가|알 아 주 랴|
+ d3/2 B/ A B | G G z B | d d d B | d d B2 | d2 B2 | A2 z B | d d d B | d d B2 | B2 A2 | G3 z | %16
+w: 영 광 할 렐|루 야 1.나|자 주 넘 어|집 니 다|오 주|여 나|자 주 실 패|함 니 다|오 주|여|
+w: 영 광 할 렐|루 야 2.나|슬 픈 일 당|합 니 다|오 주|여 나|심 히 괴 롭|습 니 다|오 주|여|
+w: 영 광 할 렐|루 야 3.저|마 귀 유 혹|합 니 다|오 주|여 나|승 리 하 게|합 소 서|오 주|여|
+ B/ D E/ G3/2 A/ | B/4 B3/4 B B2 | B/ D E/ G G | E D2 z | B/ D E/ G3/2 A/ | B/4 B3/4 B B2 | %22
+w: 그 누 가 나 의|괴 롬 알 며|또 나 의 슬 픔|알 까|주 밖 에 누 가|알 아 주 랴|
+w: 그 누 가 나 의|괴 롬 알 며|또 나 의 슬 픔|알 까|주 밖 에 누 가|알 아 주 랴|
+w: 그 누 가 나 의|괴 롬 알 며|또 나 의 슬 픔|알 까|주 밖 에 누 가|알 아 주 랴|
+ d3/2 B/ A B | G G2 z :| |] %25
+w: 영 광 할 렐|루 야||
+w: 영 광 할 렐|루 야||
+w: 영 광 할 렐|루 야||
+V:2
+ B/ D E/ G3/2 A/ | B/4 B3/4 B B2 | D/ D C/ E C | C D2 z | B/ D E/ G3/2 A/ | B/4 B3/4 B B2 | %6
+ G3/2 G/ F F | D D z G | B B B G | B B G2 | G2 G2 | F2 z G | B B B G | B B G2 | G2 F2 | D3 z | %16
+ B/ D E/ G3/2 A/ | B/4 B3/4 B B2 | D/ D C/ E C | C D2 z | B/ D E/ G3/2 A/ | B/4 B3/4 B B2 | %22
+ G3/2 G/ F F | D D2 z :| |] %25
+V:3
+ B, D,2 E, G,3 A, | B,/ B,3/2 B,2 B,4 | G, B,2 C C2 G,2 | C2 B,4 z2 | B, D,2 E, G,3 A, | %5
+ B,/ B,3/2 B,2 B,4 | B,3 D C2 D2 | B,2 B,2 z2 z2 | z8 | z8 | B,4 D4 | D4 z2 z2 | z8 | z8 | D4 C4 | %15
+ B,6 z2 | B, D,2 E, G,3 A, | B,/ B,3/2 B,2 B,4 | G, B,2 C C2 G,2 | C2 B,4 z2 | B, D,2 E, G,3 A, | %21
+ B,/ B,3/2 B,2 B,4 | B,3 D C2 D2 | B,2 B,4 z2 :| |] %25
+V:4
+ B, D,2 E, G,3 A, | B,/ B,3/2 B,2 B,4 | G, G,2 G, C,2 E,2 | G,2 G,4 z2 | B, D,2 E, G,3 A, | %5
+ B,/ B,3/2 B,2 B,4 | D,3 D, D,2 D,2 | G,2 G,2 z2 z2 | z8 | z8 | G,4 G,4 | D,4 z2 z2 | z8 | z8 | %14
+ D,4 D,4 | G,6 z2 | B, D,2 E, G,3 A, | B,/ B,3/2 B,2 B,4 | G, G,2 G, C,2 E,2 | G,2 G,4 z2 | %20
+ B, D,2 E, G,3 A, | B,/ B,3/2 B,2 B,4 | D,3 D, D,2 D,2 | G,2 G,4 z2 :| |] %25

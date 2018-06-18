@@ -1,0 +1,41 @@
+X:105
+T:105 오랫동안 기다리던
+Z:C.Wesley, R.H.Prichard
+Z:Copyright December 9th 1999 by 전도환
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/4
+M:3/4
+I:linebreak $
+K:F
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ F2 G | (F3/2 G/) A | B2 A | (G F) G | c2 B | A2 A | (G F) G | F3 | F2 G | (F3/2 G/) A | B2 A | %11
+w: 오 랫|동 * 안|기 다|리 * 던|주 님|강 림|하 * 셔|서|죄 에|매 * 인|백 성|
+w: 모 든|백 * 성|구 하|려 * 고|임 금|으 로|오 * 시|니|영 원|토 * 록|우 리|
+ (G F) G | c2 B | A2 A | (G F) G | F3 | c2 c | (c B) A | B2 B | (B A) G | A2 A | (A B) c | %22
+w: 들 * 을|자 유|얻 게|하 * 시|네|주 는|우 * 리|소 망|이 * 요|힘 과|위 * 로|
+w: 들 * 을|친 히|다 스|리 * 시|며|죄 로|상 * 한|우 리|맘 * 을|은 혜|로 * 써|
+ (c B) A | G3 | (c A) c | (B G) B | (A F) A | (G/A/ B/A/) G | c2 c | (d c) B | A2 G | F3 | F3 | %33
+w: 되 * 시|니|오 * 래|기 * 다|리 * 던|백 * * * 성|많 은|복 * 을|받 겠|네||
+w: 고 * 치|고|주 * 의|빛 * 난|보 * 좌|앞 * * * 에|이 르|도 * 록|하 소|서|아|
+ F3 |] |] %35
+w: ||
+w: 멘||
+V:2
+ C2 E | F2 F | (F G) F | (E D) E | (F C) E | F2 G | D2 E | F3 | C2 E | F2 F | (F G) F | (E D) E | %12
+ (F C) E | F2 G | D2 E | F3 | (E C) E | F2 F | (D B,) D | (E F) C | C2 F | (F G) A | (A G) F | %23
+ (F E2) | (F A) E | G2 G | F2 C | (E F) E | (F C) F | F2 F | (C F) E | F3 | D3 | C3 |] |] %35
+V:3
+ A,2 C | (A,3/2 B,/) C | (D C) C | (C A,) C | A,2 C | C2 C | (B, A,) B, | A,3 | A,2 C | %9
+ (A,3/2 B,/) C | (D C) C | (C A,) C | A,2 C | C2 C | (B, A,) B, | A,3 | A,2 C | (F, G,) A, | %18
+ G,2 B, | (G, F,) B, | (A, F,) A, | D2 C | D2 D | G,2 C | C2 C | D2 E | (C B,/A,/) G,/F,/ | %27
+ (C D) G, | (F, F) E | (D F) F, | (F,/G,/ A,) B, | A,3 | B,3 | A,3 |] |] %35
+V:4
+ F,2 C, | F,2 F, | (D, E,) F, | (C, D,) C, | A,2 G, | F,2 A,, | (B,, D,) C, | F,3 | F,2 C, | %9
+ F,2 F, | (D, E,) F, | (C, D,) C, | A,2 G, | F,2 A,, | (B,, D,) C, | F,3 | A,2 A, | D,2 D, | %18
+ G,2 G, | (C, D,) E, | F,2 E, | (D, B,,) A,, | G,,2 B,, | C,3 | (A, F,) A, | (G, F,/E,/) D,/C,/ | %26
+ F,2 A,, | (C, B,,) C, | A,,2 A, | (B, A,) D, | C,2 C, | F,,3 | B,,3 | [F,,F,]3 |] |] %35

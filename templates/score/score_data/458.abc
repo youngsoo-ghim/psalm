@@ -1,0 +1,42 @@
+X:458
+T:513 너희 마음에 슬픔이 가득 차도
+Z:I.D.Ogdon/C.H.Gabriel
+Z:Copyright © 1998 by ÀüµµÈ¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/8
+Q:1/4=126
+M:6/8
+I:linebreak $
+K:Ab
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ E/ E/ | A A A A E A | c c d c2 c/ d/ | e c B A G A | B3- B2 E/ E/ | A A A A E A | c c d c2 d | %7
+w: 너 희|마 음 에 슬 픔 이|가 득 차 도 주 가|즐 겁 게 하 시 리|라 * 아 침|해 같 이 빛 나 는|마 음 으 로 너|
+w: 때 를|따 라 서 주 시 는|은 혜 로 써 갈 한|심 령 에 힘 을 얻|고 * 주 가|언 약 한 말 씀 을|기 억 하 고 너|
+w: 네 가|맡 은 일 성 실 히|행 할 때 에 주 님|앞 에 서 상 받 으|리 * 주 가|베 푸 신 은 혜 를|감 사 하 며 너|
+ e/ e3/2 d c3/2 c/ B | A6 | e3/2 =d/ e c c c | d3- d2 z | d3/2 c/ d B B B | c3- c2 E/ E/ | %13
+w: 십 자 가 지 고 가|라|즐 거 운 마 음 으|로 *|십 자 가 지 고 가|라 * 네 가|
+w: 십 자 가 지 고 가|라|||||
+w: 십 자 가 지 고 가|라|||||
+ F F F A A A | B F c B2 c/ _d/ | e/ e3/2 d c3/2 c/ B | A3- A2 :| |] %18
+w: 기 쁘 게 십 자 가|지 고 가 면 슬 픈|마 음 이 위 로 받|네 *||
+w: |||||
+w: |||||
+V:2
+ C/ C/ | C C C C C C | E E F E2 E/ E/ | E E D C D E | E3- E2 D/ D/ | C C C C C C | E E F E2 E | %7
+ E/ E3/2 F E3/2 E/ D | C6 | E3/2 F/ E E3 | E2 E E2 z | G3/2 ^F/ G E3 | E2 E E2 C/ C/ | %13
+ D D D E E E | =D D D E2 E/ E/ | E/ E3/2 F E3/2 E/ D | C3- C2 :| |] %18
+V:3
+ A,/ A,/ | E, E, E, E, A, E, | A, A, A, A,2 A,/ B,/ | C A, A, A, E, A, | G,3- G,2 G,/ G,/ | %5
+ A, E, E, E, A, E, | A, A, A, A,2 G, | A,/ A,3/2 A, A,3/2 A,/ G, | A,6 | C3/2 =B,/ C A,3 | %10
+ G,2 G, G,2 z | B,3/2 =A,/ B, G,3 | _A,2 A, A,2 A,/ A,/ | A, A, A, A, A, A, | %14
+ A, A, A, G,2 A,/ B,/ | A,/ A,3/2 A, A,3/2 A,/ G, | A,3- A,2 :| |] %18
+V:4
+ A,,/ A,,/ | A,, A,, A,, A,, A,, A,, | A,, A,, A,, A,,2 A,/ A,/ | A, A, A, A,, B,, C, | %4
+ E,3- E,2 E,/ E,/ | A,, A,, A,, A,, A,, A,, | A,, A,, A,, A,,2 B,, | C,/ C,3/2 D, E,3/2 E,/ E, | %8
+ A,,6 | A,3/2 A,/ A, A,3 | E,2 E, E,2 z | E,3/2 E,/ E, E,3 | _A,2 A, A,2 A,,/ A,,/ | %13
+ D, D, D, C, C, C, | B,, B,, B,, E,2 E,/ _D,/ | C,/ C,3/2 D, E,3/2 E,/ E, | A,,3- A,,2 :| |] %18

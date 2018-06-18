@@ -17,7 +17,7 @@ from app import app
 #
 # app.config.from_object('config')
 dynamodb = boto3.resource(app.config["DB_CONNECT"])
-
+userTable = "psalm_User"
 # Helper class to convert a DynamoDB item to JSON.
 
 class DecimalEncoder(json.JSONEncoder):
@@ -33,7 +33,7 @@ class DecimalEncoder(json.JSONEncoder):
 class User:
     def __init__(self, request):
         self.request = request
-        self.table = dynamodb.Table('User')
+        self.table = dynamodb.Table(userTable)
 
         self.account_email = request.values['account_email']
         self.pwd = request.values['pwd']
@@ -61,6 +61,7 @@ class User:
                     ,'firstname': self.firstname
                     ,'reg_date': self.reg_date
                     ,'update_date': self.update_date
+                    ,'role': 'shepherd'
                     #,'church_id': church_id
                 }
             )
@@ -68,7 +69,7 @@ class User:
             app.logger.error(e.response['Error']['Message'])
         else:
             app.logger.info("insert_user_info succeeded:")
-            print(json.dumps(response, indent=4, cls=DecimalEncoder))
+            print(json.dumps(response, indent=4, cls=DecimalEncoder, ensure_ascii=False))
 
 
     """
@@ -76,7 +77,7 @@ class User:
     """
     @staticmethod
     def update_user_info(request, account_email, church_id):
-        table = dynamodb.Table('User')
+        table = dynamodb.Table(userTable)
 
         ue = 'set '
         eav = {}
@@ -134,7 +135,7 @@ class User:
             app.logger.error(e.response['Error']['Message'])
         else:
             app.logger.info("update_user_info succeeded:")
-            app.logger.info(json.dumps(response, indent=4, cls=DecimalEncoder))
+            app.logger.info(json.dumps(response, indent=4, cls=DecimalEncoder, ensure_ascii=False))
 
 
     """
@@ -142,7 +143,7 @@ class User:
     """
     @staticmethod
     def get_user(request):
-        table = dynamodb.Table('User')
+        table = dynamodb.Table(userTable)
         account_email = request.values['account_email']
         item = []
         try:
@@ -156,20 +157,48 @@ class User:
         else:
             if 'Item' in response:
                 item = response['Item']
-                print("get_user succeeded:")
-                print(json.dumps(response, indent=4, cls=DecimalEncoder))
-                print(jsonify(response))
+                app.logger.info("get_user succeeded:")
+                app.logger.debug(json.dumps(response, indent=4, cls=DecimalEncoder, ensure_ascii=False))
+                app.logger.debug(jsonify(response))
             else:
-                print("get_user 사용자 정보 없음")
+                app.logger.info("get_user 사용자 정보 없음")
 
         return item
+
+    """
+    사용자 id로 정보 조회
+    """
+    @staticmethod
+    def get_user_for_id(account_email):
+        table = dynamodb.Table(userTable)
+        #account_email = request.values['account_email']
+        item = []
+        try:
+            response = table.get_item(
+                Key={
+                    'account_email': account_email
+                }
+            )
+        except ClientError as e:
+            app.logger.error(e.response['Error']['Message'])
+        else:
+            if 'Item' in response:
+                item = response['Item']
+                app.logger.info("get_user_for_id succeeded:")
+                app.logger.debug(json.dumps(response, indent=4, cls=DecimalEncoder, ensure_ascii=False))
+                app.logger.debug(jsonify(response))
+            else:
+                app.logger.info("get_user_for_id 사용자 정보 없음")
+
+        return item
+
 
     """
     사용자 로그인
     """
     @staticmethod
     def do_login(request):
-        table = dynamodb.Table('User')
+        table = dynamodb.Table(userTable)
         account_email = request.values['account_email']
         pwd = request.values['pwd']
         items = {}
@@ -185,13 +214,12 @@ class User:
             if response['Count'] > 0:
                 print(type(items))
                 items = response['Items'][0]
-                print("do_login succeeded:")
+                app.logger.info("do_login succeeded:")
                 app.logger.debug('account_email : %s' % account_email)
-                print(type(response['Items'][0]))
-                print(type(items))
-                print(items)
+                app.logger.debug(type(response['Items'][0]))
+                app.logger.debug(items)
             else:
-                print("do_login 사용자 정보 없음")
+                app.logger.info("do_login 사용자 정보 없음")
         return items
 
 

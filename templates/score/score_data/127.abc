@@ -1,0 +1,55 @@
+X:127
+T:127 그 고요하고 쓸쓸한
+Z:French Carol
+Z:[nwc보물창고]http://cafe.daum.net/nwc1
+Z:두꺼비
+%%score 1 2 3 ( 4 5 ) ( 6 7 )
+L:1/4
+Q:1/4=76
+M:4/4
+I:linebreak $
+K:Bb
+V:1 treble nm="제창"
+V:2 treble nm="반주1"
+V:3 treble nm="Staff-2"
+V:4 bass nm="반주2"
+V:5 bass 
+V:6 treble nm="Staff-1"
+V:7 treble 
+V:1
+"^조금 느리게" D | G A B c | B A G3/2 F/ | G G A F | G3 | D | G A B c | B A G3/2 F/ | G B A F | G3 | G | %11
+w: 1.그|고 요 하 고|쓸 쓸 한 저|달 빛 아 래|서|저|하 늘 천 사|찬 양 이 사|방 에 퍼 지|네|그|
+w: 2.저|볼 것 없 는|구 유 에 주|께 서 나 셨|네|그|온 유 하 신|예 수 님 참|아 름 다 워|라|동|
+w: 3.온|세 상 사 는|자 녀 들 다|기 뻐 하 여|라|그|귀 한 아 기|예 수 님 널|위 해 나 셨|다|참|
+ d d A B | c3/2 B/ A A | B A G G | A G (G F) | D G G2 | F E D2 | G2 F D | G2 G A | B c (d D) | %20
+w: 찬 란 한 빛|비 치 며 큰|기 쁜 소 식|들 리 네 *||||||
+w: 방 에 서 온|박 사 들 그|귀 한 예 물|드 렸 네 *|우 리 왕|나 셨 네|주 나 셨|네 영 광|할 렐 루 *|
+w: 평 화 기 쁨|주 시 는 아|기 께 경 배|하 여 라 *||||||
+ G3 |] %21
+w: |
+w: 야|
+w: |
+V:2
+ D | G A B c | B A G3/2 F/ | G G A F | G3 | D | G A B c | B A G3/2 F/ | G B A F | G3 | G | %11
+ d d A B | c3/2 B/ A A | B A G G | A G (G F) | D G G2 | F E D2 | G2 F D | G2 G A | B c (d D) | %20
+ G3 |] %21
+V:3
+ D | [B,D]3 [CF] | [B,D]3 [A,C] | [B,D]2 [A,C]2 | [B,D]3 | D | [B,D]3 [CF] | [B,D]3 [A,C] | %8
+ [B,D]2 [A,C]2 | [B,D]3 | G | [DG]2 [EG]2 | [=EG]2 [_EG]2 | [B,D]2 [B,D]2 | F =E E D | %15
+ [B,D]2 [B,D]2 | [A,C]2 B,2 | [B,D]2 [A,C]2 | [B,D]2 [B,D]2 | [DG]2 [DF] C | [B,D]2 [B,D] |] %21
+V:4
+ D, | D,3"^c" [D,A,] | [D,G,]3 D, | D,2 D,2 | D,3 | D, | D,3"^c" [D,A,] | [D,G,]3 D, | D,2 D,2 | %9
+ D,3 | D, | D,2 E,2 | =E,2 _E,2 | D,2 G,2 | A,2 A,2 | D,2 D,2 | D,2 D,2 | D,2 D,2 | D,2 D,2 | %19
+ G,2 A,2 | D,2 D, |] %21
+V:5
+ D, | G,, G,, G,, G,, | G,, G,, G,, G,, | G,, G,, G,, G,, | G,, G,, G,, | D, | G,, G,, G,, G,, | %7
+ G,, G,, G,, G,, | G,, G,, G,, G,, | G,, G,, G,, | G,, | G,, G,, G,, G,, | G,, G,, G,, G,, | %13
+ G,, G,, G,, G,, | D, D, D, D, | G,, G,, G,, G,, | G,, G,, G,, G,, | G,, G,, G,, G,, | %18
+ G,, G,, G,, G,, | D, D, D, D, | G,, G,, G,, |] %21
+V:6
+[K:A] B | B3 [Bf] | [Be]3 B | B2 B2 | B3 | B | B3 [Bf] | [Be]3 B | B2 B2 | B3 | B | B2 c2 | %12
+ =c2 _c2 | B2 e2 | f2 f2 | B2 B2 | B2 B2 | B2 B2 | B2 B2 | e2 f2 | B2 B |] %21
+V:7
+[K:A] B | E E E{E-B-f-} E | E E E E | E E E E | E E E | B | E E E{E-B-f-} E | E E E E | E E E E | %9
+ E E E | E | E E E E | E E E E | E E E E | B B B B | E E E E | E E E E | E E E E | E E E E | %19
+ B B B B | E E E |] %21

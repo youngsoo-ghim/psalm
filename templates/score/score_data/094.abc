@@ -1,0 +1,48 @@
+X:94
+T:주 예수보다 더 귀한 것은 없네
+Z:Mrs.R.Miller/G.B.Shea
+Z:Copyright © 1997 by Àü µµ È¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/8
+Q:1/4=76
+M:3/4
+I:linebreak $
+K:Db
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ D2 | F3 F F F | A4 D D | d3 d B2 | A4 D2 | F3 F F F | A3 A A2 | (A2 G2) F2 | E4 D2 | F3 F F F | %10
+w: 1~주|예 수 보 다|더 귀 한|것 은 없|네 이|세 상 부 귀|와 바 꿀|수 * 없|네 영|죽 을 내 대|
+w: 2~주|예 수 보 다|더 귀 한|것 은 없|네 이|세 상 명 예|와 바 꿀|수 * 없|네 이|전 에 즐 기|
+w: 3~주|예 수 보 다|더 귀 한|것 은 없|네 이|세 상 행 복|과 바 꿀|수 * 없|네 유|혹 과 핍 박|
+ A4 D2 | d4 B2 | A4 D2 | F3 F F F | A4 DE | F4 E2 | D4 A d | c4 d2 | e4 Bc | d4 B2 | A4 A d | %21
+w: 신 돌|아 가|신 그|놀 라 운 사|랑 잊- *|지 못|해 세 상|즐 거|움 다- *|버 리|고 세 상|
+w: 던 세|상 일|도 주|사 랑 하 는|맘 뺏- *|지 못|해 * *|||||
+w: 이 몰|려 와|도 주|섬 기 는 내|맘 변- *|치 못|해 * *|||||
+ c4 d2 | e4 B c | d6- | d4 D2 | F3 F F F | A4 D D | d3 d B2 | A4 DF | A4 F F | E4 D2 | D6- | D4 :| %33
+w: 자 랑|다 버 렸|네|* 주|예 수 보 다|더 귀 한|것 은 없|네 예- *|수 밖 에|는 없|네||
+w: ||||||||||||
+w: ||||||||||||
+ |] %34
+w: |
+w: |
+w: |
+V:2
+ D2 | D3 D D D | D4 D D | D2 G2 G2 | F4 D2 | D3 D D D | D3 D D2 | (D2 C2) D2 | C4 D2 | D3 D D D | %10
+ D4 D2 | (D2 G2) G2 | F4 D2 | D3 D D D | D4 D2 | D4 DC | A,4 A F | G4 F2 | G4 G2 | F4 G2 | F4 F F | %21
+ G4 F2 | G4 G G | (G6 | F4) D2 | D3 D D D | D4 D D | D2 G2 G2 | F4 D2 | D4 D D | (D2 C2) D2 | %31
+ (B,6 | A,4) :| |] %34
+V:3
+ F,2 | A,3 A, A, A, | A,4 _C C | B,3 B, D2 | D4 F,2 | A,3 A, A, A, | A,3 A, A,2 | A,4 A,2 | %8
+ A,4 A,2 | A,3 A, A, A, | A,4 _C2 | B,4 D2 | D4 F,2 | A,3 A, A, A, | _C4 B,A, | A,4 G,2 | %16
+ F,4 D A, | A,4 A,2 | C4 DE | D4 D2 | D4 D A, | A,4 A,2 | C4 =A, A, | (B,6 | A,4) F,2 | %25
+ A,3 A, A, A, | A,4 _C C | B,3 B, D2 | D4 F,A, | F,4 A, A, | G,4 G,2 | (G,6 | F,4) :| |] %34
+V:4
+ D,2 | D,3 D, D, D, | F,4 F, F, | G,3 G, G,2 | D,4 D,2 | D,3 D, D, D, | F,3 F, F,2 | %7
+ (F,2 E,2) D,2 | A,,4 D,2 | D,3 D, D, D, | F,4 F,2 | G,4 G,2 | D,4 D,2 | D,3 D, D, D, | F,4 G,2 | %15
+ A,4 A,,2 | D,4 D, F, | E,4 D,2 | A,4 A,2 | B,4 G,2 | D,4 D, F, | E,4 D,2 | A,4 E, E, | D,6- | %24
+ D,4 D,2 | D,3 D, D, D, | F,4 F, F, | G,3 G, G,2 | D,4 D,2 | A,,4 A,, A,, | A,,4 A,,2 | (D,6 | %32
+ D,4) :| |] %34

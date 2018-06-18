@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="ko">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <meta name="description" content="">
+        <meta name="author" content="">
+        <link rel="icon" href="">
+        <title>종료</title>
+        <!-- Bootstrap core CSS -->
+        <link href="{{ url_for('static', filename='bootstrap/4.0.0-beta.2/css/bootstrap.min.css') }}" rel="stylesheet">
+
+        <!-- Custom styles for this template -->
+        <link href="{{ url_for('static', filename='css/signin/signin.css') }}" rel="stylesheet">
+
+        <script type="text/javascript">
+
+        </script>
+    </head>
+
+    <body>
+
+        <div class="container">
+            <div class="jumbotron mt-3">
+                <h1>종료 되었습니다.</h1>
+                <p class="lead">장시간 사용 하지 않아, 사용이 종료 되었습니다. 다시 로그인 하시고 이용 하시기 바랍니다.</p>
+                <a class="btn btn-lg btn-primary" href="{{ url_for('go_login') }}"  role="button">로그인으로 가기 &raquo;</a>
+            </div>
+        </div>
+    </body>
+</html>

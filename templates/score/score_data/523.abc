@@ -1,0 +1,47 @@
+X:523
+T:어둔 죄악 길에서
+T:지금은 은혜 받을 만한 때요...구원의 날이로다
+T:고후 6:2
+C:Z.Nakada(1909)/W.J.Kirkpatrick(1838~1921)
+%%score (1 |2) (3| 4)
+L:1/16
+Q:1/4=104
+M:4/4
+I:linebreak $
+K:Eb
+V:1 treble
+V:2 tre
+V:3 bass
+V:4 bass
+V:1
+ E3 F | G3 G G3 G G4 E3 G | B3 B B3 B B4 B3 B | c3 c c3 c ce3 B3 G | F12 G3 A | %5
+w: 1.어 둔|죄 악 길 에 서 목 자|없 는 양 같 이 모 든|사 람 길 찾 아- * 헤 맨|다 자 비|
+w: 2.험 한|십 자 가 위 에 달 려|돌 아 가 신 주 다 시|살 아 나 셨 네- * 기 쁘|다 죄 인|
+w: 3.주 의|귀 한 말 씀 에 영 원|생 명 있 나 니 주 님|너 를 용 서 해- * 주 신|다 주 가|
+w: 4.세 월|빨 리 흐 르 고 세 상|친 구 가 는 데 너 의|영 혼 오 늘 밤- * 떠 나|도 주 의|
+ B3 B B3 B B4 B3 B | c3 c c3 c cHe3 E3 F | G3 G G3 G GB3 F3 G | E12 B3 B | B12 (3c2B2 G2 | %10
+w: 하 신 하 나 님 독 생|자 를 보 내 사- * 너 를|지 금 부 르 니- * 오 시|오 이 때|라 이- * 때|
+w: 구 원 하 실 때 어 서|주 께 나 아 와- * 크 신|은 혜 구 하 라- * 구 하|라 * *||
+w: 부 르 실 때 에 힘 과|정 성 다 하 여- * 주 의|은 혜 받 으 라- * 받 으|라 * *||
+w: 구 원 얻 으 면 천 국|에 서 영 원 히- * 주 와|함 께 살 리 라- * 살 리|라 * *||
+ e12 e3 c | B3 B B3 B c B3 B3 G | F12 G3 A | B3 B B3 B B4 B3 B | c3 c c3 c cHe3 E3 F | %15
+w: 라 주 의|긍 휼 받 을 때 가 이 때|라 지 금|주 께 나 아 와 겸 손|하 게 절 하 라- * 구 원|
+ G3 G G3 G GB3 F3 G | HE12 :| %18
+w: 함 을 얻 으 리- * 얻 으|리|
+V:2
+ B,3 B, | E3 E E3 E E4 B,3 E | G3 G G3 G G4 E3 E | E3 E E3 E E4 E3 E | D12 E3 F | %5
+ G3 G G3 G G4 E3 E | E3 E E3 E HE4 E3 D | E3 E E3 E E4 D3 D | B,4 C4 B,4 z4 | z4 G3 G G4 z4 | %10
+ z4 G3 G G4 c3 A | G3 G G3 G A G3 G3 E | D12 E3 F | G3 G G3 G G4 E3 E | E3 E E3 E HE4 E3 D | %15
+ E3 E E3 E E4 D3 D | B,4 C4 B,4 :| %18
+V:3
+ G,3 A, | B,3 B, B,3 B, B,4 G,3 B, | E3 E E3 E E4 G,3 G, | A,3 A, A,3 A, C4 E3 B, | B,12 B,3 B, | %5
+ E3 E E3 E E4 G,3 G, | A,3 A, A,3 A, C4 B,3 B, | B,3 B, B,3 G, F,4 B,3 B, | G,4 A,4 G,4 z4 | %9
+ z4 E3 E E4 z4 | z4 B,3 B, B,4 A,3 C E3 E E3 E E E3 B,3 B, | B,4 B,3 B, B,4 B,3 B, | %12
+ E3 E E3 E E4 G,3 G, | A,3 A, A,3 A, C4 B,3 B, | B,3 B, B,3 G, B,4 A,3 A, | E,12 :| %17
+V:4
+ E,3 E, | E,3 E, E,3 E, E,4 E,3 E, | E,3 E, E,3 E, E,4 E,3 E, | A,,3 A,, A,,3 A,, A,4 G,3 E, | %4
+ B,,12 E,3 E, | E,3 E, E,3 E, E,4 E,3 E, | A,3 A, A,3 A, A,4 G,3 F, | E,3 E, E,3 E, B,,4 B,,3 B,, | %8
+ E,12 z4 | z4 E,3 E, E,4 z4 | z4 E,3 E, E,4 E,3 E, | E,3 E, E,3 E, E, E,3 E,3 E, | %12
+ B,,4 B,3 B, B,2A,2 E,3 F, | E,3 E, E,3 E, E,4 E,3 E, | A,,3 A,, A,,3 A,, A,4 G,3 F, | %15
+ E,3 E, E,3 E, B,,4 B,,3 B,, | HE,12 :|  %18
+w: ||||||||| 이 때 라|이 때 라|| * 이 때 라|

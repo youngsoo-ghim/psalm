@@ -1,0 +1,47 @@
+X:354
+T:394 주를 앙모하는 자
+Z:Anonymous/Anonymous
+Z:Copyright © 1998 by ÀüµµÈ¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/16
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:Eb
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ E3 F | G3 G G3 G G4 F3 E | B12 G3 E | B12 E4 | G12 F4 | F4 E8 B3 B | e3 e e3 c B4 B3 B | %7
+w: 1.주 를|앙 모 하 는 자 올 라|가 올 라|가 독|수 리|같 이 모 든|싸 움 이 기 고 근 심|
+w: 2.주 를|앙 모 하 는 자 걸 어|가 걸 어|가 고|단 치|않 네 길 을|잃 은 양 떼 를 두 루|
+w: 3.주 를|앙 모 하 는 자 달 려|가 달 려|가 피|곤 치|않 네 천 성|문 을 향 하 여 면 류|
+w: 4.주 를|앙 모 하 는 자 올 라|가 올 라|가 독|수 리|같 이 은 혜|안 에 뛰 놀 며 주 의|
+ e3 e e3 c B4 G3 E | B12 G3 E | B12 E4 | G12 F4 | F4 E8 B4 | B8- B3 G F3 G | E12 B4 | %14
+w: 걱 정 벗 은 후 올 라|가 올 라|가 독|수 리|같 이 주|앙 * 모 하 는|자 주|
+w: 찾 아 다 니 며 걸 어|가 걸 어|가 고|단 치|않 네 *|||
+w: 관 을 얻 도 록 달 려|가 달 려|가 피|곤 치|않 네 *|||
+w: 영 광 보 리 라 올 라|가 올 라|가 독|수 리|같 이 *|||
+ e8- e3 e d3 c | B12 B4 | c8- c3 d e3 c | B12 B4 | B8- B3 G F3 G | E12 :| |] %21
+w: 앙 * 모 하 는|자 주|앙 * 모 하 는|자 늘|강 * 건 하 리|라||
+w: |||||||
+w: |||||||
+w: |||||||
+V:2
+ E3 E | E3 E E3 E E4 z4 | z4 F3 A G4 z4 | z4 F3 A G4 E4 | E12 D4 | D4 B,8 G3 G | %6
+ G3 G A3 A G4 G3 G | G3 G A3 A G4 z4 | z4 F3 A G4 z4 | z4 F3 A G4 E4 | E12 D4 | D4 B,8 z4 | %12
+ z4 G4 G3 E D3 D | B,3 B, C3 C B,4 z4 | z4 G4 G3 G B3 A | G3 G G3 G G4 z4 | z4 A4 A3 A A3 A | %17
+ G3 G G3 G G4 z4 | z4 G4 G3 E D3 D | B,3 B, C3 C B,4 :| |] %21
+V:3
+ G,3 A, | B,3 B, B,3 B, B,4 z4 | z4 D3 D E4 z4 | z4 D3 D E4 G,4 | B,12 A,4 | A,4 G,8 E3 E | %6
+ B,3 B, C3 D E4 E3 E | B,3 B, C3 D E4 z4 | z4 D3 D E4 z4 | z4 D3 D E4 G,4 | B,12 A,4 | A,4 G,8 z4 | %12
+ z4 E4 E3 B, A,3 B, | G,3 G, A,3 A, G,4 z4 | z4 B,4 B,3 B, C3 D | E3 E E3 E E4 z4 | %16
+ z4 E4 E3 E C3 E | E3 E E3 E E4 z4 | z4 E4 E3 B, A,3 B, | G,3 G, A,3 A, G,4 :| |] %21
+V:4
+ E,3 E, | E,3 E, E,3 E, E,4 z4 | z4 B,,3 B,, E,4 z4 | z4 B,,3 B,, E,4 E,4 | B,,12 B,,4 | %5
+ B,,4 E,8 E,3 E, | E,3 E, E,3 E, E,4 E,3 E, | E,3 E, E,3 E, E,4 z4 | z4 B,,3 B,, E,4 z4 | %9
+ z4 B,,3 B,, E,4 E,4 | B,,12 B,,4 | B,,4 E,8 z4 | z4 E,4 E,3 E, B,,3 B,, | E,12 z4 | %14
+ z4 E,4 E,3 E, E,3 E, | E,3 E, E,3 E, E,4 z4 | z4 A,4 A,3 A, A,3 A, | E,3 E, E,3 E, E,4 z4 | %18
+ z4 E,4 E,3 E, B,,3 B,, | E,12 :| |] %21

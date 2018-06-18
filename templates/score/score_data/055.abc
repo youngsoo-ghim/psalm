@@ -1,0 +1,29 @@
+X:55
+T:62 주 이름으로 모였던
+Z:Anonymous/G.Whelpton
+Z:Copyright © 1999 by ÀüµµÈ¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/4
+Q:1/4=96
+M:4/4
+I:linebreak $
+K:Ab
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ E E/ E/ F F | E E E2 | E A/ G/ F F | F B/A/ G F/ E/ | E E/ E/ F F | E D C2 | E E/ E/ E E | E3 z | %8
+w: 주 이 름 으 로|모 였 던|우 리 들 이 헤|어 질- * 때 에- *|언 제 나 함 께|하 시 며|평 안 케 하 소|서|
+ F2 E2 |] |] %10
+w: 아 멘||
+V:2
+ C C/ C/ D D | C B, C2 | C C/ E/ D E | =D D E _D | C C/ C/ D D | C B, A,2 | B, B,/ C/ D B, | C3 z | %8
+ D2 C2 |] |] %10
+V:3
+ A, A,/ A,/ A, A, | A, G, A,2 | A, A,/ A,/ A, =A, | B, B, B, G, | A, A,/ A,/ A, A, | A, G, A,2 | %6
+ G, G,/ A,/ B, G, | A,3 z | A,2 A,2 |] |] %10
+V:4
+ A,, A,,/ A,,/ D, D, | E, E, A,,2 | A,, A,,/ C,/ D, C, | B,, B,, E, E, | A,, A,,/ A,,/ D, D, | %5
+ E, E,/=E,/ F,2 | E, E,/ E,/ E, E, | A,,3 z | D,2 A,,2 |] |] %10

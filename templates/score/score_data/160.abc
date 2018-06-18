@@ -1,0 +1,42 @@
+X:160
+T:150 무덤에 머물러
+Z:R.Lowry/R.Lowry
+Z:Copyright © 1999 by ÀüµµÈ¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/16
+Q:1/4=92
+M:4/4
+I:linebreak $
+K:C
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ G8 G4 A4 | A4 G4 G8 | G8 F4 A4 | A8 G8 | A8 B4 c4 | c4 G4 G8 | A8 G4 ^F4 | G16 | C4 C3 C E4 G3 G | %9
+w: 1.무 덤 에|머 물 러|예 수 내|구 주|새 벽 기|다 렸 네|예 수 내|주|원 수 를 다 이 기|
+w: 2.헛 되 이|지 키 네|예 수 내|구 주|헛 되 이|봉 하 네|예 수 내|주||
+w: 3.거 기 못|가 두 네|예 수 내|구 주|우 리 를|살 리 네|예 수 내|주||
+ c12 c3 d | e4 c4 d3 c B3 A | G12 B3 c | d4 d4 d3 c d3 e | c4 A4 G4 G3 G | A4 A4 A3 d d3 c | %15
+w: 고 무 덤|에 서 살 아 나 셨|네 어 두|움 을 이 기 시 고|나 와 서 성 도|함 께 길 이 다 스|
+w: ||||||
+w: ||||||
+ B4 c4 d4 G3 G | e12 d3 c | f12 e3 d | c4 G4 e4 d4 | c16 :| |] %21
+w: 리 시 네 사 셨|네 사 셨|네 예 수|다 시 사 셨|네||
+w: ||||||
+w: ||||||
+V:2
+ E8 E4 F4 | F4 E4 E8 | D8 D4 F4 | F8 E8 | F8 G4 A4 | G4 E4 E8 | E8 D4 C4 | B,16 | C4 C3 C E4 G3 G | %9
+ E12 E3 F | G4 G4 A3 A G3 F | E12 D3 E | F4 F4 F3 E F3 G | E4 F4 E4 E3 E | F4 F4 ^F3 F F3 A | %15
+ G2=F2 E4 G4 G3 G | G12 F3 E | A12 G3 F | E4 E4 G4 F4 | E16 :| |] %21
+V:3
+ C8 C4 C4 | C4 C4 C8 | B,8 B,4 B,4 | C8 C8 | C8 C4 C4 | C4 C4 C8 | C8 B,4 A,4 | G,16 | %8
+ C,4 C,3 C, E,4 G,3 G, | G,4 G,3 G, G,4 C3 C | C4 C4 C3 C C3 C | C4 C3 C C4 G,3 G, | %12
+ G,4 G,4 G,3 G, G,3 G, | C4 C4 C4 C3 C | C4 C4 C3 A, A,3 D | D4 C4 B,4 z4 | z4 C3 C C4 z4 | %17
+ z4 C3 C C4 C3 A, | G,4 C4 C4 B,4 | C16 :| |] %21
+V:4
+ C,8 C,4 C,4 | C,4 C,4 C,8 | G,,8 G,,4 G,,4 | C,8 C,8 | F,8 F,4 F,4 | E,4 C,4 C,8 | A,,8 D,4 D,4 | %7
+ G,,16 | C,4 C,3 C, E,4 G,3 G, | C,4 C,3 C, C,4 C,3 C, | C,4 E,4 F,3 F, F,3 F, | %11
+ C,4 C,3 C, C,4 G,3 G, | G,4 G,4 G,3 G, G,3 G, | A,4 F,4 C,4 C,3 C, | F,4 F,4 D,3 D, D,3 D, | %15
+ G,4 A,4 G,4 z4 | z4 C3 C C4 z4 | z4 F,3 F, F,4 F,3 F, | G,4 G,4 G,4 G,4 | C,16 :| |] %21

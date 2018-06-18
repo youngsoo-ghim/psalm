@@ -1,0 +1,44 @@
+X:306
+T:306.죽을죄인살려주신
+Z:김창인사. 허방자곡
+Z:[nwc보물창고]http://cafe.daum.net/nwc1
+Z:306
+%%score 1 2 3 4
+L:1/4
+Q:1/4=96
+M:4/4
+I:linebreak $
+K:C
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ G F D F | G/ G/ (B/A/) G2 | G c B G | F/ F/ (D/F/) G2 | B d c B | G/ B/ c c2 | B d c B | %7
+w: 1.죽 을 죄 인|살 려 주 * 신|크 신 은 혜|놀 라 워 * 라|십 자 가 를|바 라 보 며|눈 물 로 써|
+w: 2.병 든 이 몸|고 쳐 주 * 신|크 신 사 랑|고 마 워 * 라|능 력 의 주|바 라 보 며|강 건 하 게|
+w: 3.이 몸 불 러|맡 겨 주 * 신|귀 한 사 랑|고 마 워 * 라|말 씀 따 라|순 종 하 며|끝 날 까 지|
+w: 4.하 나 님 의|자 녀 삼 * 은|크 신 은 혜|고 마 워 * 라|생 명 의 주|바 라 보 며|하 늘 나 라|
+ A/ A/ (B/A/) G2 | G F D F | G/ G/ (B/A/) G2 | G c B G | F/ F/ (D/F/) G2 | B d c B | G/ B/ c c2 | %14
+w: 감 사 하 * 네|(후 렴) * *||||||
+w: 살 아 가 * 자|감 당 못 할|크 신 은 * 혜|무 엇 으 로|보 답 할 * 까|힘 을 다 해|봉 사 하 고|
+w: 충 성 하 * 자|||||||
+w: 들 어 가 * 리|||||||
+ B d c B | A/ A/ (B/A/) G2 | G2 G2 |] %17
+w: |||
+w: 생 명 다 해|충 성 하 * 리|아 멘|
+w: |||
+w: |||
+V:2
+ D D D D | D/ D/ ^F D2 | C E D D | D/ D/ D D2 | D D D D | D/ G/ G G2 | G D D D | G/ G/ ^F D2 | %8
+ D D D D | D/ D/ ^F D2 | C E D D | D/ D/ D D2 | D D D D | D/ G/ G G2 | G D D D | G/ G/ ^F D2 | %16
+ E2 D2 |] %17
+V:3
+ B, A, G, A, | B,/ B,/ C B,2 | G, G, (G,/A,/) B, | A,/ A,/ A, B,2 | G, G, ^F, G, | B,/ D/ E E2 | %6
+ D G, ^F, G, | E/ E/ (D/C/) B,2 | B, A, G, A, | B,/ B,/ C B,2 | G, G, (G,/A,/) B, | %11
+ A,/ A,/ A, B,2 | G, G, ^F, G, | B,/ D/ E E2 | D G, ^F, G, | E/ E/ (D/C/) B,2 | C2 =B,2 |] %17
+V:4
+ G,, A,, B,, D, | G,/ G,/ D, G,2 | (E,/D,/) C, D, D, | D,/ D,/ (F,/D,/) G,2 | G,, B,, D, G, | %5
+ G,/ G,/ C, C,2 | G,, B,, D, G, | C,/ C,/ D, G,2 | G,, A,, B,, D, | G,/ G,/ D, G,2 | %10
+ (E,/D,/) C, D, D, | D,/ D,/ (F,/D,/) G,2 | G,, B,, D, G, | G,/ G,/ C, C,2 | G,, B,, D, G, | %15
+ C,/ C,/ D, G,,2 | C,2 G,,2 |] %17

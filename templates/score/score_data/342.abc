@@ -1,0 +1,42 @@
+X:342
+T:너 시험을 당해
+Z:H.R.Palmer
+Z:Copyright © 1997 by Àü µµ È¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/8
+Q:1/4=96
+M:6/8
+I:linebreak $
+K:Bb
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ d3 d e d | c3 c3 | B3 B c B | A6 | G3 G A B | F3 B3 | c3 c B c | d6 | d3 d e d | c3 c3 | %10
+w: 1.너 시 험 을|당 해|범 죄 치 말|고|너 용 기 를|다 해|곧 물 리 쳐|라|너 시 험 을|이 겨|
+w: 2.네 친 구 를|삼 가|잘 선 택 하|고|너 언 행 을|삼 가|늘 조 심 하|라|너 열 심 을|다 해|
+w: 3.잘 이 기 는|자 는|상 주 시 리|니|너 낙 심 치|말 고|늘 전 진 하|라|네 구 세 주|예 수|
+ B3 B c B | A6 | G3 G A B | F3 B3 | d3 c B c | B6 | F2 F F G F | F3 B3 | c2 c c B c | d3 B3 | %20
+w: 새 힘 을 얻|고|주 예 수 를|믿 어|늘 승 리 하|라|우 리 구 주 의|힘 과|그 의 위 로 를|빌 라|
+w: 늘 충 성 하|고|온 정 성 을|다 해|주 봉 사 하|라|||||
+w: 힘 주 시 리|니|주 예 수 를|믿 어|늘 승 리 하|라|||||
+ B2 B B A G | F3 B3 | d2 d c B c | B6 :| |] %25
+w: 주 님 네 편 에|서 서|항 상 도 우 시|리||
+w: |||||
+w: |||||
+V:2
+ F3 F F F | F3 F3 | D3 D D D | D6 | B,3 E F G | D3 D3 | G3 G G G | ^F6 | =F3 F F F | F3 F3 | %10
+ D3 D D D | D6 | B,3 E F G | D3 D3 | F3 E E E | D6 | D2 D D E D | D3 F3 | F2 F F F F | F3 D3 | %20
+ G2 G G F E | D3 D3 | F2 F E E E | D6 :| |] %25
+V:3
+ B,3 B, C B, | B,3 B,3 | G,3 G, A, G, | ^F,6 | G,3 B, B, B, | B,3 B,3 | G,3 G, G, G, | A,6 | %8
+ B,3 B, C B, | A,3 A,3 | B,3 G, A, G, | G,3 ^F,3 | G,3 B, A, G, | B,3 B,3 | B,3 A, G, A, | B,6 | %16
+ B,2 B, B, B, B, | B,3 B,3 | A,2 A, A, G, A, | B,3 B,3 | B,2 B, B, B, B, | B,3 B,3 | %22
+ B,2 F, A, G, A, | B,6 :| |] %25
+V:4
+ B,3 B, A, B, | F,3 F,3 | G,3 G, ^F, G, | D,6 | E,3 E, E, E, | B,3 G,3 | E,3 E, E, E, | D,6 | %8
+ B,,3 B, A, B, | F,3 F,3 | G,3 G, ^F, G, | D,6 | E,3 E, E, E, | B,3 G,3 | F,3 F, F, F, | B,,6 | %16
+ B,,2 B,, B,, B,, B,, | B,,3 D,3 | F,2 F, F, F, F, | B,3 B,,3 | E,2 E, E, E, E, | %21
+ B,3 G,3 F,2 F, F, F, F, | B,,6 :| |] %24

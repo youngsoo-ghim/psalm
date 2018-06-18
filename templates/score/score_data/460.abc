@@ -1,0 +1,33 @@
+X:460
+T:515 뜻 없이 무릎 꿇는
+Z:J.Hay/Welsh Hymn Melody
+Z:Copyright July 8th 2000 by 전도환
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/4
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:Bb
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ D | G G A A | (B3/2 A/) G G | c c B B | A3 D | G G A A | (B3/2 c/) d c | B G A ^F | G3 d | %9
+w: 뜻|없 이 무 릎|꿇 * 는 그|복 종 아 니|요 운|명 에 맡 겨|사 * 는 그|생 활 아 니|라 우|
+w: 약|한 자 힘 주|시 * 고 강|한 자 바 르|게 추|한 자 정 케|함 * 이 주|님 의 뜻 이|라 해|
+ d B A c | B B A G | ^F G c B | A3 D | G G A A | B3/2 c/ d c | B G A ^F | G3 | G2 G2 |] |] %19
+w: 리 의 믿 음|치 솟 아 독|수 리 날 듯|이 주|뜻 이 이 뤄|지 이 다 외|치 며 사 나|니|||
+w: 아 래 압 박|있 는 곳 주|거 기 계 셔|서 그|팔 로 막 아|주 시 어 정|의 가 사 나|니|아 멘||
+V:2
+ D | G D E D | (B,3/2 C/) D D | C E D D | D3 D/C/ | B, E E F | F G F E | D B, E D | D3 G | %9
+ F F E C | F F F C | D D C D | D3 D | G G A A | B3/2 c/ d c | B G A ^F | G3 | G2 G2 |] |] %19
+V:3
+ D, | G, G, G, ^F, | (G,3/2 A,/) B, B, | G, G, G, G, | ^F,3 F, | G, B, C C | D B, B,/A,/ G, | %7
+ F, G, C A, | B,3 B,/C/ | D D C G,/A,/ | B, B, C G, | A, G, ^F, G, | G,2 ^F, D, | G, G, G, ^F, | %14
+ G,3/2 A,/ B, E | D B, C A, | B,3 | C2 =B,2 |] |] %19
+V:4
+ D, | G, B,, C, D, | G,,2 G, =F, | E, C, G,, B,, | D,3 D, | E, E,/D,/ C, F, | D, E, B,, C, | %7
+ D, E, C, D, | G,3 G,/A,/ | B, B,, C, E, | D, D, F, E, | D,/C,/ B,, A,, G,, | D,3 D, | %13
+ G, B,, C, D, | G,, G,, G, C, | D, E, C, D, | G,,3 | C,2 G,,2 |] |] %19

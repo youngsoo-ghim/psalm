@@ -1,0 +1,53 @@
+X:391
+T:446 오 놀라운 구세주
+Z:F.J.Crosby/W.J.Kirkpatrick
+Z:Copyright © 1998 by ÀüµµÈ¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/8
+Q:1/4=108
+M:6/8
+I:linebreak $
+K:D
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ A | A3/2 G/ F F E D | B3/2 B/ B A2 A | A3/2 G/ F F G F | E3- E2 A | A3/2 G/ F F E D | %6
+w: 오|놀 라 운 구 세 주|예 수 내 주 참|능 력 의 주 시 로|다 * 큰|바 위 밑 샘 솟 는|
+w: 오|놀 라 운 구 세 주|예 수 내 주 내|모 든 죄 벗 기 시|네 * 죄|악 에 서 날 끌 어|
+w: 측|량 못 할 은 혜 로|채 우 시 며 늘|성 령 의 감 화 주|사 * 큰|기 쁨 중 주 님 을|
+w: 주|예 수 님 공 중 에|임 하 실 때 나|일 어 나 맞 이 하|리 * 그|구 원 의 은 총 을|
+ B3/2 B/ B d2 B | A3/2 A/ A A G E | D3- D2 A | c3/2 c/ c c2 B/ c/ | d3/2 c/ B A2 A | G F G E B A | %12
+w: 그 곳 으 로 내|영 혼 을 숨 기 시|네 * 메|마 른 땅 을 종 일|걸 어 가 도 나|피 곤 치 아 니 하|
+w: 올 리 시 며 또|나 에 게 힘 주 시|네 * *||||
+w: 찬 양 토 록 내|생 활 을 도 우 시|네 * *||||
+w: 노 래 하 리 저|천 군 과 천 사 함|께 * *||||
+ F3- F2 A | d3/2 d/ d d2 d/ d/ | e3/2 d/ d d2 B | A3/2 A/ A A A A | A3- A2 B | %17
+w: 며 * 저|위 험 한 곳 내 가|이 를 때 면 큰|바 위 에 숨 기 시|고 * 주|
+w: |||||
+w: |||||
+w: |||||
+ A3/2 F/ D G3/2 C/ C | D3- D2 :| |] %20
+w: 손 으 로 덮 으 시|네 *||
+w: |||
+w: |||
+w: |||
+V:2
+ F | F3/2 E/ D D D D | G3/2 G/ G F2 F | F3/2 E/ D D E D | C3- C2 G | F3/2 E/ D D D D | %6
+ G3/2 G/ G G2 G | F3/2 F/ D C C C | D3- D2 A | G3/2 G/ G G2 G/ G/ | F3/2 A/ G F2 F | E ^D E C C C | %12
+ D3- D2 F | F3/2 F/ F F2 F/ F/ | G3/2 G/ G G2 G | F3/2 F/ F E F G | (F2 G A2) G | %17
+ F3/2 D/ D C3/2 A,/ A, | A,3- A,2 :| |] %20
+V:3
+ A, | A,3/2 A,/ A, A, G, F, | D3/2 D/ D D2 A, | A,3/2 A,/ A, A, A, A, | A,3- A,2 C | %5
+ D3/2 A,/ A, A, G, F, | D3/2 D/ D D2 D | D3/2 A,/ F, E, E, G, | F,3- F,2 A, | %9
+ E3/2 E/ E E2 A,/ A,/ | A,3/2 A,/ D D2 A, | A, A, A, A, A, A, | A,3- A,2 A, | %13
+ A,3/2 A,/ A, A,2 A,/ A,/ | B,3/2 B,/ B, B,2 D | D3/2 D/ D C D E | (D2 C D2) D | %17
+ D3/2 A,/ F, E,3/2 G,/ G, | F,3- F,2 :| |] %20
+V:4
+ D, | D,3/2 D,/ D, D, D, D, | G,,3/2 G,,/ G,, D,2 D, | D,3/2 D,/ D, D, C, D, | A,,3- A,,2 A,, | %5
+ D,3/2 D,/ D, D, D, D, | G,,3/2 G,,/ G,, B,,2 G,, | A,,3/2 A,,/ A,, A,, A,, A,, | D,3- D,2 A, | %9
+ A,3/2 A,/ A, A,2 A,/ A,/ | D,3/2 D,/ D, D,2 D, | A,, A,, A,, A,, A,, A,, | D,3- D,2 D, | %13
+ D,3/2 D,/ D, D,2 D,/ D,/ | G,3/2 G,/ G, G,2 G, | A,3/2 A,/ A, A,, A,, A,, | (D,2 E, F,2) G,, | %17
+ A,,3/2 A,,/ A,, A,,3/2 A,,/ A,, | D,3- D,2 :| |] %20

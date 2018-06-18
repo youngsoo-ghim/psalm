@@ -1,0 +1,15 @@
+version: 0.0
+os: linux
+files:
+  - source: ./run.py
+    destination: /home/psalm/appRoot
+  - source: ./app/models
+    destination: /home/psalm/appRoot/app/models
+  - source: ./app/routes
+    destination: /home/psalm/appRoot/app/routes
+  - source: ./app/__init__.py
+    destination: /home/psalm/appRoot/app
+  - source: ./static
+    destination: /home/psalm/appRoot/static
+  - source: ./templates
+    destination: /home/psalm/appRoot/templates

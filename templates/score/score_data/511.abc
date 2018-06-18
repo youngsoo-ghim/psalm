@@ -1,0 +1,40 @@
+X:511
+T:263 예수 말씀하시기를
+Z:D.March/P.P.Van Arsdale
+Z:Copyright December 29th 1999 by 전도환
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/8
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:F
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+"^조금빠르게" A3 G F2 G2 | A3 G A c3 | d3 c c2 d2 | c3 A G4 | A3 G F2 G2 | A3 G A c3 | d3 d c2 A2 | %7
+w: 예 수 말 씀|하 시 기 를|누 가 오 늘|일 할 까|곡 식 익 어|거 둘 때 니|누 가 추 수|
+w: 멀 리 가 서|이 방 사 람|구 원 하 지|못 하 나|네 집 근 처|다 니 면 서|건 질 죄 인|
+w: 죽 을 사 람|구 하 라 고|예 수 너 를|부 르 니|힘 이 없 어|못 한 다 고|핑 계 하 지|
+ G3 A F4 | B3 B B2 c2 | d3 c B2 d2 | c3 d c2 A2 | A2 GF G4 | A3 G F2 G2 | A3 G A c3 | d3 d c2 A2 | %15
+w: 하 리 요|후 한 상 을|주 시 려 고|일 할 사 람|부 르 * 니|주 의 직 분|맡 으 려 고|대 답 할 이|
+w: 많 도 다|천 사 같 이|말 못 하 고|바 울 같 이|못 하 * 나|예 수 께 서|구 속 함 을|힘 을 다 해|
+w: 말 지 라|주 가 주 신|직 분 맡 아|항 상 기 뻐|지 키 * 고|부 르 실 때|대 답 할 말|나 를 보 내|
+ G3 A F4 |] |] %17
+w: 누 구 냐||
+w: 전 하 세||
+w: 주 소 서||
+V:2
+ C3 C C2 C2 | F3 E F F3 | F3 F F2 F2 | F3 F E4 | C3 C C2 C2 | F3 E F F3 | F3 F F2 C2 | E3 E F4 | %8
+ D3 D D2 _E2 | F3 _E D2 F2 | F3 F F2 F2 | F2 ED E4 | C3 C C2 C2 | F3 E F F3 | F3 F F2 C2 | %15
+ E3 E F4 |] |] %17
+V:3
+ C3 B, A,2 B,2 | C3 C C A,3 | B,3 A, A,2 B,2 | A,3 C C4 | C3 B, A,2 B,2 | C3 C C A,3 | %6
+ F,3 B, A,2 A,2 | B,3 C A,4 | B,3 B, B,2 B,2 | B,3 B, B,2 B,2 | A,3 B, A,2 C2 | C2 C2 C4 | %12
+ C3 B, A,2 B,2 | C3 C C A,3 | F,3 B, A,2 A,2 | B,3 C A,4 |] |] %17
+V:4
+ F,3 F, F,2 F,2 | F,3 C, F, F,3 | F,3 F, F,2 F,2 | F,3 F, C,4 | F,3 F, F,2 F,2 | F,3 C, F, F,3 | %6
+ B,,3 B,, C,2 C,2 | C,3 C, F,4 | B,,3 B,, B,,2 B,,2 | B,,3 B,, B,,2 B,,2 | F,3 F, F,2 F,2 | %11
+ C,2 C,2 C,4 | F,3 F, F,2 F,2 | F,3 C, F, F,3 | B,,3 B,, C,2 C,2 | C,3 C, F,4 |] |] %17

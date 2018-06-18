@@ -1,0 +1,36 @@
+X:346
+T:398 주 예수 우리 구하려
+Z:R.Heber/H.S.Cutler
+Z:Copyright May 18th 2000 by 전도환
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/4
+Q:1/4=112
+M:4/4
+I:linebreak $
+K:Bb
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ F | D3/2 E/ F B | B3/2 A/ A B | c d e d | c3 c | d3/2 c/ B A | A3/2 G/ G G | F B A3/2 B/ | B3 B | %9
+w: 주|예 수 우 리|구 하 려 큰|싸 움 하 시|니 주|십 자 가 를|따 라 서 나|갈 자 누 구|랴 큰|
+w: 주|예 수 고 난|당 할 때 저|원 수 위 하|여 죄|용 서 함 을|빔 같 이 또|빌 자 누 구|랴 저|
+w: 저|택 함 받 은|사 도 들 주|성 령 받 은|후 큰|환 난 고 통|당 할 때 다|참 고 이 겼|네 그|
+ B B A A | G3/2 G/ G G | F F F F | F3 E | D3/2 E/ F B | B3/2 A/ A B | d c B A | B3 | B2 B2 |] |] %19
+w: 환 난 핍 박|당 하 고 또|고 통 많 으|나 제|십 자 가 를|지 고 서 늘|참 는 이 로|다|||
+w: 순 교 자 가|죽 을 때 그|원 수 사 하|고 제|영 혼 부 탁|했 으 니 주|따 른 이 로|다|||
+w: 험 한 고 개|넘 어 서 저|천 성 갔 으|니 주|예 수 믿 는|우 리 도 본|받 게 하 소|서|아 멘||
+V:2
+ D | B,3/2 C/ D F | E3/2 E/ E F | G F E F | (F =E F) F | F3/2 F/ F ^F | ^F3/2 G/ G E | %7
+ E D C3/2 D/ | D3 F | G G G ^F | G3/2 D/ E E | E D C B, | (A, C B,) A, | B,3/2 C/ D F | %14
+ E3/2 E/ E F | F G F E | D3 | E2 D2 |] |] %19
+V:3
+ B, | F,3/2 F,/ B, D | C3/2 C/ C B, | B, B, B, B, | (C B, A,) A, | B,3/2 A,/ B, C | %6
+ C3/2 B,/ B, B, | A, B, C3/2 B,/ | B,3 D | D D D C | B,3/2 B,/ C C | C _B, A, G, | (F, A, B,) F, | %13
+ F,3/2 F,/ B, D | C3/2 C/ C B, | B, G, D C | B,3 | G,2 F,2 |] |] %19
+V:4
+ B,, | B,,3/2 B,,/ B,, B,, | C,3/2 C,/ C, D, | E, F, G, B, | (A, G, F,) F, | B,,3/2 C,/ D, D, | %6
+ E,3/2 E,/ E, E, | F, F, F,3/2 B,,/ | B,,3 B, | G, G, D, D, | G,,3/2 G,,/ C, C, | F, F, F, F, | %12
+ (F, E, D,) C, | B,,3/2 B,,/ B,, B,, | C,3/2 C,/ C, D, | B,, E, F, F, | B,,3 | E,2 B,,2 |] |] %19

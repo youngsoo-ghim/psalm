@@ -1,0 +1,36 @@
+X:333
+T:381 충성하라 죽도록
+Z:Anonymous/Old Melody
+Z:Copyright © 1999 by ÀüµµÈ¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/4
+Q:1/4=104
+M:4/4
+I:linebreak $
+K:Ab
+V:1 treble
+L:1/8
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ A2 A2 A2 c2 | BA GA B4 | c2 Bc d2 cB | c2 B2 A4 | B2 B2 B2 e2 | Bc BA GF E2 | B2 B2 B2 e2 | %7
+w: 1.충 성 하 라|죽- * 도- * 록|충 성- * 하 라- *|주 님 께|슬 픔 이 나|괴- * 로- * 움- * 이|주 의 사 랑|
+w: 2.충 성 하 라|죽- * 도- * 록|충 성- * 하 라- *|주 님 께|찬 란 하 다|저- * 면- * 류- * 관|들 려 온 다|
+w: 3.충 성 하 라|죽- * 도- * 록|충 성- * 하 라- *|주 님 께|항 상 내 가|힘- * 쓰- * 오- * 리|주 여 나 를|
+ Bc BA GF E2 | A2 A2 A2 c2 | BA GA B4 | c2 Bc d2 cB | c2 B2 A4 :| A4 A4 |] |] %14
+w: 못- * 끊- * 으- * 리|충 성 하 라|죽- * 도- * 록|충 성- * 하 라- *|끝 까 지|||
+w: 주- * 의- * 음- * 성|충 성 하 라|죽- * 도- * 록|충 성- * 하 라- *|끝 까 지|||
+w: 도- * 우- * 소- * 서|충 성 하 라|죽- * 도- * 록|충 성- * 하 라- *|끝 까 지|아 멘||
+V:2
+ C C E E | E E E2 | E E D E/F/ | E D C2 | E E E G | F =D E/D/ E | E =D E G | F =D E/D/ E/_D/ | %8
+ C C E E | E E E2 | E E D E/F/ | E D C2 :| D2 C2 |] |] %14
+V:3
+ E, E, E, A, | G,/F,/ E,/F,/ G,2 | A, B,/A,/ A, A, | A, G, A,2 | G, G, G, B, | B, B, B,/A,/ G, | %6
+ G, A, B, B, | B, B, B,/A,/ G, | E, E, E, A, | G,/F,/ E,/F,/ G,2 | A, B,/A,/ A, A, | A, G, A,2 :| %12
+ F,2 E,2 |] |] %14
+V:4
+ A,, A,, C, A,, | E, E, E,2 | A, G,/_G,/ F, E,/D,/ | E, E, A,,2 | E, E, E, E, | =D, B,, E, E, | %6
+ E, F, G, E, | =D, B,, E, E, | A,, A,, C, A,, | E, E, E,2 | A, G,/_G,/ F, E,/D,/ | E, E, A,,2 :| %12
+ D,2 A,,2 |] |] %14

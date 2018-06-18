@@ -1,0 +1,39 @@
+X:80
+T:천지에 있는 이름 중
+Z:G.Bethune/W.B.Bradbury
+Z:Copyright © 1997 by Àü µµ È¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/4
+Q:1/4=96
+M:3/4
+I:linebreak $
+K:F
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ C | F/ F/ A F | D/ D/ F D | C/ F/ A F | A G C | F/ F/ A F | D/ D/ F D | C/ F/ A F | G F c | %9
+w: 1.천|지 에 있 는|이 름 중 귀|하 고 높 은|이 름 나|시 기 전 에|지 으 신 구|주 의 이 름|예 수 *|
+w: 2.주|십 자 가 에|달 릴 때 명|패 에 쓰 인|대 로 저|유 대 인 의|왕 이 요 곧|우 리 왕 이|시 라 *|
+w: 3.지|금 도 살 아|계 셔 서 언|제 나 하 시|는 일 나|같 은 죄 인|부 르 사 참|소 망 주 시|도 다 *|
+w: 4.주|예 수 께 서|영 원 히 어|제 나 오 늘|이 나 그|이 름 으 로|우 리 게 참|복 을 내 리|신 다 주|
+ d/ d/ d d | c/ A/ c c | d/ d/ c A | A G C | F/ F/ A F | D/ D/ F D | C/ F/ A F | G F :| F3 | F3 |] %19
+w: ||||||||||
+w: ||||||||||
+w: ||||||||||
+w: 앞 에 내 가|업 드 려 그|이 름 찬 송|함 은 내|귀 에 들 린|말 씀 중 귀|하 신 이 름|예 수|아|멘|
+V:2
+ C | A,/ A,/ C C | B,/ B,/ D B, | C/ C/ C C | F E C | C/ C/ C C | B,/ B,/ D B, | C/ C/ C A, | %8
+ B, A, F | F/ F/ F F | F/ F/ F F | F/ F/ F F | F E C | A,/ A,/ C C | B,/ B,/ D B, | C/ C/ C A, | %16
+ B, A, :| B,3 | A,3 |] %19
+V:3
+ C, | F,/ F,/ F, F, | F,/ F,/ F, F, | F,/ F,/ F, A, | C C C, | F,/ F,/ F, F, | F,/ F,/ F, F, | %7
+ F,/ F,/ F, F, | E, F, F, | B,,/ B,,/ B,, B,, | F,/ F,/ F, F, | B,,/ D,/ F, F, | C, C, C, | %13
+ F,/ F,/ F, F, | F,/ F,/ F, F, | F,/ F,/ F, F, | E, F, :| D,3 | C,3 |] %19
+V:4
+ C, | F,/ F,/ F, A,, | B,,/ B,,/ B,, B,, | A,,/ A,,/ F,, F,, | C, C, C, | F,/ F,/ F, A,, | %6
+ B,,/ B,,/ B,, B,, | A,,/ A,,/ F,, F,, | C, F,, F, | B,,/ B,,/ B,, B,, | F,/ F,/ F, F, | %11
+ B,,/ D,/ F, F, | C, C, C, | F,/ F,/ F, A,, | B,,/ B,,/ B,, B,, | A,,/ A,,/ F,, F,, | C, F,, :| %17
+ B,,3 | F,,3 |] %19

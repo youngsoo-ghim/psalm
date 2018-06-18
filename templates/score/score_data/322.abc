@@ -1,0 +1,34 @@
+X:322
+T:357 세상의 헛된 신을 버리고
+Z:G.Matheson/E.Dearle
+Z:Copyright May 19th 2000 by Jun
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/4
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:Eb
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ G2 | G A | B2 E2 | F3/2 F/ G A | G4 | G2 F E | c2 B2 | B3/2 B/ A G | F4 | G2 G A | B2 E2 | %11
+w: 세|상 의|헛 된|신 을 버 리|고|하 나 님|이 름|높 여 기 리|세|온 천 하|백 성|
+w: 세|상 의|헛 된|우 상 버 리|고|인 간 의|모 든|부 귀 영 화|와|거 짓 과|불 의|
+w: 주|님 의|백 성|서 로 헤 아|려|시 기 와|미 움|아 주 버 리|고|하 나 님|만 을|
+ c3/2 c/ c G | A4 | A2 G F | B E E A | G2 F2 | E4 | E2 E2 |] |] %19
+w: 모 두 나 와|서|다 같 이|하 나 님 만|섬 기|세|||
+w: 모 두 버 리|고|온 전 히|하 나 님 만|섬 기|세|||
+w: 홀 로 섬 기|는|천 국 을|어 서 이 뤄|줍 소|서|아 멘||
+V:2
+ E2 E D | E2 E2 | E3/2 E/ D D | E4 | E2 D E | E2 E2 | E3/2 E/ F E | (E2 D2) | E2 E D | E2 _D2 | %10
+ C3/2 E/ =E E | F4 | F2 E D | E B, C F | E2 D2 | E4 | C2 B,2 |] |] %18
+V:3
+ B,2 B, B, | B,2 G,2 | C3/2 C/ B, B, | B,4 | B,2 B, B, | B,2 B,2 | C3/2 C/ C C | (F,2 B,2) | %8
+ B,2 B, B, | B,2 B,2 | E,3/2 A,/ G, C | C4 | C2 B, B, | B, G, G, C | B,2 A,2 | G,4 | A,2 G,2 |] |] %18
+V:4
+ E,2 E, F, | G,2 C,2 | A,,3/2 A,,/ B,, B,, | E,4 | E,2 F, G, | A,2 G,2 | F,3/2 F,/ A,, =A,, | %7
+ B,,4 | E,2 E, F, | G,2 G,,2 | A,,3/2 A,,/ C, C, | F,4 | F,2 B, A, | G, E, C, A,, | B,,2 B,,2 | %15
+ E,4 | A,,2 E,2 |] |] %18

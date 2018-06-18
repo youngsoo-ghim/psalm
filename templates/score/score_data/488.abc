@@ -1,0 +1,37 @@
+X:488
+T:539 이 몸의 소망 무엔가
+Z:E.Mote/W.B.Bradbury
+Z:Copyright © 1999 by ÀüµµÈ¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/4
+Q:1/4=96
+M:3/4
+I:linebreak $
+K:F
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ C | F/ A/ c A | A/ G/ G A | B/ B/ B G | F/ E/ F C | F/ A/ c A | A/ G/ G A | B/ B/ B G | %8
+w: 1.이|몸 의 소 망|무 엔 가 우|리 주 예 수|뿐 일 세 우|리 주 예 수|밖 에 는 믿|을 이 아 주|
+w: 2.무|섭 게 바 람|부 는 밤 물|결 이 높 이|설 렐 때 우|리 주 크 신|은 혜 에 소|망 의 닻 을|
+w: 3.세|상 의 믿 던|모 든 것 끊|어 질 그 날|되 어 도 구|주 의 언 약|믿 사 와 내|소 망 더 욱|
+w: 4.바|라 던 천 국|올 라 가 하|나 님 전 에|뵈 올 때 구|주 의 의 를|힘 입 어 어|엿 이 앞 에|
+ F/ E/ F c | c/ c/ c c | d/ d/ d d | c/ A/ A F | A/ A/ G C | F/ F/ F A | G/ G/ F :| |] %16
+w: 없 도 다 굳|건 한 반 석|이 시 니 그|위 에 내 가|서 리 라 그|위 에 내 가|서 리 라||
+w: 주 리 라 *||||||||
+w: 크 리 라 *||||||||
+w: 서 리 라 *||||||||
+V:2
+ C | C/ C/ F F | F/ E/ E F | F/ F/ F D | C/ C/ C C | C/ C/ F F | F/ E/ E F | F/ F/ F D | %8
+ C/ C/ C F | F/ E/ F F | F/ F/ F F | F/ C/ C C | C/ C/ C C | C/ A,/ D C | C/ B,/ A, :| |] %16
+V:3
+ A, | A,/ A,/ A, C | C/ C/ C C | D/ D/ D B, | A,/ G,/ A, A, | A,/ A,/ A, C | C/ C/ C C | %7
+ D/ D/ D B, | A,/ G,/ A, A, | A,/ B,/ C A, | B,/ B,/ B, B, | A,/ F,/ F, A, | F,/ F,/ E, E, | %13
+ F,/ F,/ F, F, | E,/ E,/ F, :| |] %16
+V:4
+ F, | F,/ F,/ F, F, | C,/ C,/ C, F, | B,,/ B,,/ B,, B,, | C,/ C,/ F, F, | F,/ F,/ F, F, | %6
+ C,/ C,/ C, F, | B,,/ B,,/ B,, B,, | C,/ C,/ F, F, | F,/ G,/ A, F, | B,,/ B,,/ B,, B,, | %11
+ F,/ F,/ F, F, | F,,/ A,,/ C, C, | A,,/ F,,/ B,, F,, | C,/ C,/ F,, :| |] %16

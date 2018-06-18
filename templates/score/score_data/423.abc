@@ -1,0 +1,37 @@
+X:423
+T:213 먹보다도 더 검은
+Z:Anonymous/W.J.Kirpatrick
+Z:Copyright © 1999 by ÀüµµÈ¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/8
+Q:1/4=96
+M:3/4
+I:linebreak $
+K:Ab
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ c d | c3 B c3/2 B/ | A4 A F | E3 E A d/c/ | B4 c d | e3 c B A | d4 c B | A3 c c3/2 B/ | A4 E A | %9
+w: 1.~먹 보|다 도 더 검|은 죄 로|물 든 이 마 *|음 흰 눈|보 다 더 희|게 깨 긋|하 게 씻 었|네 주 의|
+w: 2.~모 든|의 심 걱 정|과 두 려|움 이 사 라 *|져 슬 픈|탄 식 변 하|여 기 쁜|찬 송 되 었|네 * *|
+w: 3.~세 상|부 귀 영 화|와 즐 겨|하 던 모 든 *|것 주 를|믿 는 내 게|는 분 토|만 도 못 하|다 * *|
+w: 4.~나 의|모 든 보 배|는 저 천|국 에 쌓 였 *|네 나 의|평 생 자 랑|은 주 의|십 자 가 로|다 * *|
+ c2 A2 F A | F2 E2 A c | e3 c B A | B4 E A | c2 A2 F A | F2 E2 A c | e3 d c B | A4 :| |] %18
+w: 보 혈 흐 르|는 데 믿 고|뛰 어 나 아|가 주 의|은 혜 내 가|입 어 깨 끗|하 게 되 었|네||
+w: |||||||||
+w: |||||||||
+w: |||||||||
+V:2
+ E F | E3 E E3/2 D/ | C4 D D | C3 C E E | E4 E E | A3 A G _G | F4 E D | C3 E E3/2 D/ | C4 C C | %9
+ E2 C2 D D | D2 C2 C E | E3 E E E | E4 C C | E2 C2 D D | D2 C2 C E | E3 F E D | C4 :| |] %18
+V:3
+ A, A, | A,3 G, G,3/2 G,/ | A,4 A, A, | A,3 A, A, A, | G,4 A, G, | A,3 A, A, A, | A,4 A, G, | %7
+ A,3 A, G,3/2 G,/ | A,4 A, A, | A,2 A,2 A, A, | A,2 A,2 A, A, | C3 C D C | G,4 A, A, | %13
+ A,2 A,2 A, A, | A,2 A,2 A, A, | A,3 A, A, G, | A,4 :| |] %18
+V:4
+ A,, A,, | A,,3 E, E,3/2 E,/ | F,4 F, D, | A,,3 A,, C, A,, | E,2 D,2 C, B,, | C,3 A,, B,, C, | %6
+ D,4 E, =E, | F,3 C, E,3/2 E,/ | A,,4 A,, A,, | A,,2 A,,2 D, F, | A,2 A,,2 A,, A,, | A,3 A, G, A, | %12
+ E,4 A,, A,, | A,,2 A,,2 D, F, | A,2 A,,2 A,, A,, | C,3 D, E, E, | A,,4 :| |] %18

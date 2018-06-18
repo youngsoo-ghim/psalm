@@ -1,0 +1,37 @@
+X:219
+T:279 주 하나님의 사랑은
+Z:C.H.Richards/G.W.Fink
+Z:Copyright July 6th 2000 by 전도환
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/4
+Q:1/4=104
+M:4/4
+I:linebreak $
+K:A
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ E | A A G F | E3/2 F/ E E | F B A G | A3 E | A A G F | E3/2 F/ E c | B A G F | E3 E | G G A A | %10
+w: 주|하 나 님 의|사 랑 은 한|없 이 넓 으|사 온|세 계 모 든|백 성 을 그|자 녀 삼 았|네 각|나 라 말 과|
+w: 한|은 혜 로 써|고 르 게 주|내 려 주 시|고 다|같 은 주 의|계 시 를 늘|보 여 주 시|네 한|아 버 지 신|
+w: 싸|워 서 받 은|상 처 를 곧|낫 게 하 시|고 그|교 만 하 고|간 사 함 다|소 멸 하 시|어 각|나 라 서 로|
+w: 그|평 화 로 운|거 문 고 한|곡 조 울 리|니 저|어 지 러 운|소 리 들 곧|그 쳐 버 리|네 큰|영 광 보 는|
+ B B c A | d c B A | (A2 G) E | A A G F | E3/2 F/ E E | F B A G | A3 |] |] %18
+w: 역 사 가 다|다 르 더 라|도 * 온|세 상 사 람|믿 으 니 한|형 제 자 매|라||
+w: 하 나 님 다|같 이 모 시|고 * 만|백 성 서 로|지 체 니 한|형 제 자 매|라||
+w: 도 우 며 참|사 랑 으 로|써 * 주|하 나 님 을|섬 기 니 한|형 제 자 매|라||
+w: 그 날 을 늘|기 다 리 나|니 * 그|나 라 올 라|가 서 도 한|형 제 자 매|라||
+V:2
+ E | C E E D | C3/2 D/ C E | D F E E | E3 E | C E E D | C3/2 D/ C C/^D/ | E F E ^D | E3 E | %9
+ E E E E | D D C C | D E F F | E3 D | C E E D | C3/2 D/ C E | D F E E | E3 |] |] %18
+V:3
+ E, | A, A, A, A, | A,3/2 A,/ A, A, | A, D C B, | C3 E, | A, A, A, A, | A,3/2 A,/ A, E, | %7
+ E, C B, A, | G,3 G, | B, B, A, A, | G, G, A, =A, | A, A, F, B, | C2 B, G, | A, A, A, A, | %14
+ A,3/2 A,/ A, A, | A, D C B, | C3 |] |] %18
+V:4
+ E, | A,, C, D, F, | A,3/2 A,/ A, C, | D, B,, E, E, | A,,3 E, | A,, C, D, F, | A,3/2 A,/ A, A,, | %7
+ G,, A,, B,, B,, | E,3 E, | D, D, C, C, | B,, B,, A,, G, | F, E, D, ^D, | E,3 E, | A,, C, D, F, | %14
+ A,3/2 A,/ A, C, | D, B,, E, E, | A,,3 |] |] %18

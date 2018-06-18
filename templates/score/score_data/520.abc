@@ -1,0 +1,47 @@
+X:520
+T:257 듣는 사람마다 복음 전하여
+Z:P.P.Bliss/P.P.Bliss
+Z:Copyright © 1999 by ÀüµµÈ¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/16
+Q:1/4=104
+M:4/4
+I:linebreak $
+K:C
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ G3 A G2 E2 C4 c4 | A3 A c3 A G8 | G3 A G2 E2 C4 E4 | D3 C D2 E2 D8 | G3 A G3 E C4 c4 | %5
+w: 1.듣 는 사 람 마 다|복 음 전 하 여|복 스 러 운 소 식|두 루 퍼 치 세|사 람 있 는 곳 에|
+w: 2.오 는 사 람 들 은|지 체 말 고 서|문 열 었 을 때 에|들 어 오 시 오|우 리 행 할 길 은|
+w: 3.언 약 하 신 대 로|이 룰 것 이 니|아 무 나 그 언 약|받 을 수 있 네|받 는 사 람 에 게|
+ A3 A c3 A G8 | G3 A B2 c2 d4 B4 | c12 z4 | B3 B B2 c2 d8 | c3 B c2 A2 G8 | %10
+w: 전 할 소 식 은|어 느 누 구 나 오|라|어 느 누 구 나|주 께 나 오 라|
+w: 구 주 예 수 니|어 느 누 구 나 오|라|||
+w: 생 명 이 로 다|어 느 누 구 나 오|라|||
+ E3 E E2 G2 A2 G2 A2 c2 | d4 c4 B8 | c3 B c2 A2 G4 E4 | F3 E F2 G2 A8 | G3 A B2 c2 d4 B4 | %15
+w: 어 서 와 서 주 의 말 씀|들 으 라|하 늘 아 버 지 가|오 라 하 시 니|어 느 누 구 나 오|
+w: |||||
+w: |||||
+ c12 z4 :| |] %17
+w: 라||
+w: ||
+w: ||
+V:2
+ E3 F E2 C2 C4 E4 | F3 F F3 F E8 | E3 F E2 C2 C4 C4 | B,3 A, B,2 C2 B,8 | E3 F E3 C C4 E4 | %5
+ F3 F F3 F E8 | B,3 C D2 E2 F4 D4 | E12 z4 | D3 D D2 E2 F8 | E3 E F2 F2 E8 | %10
+ C3 C C2 E2 F2 F2 F2 F2 | ^F4 F4 G8 | E3 E E2 F2 E4 C4 | C3 C F2 F2 F8 | B,3 C D2 E2 F4 D4 | %15
+ E12 z4 :| |] %17
+V:3
+ C3 C C2 G,2 G,4 G,4 | F,3 F, A,3 C C8 | C3 C C2 G,2 G,4 G,4 | G,3 G, G,2 G,2 G,8 | %4
+ C3 C C3 G, G,4 G,4 | F,3 F, A,3 C C8 | G,3 G, G,2 G,2 G,4 G,4 | G,12 z4 | G,3 G, G,2 G,2 G,8 | %9
+ G,3 G, A,2 C2 C8 | G,3 G, G,2 C2 C2 C2 C2 A,2 | A,4 A,4 G,8 | G,3 G, G,2 A,2 C4 G,4 | %13
+ A,3 A, A,2 B,2 C8 | G,3 G, G,2 G,2 G,4 G,4 | G,12 z4 :| |] %17
+V:4
+ C,3 C, C,2 C,2 E,4 C,4 | F,3 F, F,3 F, C,8 | C,3 C, C,2 C,2 E,4 C,4 | G,,3 G,, G,,2 G,,2 G,,8 | %4
+ C,3 C, C,3 C, E,4 C,4 | F,3 F, F,3 F, C,8 | G,3 G, G,2 G,2 G,4 G,4 | C,12 z4 | %8
+ G,3 G, G,2 G,2 G,8 | C,3 C, C,2 C,2 C,8 | C,3 C, C,2 C,2 F,2 F,2 F,2 F,2 | D,4 D,4 G,8 | %12
+ C,3 C, C,2 C,2 C,4 C,4 | F,3 F, F,2 F,2 F,8 | G,3 G, G,2 G,2 G,4 G,4 | C,12 z4 :| |] %17

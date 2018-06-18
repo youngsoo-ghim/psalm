@@ -1,0 +1,45 @@
+X:606
+T:날 빛보다 더 밝은 천국
+Z:S.F.Bennett/J.P.Webster
+Z:Copyright © 1997 by Àü µµ È¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/8
+Q:1/4=96
+M:4/4
+I:linebreak $
+K:G
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ G A | B2 A G A2 G3/2 E/ | D4 z2 G A | B2 B B d2 d3/2 B/ | A6 G A | B2 A G A2 G3/2 E/ | D4 z2 G A | %7
+w: 날 빛|보 다 더 밝 은 천|국 믿 는|맘 가 지 고 가 겠|네 믿 는|자 위 하 여 있 을|곳 우 리|
+w: 찬 란|한 주 의 빛 있 으|니 거 기|는 어 두 움 없 도|다 우 리|들 거 기 서 만 날|때 기 쁜|
+w: 이 세|상 작 별 한 성 도|들 하 늘|에 올 라 가 만 날|때 인 간|의 괴 롬 이 끝 나|고 이 별|
+w: 광 명|한 하 늘 에 계 신|주 우 리|도 모 시 고 살 겠|네 성 도|들 즐 거 운 노 래|로 영 광|
+ B2 A G A2 G F | G6 B3/2 c/ | d6 d3/2 B/ | A6 A3/2 B/ | c2 c c c2 B A | B6 B3/2 c/ | d6 B3/2 A/ | %14
+w: 주 예 비 해 두 셨|네 며 칠|후 며 칠|후 요 단|강 건 너 가 만 나|리 며 칠|후 며 칠|
+w: 낯 서 로 가 대 하|리 * *||||||
+w: 의 눈 물 이 없 겠|네 * *||||||
+w: 을 주 앞 에 돌 리|리 * *||||||
+ G6 F E | D2 G B A2 G F | G6 :| |] %18
+w: 후 요 단|강 건 너 가 만 나|리||
+w: ||||
+w: ||||
+w: ||||
+V:2
+ D D | G2 D D E2 E3/2 C/ | B,4 z2 D D | D2 D D G2 G3/2 D/ | D6 D D | G2 D D E2 E3/2 C/ | %6
+ B,4 z2 D D | D2 D D E2 D D | D6 G3/2 A/ | B6 B3/2 G/ | F6 F3/2 G/ | A2 A A A2 G F | G6 G3/2 A/ | %13
+ B6 G3/2 D/ | E6 D C | B,2 D D E2 D D | D6 :| |] %18
+V:3
+ B, C | D2 D D C2 G,3/2 G,/ | G,4 z2 G, F, | G,2 G, G, B,2 B,3/2 G,/ | F,6 B, C | %5
+ D2 D D C2 G,3/2 G,/ | G,4 z2 G, F, | G,2 G, G, C2 B, A, | B,6 z2 | z2 G, A, B,2 D3/2 D/ | %10
+ D2 D D D2 D3/2 D/ | D2 D D D2 D D | D6 z2 | z2 G, A, B,2 G,3/2 G,/ | G,2 C C C2 G, G, | %15
+ G,2 G, D C2 B, A, | B,6 :| |] %18
+V:4
+ G, G, | G,2 B,, B,, C,2 C,3/2 C,/ | G,,4 z2 B,, D, | G,2 G, G, G,2 G,3/2 G,/ | D,6 G, G, | %5
+ G,2 B,, B,, C,2 C,3/2 C,/ | G,,4 z2 B,, D, | G,2 B,, B,, C,2 D, D, | G,,6 z2 | z2 G, G, G,2 z2 | %10
+ z2 D, D, D,2 D,3/2 D,/ | D,2 D, D, D,2 D, D, | G,6 z2 | z2 G, G, G,2 G,,3/2 B,,/ | %14
+ C,2 C, C, C,2 C, C, | D,2 B,, G,, C,2 D, D, | G,,6 :| |] %18

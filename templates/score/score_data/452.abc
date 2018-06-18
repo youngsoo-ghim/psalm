@@ -1,0 +1,41 @@
+X:452
+T:505 내 모든 소원 기도의 제목
+Z:T.O.Chisholm/W.J.Kirkpatrick
+Z:Copyright 24th March 2000 by 전도환
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/4
+Q:1/4=76
+M:3/4
+I:linebreak $
+K:D
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ (3DFA | A A (3Bcd | A F (3DFA | A F (3FGF | E2 (3DFA | A A (3Bcd | A F (3AGF | E d (3dcB | %8
+w: 내 모 든|소 원 기 도 의|제 목 예 수 를|닯 기 원 함 이|라 예 수 의|형 상 나 입 기|위 해 세 사 의|보 화 아 끼 잖|
+w: 무 한 한|사 랑 풍 성 한|긍 휼 슬 픈 자|위 로 하 시 는|주 길 잃 은|죄 인 부 르 는|예 수 그 형 상|닮 게 하 옵 소|
+w: 겸 손 하|시 고 거 룩 한|예 수 원 수 의|멸 시 참 으 시|사 우 리 를|위 해 고 난 을|받 은 구 주 를|닮 게 하 옵 소|
+ A2 (3A^GA | B G (3dcB | B A (3AGF | G G (3BAG | F2 (3A^GA | B G (3dcB | B A (3DFA | A F (3FDE | %16
+w: 네 * * *||||||||
+w: 서 예 수 를|닮 기 내 가 원|하 네 날 구 속|하 신 예 수 님|을 내 마 음|속 에 지 금 곧|오 사 주 님 의|형 상 인 치 소|
+w: 서 * * *||||||||
+ D2 |] |] %18
+w: ||
+w: 서||
+w: ||
+V:2
+ (3DDF | F F (3^EEE | F D (3DDF | F D (3DED | C2 (3DDF | F F (3^EEE | F D (3FED | C ^G (3GGG | %8
+ (E =G) (3F^EF | G D (3BAG | G F (3FED | E E (3GFE | D2 (3F^EF | G D (3BAG | G F (3DFA | %15
+ A D (3DA,A, | A,2 |] |] %18
+V:3
+ (3F,A,D | D A, (3^G,G,G, | A, A, (3F,A,D | D A, (3A,A,A, | A,2 (3F,A,D | D A, (3^G,G,G, | %6
+ A, A, (3A,A,A, | A, B, (3B,CD | C2 (3DDD | D B, (3DDD | D D (3A,A,A, | C C (3A,A,A, | A,2 (3DDD | %13
+ D B, (3DDD | D D (3D,F,A, | A, A, (3A,F,G, | F,2 |] |] %18
+V:4
+ (3D,D,D, | D, D, (3D,D,D, | D, D, (3D,D,D, | D, D, (3D,C,D, | A,,2 (3D,D,D, | D, D, (3D,D,D, | %6
+ D, D, (3D,D,D, | E, E, (3E,E,E, | A,,2 (3D,D,D, | G, G, (3G,G,G, | D, D, (3D,D,D, | %11
+ A,, A,, (3A,,B,,C, | D,2 (3D,D,D, | G, G, (3G,G,G, | D, D, (3D,F,A, | A, A, (3A,,A,,A,, | D,2 |] %17
+ |] %18

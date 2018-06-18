@@ -1,0 +1,34 @@
+X:101
+T:이새의 뿌리에서
+Z:Copyright © 1997 by Àü µµ È¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/4
+Q:1/4=304
+M:2/2
+I:linebreak $
+K:F
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ c2 | c c d c | c2 A2 | B2 A G- | G F2 E | F2 c2 | c c d c | c2 A2 | B2 A G- | G F2 E | F2 A2 | %11
+w: 1.이|새 의 뿌 리|에 서|새 싹 이|* 돋 아|나 옛|선 지 노 래|대 로|장 미 꽃|* 피 었|다 한|
+w: 2.이|사 야 예 언|대 로|어 리 신|* 우 리|주 동|정 녀 마 리|아 의|몸 빌 어|* 나 셨|다 탄|
+w: 3.그|부 드 러 운|향 기|온 하 늘|* 채 우|고 그|영 광 찬 란|한 빛|어 둠 을|* 쫓 았|다 참|
+ G E F D | C2 c2 | c c d c | c2 A2 | B2 A G- | G F2 E | F2 :| F2 F2 |] |] %20
+w: 추 운 겨 울|밤 주|탄 생 하 신|이 날|거 룩 한|* 날 이|여|아 멘||
+w: 생 한 아 기|는 영|원 한 구 세|주 라|참 기 쁜|* 날 이|여|||
+w: 신 과 참 사|람 우|리 를 구 하|셨 다|영 광 의|* 날 이|여|||
+V:2
+ F2 | F F F F | E2 F2 | F2 F E | D2 D C | C2 A2 | G F F F | F E F2 | D2 F (D | C2) C C | C2 F2 | %11
+ C C C =B, | C2 E2 | F F F F | F E D2 | D2 F (D | C2) C C | C2 :| D2 C2 |] |] %20
+V:3
+ A,2 | A, A, B, A, | G,2 F,2 | D2 C B, | A,2 B, G, | A,2 C2 | C A, B, A, | G,2 F,2 | G,2 C B, | %9
+ A,2 G, G, | A,2 C2 | C G, F, G, | E,2 G,2 | A, A, B, A, | G,2 ^F,2 | G,2 C B, | A,2 G, G, | A,2 :| %18
+ B,2 A,2 |] |] %20
+V:4
+ F,2 | F, F, B,, F, | C,2 D,2 | B,,2 C, C, | D,2 B,, C, | F,2 F,2 | E, F, B,, F, | C,2 D,2 | %8
+ G,,2 A,, B,, | C,2 C, C, | F,,2 F,2 | E, C, D, G,, | C,2 C,2 | F, F, B,, F, | C,2 D,2 | %15
+ G,,2 A,, B,, | C,2 C, C, | F,,2 :| B,,2 F,,2 |] |] %20

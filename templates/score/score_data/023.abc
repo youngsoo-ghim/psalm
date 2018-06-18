@@ -1,0 +1,29 @@
+X:23
+T:만 입이 내게 있으면
+Z:C.Wesley/C.G.Glaser
+Z:Copyright © 1997 by Jun
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/4
+Q:1/4=384
+M:3/2
+I:linebreak $
+K:Ab
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ E2 | A A B2 B2 | c B A2 B2 | c c d2 c2 | B4 e2 | e c c2 A2 | A F F2 (A F) | E A A2 B2 | A4 :| |] %10
+w: 1.만|입 이 내 게|있 으 면 그|입 다 가 지|고 내|구 주 주 신|은 총 을 늘 *|찬 송 하 겟|네||
+w: 2.내|은 혜 로 신|하 나 님 날|도 와 주 시|고 그|크 신 영 광|널 리 펴 다 *|알 게 하 소|서||
+w: 3.내|주 의 귀 한|이 름 이 날|위 로 하 시|고 이|귀 에 음 악|같 으 니 참 *|희 락 되 도|다||
+w: 4.내|죄 의 권 세|깨 뜨 려 그|결 박 푸 시|고 이|추 한 맘 을|피 로 써 곧 *|정 케 하 셨|네||
+V:2
+ E2 | E C E2 E2 | E D C2 E2 | E E E2 E2 | E4 G2 | A E E2 E2 | F D D2 F D | C C C2 D2 | C4 :| |] %10
+V:3
+ E,2 | E, A, G,2 G,2 | A, G, A,2 G,2 | A, A, B,2 A,2 | G,4 B,2 | C A, A,2 A,2 | A, A, A,2 A,2 | %7
+ A, A, A,2 G,2 | A,4 :| |] %10
+V:4
+ E,2 | C, A,, E,2 E,2 | A, E, F,2 E,2 | A, A, G,2 A,2 | E,4 E,2 | A, A, A,2 C,2 | D, D, D,2 D,2 | %7
+ E, E, E,2 E,2 | A,,4 :| |] %10

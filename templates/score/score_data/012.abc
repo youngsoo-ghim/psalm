@@ -1,0 +1,37 @@
+X:12
+T:22 다 함께 주를 경배하세
+Z:B.Crasselius/Anonymaouse
+Z:Copyright May 16th 2000 by Jun
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/4
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:C
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ G c G | A A G G/F/ | E C2 D | E ^F G A | B c B A | G G c G | A A G G/F/ | E C2 D | E ^F G A | %9
+w: 다 함 께|주 를 경 배 *|하 세 주|같 은 이 가|어 디 있 을|까 주 앞 에|찬 양 을 드 *|리 니 주|성 령 이 여|
+w: 내 주 여|나 를 인 도 *|하 사 아|버 지 품 에|살 게 하 시|고 주 성 령|내 행 실 살 *|피 사 내|맘 과 뜻 을|
+w: 주 성 령|나 를 감 화 *|하 사 새|노 래 나 의|맘 에 솟 으|니 참 되 도|간 절 한 기 *|도 로 주|님 께 영 광|
+w: 말 할 수|없 는 탄 식 *|으 로 나|위 해 친 히|간 구 하 시|는 주 성 령|날 항 상 돕 *|나 니 이|천 한 몸 은|
+ B c B A | G G c d | e c f e | d c d e | d c B A | G c c B | c | c2 c2 |] |] %18
+w: 나 를 도 우|사 주 기 뻐|하 실 노 래|불 러 서 그|이 름 찬 양|하 게 하 소|서|||
+w: 주 관 하 시|고 주 성 령|내 맘 열 어|주 시 사 참|평 화 간 직|하 게 하 소|서|||
+w: 돌 려 보 내|고 주 성 령|내 맘 열 어|주 시 사 내|주 를 찬 양|하 게 하 소|서|||
+w: 주 의 것 이|며 주 님 의|기 업 이 을|자 임 을 나|밝 히 알 게|하 여 주 소|서|아 멘||
+V:2
+ C C C | C D D B, | C G,2 B, | C C B, D | D E D C | B, C C C | C D D B, | C G,2 B, | C C B, D | %9
+ D E D C | B, G G3/2 F/ | E E A G | F E G G | G E G F | E E D D | E | F2 E2 |] |] %18
+V:3
+ E, E, E, | F, F,/E,/ D, G, | G, E,2 G, | G, A, G, ^F, | G, G, G, ^F, | G, E, E, E, | %6
+ F, F,/E,/ D, G, | G, E,2 G, G, A, G, ^F, | G, G, G, ^F, | G, B, C B, | C C C C | A, C B, C | %12
+ B, A, G, C | C C A, G, | G, | A,2 G,2 |] |] %17
+V:4
+ C, A,, C, | F, D,/C,/ B,, G,, | C, C,2 G,, | C, A,, E, D, | G, C, D, E, | G,, C, A,, C, | %6
+ F, D,/C,/ B,, G,, | C, C,2 G,, | C, A,, E, D, | G, C, D, D, | G,, G, E, D, | C, A,/G,/ F, C, | %12
+ D, A, G, C, | G, A, E, F, | C A, F, G, | C, | F,2 C,2 |] |] %18

@@ -1,31 +1,27 @@
-<!doctype html>
-<html lang="ko">
-    <head>
-    {% include "layout/header.html" ignore missing with context %}
-    </head>
-    <body>
-        {% include "layout/nav.html" ignore missing with context %}
-        <!--<main role="main" class="col-12 col-md-9 col-xl-8 py-md-3 pl-md-10 bd-content" style="max-width: 46rem;">-->
-        <main role="main" class="col-12 col-md-9 col-xl-8 py-md-3 pl-md-10 bd-content" style="max-width: 46rem;">
+        {% extends "layout/design_1.html" %}
+        {% block title %}사용자정보수정{% endblock %}
+        {% block content %}
+        <main role="main" class="col-12 col-md-9 col-xl-8 py-md-3 pl-md-10 bd-content mx-auto" style="max-width: 46rem;">
 
             <!-- Main jumbotron for a primary marketing message or call to action -->
             <!--<div class="jumbotron">-->
             <div class="container">
-                {# if session['USER_INFO']['SIGNIN_YN'] == 'Y' #}
-                {% if 'USER_INFO' in session %}
+                {% if 'USER_INFO' in session and session['USER_INFO']['SIGNIN_YN'] == 'Y' %}
                 <h1 class="display-5">사용자정보수정</h1>
                 {% else %}
                 <h1 class="display-5">가입</h1>
                 {% endif %}
             </div>
             <!--</div>-->
-                <div class="container">
-                <form id="f" name="f" action="{{ url_for('do_reg_user') }}" method="post">
+            <div class="container">
+                <form id="f" name="f" action="/user/{{ session['USER_INFO']['ACCOUNT_EMAIL'] }}" data-toggle="validator" method="post">
                     <input type="hidden" name="use_email_yn" id="use_email_yn" />
+                    <input type="hidden" id="new_yn" name="new_yn" value="N" />
+                    <input type="hidden" name="church_id" id="church_id" />
                     <!-- Example row of columns -->
                     <hr/>
                     <div class="input-group" >
-                        <input type="email" class="form-control" id="account_email" name="account_email" placeholder="이메일주소" required />
+                        <input type="email" class="form-control" id="account_email" name="account_email" placeholder="이메일주소" readonly required/>
                     </div>
                     <div class="alert alert-danger" role="alert" id="email_error_box" style="magin-top: 10px; display:none">
                         <span class="glyphicon glyphicon-exclamation-sign" aria-hidden="true"></span>
@@ -37,7 +33,7 @@
                     </div>
                     <br/>
                     <div class="input-group" >
-                        <input type="password" class="form-control" id="cus_pwd_compare" name="cus_pwd_compare" placeholder="비밀번호확인" />
+                        <input type="password" class="form-control" id="cus_pwd_compare" name="cus_pwd_compare" placeholder="비밀번호확인" required/>
                     </div>
                     <br/>
                     <div class="input-group" >
@@ -48,79 +44,90 @@
                         <input type="text" class="form-control" id="firstname" name="firstname" placeholder="이름" required/>
                     </div>
                     <br/>
+
+                    <h2>교회정보</h2>
+                    <div class="input-group" >
+                        <input type="text" class="form-control" id="church_name" name="church_name" placeholder="교회명" required/>
+                        <!--<span class="input-group-addon" id="search_church" onclick="searchExistChurch($('#church_name').val())" >교회찾기</span>-->
+                        <span class="input-group-btn">
+                            <button class="btn btn-secondary" style="width: 109px;" type="button" onclick="searchExistChurch($('#church_name').val())" >교회찾기</button>
+                        </span>
+                    </div>
+                    <br/>
+                    <div class="input-group w-60" >
+                        <input type="text" class="form-control" aria-describedby="search_zipcode" id="zip_code" name="zip_code" placeholder="우편번호" readonly required />
+                    </div>
+                    <br/>
+                    <div class="input-group" >
+                        <input type="text" class="form-control" id="address" name="address" placeholder="도로명주소" readonly required/>
+                        <input type="hidden" id="address_eng" name="address_eng"  value=""/>
+                    </div>
+                    <br/>
+                    <div class="input-group" >
+                        <input type="text" class="form-control" id="address_detail" name="address_detail" placeholder="상세주소" required readonly/>
+                    </div>
+                    <br/>
+
                     <hr/>
                     <div class="text-center">
-                        <button type="button" class="btn btn-lg btn-primary" id="submit_btn" name="submit_btn" onclick="insertUser()">가입
+                        <button type="button" class="btn btn-lg btn-primary" id="submit_btn" name="submit_btn" >수정
                         </button>
                     </div>
                 </form>
-                </div> <!-- /container -->
+            </div> <!-- /container -->
         </main>
-
-        <footer class="container">
-            <p>&copy; Company 2017</p>
-        </footer>
+        <!-- Modal -->
+        <div id="church_list" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="exampleModalLongTitle">교회조회</h5>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <div id="church_data" class="modal-body"></div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-dismiss="modal">닫기</button>
+                        <!--<button type="button" class="btn btn-primary">선택</button>-->
+                    </div>
+                </div>
+            </div>
+        </div>
         <script>
             $(function(){
-                $("#account_email").focus(function(){
-                    $("#email_error_box").hide();
-                })
+                $("#account_email").val("{{ item.account_email }}")
+                $("#pwd").val("{{ item.pwd }}")
+                $("#lastname").val("{{ item.lastname }}")
+                $("#firstname").val("{{ item.firstname }}")
+                $("#church_id").val("{{ item.church_id }}")
+
+                $("#church_name").val("{{ church_item.church_name }}")
+                $("#zip_code").val("{{ church_item.zip_code }}")
+                $("#address").val("{{ church_item.address }}")
+                $("#address_detail").val("{{ church_item.address_detail }}")
+
                 {# 이메일 영역 벗어나면 사용 가능 ID 인지 확인 #}
-                $("#account_email").blur(function(){
-                    var account_email = $("#account_email").val();
-                    var msg = "";
-                    if(checkEmptyID()){
-                        checkID(account_email);
-                    }
-                })
 
-            });
-            {# 이메일 등록여부 확인 함수 #}
-            function checkID(account_email){
-                var msg = "";
-                $.ajax({
-                    type : "post",
-                    url : "{{ url_for('ajax_check_user') }}",
-                    dataType : "json",
-                    data : 'account_email='+$("#account_email").val()+"",
-                    success : function(data, status){
-                        console.log(data, status);
-                        if(data.status == "OK"){
-                            $("#email_error_box").text('사용 할 수 있는 e-mail 계정 입니다.');
-                            $("#use_email_yn").val("Y");
-
-                            $("#email_error_box").removeClass("alert-danger");
-                            $("#email_error_box").addClass("alert-info");
-                        } else {
-                            $("#email_error_box").text('사용 할 수 없는 e-mail 계정 입니다.');
-                            $("#use_email_yn").val("N");
-
-                            $("#email_error_box").removeClass("alert-info");
-                            $("#email_error_box").addClass("alert-danger");
+                //jquery validator
+                $("#f").validate({
+                    rules: {
+                        pwd: {
+                            rangelength : [6, 24]
                         }
-                        $("#email_error_box").show();
-                    },
-                    error : function(xhr, status, error){
-                        console.log(status);
-                        console.log(error);
-                        $("#email_error_box").show();
-                        $("#email_error_box").text('알 수 없는 에러가 발생 하였습니다.'+error);
+                        ,cus_pwd_compare: {
+                          equalTo: "#pwd"
+                          ,rangelength : [6, 24]
+                        }
 
-                        $("#email_error_box").removeClass("alert-info");
-                        $("#email_error_box").addClass("alert-danger");
                     }
                 });
-                return msg;
-            }
+                $("#submit_btn").click(function( event ){
 
-            function checkEmptyID(){
-                if ($("#account_email").val() == ""){
-                    $("#email_error_box").show();
-                    $("#email_error_box").text('e-mail계정을 입력하지 않았습니다.');
-                    return false;
-                }
-                return true;
-            }
+                    //$("#f").validator();  //bootstrap validator
+                    $("#f").submit();
+                });
+            });
 
             {# 사용자 등록 #}
             function insertUser(){
@@ -129,40 +136,72 @@
                     return false;
                 }
                 $("#f").submit();
-   /*
-                var queryString = $("#f").serialize() ;
+
+            }
+
+            {# 등록된 교회 주소 조회 #}
+            function searchExistChurch(church_name){
+                if(church_name == ""){
+                    alert("교회명을 입력하여 주세요");
+                    return;
+                }
+                console.log(church_name);
                 $.ajax({
-                    type : "POST",
-                    url : "",
-                    dataType : "json",
-                    data : queryString,
+                    type : "GET",
+                    url : "{{ url_for('ajax_church_list') }}",
+                    //dataType : "json",
+                    data : 'church_name='+church_name+'',
                     success : function(data, status){
-                        console.log(data, status);
+                        console.log(data);
                         //$("#email_error_box").show();
+                        var html = "";
                         if(data.status == "OK"){
-                            if(confirm("사용자 등록이 완료 되었습니다. \n 로그인이 필요합니다 이동 하시겠습니끼?")){
-                                //location.href=
-                                location.replace('/');
-                            } else {
-                                return false;
-                            }
+                            $.each(data.items, function(key, items){
+                                console.log(key+'-'+items.update_date);
+                            });
+                            //$("#church_data").text(JSON.stringify(data.items));
+                            $.each(data.items, function(index, items) {
+                                html += "<div style='margin-bottom: 8px;' ><div class='card'><div class='card-body'>"
+                                        + "<a class=\"text-muted\" href='#' onclick=\"setChurchAddr('" + items.church_id + "','" + items.church_name + "','" + items.zip_code + "','" + items.address + "','" + items.address_detail + "','" +items.address_eng +"')\" >"
+                                        + "<h4>"+ items.church_name + "</h4>"
+                                        + items.zip_code + "<br/>"
+                                        + items.address + "<br/>";
+                                if( items.address_detail ){
+                                    html += items.address_detail + "<br/>";
+                                }
+                                html += items.address_eng + "</a></div></div></div>";
+                                //$("#church_data").html(items);
+                            });
+                            $("#church_data").html(html);
                         } else {
-                            alert("알 수 없는 에러가 발생 하였습니다. \n 다시 시도 부탁 드립니다.");
-                            return false;
+                            $("#find_church_yn").val("Y");
+                            $("#church_data").html('등록 된 교회가 없습니다. </br>우편번호 검색으로 교회를 검색/등록 하세요');
                         }
+                        $('#church_list').modal();
                     },
                     error : function(xhr, status, error){
                         console.log(status);
                         console.log(error);
-                        //$("#email_error_box").show();
-                        //$("#email_error_box").text('알 수 없는 에러가 발생 하였습니다.'+error);
-                        alert("알 수 없는 에러가 발생 하였습니다. \n 다시 시도 부탁 드립니다.");
-                        return false;
+                        alert('알 수 없는 에러가 발생 하였습니다.'+error);
                     }
                 });
-                return msg;
-    */
+            }
+
+             function setChurchAddr(church_id, church_name, zip_code, address, address_detail, address_eng){
+                $("#church_id").val(church_id);
+                $("#church_name").val(church_name);
+                $("#zip_code").val(zip_code);
+                $("#address").val(address);
+                $("#address_detail").val(address_detail);
+                $("#address_eng").val(address_eng);
+                {# 주소 선택 시 값 N 셋팅 #}
+                //$("#new_yn").val("N");
+                //alert($("#new_yn").val());
+
+                {# 교회 검색 한경우 처리 #}
+                //$("#find_church_yn").val("Y");
+                $('#church_list').modal('hide');
+                return false;
             }
         </script>
-    </body>
-</html>
+        {% endblock %} {# contente end #}

@@ -1,0 +1,43 @@
+X:434
+T:491 귀하신 친구 내게 계시니
+Z:C.H.Greene,    Arr. A.B.Smith
+Z:Copyright © 1998 by ÀüµµÈ¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/8
+Q:1/4=92
+M:4/4
+I:linebreak $
+K:Ab
+V:1 treble
+V:2 treble
+L:1/4
+V:3 bass
+V:4 bass
+V:1
+ E2 | c2 c2 d c B A | A2 F2 (F E2) E | c c2 c d c2 A | B6 E2 | c2 c2 d c B A | F2 A2 (F E2) E | %7
+w: 귀|하 신 친 구 내 게|계 시 니 * 나|주 안 에 늘 기 쁘|다 그|피 가 내 죄 씻 으|셨 으 니 * 나|
+w: 주|내 짐 대 신 지 시|었 으 니 * 나|주 안 에 늘 기 쁘|다 그|생 명 버 려 나 를|구 했 네 * 나|
+w: 주|은 총 매 일 내 게|더 하 네 * 나|주 안 에 늘 기 쁘|다 저|악 한 죄 길 에 서|지 키 네 * 나|
+ d d2 d c c2 B | A6 A2 | d d2 d d A2 B | c6 c2 | B B2 A G F2 c | B6 E2 | c c2 c d2 c2 | %14
+w: 주 안 에 늘 기 쁘|다 나|주 안 에 늘 기 쁘|다 나|주 안 에 늘 기 쁘|다 주|나 와 늘 동 행|
+w: 주 안 에 늘 기 쁘|다 나|주 안 에 늘 기 쁘|다 나|주 안 에 늘 기 쁘|다 주|나 와 늘 동 행|
+w: 주 안 에 늘 기 쁘|다 나|주 안 에 늘 기 쁘|다 나|주 안 에 늘 기 쁘|다 주|나 와 늘 동 행|
+ B2 c2 d2 f2 | e e2 d c c2 B | A6 :| |] %18
+w: 하 시 니 나|주 안 에 늘 기 쁘|다||
+w: 하 시 니 나|주 안 에 늘 기 쁘|다||
+w: 하 시 니 나|주 안 에 늘 기 쁘|다||
+V:2
+ C | E E F/ E/ D/ C/ | F D (D/ C) C/ | E/ E E/ F/ E E/ | E =D _D E | E E F/ E/ D/ C/ | %6
+ D F D/ C C/ | F/ F F/ E/ E D/ | C3 G | F/ F F/ F/ F _F/ | E3 E | =D/ D D/ D/ D D/ | E3 E | %13
+ E/ E E/ F E | F F F A | A/ A F/ E/ E D/ | C3 :| |] %18
+V:3
+ A,2 | A,2 A,2 A, A, A, A, | A,2 A,2 A,3 A, | A, A,2 A, A, A,2 A, | G,2 A,2 G,2 G,2 | %5
+ A,2 A,2 A, A, A, A, | A,2 A,2 A,3 A, | A, A,2 A, A, A,2 G, | A,6 A,2 | A, A,2 A, A, A,2 A, | %10
+ A,6 A,2 | F, F,2 F, B, A,2 A, | G,6 G,2 | A, A,2 A, A,2 A,2 | A,2 =A,2 B,2 _A,2 | %15
+ A, A,2 A, A, A,2 G, | A,6 :| |] %18
+V:4
+ A,,2 | A,,2 A,,2 A,, A,, A,, A,, | D,2 D,2 A,,3 A,, | A,, A,,2 A,, A,, A,,2 C, | E,2 F,2 E,2 E,2 | %5
+ A,,2 A,,2 A,, A,, A,, A,, | D,2 D,2 A,,3 A, | D, D,2 D, E, E,2 E, | A,,6 C,2 | %9
+ D, D,2 D, D, D,2 D, | A,, C,2 E, A,2 A,,2 | B,, B,,2 A,, B,, B,,2 B,, | E, E,2 D, C,2 B,,2 | %13
+ A,, A,,2 A,, A,,2 A,,2 | D,2 C,2 B,,2 =B,,2 | C, C,2 C, E, E,2 E, | A,,6 :| |] %18

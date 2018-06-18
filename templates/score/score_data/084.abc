@@ -1,0 +1,42 @@
+X:84
+T:96 온 세상이 캄캄하여
+Z:Anonymous
+Z:Copyright © 1999 by ÀüµµÈ¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/8
+Q:1/4=171
+M:6/8
+I:linebreak $
+K:Eb
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ B, | B, E G B2 c | B2 G E2 F | G2 G B A G | F3- F2 B, | B, E G B2 c | B2 G E2 F | G2 G F E F | %8
+w: 1.온|세 상 이 캄 캄|하 여 서 참|빛 이 없 었 더|니 * 그|빛 나 는 영 광|나 타 나 온|세 계 비 치 었|
+w: 2.주|말 씀 을 믿 는|사 람 은 그|맘 이 시 원 하|고 * 주|명 령 을 준 행|하 는 자 그|길 이 환 하 겠|
+w: 3.죄|가 운 데 사 는|사 람 은 그|눈 이 어 두 워|도 * 그|죄 악 을 씻 는|날 에 는 그|눈 이 밝 아 지|
+ E6 | G2 z G2 z | G F G A2 z | A2 z A2 z | A G A B2 z | e2 e d2 c | B3 G3 | G3- G F E | F6 | %17
+w: 네|영 광|영 광 의 주|영 광|영 광 의 주|밝 은 그 빛|내 게|비 * 치 었|네|
+w: 네|||||||||
+w: 네|||||||||
+ G2 z G2 z | G F G A2 z | A2 z A2 z | A G A B2 z | e2 e d2 c | B2 G E2 F | G3 G2 F | E3- E2 :| |] %26
+w: 영 광|영 광 의 주|영 광|영 광 의 주|이 세 상 의|빛 은 오 직|주 예 수|라 *||
+w: |||||||||
+w: |||||||||
+V:2
+ B, | B, B, E E2 E | E2 E E2 D | E2 E G F E | D3- D2 B, | B, B, E E2 E | E2 E E2 E | E2 E D E D | %8
+ E6 | E2 z E2 z | E F E D2 z | D2 z D2 z | D E D E2 z | G2 G G2 G | G3 E3 | E3- E B, E | D6 | %17
+ E2 z E2 z | E F E D2 z | D2 z D2 z | D E D E2 z | G2 G G2 A | G2 E E2 E | E3 D2 D | E3- E2 :| |] %26
+V:3
+ G, | G, G, B, G,2 A, | G,2 B, B,2 B, | B,2 B, G, B, B, | B,3- B,2 G, | G, G, B, G,2 A, | %6
+ G,2 B, B,2 C | B,2 B, A, G, A, | G,6 | B,2 z B,2 z | B, B, B, B,2 z | B,2 z B,2 z | %12
+ B, B, B, B,2 z | B,2 B, B,2 C | E3 B,3 | C3- C B, G, | B,6 | B,2 z B,2 z | B, B, B, B,2 z | %19
+ B,2 z B,2 z | B, B, B, B,2 z | B,2 B, B,2 C | E2 B, B,2 C | B,3 B,2 A, | G,3- G,2 :| |] %26
+V:4
+ E, | E, E, E, E,2 E, | E,2 E, G,2 F, | E,2 E, E, D, E, | B,,3- B,,2 E, | E, E, E, E,2 E, | %6
+ E,2 E, G,2 A, | B,2 B, B,, B,, B,, | E,6 | E,2 z B,,2 z | E, D, E, F,2 z | F,2 z B,,2 z | %12
+ F, E, F, G,2 z | E,2 E, E,2 E, | E,3 E,3 | C,3- C, D, E, | B,,6 | E,2 z B,,2 z | E, D, E, F,2 z | %19
+ F,2 z B,,2 z | F, E, F, G,2 z | E,2 E, E,2 E, | E,2 E, G,2 A, | B,3 B,,2 B,, | E,3- E,2 :| |] %26

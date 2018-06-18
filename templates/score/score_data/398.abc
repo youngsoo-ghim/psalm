@@ -1,0 +1,36 @@
+X:398
+T:92 어둠의 권세에서
+Z:마경일/김연준
+Z:Copyright 5월 23일 2000 by 전도환
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/8
+Q:1/4=135
+M:6/8
+I:linebreak $
+K:G
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ D3 B2 G | D E D D3 | D G B A2 F | (G2 B) A3 | D3 B2 G | D E D D3 | D B d c2 B | (A2 G) G3 | %8
+w: 어 둠 의|권 세 에 서|인 생 을 건 지|신 * 주|길 잃 고|헤 메 이 던|우 리 의 빛 이|시 * 라|
+w: 허 무 와|고 독 에 서|인 생 을 건 지|신 * 주|외 론 길|혼 자 가 는|우 리 의 친 구|시 * 라|
+w: 온 세 상|모 든 만 물|지 으 신 영 광|의 * 주|참 생 명|주 시 려 고|세 상 에 오 셨|도 * 다|
+ d3 c2 B | B A G B3 | B A G d2 e | e3 d3 | d3 c2 B | A B c B3 | B G E D2 F | A3 G3 | c3 B3 |] |] %18
+w: 영 원 한|그 나 라 의|참 모 습 보 이|시 고|그 얼 굴|밝 은 광 채|우 리 길 비 추|인 다|||
+w: 진 리 의|험 한 고 개|싸 우 며 넘 어|가 는|성 도 의|발 걸 음 에|굳 센 힘 주 시|도 다|||
+w: 우 리 의|죄 와 허 물|대 속 해 주 셨|으 니|영 원 히|찬 양 드 릴|우 리 의 주 시|로 다|아 멘||
+V:2
+ D3 G2 D | D C D D3 | D D G E2 E | (D2 G) F3 | D3 G2 D | D C D D3 | D G G G2 G | F2 D D3 | %8
+ B3 A2 G | G F G F3 | G F E G2 G | ^A3 B3 | G2 =F E2 | D | D D D D3 | D E C B,2 D | F3 D3 | %17
+ E3 D3 |] |] %19
+V:3
+ B,3 D2 B, | B, A, B, B,3 | B, B, D C2 C | (B,2 D) D3 | B,3 D2 B, | B, A, B, B,3 | B, D B, E2 D | %7
+ (C2 B,) B,3 | D2 =F E2 D | B, C E ^D3 | E B, B, B,2 C | ^C3 D3 | B,3 G,2 G, | F, G, A, G,3 | %14
+ G, G, G, G,2 A, | C3 B,3 | G,3 G,3 |] |] %18
+V:4
+ G,3 G,2 G, | G, G, G, G,3 | G, G, G, C,2 C, | D,3 D,3 | G,3 G,2 G, | G, G, G, G,3 | %6
+ G, G, G, C,2 D, | D,2 G, G,3 | G,3 C,2 D, | E, A, ^A, B,3 | E, F, G, G,2 G, | G,3 G,3 | %12
+ G,3 C,2 D, | D, D, D, G,,3 | G, C, C, D,2 D, | D,3 G,3 | C,3 G,,3 |] |] %18

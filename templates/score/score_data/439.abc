@@ -1,0 +1,37 @@
+X:439
+T:496 십자가로 가가이
+Z:F.J.Crosby/W.H.Doane
+Z:Copyright © 1997 by Jun
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/8
+Q:1/4=141
+M:6/8
+I:linebreak $
+K:F
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ A2 B A2 G | F2 D D3 | C2 F F2 A | A3 G3 | A2 B A2 G | F2 D D3 | C2 F F2 E | G3 F3 | A2 c c3 | %9
+w: 십 자 가 로|가 까 이|나 를 이 끄|시 고|거 기 흘 린|보 혈 로|정 테 하 옵|소 서|십 자 가|
+w: 십 자 가 에|가 까 이|내 가 떨 고|섰 네|거 기 있 는|새 벽 별|내 게 비 추|시 네||
+w: 십 자 가 로|가 까 이|행 케 하 옵|소 서|몸 소 받 은|고 생 도|알 게 하 옵|소 서||
+w: 십 자 가 에|가 끼 이|의 지 하 고|서 서|게 서 천 국|가 도 록|항 상 머 물|겠 네||
+ B2 d d3 | c2 d c2 A | A3 G3 | A2 B A2 G | F2 D D3 | C2 F F2 E | G3 F3 :| F3 F3 |] |] %18
+w: 십 자 가|무 한 영 광|일 세|요 단 강 을|건 넌 후|무 한 영 광|일 세|아 멘||
+w: |||||||||
+w: |||||||||
+w: |||||||||
+V:2
+ F2 F F2 E | D2 D B,3 | C2 C C2 F | F3 E3 | F2 F F2 E | D2 D D2 B, | A,2 C C2 C | C3 C3 | F2 F F3 | %9
+ F2 B B3 | A2 ^G A2 F | F3 E3 | C2 C ^C2 C | D2 B, B,3 | A,2 C C2 C | C3 C3 :| D3 C3 |] |] %18
+V:3
+ C2 D C2 B, | A,2 B, F,3 | A,2 A, C2 C | C3 C3 | C2 D C2 B, | A,2 B, F,3 | F,2 A, A,2 G, | %7
+ B,3 A,3 | C2 A, A,3 | D2 F F3 | FC =B, C2 C | C3 C3 | F,2 G, G,2 E, | D,2 F, F,3 | F,2 A, A,2 G, | %15
+ B,3 A,3 :| B,3 A,3 |] |] %18
+V:4
+ F,2 F, F,2 C, | D,2 B,, B,,3 | F,2 F, A,2 F, | C,3 C,3 | F,2 F, F,2 ^C, | D,2 B,, B,,3 | %6
+ C,2 C, C,2 C, | C,3 F,3 | F,2 F, F,3 | B,2 B, B,3 | F,2 F, F,2 F, | C,3 C,3 | D,2 F, E,2 A,, | %13
+ B,,2 B,, B,,3 | C,2 C, C,2 C, | C,3 F,3 :| B,,3 F,3 |] |] %18

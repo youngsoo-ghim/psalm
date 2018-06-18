@@ -1,0 +1,39 @@
+X:118
+T:118 영광 나라 천사들아
+Z:J.Montgomery/H.T.Smart
+Z:Copyright © 1999 by ÀüµµÈ¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/4
+Q:1/4=104
+M:4/4
+I:linebreak $
+K:Bb
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ F D B F | d3/2 c/ B F | G G F B | F E D2 | F D B F | d3/2 c/ B A | B A G A/B/ | A G F2 | %8
+w: 1.~영 광 나 라|천 사 들 아|땅 끝 까 지|날 면 서|하 나 님 을|찬 양 하 고|구 주 나 심 *|전 하 라|
+w: 2.~들 에 있 던|목 자 들 이|밤 에 양 떼|지 킬 때|천 사 들 이|나 타 나 서|주 의 나 심 *|전 하 네|
+w: 3.~박 사 들 도|기 뻐 하 며|밝 은 별 을|따 라 가|구 주 예 수|나 신 것 을|널 리 증 거 *|하 였 네|
+w: 4.~성 인 들 이|간 절 하 게|주 를 사 모|하 다 가|영 광 중 에|나 타 나 신|주 의 얼 굴 *|뵈 었 네|
+w: 5.~성 도 들 아|찬 양 하 라|성 부 성 자|성 령 께|우 리 모 두|소 리 높 여|삼 위 일 체 *|찬 양 해|
+ c3/2 c/ A F | d3/2 c/ B G | e d c B | B A B2 :| B2 B2 |] |] %14
+w: 경 배 하 세|경 배 하 세|나 신 왕 께|절 하 세|||
+w: ||||||
+w: ||||||
+w: ||||||
+w: ||||아 멘||
+V:2
+ D B, F D | F3/2 F/ F F | B, B, B, B, | C A, B,2 | D B, F F/E/ | D3/2 E/ D D | D D D D | F =E F2 | %8
+ F3/2 F/ F F | F3/2 D/ E E | G F E D/E/ | F3/2 E/ D2 :| E2 D2 |] |] %14
+V:3
+ B, F, F, B, | B,3/2 A,/ B, B, | G, B, F, G, | F, F, F,2 | B, B, F, F, | B,3/2 A,/ G, ^F, | %6
+ G, ^F, D C/B,/ | C B, A,2 | A,3/2 A,/ C A, | B,3/2 _A,/ G, B, | C F, G,/A,/ B, | C C B,2 :| %12
+ G,2 F,2 |] |] %14
+V:4
+ B,, B,, D, B,, | F,3/2 E,/ D, D, | E, E, D, G,, | A,, F,, B,,2 | B, F, D, D,/C,/ | %5
+ B,,3/2 C,/ D, D, | G, D, B,, G,, | C, C, F,,2 | F,3/2 F,/ F, F, | B,,3/2 B,,/ E, E, | %10
+ C, D, E,/F,/ G, | F, F,, B,,2 :| E,2 B,,2 |] |] %14

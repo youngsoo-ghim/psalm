@@ -1,0 +1,30 @@
+X:233
+T:233. 자비로 그 몸 찢기시고
+Z:J. S. B Hodges
+Z:[nwc보물창고]http://cafe.daum.net/nwc1
+Z:233
+%%score 1 2 3 4
+L:1/4
+M:3/4
+I:linebreak $
+K:Eb
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ B B A | G2 B | (A G) F | (G/A/) B2 | B B A | G2 E | (F3/2 G/) F | E3 | A A G | c2 B | A2 G | %11
+w: 1.자 비 로|그 몸|찢 * 기|시 * 고|그 의 피|흘 려|주 * 신|주|생 명 의|말 씀|주 심|
+w: 2.회 개 한|죄 인|상 * 한|가 * 슴|흐 르 는|눈 물|보 * 시|고|은 혜 로|내 영|먹 이|
+ G F2 | B G E | A2 G | (F3/2 G/) F | E3 |] %16
+w: 으 로|우 리 죄|사 해|주 * 셨|네|
+w: 시 는|큰 잔 치|되 게|하 * 소|서|
+V:2
+ E E E | E2 E | (D E) D | E E2 | E E E | E2 E | E2 D | E3 | E F E | E2 =E | (F D) E | E D2 | %12
+ E E C | (C D) E | E2 D | E3 |] %16
+V:3
+ G, G, C | B,2 G, | (F, B,) B, | (B,/A,/) G,2 | G, G, C | B,2 B, | B,2 A, | G,3 | C B, B, | %9
+ A,2 B, | (C A,) (B,/C/) | B, B,2 | B, B, C | A,2 B, | B,2 A, | G,3 |] %16
+V:4
+ E, E, E, | E,2 E, | B,,2 B,, | E, E,2 | E, E, E, | E,2 G,, | B,,2 B,, | E,3 | C, D, E, | A,2 G, | %10
+ F,2 (G,/A,/) | B, B,,2 | G, G, A, | F,2 E, | B,,2 B,, | E,3 |] %16

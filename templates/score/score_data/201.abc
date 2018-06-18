@@ -1,0 +1,37 @@
+X:201
+T:240 참 사람되신 말씀
+Z:W.W.How/Har.by F.Mendelssohn
+Z:Copyright July 5th 2000 by 전도환
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/4
+Q:1/4=104
+M:4/4
+I:linebreak $
+K:Eb
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ E/F/ | G c B A | G2 G G | B A/G/ F F | E3 E/F/ | G c B A | G2 G G | B A/G/ F F | E3 F | F G A A | %10
+w: 참 *|사 람 되 신|말 씀 하|늘 의 * 지 혜|요 변 *|하 지 않 는|진 리 온|세 상 * 빛 이|라 그|말 씀 성 경|
+w: 주 *|께 서 세 운|교 회 이|말 씀 * 받 아|서 이 *|귀 한 빛 을|비 춰 온|세 상 * 밝 힌|다 귀|중 한 성 경|
+w: 이 *|말 씀 깃 발|처 럼 드|높 이 * 날 리|니 어 *|두 운 바 다|위 에 등|대 와 * 같 도|다 이|고 해 같 은|
+w: 주 *|님 의 몸 된|교 회 빛|나 는 * 등 되|어 이 *|세 상 만 민|앞 에 비|추 게 * 하 소|서 저|방 황 하 는|
+ G2 G c | e c G =A | B3 B | B G A B | c2 c B | A G F F | E3 | A2 G2 |] |] %19
+w: 에 서 영|원 히 비 치|어 내|길 에 등 불|되 니 늘|찬 송 하 리|라|||
+w: 말 씀 그|보 다 귀 하|고 주|님 의 귀 한|모 습 잘|그 려 놓 았|다|||
+w: 세 상 일|평 생 지 날|때 그|말 씀 나 의|길 에 등|불 이 되 도|다|||
+w: 길 손 이|등 불 따 라|서 주|얼 굴 볼 때|까 지 잘|가 게 하 소|서|아 멘||
+V:2
+ B,/D/ | E E D F | E2 E E | E E E D | E3 B,/D/ | E G F F/E/ | D2 D E | D E E D | E3 D | D =E F F | %10
+ _E2 E F | E G G F/E/ | D3 F | E E E F/G/ | A2 A E | E E E D | E3 | E2 E2 |] |] %19
+V:3
+ G,/A,/ | B, A,/G,/ F, B, | B,2 B, B, | B, C F,/G,/ A, | G,3 G,/A,/ | B, E D C | =B,2 B, C | %7
+ B, C F,/G,/ A, | G,3 B, | B, B, C C | C2 C A, | G, E/D/ C C | B,3 A, | G, B, E _D | C2 E E | %15
+ A, C F,/G,/ A, | G,3 | C2 B,2 |] |] %19
+V:4
+ G,/F,/ | E, A,, B,, D, | E,2 E, E, | G,, A,, B,, B,, | E,3 G,/F,/ | E, C, D,/E,/ F, | G,2 G, C, | %7
+ G,, A,, B,, B,, | E,3 B, | A, G, F, F, | C,2 C, C, | C, C,/D,/ E, F, | B,,3 D, | E, _D, C, B,, | %14
+ A,,2 A,, G,, | C, A,, B,, B,, | E,3 | A,,2 E,2 |] |] %19

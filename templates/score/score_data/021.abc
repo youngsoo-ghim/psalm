@@ -1,0 +1,35 @@
+X:21
+T:다 찬양하여라
+Z:J.Neander/
+Z:Copyright © 1997 by Jun
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/4
+Q:1/4=104
+M:3/4
+I:linebreak $
+K:G
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ G G d | B3/2 A/ G | F E D | E F G | A3 | G3 | G G d | B3/2 A/ G | F E D | E F G | A3 | G3 | %12
+w: 1.다 찬 양|하 여 라|전 능 왕|창 조 의|주|께|내 혼 아|주 찬 양|평 강 과|구 원 의|주|님|
+w: 2.다 찬 양|하 여 라|놀 라 운|만 유 의|주|께|포 근 한|날 개 밑|늘 품 어|주 시 는|주|님|
+w: 3.다 찬 양|하 여 라|온 몸 과|마 음 을|바|쳐|이 세 상|만 물 이|주 앞 에|다 나 와|찬|양|
+ d d d | e3 | B c d | d c B | A3 | D E F | G A B | A3 | G3 :| G3 | G3 |] |] %24
+w: 성 도 들|아|주 앞 에|이 제 나|와|즐 겁 게|찬 양 하|여|라||||
+w: 성 도 들|아|주 님 의|뜻 안 에|서|네 소 원|다 이 루|리|라||||
+w: 성 도 들|아|기 쁘 게|소 리 높|여|영 원 히|찬 양 하|여|라|아|멘||
+V:2
+ D E D | G3/2 F/ E | D C B, | C C B, | E D C | B,3 | D E D | G3/2 F/ E | D C B, | C C B, | E D C | %11
+ B,3 | G A G | G3 | G G A | G E/ F/ G | F3 | D C C | B, E ^D | E2 =D/C/ | B,3 :| C3 | B,3 |] |] %24
+V:3
+ B, B, A, | D3/2 D/ B, | B, G, G, | G, A, G, | G, F,2 | G,3 | B, B, A, | D3/2 D/ B, | B, G, G, | %9
+ G, A, G, | G, F,2 | G,3 | B, A, B, | C3 | D C A, | B, D D | D3 | D G, A, | G, E, F, | %19
+ E, A,/G,/ F, | G,3 :| E,3 | D,3 |] |] %24
+V:4
+ G, E, F, | G,3/2 D,/ E, | B,, C, G,, | C, A,, E, | C, D,2 | G,,3 | G, E, F, | G,3/2 D,/ E, | %8
+ B,, C, G,, | C, A,, E, | C, D,2 | G,,3 | G, F, G, | C,3 | G, E, F, | G, A, B,/G,/ | D,3 | %17
+ B,, C, A,, | E, C, B,, | C,2 D, | G,,3 :| C,3 | G,,3 |] |] %24

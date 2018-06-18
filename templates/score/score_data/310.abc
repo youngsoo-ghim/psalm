@@ -1,0 +1,44 @@
+X:310
+T:410 아 하나님의 은혜로
+Z:D.W.Whittle/J.McGranahan
+Z:Copyright © 1997 by ÀüµµÈ¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/8
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:Eb
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ E2 | G3 G AG FE | c2 B2 B2 G2 | B3 B cB AG | F6 A2 | G3 G AG FE | c2 B2 B2 G2 | B3 B cB AF | %8
+w: 아|하 나 님- * 의- *|은 혜 로 이|쓸 데 없- * 는- *|자 왜|구 속 하- * 여- *|주 는 지 난|알 수 없- * 도- *|
+w: 왜|내 게 굳- * 센- *|믿 음 과 또|복 음 주- * 셔- *|서 내|맘 이 항- * 상- *|편 한 지 난|알 수 없- * 도- *|
+w: 왜|내 게 성- * 령- *|주 셔 서 내|맘 을 감- * 동- *|해 주|예 수 믿- * 게- *|하 는 지 난|알 수 없- * 도- *|
+w: 주|언 제 강- * 림- *|하 실 지 혹|밤 에 혹- * 낮- *|에 또|주 님 만- * 날- *|그 곳 도 난|알 수 없- * 도- *|
+ E6 E E | e2 e3 e d c | c2 B3 B c B | B2 A3 A B A | A2 G4 E2 | e2 e3 e d c | c2 B4 B B | %15
+w: 다 내 가|믿 고 또 의 지|함 은 내 모 든|형 편 잘 아 는|주 님 늘|돌 보 아 주 실|것 을 나 는|
+w: 다 * *|||||||
+w: 다 * *|||||||
+w: 다 * *|||||||
+ d3 c d2 B2 | e6 :| |] %18
+w: 확 실 히 아|네||
+w: |||
+w: |||
+w: |||
+V:2
+ E2 | E3 E E2 B,2 | E2 E2 E2 E2 | G3 G AG FE | D6 F2 | E3 E E2 B,2 | E2 E2 E2 E2 | D3 D D2 D2 | %8
+ E6 E E | c2 c3 c B A | A2 G3 G G G | G2 F3 F G F | E2 E4 E2 | c2 c3 c B A | A2 G4 G G | %15
+ F3 A A2 A2 | G6 :| |] %18
+V:3
+ G,2 | B,3 B, CB, A,G, | A,2 G,2 G,2 B,2 | E3 E E2 B,2 | B,6 B,2 | B,3 B, CB, A,G, | %6
+ A,2 G,2 G,2 B,2 | B,3 F, F,2 F,A, | G,6 E, E, | E2 E3 E E E | E2 E3 E E E | D2 D3 D D D | %12
+ C2 B,4 E,2 | E2 E3 E E E | E2 E4 B, B, | B,3 B, B,2 B,2 | B,6 :| |] %18
+V:4
+ E,2 | E,3 E, E,2 E,2 | E,2 E,2 E,2 E,2 | E,3 E, E,2 D,E, | B,,6 B,,2 | E,3 E, E,2 E,2 | %6
+ E,2 E,2 E,2 E,2 | B,,3 B,, B,,2 B,,2 | E,6 E, E, | A,,2 A,3 A, A, A, | E,2 E,3 E, E, E, | %11
+ B,,2 B,,3 B,, B,, B,, | E,2 E,4 E,2 | A,,2 A,3 A, A, A, | E,2 E,4 E, E, | B,,3 B,, B,,C, D,2 | %16
+ E,6 :| |] %18

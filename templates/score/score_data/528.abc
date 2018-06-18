@@ -1,0 +1,44 @@
+X:528
+T:예수가 우리를 부르는 소리
+Z:W.L.Thompson
+Z:Copyright © 1997 by Àü µµ È¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/8
+Q:1/4=117
+M:6/8
+I:linebreak $
+K:Ab
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ c3/2 B/ A A G A | B A F F E z | A A A c3/2 B/ A | B6 | c3/2 B/ A A G A | B A F F E z | %6
+w: 1.예 수 가 우 리 를|부 르 는 소 리|그 음 성 부 드 러|워|문 앞 에 나 와 서|사 면 을 보 며|
+w: 2.간 절 히 오 라 고|부 르 실 때 에|우 리 는 지 체 하|랴|주 님 의 은 혜 를|왜 아 니 받 고|
+w: 3.세 월 이 살 같 이|빠 르 게 지 나|쾌 락 이 끝 이 나|고|사 망 의 그 늘 이|너 와 내 앞 에|
+w: 4.우 리 를 위 하 여|예 비 해 두 신|영 원 한 집 이 있|어|죄 많 은 세 상 을|떠 나 게 될 때|
+ A A d c3/2 A/ B | A3- A2 E | B3- B2 c | (A2 B c3) | B B B c/ c3/2 =d | (e2 =d _d2) z | %12
+w: 우 리 를 기 다 리|네 * 오|라 * 오|라 * *|방 황 치 말 고 오|라 * *|
+w: 못 들 은 체 하 려|나 * *|||||
+w: 둘 리 며 가 리 우|네 * *|||||
+w: 영 접 해 주 시 겠|네 * *|||||
+ c3/2 B/ A A G A | B A F F E z | A/ A3/2 d c/ A3/2 B | A6 :| |] %17
+w: 죄 있 는 자 들 아|이 리 로 오 라|주 예 수 앞 에 오|라||
+w: |||||
+w: |||||
+w: |||||
+V:2
+ E3/2 D/ C E D D | D D D D C z | E E E =D3/2 D/ D | E6 | E3/2 D/ C E D C | D D D D C z | %6
+ E E F E3/2 C/ D | C3- C2 z | z2 G G2 z | z2 G A3 | G G B =A/ A3/2 _A | G2 A B2 z | %12
+ E3/2 D/ C E D C | D D D D C z | E/ E3/2 F E/ C3/2 D | C6 :| |] %17
+V:3
+ A,3/2 A,/ A, A, E, E, | F, F, A, A, A, z | C C C A,3/2 A,/ B, | G,6 | A,3/2 A,/ A, A, E, E, | %5
+ F, F, A, A, A, z | A, A, A, A,3/2 A,/ G, | A,3- A,2 z | z2 D D2 E | C2 E E3 | E E E E/ E3/2 B, | %11
+ B,2 B, E2 z | A,3/2 A,/ A, A, E, E, | F, F, A, A, A, z | A,/ A,3/2 A, A,/ A,3/2 G, | A,6 :| |] %17
+V:4
+ A,,3/2 A,,/ A,, C, B,, A,, | D, D, D, A,, A,, z | A, A, A, F,3/2 F,/ F, | E,6 | %4
+ A,,3/2 A,,/ A,, C, B,, A,, | D, D, D, A,, A,, z | C, C, D, E,3/2 E,/ E, | A,,3- A,,2 z | %8
+ z2 E, E,2 z | z2 E, A,3 | B, B, G, F,/ F,3/2 B, | E,2 F, G,2 z | A,,3/2 A,,/ A,, C, B,, A,, | %13
+ D, D, D, A,, A,, z | C,/ C,3/2 D, E,/ E,3/2 E, | A,,6 :| |] %17

@@ -1,0 +1,50 @@
+X:237
+T:226 저 건너편 강 언덕에
+Z:D.A.DeMarbelle/D.A.DeMarbelle
+Z:Copyright © 1998 by ÀüµµÈ¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/16
+Q:1/4=76
+M:4/4
+I:linebreak $
+K:F
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ c3 B | A3 ^G A3 G A c3 A3 F | D3 E F3 D C F3 F3 G | A3 ^G A3 _B c3 =B d3 c | =G12 G3 A | %5
+w: 저 건|너 편 강 언 덕 에 아 름|다 운 낙 원 있 네 믿 는|이 만 그 곳 으 로 가 겠|네 저 황|
+w: 은 빛|바 다 저 너 머 로 잠 시|후 에 천 국 가 서 우 리|죄 와 모 든 슬 픔 잊 겠|네 주 예|
+w: 우 리|일 생 다 지 나 고 주 의|품 에 편 히 쉴 때 나 의|영 혼 자 유 함 을 얻 겠|네 괴 로|
+ B3 A c3 A G F3 F3 E | D3 E F3 D C F3 F3 G | A3 c f3 d c3 A G3 A | F12 c3 c | d3 B f3 d B d3 f3 d | %10
+w: 금 문 들 어 가 서 주 님|함 께 살 리 로 다 너 와|날 위 해 황 금 종 울 린|다 저 울|리 는 종 소 리 와 천 사|
+w: 수 의 사 랑 속 에 영 원|토 록 살 리 로 다 너 와|날 위 해 황 금 종 울 린|다 * *||
+w: 운 짐 모 두벗 고 주 와 함|께 살 리 로 다 너 와 날|위 해 황 금 종 울 린 다|||
+ c3 d c3 A A c3 c3 c | f3 e d3 c B3 A G3 F | c12 c3 B | A3 ^G A3 G A c3 A3 F | %14
+w: 들 의 노 래 소 리 영 광|일 세 할 렐 루 야 기 쁘|다 빛 나|는 저 강 건 너 편 아 름|
+w: ||||
+w: ||||
+ D3 E F3 D C F3 F3 G | A3 c f3 d c3 A G3 A | F12 |] |] %18
+w: 답 고 영 원 한 곳 너 와|날 위 해 황 금 종 울 린|다||
+w: ||||
+w: ||||
+V:2
+ A3 G | F3 F F3 F F F3 F3 C | B,3 C D3 B, A, C3 C3 C | F3 F F3 F F3 F F3 F | E12 E3 F | %5
+ G3 F A3 E C C3 C3 C | B,3 C D3 B, A, C3 C3 C | F3 F F3 F F3 F =E3 E | F4 D2 _D2 C4 F3 F | %9
+ F3 F F3 F F F3 F3 F | F3 F F3 F F F3 F3 F | A3 F F3 F F3 F G3 D | E4 E3 F G4 A3 G | %13
+ F3 F F3 F F F3 F3 C | B,3 C D3 B, A, C3 C3 C | F3 F F3 F F3 F =E3 E | F4 D2 _D2 C4 |] |] %18
+V:3
+ C3 C | C3 =B, C3 B, C A,3 C3 A, | B,3 B, B,3 F, F, A,3 A,3 B, | C3 =B, C3 G, A,3 ^G, _B,3 A, | %4
+ C12 C3 C | C3 C C3 C B, A,3 A,3 A, | B,3 B, B,3 F, F, A,3 A,3 B, | C3 _E D3 B, A,3 C B,3 C | %8
+ A,4 B,2 B,2 A,4 A,3 A, | B,3 D D3 B, D B,3 D3 B, | A,3 B, A,3 C C A,3 A,3 A, | %11
+ C3 C B,3 C C3 C C3 =B, | C4 G,3 A, _B,4 C3 C | C3 =B, C3 B, C A,3 C3 A, | %14
+ B,3 B, B,3 F, F, A,3 A,3 B, | C3 _E D3 B, A,3 C B,3 C | A,4 B,2 B,2 A,4 |] |] %18
+V:4
+ F,3 F, | F,3 F, F,3 F, F, F,3 F,3 F, | B,,3 B,, B,,3 B,, F, F,3 F,3 F, | %3
+ F,3 F, F,3 F, F,3 F, F,3 F, | C,12 C,3 C, | C,3 C, C,3 C, F, F,3 F,3 F, | %6
+ B,,3 B,, B,,3 B,, F, F,3 F,3 F, | F,3 A, B,3 B,, C,3 C, C,3 C, | F,4 F,2 F,2 F,4 F,3 F, | %9
+ B,3 B, B,3 B, B, B,3 B,3 B, | F,3 F, F,3 F, F, F,3 F,3 F, | F,3 A, B,3 A, G,3 F, E,3 D, | %12
+ C,12 C,3 C, | F,3 F, F,3 F, F, F,3 F,3 G, | B,,3 B,, B,,3 B,, F, F,3 F,3 F, | %15
+ F,3 A, B,3 B,, C,3 C, C,3 C, | F,4 F,2 F,2 F,4 |] |] %18

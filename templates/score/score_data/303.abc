@@ -1,0 +1,40 @@
+X:303
+T:나 위하여 십자가의
+Z:R.Lowry
+Z:Copyright © 1997 by Àü µµ È¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/4
+Q:1/4=240
+M:3/2
+I:linebreak $
+K:G
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ D | G A B3 G | A G E3 D | G B d3 B | B A3 z D | G A B3 G | A G E3 E | D G B3 A | A G3 z B | %9
+w: 날|위 하 여 십|자 가 의 중|한 고 통 받|으 사 대|신 죽 은 주|예 수 의 사|랑 하 신 은|혜 여 보|
+w: 예|수 안 에 있|는 우 리 한|량 없 이 즐|겁 고 주|성 령 의 위|로 함 이 마|음 속 에 차|도 다 천|
+w: 이|세 상 의 모|진 풍 파 쉬|지 않 고 불|어 도 주|님 안 에 보|호 받 는 우|리 마 음 편|하 다 늘|
+ d3/2 d/ d3 B | A B G3 A | B3/2 B/ B3 A | B d3 z B | d3/2 d/ d3 B | G E D3 D | G A B3 A | A G3 z :| %17
+w: 배 로 운 피|를 흘 려 영|영 죽 을 죄|에 서 구|속 함 을 얻|은 우 리 어|찌 찬 양 안|할 까|
+w: 국 음 악 소|리 같 은 은|혜 로 운 그|말 씀 끊|임 없 이 듣|는 우 리 어|찌 찬 양 안|할 까|
+w: 깨 어 서 기|도 하 고 저|천 국 을 바|라 며 주|님 만 을 기|다 리 니 어|찌 찬 양 안|할 까|
+ |] %18
+w: |
+w: |
+w: |
+V:2
+ D | D D G3 D | E E C3 D | D G G3 G | G F3 z D | D F G3 D | E E C3 C | D D G3 D | D D3 z G | %9
+ G3/2 G/ G3 G | F F G3 F | G3/2 G/ G3 F | G B3 z G | G3/2 G/ G3 G | E C B,3 D | D F G3 F | %16
+ F G3 z :| |] %18
+V:3
+ D, | B, C D3 B, | C C G,3 B, | B, D B,3 D | D D3 z D, | G, D D3 B, | C C G,3 G, | G, B, D3 C | %8
+ C B,3 z D | B,3/2 B,/ B,3 D | C D B,3 D | D3/2 D/ D3 D | D D3 z D | B,3/2 B,/ B,3 D | %14
+ C G, G,3 B, | D D D3 C | C B,3 z :| |] %18
+V:4
+ D, | G, G, G,3 G, | C, C, C,3 G, | G, G, G,3 G, | D, D,3 z D, | B,, D, G,3 G, | C, C, C,3 C, | %7
+ B,, G,, D,3 D, | G,, G,,3 z G, | G,3/2 G,/ G,3 G, | D, D, G,,3 D, | G,3/2 G,/ G,3 D, | %12
+ G, G,3 z G, | G,3/2 G,/ G,3 G,, | C, E, G,3 G, | B,, D, G,3 D, | D, G,,3 z :| |] %18

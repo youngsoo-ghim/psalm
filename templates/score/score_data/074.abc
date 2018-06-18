@@ -1,0 +1,40 @@
+X:74
+T:74 오 만세 반석이신
+Z:E.H.Bickerstech/J.P.Holbrook
+Z:Copyright May 21th 2000 by 전도환
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/4
+Q:1/4=594
+M:6/4
+I:linebreak $
+K:C
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ G | G2 c d2 c | c3 B2 A | G2 G A2 F | E3- E2 G | G2 c d2 c | c3 B2 A | G2 G A2 B | c3- c2 E | %9
+w: 오|만 세 반 석|이 신 대|주 재 하 나|님 * 저|창 조 이 전|부 터 또|무 궁 한 세|대 * 한|
+w: 이|인 생 사 는|것 이 뜬|구 름 같 으|며 * 저|푸 른 동 산|속 에 꽃|송 이 같 도|다 * 풀|
+w: 한|없 는 사 랑|으 로 늘|한 결 같 으|신 * 주|자 비 베 푸|시 고 큰|은 혜 내 리|사 * 내|
+ E2 A c2 B/A/ | ^G3 A2 A | c2 A c2 d | e3- e2 G | G2 c d2 c | c3 B2 A | G2 G A2 B | c3- c2 | %17
+w: 없 는 영 광 *|중 에 그|보 좌 있 으|니 * 큰|환 난 풍 파|라 도 흔|들 지 못 하|네 *|
+w: 위 의 이 슬 *|같 고 꿈|같 이 잠 들|어 * 이|세 상 모 든|영 광 곧|사 라 지 도|다 *|
+w: 평 생 짧 은 *|세 월 빛|나 게 살 도|록 * 참|빛 인 성 령|으 로 날|채 워 줍 소|서 *|
+ c3 c3 |] |] %19
+w: ||
+w: ||
+w: 아 멘||
+V:2
+ E | E2 E F2 E | F3 G2 F | E2 E D2 D | C3- C2 E | E2 E F2 E | F3 G2 F | E2 E D2 F | E3- E2 C | %9
+ C2 E E2 E | E3 E2 E | E2 E F2 A | ^G3- G2 E | E2 E F2 E | F3 G2 F | E2 E F2 F | E3- E2 | F3 E3 |] %18
+ |] %19
+V:3
+ C | C2 G, A,2 G, | A,3 C2 C | C2 C B,2 B, | G,3- G,2 C | C2 G, A,2 G, | A,3 C2 C | C2 C B,2 D | %8
+ C3- C2 C | C2 C E2 D/C/ | B,3 C2 C | C2 C A,2 A, | B,3- B,2 C | C2 G, A,2 G, | A,3 C2 C | %15
+ C2 C B,2 D | C3- C2 | A,3 G,3 |] |] %19
+V:4
+ C, | C,2 C, C,2 C, | F,3 F,2 F, | G,2 G, G,,2 G,, | C,3- C,2 C, | C,2 C, C,2 C, | F,3 F,2 F, | %7
+ G,2 G, G,,2 G,, | C,3- C,2 C, | A,,2 A,, A,2 A, | E,3 A,,2 A,, | A,2 A, F,2 F, | E,3- E,2 C, | %13
+ C,2 C, C,2 C, | F,3 F,2 F, | G,2 G, G,,2 G,, | C,3- C,2 | F,3 C,3 |] |] %19

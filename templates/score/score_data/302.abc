@@ -1,0 +1,45 @@
+X:302
+T:내 주 하나님 넓고 큰 은혜는
+Z:A.B.Simpson/R.K.Carter
+Z:Copyright © 1997 by Àü µµ È¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/16
+Q:1/4=104
+M:4/4
+I:linebreak $
+K:D
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ D4 | D4 F3 G A4 A2 A2 | B4 d3 B A6 A2 | B4 B3 B A2 A2 F4 | E12 E4 | D4 F3 A d4 d3 d | %6
+w: 내|주 하 나 님 넓 고|큰 은 혜 는 저|큰 바 다 보 다 깊|다 너|곧 닻 줄 을 끌 러|
+w: 왜|너 인 생 은 언 제|나 거 기 서 저|큰 바 다 물 결 보|고 그|밑 모 르 는 깊 은|
+w: 많|은 사 람 이 얕 은|물 가 에 서 저|큰 바 다 가 려 다|가 찰|삭 거 리 는 작 은|
+w: 자|곧 가 거 라 이 제|곧 가 거 라 저|큰 은 혜 바 다 향|해 자|곧 네 노 를 저 어|
+ e2 d2 d2B2 A4 A4 | ^G4 G2 A2 B4 c3 B | A12 A4 | d8- d3 A c3 B | A12 A4 | A6 F2 D4 F4 | E12 E4 | %13
+w: 깊 은 데- * 로 저|한 가 운 데 가 보|라 언|덕 을 떠 나 서|창 파|에 배 띄 워|내 주|
+w: 바 다 속- * 을 한|번 헤 아 려 안 보|나 *|||||
+w: 파 도 보- * 고 맘|이 조 려 서 못 가|네 *|||||
+w: 깊 은 데- * 로 가|라 망 망 한 바 다|로 *|||||
+ D4 F2A2 d4 A3 A | B4 d3 B A8 | A4 D2 E2 F2 F2 E4 | D12 :| |] %18
+w: 예- * 수 은 혜 의|바 다 로 네|맘 껏 저 어 가 라|||
+w: |||||
+w: |||||
+w: |||||
+V:2
+ D4 | D4 D3 D F4 F2 F2 | G4 G3 G F6 F2 | G4 G3 G F2 F2 D4 | C12 C4 | D4 D3 F F4 F3 F | %6
+ G2 G2 G4 F4 F4 | E4 E2 E2 E4 A3 E | E12 z4 | z4 F3 F F4 z4 | z4 F3 F F4 F4 | F6 D2 D4 D4 | %12
+ C12 C4 | D4 D4 F4 F3 F | G4 G3 G F8 | F4 D2 D2 D2 D2 C4 | D12 :| |] %18
+V:3
+ F,4 | F,4 A,3 A, D4 D2 D2 | D4 B,3 D D6 D2 | D4 D3 D D2 A,2 ^G,4 | A,12 G,4 | %5
+ F,4 A,3 A, A,4 A,3 A, | B,2 B,2 B,4 D4 D4 | B,4 B,2 C2 D4 E3 D | C12 z4 | z4 A,3 A, A,4 z4 | %10
+ z4 D3 D D4 D4 | D6 A,2 F,4 ^G,4 | A,12 G,4 | F,4 A,4 A,4 D3 D | D4 B,3 D D8 | %15
+ A,4 F,2 G,2 A,2 A,2 G,4 | F,12 :| |] %18
+V:4
+ D,4 | D,4 D,3 D, D,4 D,2 D,2 | G,4 G,3 G, D,6 D,2 | G,4 G,3 G, D,2 D,2 B,,4 | A,,12 A,,4 | %5
+ D,4 D,3 D, D,4 D,3 D, | G,2 G,2 G,4 D,4 D,4 | E,4 E,2 E,2 E,4 E,3 E, | A,12 z4 | %9
+ z4 D,3 D, D,4 z4 | z4 D,3 D, D,4 D,4 | D,6 D,2 D,4 B,,4 | A,,12 A,,4 | D,4 D,4 D,4 D,3 D, | %14
+ G,4 G,3 G, D,8 | D,4 D,2 E,2 A,,2 A,,2 A,,4 | D,12 :| |] %18

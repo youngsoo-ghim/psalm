@@ -1,0 +1,52 @@
+X:407
+T:465 구주와 함께 나 죽었으니
+Z:D.W.Whittle/M.W.Moody
+Z:Copyright © 1999 by ÀüµµÈ¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/4
+Q:1/4=116
+M:3/4
+I:linebreak $
+K:F
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ C F G | A A A | B F G | A2 z | A G ^F | G A G | F E3/2 D/ | G3 | C F G | A A A | B B =B | c2 z | %12
+w: 1.구 주 와|함 께 나|죽 었 으|니|구 주 와|함 께 나|살 았 도|다|영 광 의|기 약 이|이 르 도|록|
+w: 2.맘 속 에|시 험 을|받 을 때|와|무 거 운|근 심 이|있 을 때|에|주 께 서|그 때 도|같 이 하|사|
+w: 3.뼈 아 픈|눈 물 을|흘 릴 때|와|쓰 라 린|맘 으 로|탄 식 할|때|주 께 서|그 때 도|같 이 하|사|
+w: 4.내 몸 의|약 함 을|아 시 는|주|못 고 칠|질 변 이|아 주 없|네|괴 로 운|날 이 나|기 쁜 때|나|
+ c B A | D G/ z/ F | E A3/2 G/ | F3 | A B c | A G F | E3/2 F/ G | A2 z | A B c | A G F | %22
+w: 언 제 나|주 만 바|라 봅 니|다|언 제 나|주 는 날|사 랑 하|사|언 제 나|새 생 명|
+w: 언 제 나|나 를 도|와 주 시|네|||||||
+w: 언 제 나|나 를 생|각 하 시|네|||||||
+w: 언 제 나|나 와 함|께 계 시|네|||||||
+ =D3/2 E/ F | G3 | C F G | A A A | d d3/2 c/ | B2 z | B A G | D G/ z/ F | E A3/2 G/ | F3 :| F3 | %33
+w: 주 시 나|니|영 광 의|기 약 이|이 르 도|록|언 제 나|주 만 바|라 봅 니|다|아|
+w: |||||||||||
+w: |||||||||||
+w: |||||||||||
+ F3 |] |] %35
+w: 멘||
+w: ||
+w: ||
+w: ||
+V:2
+ C C C | F F F | F F F | F2 z | E E ^D | E E E | C =B,3/2 B,/ | C3 | C C C | F F F | F F F | F2 z | %12
+ _E E E | D D/ z/ D | C E3/2 E/ | C3 | F G A | F C C | C3/2 D/ E | F2 z | F F F | F E D | %22
+ =B,3/2 C/ D | E3 | C C C | F F G | ^F F3/2 A/ | G2 z | D D D | D D/ z/ D | C E3/2 C/ | C3 :| D3 | %33
+ C3 |] |] %35
+V:3
+ A, A, B, | C C ^C | D D D | C2 z | C B, A, | B, C B, | A, _A,3/2 A,/ | G,2 B, | A, A, B, | C C C | %10
+ B, B, ^G, | A,2 z | A, G, F, | G, G, G, | G, C3/2 B,/ | A,3 | C C C | C B, A, | G,3/2 C/ C | %19
+ C2 z | C G, A, | C B, A, | G,3/2 G,/ G, | G,2 B, | A, A, B, | C C C | A, A,3/2 D/ | D2 z | %28
+ B, C B, | G, G,/ z/ G, | G, C3/2 B,/ | A,3 :| B,3 | A,3 |] |] %35
+V:4
+ F, F, F, | F, F, F, | F, F, F, | F,2 z | C, C, C, | C, C, C, | F, F,3/2 F,/ | E,3 | F, F, F, | %9
+ F, F, _E, | D, D, _D, | C,2 z | F, F, F, | B,, B,,/ z/ =B,, | C, C,3/2 C,/ | F,,3 | F, F, F, | %17
+ F, F, F, | C,3/2 C,/ C, | F,2 z | F, F, F, | F, C, D, | F,3/2 E,/ D, | C,3 | F, F, F, | %25
+ F, F, _E, | D, D,3/2 D,/ | G,2 z | G,, A,, B,, | B,, B,,/ z/ =B,, | C, C,3/2 C,/ | F,,3 :| B,,3 | %33
+ F,,3 |] |] %35

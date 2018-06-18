@@ -1,25 +1,28 @@
-<!doctype html>
-<html lang="ko">
-    <head>
-    {% include "layout/header.html" ignore missing with context %}
-    </head>
-    <body>
-        {% include "layout/nav.html" ignore missing with context %}
+        {% extends "layout/design_1.html" %}
+        {% block title %}{% if session['USER_INFO']['CHURCH_NAME'] %}{{ session['USER_INFO']['CHURCH_NAME'] }} 교회정보 등록/변경{% endif %}{% endblock %}
+        {% block content %}
         <!--<main role="main" class="col-12 col-md-9 col-xl-8 py-md-3 pl-md-10 bd-content" style="max-width: 46rem;">-->
-        <main role="main" class="col-12 col-md-9 col-xl-8 py-md-3 pl-md-10 bd-content" style="max-width: 46rem;">
+        <main role="main" class="col-12 col-md-9 col-xl-8 py-md-3 pl-md-10 bd-content mx-auto" style="max-width: 46rem;">
 
             <!-- Main jumbotron for a primary marketing message or call to action -->
             <!--<div class="jumbotron">-->
             <div class="container">
-                <h1 class="display-5">교회정보</h1>
+                {% if change == 'Y' %}
+                <h1 class="display-5">교회정보 등록/변경</h1>
+                <p><small>관리자의 등록 교회 정보는 수정 되지 않습니다. 등록 정보를 수정 하시려면 <a href="{{ url_for('go_update_user') }}" >관리자 정보 변경</a>에서 교회 정보를 수정 하세요.</small></p>
+                {% else %}
+                <h1 class="display-5">관리자 교회정보 등록</h1>
+                <p><small><b>주보 관리자 최초 등록자 입니다.</b> 해당 교회 정보를 들록하셔야 합니다. 교회 주소를 정확히 등록 하셔야 이용에 불편이 헚습니다.</small></p>
+                {% endif %}
             </div>
             <!--</div>-->
-            <form id="f" name="f" action="/user/{{ session['USER_INFO']['ACCOUNT_EMAIL'] }}" method="POST">
+            <form id="f" name="f" action="/user/{{ session['USER_INFO']['ACCOUNT_EMAIL'] }}" method="POST" data-toggle="validator">
                 <input type="hidden" id="church_id" name="church_id" value="" />
                 <input type="hidden" id="new_yn" name="new_yn" value="" />
                 <input type="hidden" id="find_church_yn" name="find_church_yn" value="N"/>    {# 주소 신규 등록 전 교회 주소 있는지 확인 #}
                 <input type="hidden" id="_method" name="_method" value="put"/>
                 <input type="hidden" id="account_email" name="account_email" value="{{ session['USER_INFO']['ACCOUNT_EMAIL'] }}"/>
+                <input type="hidden" id="change" name="change" value="{{ change }}" />
             <div class="container">
                 <!-- Example row of columns -->
                 <!--<h2>교회정보</h2>-->
@@ -33,7 +36,7 @@
                 </div>
                 <br/>
                 <div class="input-group w-60" >
-                    <input type="text" class="form-control" aria-describedby="search_zipcode" id="zip_code" name="zip_code" placeholder="우편번호" readonly required/>
+                    <input type="text" class="form-control" aria-describedby="search_zipcode" id="zip_code" name="zip_code" placeholder="우편번호" readonly required />
                     <span class="input-group-btn">
                         <button class="btn btn-secondary" type="button" onclick="sample2_execDaumPostcode()" >우편번호찾기</button>
                     </span>
@@ -41,7 +44,7 @@
                 <br/>
                 <div class="input-group" >
                     <input type="text" class="form-control" id="address" name="address" placeholder="도로명주소" readonly required/>
-                    <input type="hidden" id="address_eng" name="address_eng"  />
+                    <input type="hidden" id="address_eng" name="address_eng"  value=""/>
                 </div>
                 <br/>
                 <div class="input-group" >
@@ -60,10 +63,6 @@
             </div> <!-- /container -->
             </form>
         </main>
-
-        <footer class="container">
-            <p>&copy; Company 2017</p>
-        </footer>
         <!-- Modal -->
         <div id="church_list" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
             <div class="modal-dialog" role="document">
@@ -76,8 +75,8 @@
                     </div>
                     <div id="church_data" class="modal-body"></div>
                     <div class="modal-footer">
-                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-                        <button type="button" class="btn btn-primary">Save changes</button>
+                        <button type="button" class="btn btn-secondary" data-dismiss="modal">닫기</button>
+                        <!--<button type="button" class="btn btn-primary">선택</button>-->
                     </div>
                 </div>
             </div>
@@ -86,10 +85,25 @@
         <script>
             $(function(){
                 $("#submit_btn").click(function( event ){
-                    //$("#account_email").val().checkValidity();
-
-                    //$("#f").attr('method','post').submit();
+                    if($("#change").val() == "Y") {
+                        //alert("change {{ url_for('do_reg_church') }}");
+                        if (confirm("수정 하시겠습니까?")){
+                            $("#f").attr("action", "{{ url_for('do_reg_church') }}");
+                        } else {
+                            return false;
+                        }
+                    } else {
+                        if (confirm("등록 하시겠습니끼?")){
+                            $("#f").attr("action", "{{ url_for('do_reg_church') }}");
+                        } else {
+                            return false;
+                        }
+                    }
+                    //$("#address_detail").val().checkValidity();
+                    $("#f").validate();
+                    $("#f").attr('method','post').submit();
                     $("#f").submit();
+
                 });
             });
 
@@ -115,11 +129,21 @@
                             });
                             //$("#church_data").text(JSON.stringify(data.items));
                             $.each(data.items, function(index, items) {
-                                html += "<div style='margin-bottom: 8px;' ><div class='card'><div class='card-body'>"
-                                        + "<a class=\"text-muted\" href='#' onclick=\"setChurchAddr('" + items.church_id + "','" + items.church_name + "','" + items.zip_code + "','" + items.address + "','" + items.address_detail + "')\" >"
-                                        + "<h4>"+ items.church_name + "</h4>"
-                                        + items.zip_code + "<br/>"
-                                        + items.address + "<br/>";
+                                html += "<div style='margin-bottom: 8px;' ><div class='card'>"
+                                if (items.official_yn == "Y") {
+                                    html += "<div class='card-body text-white bg-primary'>"
+                                         + "<a class=\"text-white\" href='#' onclick=\"setChurchAddr('" + items.church_id + "','" + items.church_name + "','" + items.zip_code + "','" + items.address + "','" + items.address_detail + "','" +items.address_eng +"')\" >"
+                                } else {
+                                    html += "<div class='card-body'>"
+                                         + "<a class=\"text-muted\" href='#' onclick=\"setChurchAddr('" + items.church_id + "','" + items.church_name + "','" + items.zip_code + "','" + items.address + "','" + items.address_detail + "','" +items.address_eng +"')\" >"
+                                }
+                                if (items.official_yn == "Y") {
+                                    html += "<h4>(공식) "+ items.church_name + "</h4>"
+                                } else {
+                                    html += "<h4>"+ items.church_name + "</h4>"
+                                }
+                                html += items.zip_code + "<br/>"
+                                     + items.address + "<br/>";
                                 if( items.address_detail ){
                                     html += items.address_detail + "<br/>";
                                 }
@@ -129,7 +153,7 @@
                             $("#church_data").html(html);
                         } else {
                             $("#find_church_yn").val("Y");
-                            $("#church_data").text('등록 된 교회가 없습니다.');
+                            $("#church_data").html('등록 된 교회가 없습니다. </br>우편번호 검색으로 교회를 검색/등록 하세요');
                         }
                         $('#church_list').modal();
                     },
@@ -141,15 +165,16 @@
                 });
             }
 
-            function setChurchAddr(church_id, church_name, zip_code, address, address_detail){
+            function setChurchAddr(church_id, church_name, zip_code, address, address_detail, address_eng){
                 $("#church_id").val(church_id);
                 $("#church_name").val(church_name);
                 $("#zip_code").val(zip_code);
                 $("#address").val(address);
                 $("#address_detail").val(address_detail);
+                $("#address_eng").val(address_eng);
                 {# 주소 선택 시 값 N 셋팅 #}
                 $("#new_yn").val("N");
-                alert($("#new_yn").val());
+                //alert($("#new_yn").val());
 
                 {# 교회 검색 한경우 처리 #}
                 $("#find_church_yn").val("Y");
@@ -168,7 +193,7 @@
         <img src="//t1.daumcdn.net/localimg/localimages/07/postcode/320/close.png" id="btnCloseLayer" style="cursor:pointer;position:absolute;right:-3px;top:-3px;z-index:1" onclick="closeDaumPostcode()" alt="닫기 버튼">
         </div>
 
-        <script src="http://dmaps.daum.net/map_js_init/postcode.v2.js"></script>
+        <script src="https://ssl.daumcdn.net/dmaps/map_js_init/postcode.v2.js"></script>
         <script>
             // 우편번호 찾기 화면을 넣을 element
             var element_layer = document.getElementById('layer');
@@ -210,6 +235,7 @@
                         // 우편번호와 주소 정보를 해당 필드에 넣는다.
                         document.getElementById('zip_code').value = data.zonecode; //5자리 새우편번호 사용
                         document.getElementById('address').value = fullAddr;
+                        alert(data.addressEnglish);
                         document.getElementById('address_eng').value = data.addressEnglish;
                         {# 신규 주소 선택 시 값 N 셋팅 #}
                         document.getElementById('new_yn').value = "Y";
@@ -247,5 +273,4 @@
                 element_layer.style.top = (((window.innerHeight || document.documentElement.clientHeight) - height)/2 - borderWidth) + 'px';
             }
         </script>
-    </body>
-</html>
+        {% endblock %} {# contente end #}

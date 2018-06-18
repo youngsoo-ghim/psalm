@@ -1,0 +1,38 @@
+X:362
+T:481 주여 복을 주시기를
+Z:E.Codner/W.B.Bradbury
+Z:Copyright July 8th 2000 by 전도환
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/8
+Q:1/4=122
+M:6/8
+I:linebreak $
+K:Ab
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ c2 d e2 A | d2 c c2 B | B2 c d2 B | A2 G A3 | c2 d e2 A | d2 c c2 B | B2 c d2 B | A2 G A3 | %8
+w: 주 여 복 을|주 시 기 를|마 른 땅 에|비 내 려|풍 성 하 게|함 과 같 이|은 혜 내 려|줍 소 서|
+w: 나 의 맘 이|주 를 떠 나|죄 에 빠 져|갈 때 에|은 혜 로 신|아 버 지 여|날 붙 들 어|줍 소 서|
+w: 온 유 하 신|나 의 주 여|내 손 잡 아|주 시 고|주 의 은 혜|갈 망 하 는|나 를 불 러|줍 소 서|
+w: 전 능 하 신|성 령 이 여|나 의 귀 를|밝 히 사|능 력 있 는|주 의 말 씀|바 로 듣 게|합 소 서|
+w: 변 함 없 는|주 의 사 랑|영 원 무 궁|하 오 며|풍 성 하 신|주 의 보 혈|나 의 맘 에|넘 치 네|
+ e2 c e3 | c2 A c3 | c2 d e2 A | c2 B A3 | A3 A3 |] |] %14
+w: ||||||
+w: ||||||
+w: 내 게 도|내 게 도|은 혜 내 려|줒 소 서|||
+w: ||||||
+w: ||||아 멘||
+V:2
+ E2 E E2 E | E2 E E2 E | E2 E F2 F | E2 E E3 | E2 E E2 E | E2 E E2 E | E2 E F2 F | E2 E E3 | %8
+ A2 E A3 | A2 E A3 | E2 F G2 A | A2 G E3 | F3 E3 |] |] %14
+V:3
+ A,2 B, C2 C | B,2 A, A,2 G, | G,2 A, A,2 D | C2 B, C3 | A,2 B, C2 C | B,2 A, A,2 G, | %6
+ G,2 A, A,2 D | C2 B, C3 | C2 A, C3 | E2 C E3 | A,2 A, B,2 C | E2 D C3 | D3 C3 |] |] %14
+V:4
+ A,2 A, | A,2 A, | G,2 A, E,2 E, | E,2 A, D,2 D, | E,2 E, A,,3 | A,2 A, | A,2 A, | G,2 A, E,2 E, | %8
+ E,2 A, D,2 D, | E,2 E, A,,3 | A,2 A, A,3 | A,,2 A,, A,,3 | A,2 F, E,2 A, | E,2 E, A,,3 | %14
+ D,3 A,,3 |] |] %16

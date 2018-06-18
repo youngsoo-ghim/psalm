@@ -1,0 +1,42 @@
+X:291
+T:413 의롭게 사는 이 그 누군가
+Z:S.Clough/I.D.Sankey
+Z:Copyright © 1998 by ÀüµµÈ¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/4
+Q:1/4=104
+M:3/4
+I:linebreak $
+K:Eb
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ G G G | G3/2 F/ B | B A G | A3 | A A A | A3/2 G/ F | B B A | G3 | G G G | G3/2 F/ B | B c d | %11
+w: 외 롭 게|사 는 이|그 누 군|가|맘 아 파|헤 매 는|그 대 로|다|십 자 가|형 틀 에|너 위 해|
+w: 주 께 서|풍 성 한|은 사 를|내|려 내 영|혼 이 나|날 이 복|받|으 니 주|예 수 를|그 대 도|
+w: 무 거 운|짐 지 고|애 타 는|인|생 주 예|수 께 돌|아 와 곧|믿|어 라 내|주 예 수|그 대 를|
+ f3/2 e/ e | e d c | B3/2 G/ F | G G3/2 F/ | E3 | B B B | B3/2 B/ B | c B A | G B2 | B =A B | %21
+w: 상 하 신|하 나 님|독 생 자|왜 잊 었|나|오 직 주|예 수 만|널 돌 보|신 다|오 직 주|
+w: 구 주 로|섬 겨 곧|따 르 면|풍 성 한|복|받 겠 네|||||
+w: 돌 보 실|때 에 참|복 락 과|안 위 가|늘|있 겠 네|||||
+ B3/2 c/ d | e d c | (B2 A) | G G G | G F2 | B c d | f e2 | e d c | B3/2 G/ F | G G F | E3 |] %32
+w: 예 수 만|널 사 랑|해 *|손 잡 아|네 길|인 도 하|시 는|사 라 의|주 예 수|오 하 나|님|
+w: |||||||||||
+w: |||||||||||
+V:2
+ E E E | D3/2 D/ E | D D ^C | D3 | D F D | D3/2 D/ D | E E D | E3 | E E E | D3/2 D/ E | A A A | %11
+ A3/2 G/ B | A A A | G3/2 E/ F | F E3/2 D/ | B,3 | E F E | D3/2 ^C/ D | A G F | E G2 | G G G | %21
+ F3/2 F/ F | G F E | (D2 F) | E E E | D D2 | E A A | A (G B) | A A A | G3/2 E/ E | E D B, | B,3 |] %32
+V:3
+ B, B, B, | B,3/2 B,/ B, | B, B, B, | B,3 | B, B, B, | B,3/2 B,/ B, | B, B, B, | B,3 | B, B, B, | %9
+ B,3/2 B,/ B, | D D B, | B,3/2 B,/ _D | C =D E | E3/2 B,/ =A, | B, B,3/2 _A,/ | G,3 | G, B, B, | %17
+ A,3/2 G,/ A, | D D B, | B, E2 | ^C C C | C3/2 =A,/ B, | =A, A, A, | B,3 | B, B, B, | B, B,2 | %26
+ B, B, B, | B, (B, _D) | C =D E | E3/2 B,/ =A, | B, B, _A, | G,3 |] %32
+V:4
+ E, E, G, | B,3/2 A,/ G, | F, F, =E, | F,3 | B,, D, F, | B,3/2 B,/ A, | G, G, F, | E,3 | E, E, G, | %9
+ B,3/2 A,/ G, | F, F, B,, | E,3/2 E,/ G, | A, A, A, | E,3/2 E,/ C, | B,, B,,3/2 B,,/ | E,3 | %16
+ E, A, F, | F,3/2 =E,/ F, | B,, B,, B,, | E, E,2 | =E, E, E, | F,3/2 F,/ F, | F, F, F, | B,,3 | %24
+ E, E, G, | B, A,2 | G, F, F, | E, (E, G,) | A, A, A, | E,3/2 E,/ C, | B,, B,, B,, | E,3 |] %32

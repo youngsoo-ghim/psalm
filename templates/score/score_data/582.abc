@@ -1,0 +1,41 @@
+X:582
+T:어둔 밤 마음에 잠겨
+Z:김재준/이동훈
+Z:Copyright © 1997 by Àü µµ È¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/8
+Q:1/4=92
+M:4/4
+I:linebreak $
+K:Ab
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ C D | E3 E E2 A2 | G2 F4 F G | A2 A A G A c =A | B6 C D | E3 E E2 A2 | G2 F4 F F | B2 B A G2 F2 | %8
+w: 어 둔|밤 마 음 에|잠 겨 역 사|에 어 둠 짙 었 을 때|에 계 명|성 동 쪽 에|밝 아 이 나|라 여 명 이 왔|
+w: 옥 토|에 뿌 리 는|깊 어 하 늘|로 줄 기 가 지 솟 을|때 가 지|잎 억 만 을|헤 어 그 열|매 만 민 이 산|
+w: 맑 은|샘 줄 기 용|솟 아 거 치|른 땅 에 흘 러 적 실|때 기 름|진 푸 른 벌|판 이 눈 앞|에 활 짝 트 인|
+ E6 E E | c2 c A F2 d2 | c6 c2 | B3 B c2 B2 | e6 ed | c3 e dc B A | G2 F4 G F | E2 G A B d c B | %16
+w: 다 고 요|한 아 침 의 나|라 빛|속 에 새 롭|다 이- *|빛- * 삶- * 속 에|얽 혀 이 땅|에 생 명 탑 놓 아 간|
+w: 다 고 요|한 아 침 의 나|라 일|꾼 을 부 른|다 하- *|늘- * 씨- * 앗 이|되 어 역 사|의 생 명 을 이 어 가|
+w: 다 고 요|한 아 침 의 나|라 새|하 늘 새 땅|아 길- *|이- * 꺼- * 지 지|않 는 인 류|의 횃 불 되 어 타 거|
+ A6 |] |] %18
+w: 다||
+w: 리||
+w: 라||
+V:2
+ A, B, | C3 C C2 C2 | D2 D4 F E | E2 E E E E E E | D6 A, B, | C3 C C2 C2 | D2 D4 D D | %7
+ =D2 D D D2 D2 | E6 E E | E2 E C D2 F2 | E6 E2 | E3 E E2 =D2 | E6 G2 | A3 c BA G F | E2 D4 D D | %15
+ C2 E E G G G G | E6 |] |] %18
+V:3
+ E, E, | E,3 A, A,2 A,2 | A,2 A,4 B, B, | A,2 A, A, B, A, A, C | B,6 E, E, | E,3 A, A,2 A,2 | %6
+ A,2 A,4 A, A, | B,2 F, F, B,2 A,2 | G,6 G, G, | A,2 A, A, A,2 A,2 | A,6 A,2 | G,3 G, A,2 A,2 | %12
+ G,6 B,2 | A,4 A,2 B, C | B,2 A,4 A, A, | A,2 B, C D B, E D | C6 |] |] %18
+V:4
+ A,, A,, | A,,3 A,, A,,2 A,,2 | D,2 D,4 D, D, | C,2 C, C, D, C, C, F, | B,,6 E, E, | %5
+ A,,3 A,, A,,2 A,,2 | D,2 D,4 D, D, | B,,2 B,, B,, B,,2 B,,2 | E,6 E, E, | A,,2 A,, A,, D,2 D,2 | %10
+ A,,6 A,,2 | E,3 E, E,2 F,2 | E,6 E,2 | A,4 A,2 E, C, | D,2 D,4 D, D, | E,2 E, E, E, E, E, E, | %16
+ A,6 |] |] %18

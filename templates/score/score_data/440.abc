@@ -1,0 +1,41 @@
+X:440
+T:497 어디든지 예수 나를 이끌면
+Z:J.B.Pounds/D.B.Towner
+Z:Copyright May 15th 2000 by 전도환
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/8
+Q:1/4=207
+M:6/8
+I:linebreak $
+K:C
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ G2 G A2 A | G2 E C2 D | E3 F3 | G6 | F2 E D2 E | F2 G B2 A | G3 F3 | E6 | G2 G A2 A | G2 E C2 D | %10
+w: 어 디 든 지|예 수 나 를|이 끌|면|어 디 든 지|예 수 함 께|가 려|네|예 수 함 께|아 니 가 면|
+w: 세 상 친 구|모 두 나 를|떠 나|도|예 수 함 께|가 면 외 롬|없 겠|네|가 는 길 이|위 태 하 고|
+w: 어 둔 그 늘|나 를 에 워|쌀 때|에|주 가 함 께|계 심 믿 고|자 려|네|죽 은 후 에|천 국 에 서|
+ E3 F3 | G6 | c2 c c2 G | B2 A G2 F | E3 D3 | C6 | D2 E F3 | E2 F G3 | A2 A G2 ^F | G6 | %20
+w: 낙 없|고|항 상 예 수|함 께 가 면|겁 없|네|||||
+w: 험 해|도|어 디 든 지|예 수 함 께|가 려|네|어 디 를|가 든 지|겁 낼 것 없|네|
+w: 깨 어|나|예 수 함 께|길 이 길 이|살 리|라|||||
+ c2 c c2 G | B2 A G2 F | E3 D3 | C6 |] |] %25
+w: |||||
+w: 어 디 든 지|예 수 함 께|가 려|네||
+w: |||||
+V:2
+ E2 E F2 F | E2 C C2 C | C3 D3 | E6 | D2 C B,2 C | D2 D F2 F | E3 D3 | C6 | E2 E F2 F | E2 C C2 C | %10
+ C3 D3 | E6 | E2 F G2 E | G2 F E2 D | C3 B,3 | C6 | B,2 C D3 | C2 D E3 | E2 E D2 C | B,6 | %20
+ E2 F G2 E | G2 F E2 D | C3 B,3 | C6 |] |] %25
+V:3
+ C2 C C2 C | C2 G, E,2 F, | G,3 G,3 | C6 | G,2 G, G,2 G, | G,2 B, D2 B, | C3 B,3 | C6 | C2 C C2 C | %9
+ C2 G, E,2 F, | G,3 G,3 | C6 | G,2 G, C2 C | C2 C C2 A, | G,3 F,3 | E,6 | G,2 G, G,3 | G,2 G, C3 | %18
+ C2 C B,2 A, | G,6 | G,2 G, C2 C | C2 C C2 A, | G,3 F,3 | E,6 |] |] %25
+V:4
+ C,2 C, C,2 C, | C,2 C, C,2 C, | C,3 C,3 | C,6 | G,2 G, G,2 G, | G,2 G, G,2 G, | G,,3 G,,3 | C,6 | %8
+ C,2 C, C,2 C, | C,2 C, C,2 C, | C,3 C,3 | C,6 | C,2 D, E,2 C, | F,2 F, F,2 F, | G,3 G,,3 | C,6 | %16
+ G,,2 G,, G,,3 | C,2 C, C,3 | A,,2 A,, D,2 D, | G,,6 | C,2 D, E,2 C, | F,2 F, F,2 F, | G,3 G,,3 | %23
+ C,6 |] |] %25

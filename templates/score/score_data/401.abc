@@ -1,0 +1,42 @@
+X:401
+T:457 주의 곁에 있을 때
+Z:F.M.Davis/F.M.Davis
+Z:Copyright © 1998 by ÀüµµÈ¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/8
+Q:1/4=92
+M:4/4
+I:linebreak $
+K:C
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ G3 E G c B A | G6 z2 | F3 E D A G F | E6 z2 | G3 G G E G c | A6 z2 | B3 c B A G ^F | G6 z2 | %8
+w: 주 의 곁 에 있 을|대|맘 이 든 든 하 오|니|주 여 나 를 생 전|에|인 도 하 여 주 소|서|
+w: 피 난 처 인 예 수|여|세 상 물 결 노 할|때|크 신 은 혜 베 푸|사|나 를 숨 겨 주 소|서|
+w: 세 상 풍 파 지 난|후|명 랑 한 그 나 라|와|눈 물 없 는 곳 으|로|들 어 가 게 하 소|서|
+ G4 E2 z2 | c4 G2 z2 | e3 d c A G E | (D3 E F4) | E3 E E E F G | A6 B c | G2 E2 F2 B,2 | C6 z2 :| %16
+w: 주 여|주 여|나 를 인 도 하 소|서 * *|빠 른 세 상 살 동|안 주 여|인 도 하 소|서|
+w: ||||||||
+w: ||||||||
+ C4 C4 |] |] %18
+w: 아 멘||
+w: ||
+w: ||
+V:2
+ E3 C D A G F | E2 F F E2 z2 | D3 C B, F E D | C2 C C C2 z2 | E3 E E C E E | F2 C ^C D2 z2 | %6
+ D3 E D =C B, C | B,C D D =F2 z2 | E4 C2 z2 | E4 E2 z2 | G3 G G F E C | (B,3 C D4) | %12
+ C3 C C C B, C/D/ | F2 F F F2 ^D D | E2 C2 =D2 G,2 | G,2 A, A, G,2 z2 :| (A,2 _A,2) G,4 |] |] %18
+V:3
+ C3 G, C C C C | C2 D D C2 z2 | B,3 G, G, G, G, G, | G,2 A, ^F, G,2 z2 | C3 C C G, C C | %5
+ C2 A, A, ^F,2 z2 | G,3 G, G, ^F, G, A, | G,A, B, C D2 z2 | C4 G,2 z2 | G,4 C2 z2 | %10
+ C3 B, C C C G, | G,2 G, C B,4 | G,3 G, G, G, G, C | C2 C C C2 C C | C2 G,2 G,3 =F, | %15
+ E,2 F, F, E,2 z2 :| F,4 E,4 |] |] %18
+V:4
+ C,3 C, C, C, C, C, | C,2 B,, B,, C,2 z2 | G,3 G, G,, G,, G,, G,, | C,2 C, C, C,2 z2 | %4
+ C,3 C, C, C, C, C, | F,2 F, E, D,2 z2 | G,3 G, D, D, D, D, | G,,2 G,, G,, G,,2 z2 | C,4 C,2 z2 | %9
+ C,4 C,2 z2 | C3 G, E, F, C, C, | G,,2 G,, G,, G,,4 | C,3 C, C, C, D, E,/C,/ | %13
+ F,2 F, F, F,2 ^F, F, | G,2 G,2 G,,2 G,,2 | C,6 z2 :| F,,4 C,4 |] |] %18

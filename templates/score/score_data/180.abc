@@ -1,0 +1,48 @@
+X:180
+T:168 하나님의 나팔소리
+Z:J.M.Black/J.M.Black
+Z:Copyright © 1970 by ÀüµµÈ¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/16
+Q:1/4=104
+M:4/4
+I:linebreak $
+K:G
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ G3 A | B3 B B3 B B3 A G3 G | A3 G G3 E D4 G3 A | B3 B B3 B B3 B A3 G | A12 G3 A | %5
+w: 1.~하 나|님 의 나 팔 소 리 천 지|진 동 할 때 에 예 수|영 광 중 에 구 름 타 시|고 천 사|
+w: 2.~무 덤|속 에 잠 자 던 자 그 때|다 시 일 어 나 영 화|로 운 부 활 승 리 얻 으|리 주 의|
+w: 3.~주 님|다 시 오 실 날 을 우 리|알 수 없 으 니 항 상|기 도 하 고 깨 어 있 어|서 기 쁨|
+ B3 B B3 B B3 A G3 G | A3 G G3 E D4 G3 A | B3 B B3 G A3 A A3 F | B12 B3 c | d8- d3 c B3 c | %10
+w: 들 을 세 계 만 국 모 든|곳 에 보 내 어 구 원|얻 은 성 도 들 을 모 으|리 나 팔|불 * 때 나 의|
+w: 택 한 모 든 성 도 구 름|타 고 올 라 가 공 중|에 서 주 의 얼 굴 뵈 오|리 * *||
+w: 으 로 보 좌 앞 에 우 리|나 가 서 도 록 그 때|까 지 참 고 기 다 리 겠|네 * *||
+ d8 B4 A3 B | c8- c3 B A3 B | c8 A4 B3 c | d8- d3 B A3 G | G4 c8 c3 A | B3 B B3 G A3 A A3 F | %16
+w: 이 름 나 팔|불 * 때 나 의|이 름 나 팔|불 * 때 나 의|이 름 부 를|때 에 잔 치 참 여 하 겠|
+w: ||||||
+w: ||||||
+ G12 :| |] %18
+w: 네||
+w: ||
+w: ||
+V:2
+ B,3 C | D3 D D3 D D3 D D3 D | C3 C C3 C B,4 B,3 C | D3 D D3 D D3 D D3 ^C | D12 B,3 C | %5
+ D3 D D3 D D3 D D3 D | C3 C C3 C B,4 B,3 C | D3 D D3 B, C3 C C3 C | B,12 G3 A | B8- B3 A G3 A | %10
+ B8 G4 F3 G | A8- A3 G F3 G | A8 F4 G3 A | B8- B3 G D3 D | E4 E8 E3 E | D3 D D3 B, C3 C C3 C | %16
+ B,12 :| |] %18
+V:3
+ G,3 G, | G,3 G, G,3 G, G,3 F, G,3 G, | E,3 E, E,3 G, G,4 G,3 G, | G,3 G, G,3 G, G,3 G, A,3 A, | %4
+ F,12 G,3 G, | G,3 G, G,3 G, G,3 F, G,3 G, | E,3 E, E,3 G, G,4 G,3 G, | %7
+ G,3 G, G,3 G, F,3 F, F,3 A, | G,12 z4 | z4 D3 D D3 D D3 D | D3 D D3 D D4 z4 | z4 D3 D D3 D D3 D | %12
+ D3 D D3 D D4 z4 | z4 D3 D D3 D C3 B, | C4 G,8 G,3 G, | G,3 G, G,3 G, F,3 F, F,3 A, | G,12 :| |] %18
+V:4
+ G,,3 G,, | G,,3 G,, G,,3 G,, G,,3 A,, B,,3 B,, | C,3 C, C,3 C, G,,4 G,,3 G,, | %3
+ G,,3 G,, G,,3 G,, G,3 G, F,3 E, | D,12 G,,3 G,, | G,,3 G,, G,,3 G,, G,,3 A,, B,,3 B,, | %6
+ C,3 C, C,3 C, G,,4 G,,3 G,, | D,3 D, D,3 D, D,3 D, D,3 D, | G,,12 z4 | z4 E,3 E, E,3 E, E,3 E, | %10
+ E,3 E, E,3 E, E,4 z4 | z4 D,3 D, D,3 D, D,3 D, | D,3 D, D,3 D, D,4 z4 | z4 G,3 G, G,3 G, G,3 G, | %14
+ C,4 C,8 C,3 C, | D,3 D, D,3 D, D,3 D, D,3 D, | G,,12 :| |] %18

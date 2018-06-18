@@ -3,10 +3,25 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <meta name="description" content="">
-        <meta name="author" content="">
-        <link rel="icon" href="">
-
+        <meta name="description" content="로그인">
+        <meta name="Author" content="오! 나의 주" />
+        <link rel="apple-touch-icon" sizes="57x57" href="{{ url_for('static', filename='images/favicon/apple-icon-60x60.png') }}">
+        <link rel="apple-touch-icon" sizes="60x60" href="{{ url_for('static', filename='images/favicon/apple-icon-57x57.png') }}">
+        <link rel="apple-touch-icon" sizes="72x72" href="{{ url_for('static', filename='images/favicon/apple-icon-72x72.png') }}">
+        <link rel="apple-touch-icon" sizes="76x76" href="{{ url_for('static', filename='images/favicon/apple-icon-76x76.png') }}">
+        <link rel="apple-touch-icon" sizes="114x114" href="{{ url_for('static', filename='images/favicon/apple-icon-114x114.png') }}">
+        <link rel="apple-touch-icon" sizes="120x120" href="{{ url_for('static', filename='images/favicon/apple-icon-120x120.png') }}">
+        <link rel="apple-touch-icon" sizes="144x144" href="{{ url_for('static', filename='images/favicon/apple-icon-144x144.png') }}">
+        <link rel="apple-touch-icon" sizes="152x152" href="{{ url_for('static', filename='images/favicon/apple-icon-152x152.png') }}">
+        <link rel="apple-touch-icon" sizes="180x180" href="{{ url_for('static', filename='images/favicon/apple-icon-180x180.png') }}">
+        <link rel="icon" type="image/png" sizes="192x192"  href="{{ url_for('static', filename='images/favicon/android-icon-192x192.png') }}">
+        <link rel="icon" type="image/png" sizes="32x32" href="{{ url_for('static', filename='images/favicon/favicon-32x32.png') }}">
+        <link rel="icon" type="image/png" sizes="96x96" href="{{ url_for('static', filename='images/favicon/favicon-96x96.png') }}">
+        <link rel="icon" type="image/png" sizes="16x16" href="{{ url_for('static', filename='images/favicon/favicon-16x16.png') }}">
+        <link rel="manifest" href="{{ url_for('static', filename='images/favicon/manifest.json') }}">
+        <meta name="msapplication-TileColor" content="#ffffff">
+        <meta name="msapplication-TileImage" content="{{ url_for('static', filename='images/favicon/ms-icon-144x144.png') }}">
+        <meta name="theme-color" content="#ffffff">
         {% if name %}
         <title>{{name}}</title>
         {% else %}
@@ -31,14 +46,14 @@
             <form class="form-signin" id="f" name="f" action="{{ url_for('do_login') }}" method="post">
                 <h2 class="form-signin-heading">로그인 해주세요</h2>
                 <label for="inputEmail" class="sr-only">Email address</label>
-                <input type="email" id="account_email" name="account_email" class="form-control" placeholder="Email address" required autofocus>
+                <input type="email" id="account_email" name="account_email" class="form-control" placeholder="Email address" required autofocus />
                 <label for="inputPassword" class="sr-only">Password</label>
-                <input type="password" id="pwd" name="pwd" class="form-control" placeholder="Password" required>
-                <div class="checkbox">
-                    <label>
-                        <input type="checkbox" value="remember-me"> Remember me
-                    </label>
-                </div>
+                <input type="password" id="pwd" name="pwd" class="form-control" placeholder="Password" required />
+                <!--<div class="checkbox">-->
+                    <!--<label>-->
+                        <!--<input type="checkbox" value="remember-me"> Remember me-->
+                    <!--</label>-->
+                <!--</div>-->
                 {% if request.values['result'] == "NOTOK" %}
                 <div class="alert alert-danger" role="alert" id="email_error_box">
                     <span class="glyphicon glyphicon-exclamation-sign" aria-hidden="true"></span>
@@ -57,7 +72,9 @@
             <form class="form-signin" id="regform" name="regform" action="{{ url_for('go_reg_user') }}" method="get">
                 <button class="btn btn-lg btn-info btn-block" type="submit" id="reg_button">가입하기</button>
             </form>
-
+            <footer class="form-signin">
+                <p>문의 : caspar.help@gmail.com</p>
+            </footer>
         </div> <!-- /container -->
     </body>
 </html>

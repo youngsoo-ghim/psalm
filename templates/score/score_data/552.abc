@@ -1,0 +1,37 @@
+X:552
+T:아침 해가 돋을 때
+Z:Copyright © 1997 by Jun
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/8
+Q:1/4=84
+M:3/4
+I:linebreak $
+K:G
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ B G | D3 ^C D G | E4 c A | F3 E D c | B4 B c | d3 d e d | (c2 E2) B A | G B2 z A A | G4 B c | %9
+w: 아 침|해 가 돋 을|때 만 물|신 선 하 여|라 나 도|세 상 지 날|때 * 햇 빛|되 게 하 소|서 주 여|
+w: 새 로|오 는 광 음|을 보 람|있 게 보 내|고 주 의|일 을 행 할|때 * 햇 빛|되 게 하 소|서 * *|
+w: 한 번|가 고 안 오|는 빠 른|광 음 지 날|때 귀 한|시 간 바 쳐|서 * 햇 빛|되 게 하 소|서 * *|
+w: 밤 낮|주 를 위 하|여 몸 과|맘 을 드 리|고 주 의|사 랑 나 타|내 * 햇 빛|되 게 하 소|서 * *|
+ d3 B G B | A4 c B | A3 G F E | D4 G A | B3 A B c | d4 e c | B B2 z A A | G4 :| G6 | G6 |] |] %20
+w: 나 를 도 우|사 세 월|허 송 않 고|서 어 둔|세 상 지 낼|때 햇 빛|되 게 하 소|서|아|멘||
+w: |||||||||||
+w: |||||||||||
+w: |||||||||||
+V:2
+ D B, | B,3 ^A, B, B, | =C4 E C | C3 C D D | D4 D D | G3 G =F F | (E2 C2) E E | E D2 z D D | %8
+ D4 D D | G3 G G G | F4 A G | F3 E D ^C | D4 D D | D3 D D D | G4 G G | G G2 z F D | D4 :| E6 | %18
+ D6 |] |] %20
+V:3
+ G, G, | G,3 G, G, G, | G,4 A, A, | A,3 G, F, F, | G,4 G, A, | B,3 B, B, G, | G,4 D C | %7
+ B, G,2 z C C | B,4 G, A, | B,3 D D D | D4 D D | D3 B, A, G, | F,4 G, F, | G,3 F, G, A, | B,4 C E | %15
+ D D2 z C C | B,4 :| C6 | B,6 |] |] %20
+V:4
+ G,, G,, | G,,3 G,, G,, G,, | C,4 A,, A,, | D,3 D, D, D, | G,4 G, G, | G,3 G, G, G, | C,4 C, C, | %7
+ D, D,2 z D, D, | G,,4 G, G, | G,3 G, B,, G,, | D,4 D, D, | D,3 G, A, A,, | D,4 B,, D, | %13
+ G,3 D, G, G, | G,4 C, C, | D, D,2 z D, D, | G,,4 :| C,6 | G,6 |] |] %20

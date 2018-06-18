@@ -1,0 +1,39 @@
+X:224
+T:224+정한물로우리를
+Z:R.Duck사, R.A.Nelson곡
+Z:[nwc보물창고]http://cafe.daum.net/nwc1
+Z:박기형
+%%score 1 2 3 4
+L:1/4
+M:3/2
+I:linebreak $
+K:F
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ F F | G2 F2 A A | (G F) D2 F F | D2 C2 D F | F4 F F | G2 F2 A A | (G F) D2 F F | D2 C2 D F | %8
+w: 1.정 한|물 로 우 리|죄 * 를 모 두|씻 어 주 시|사 주 의|자 녀 삼 으|시 * 고 은 혜|내 려 주 소|
+w: 2.주 님|앞 에 나 온|가 * 람 하 늘|잔 치 참 여|해 주 의|잔 과 생 명|떡 * 을 받 아|먹 게 하 소|
+w: 3.거 룩|하 신 주 의|뜻 * 을 우 리|알 수 없 으|나 주 님|앞 에 존 귀|영 * 광 찬 양|하 게 하 소|
+ F4 F A | c2 c2 d c | A2 F2 F A | c2 F2 (A/G/) F | D4 d c | A2 F2 A A | (G F) D2 F F | D2 C2 D F | %16
+w: 서 빛 난|옷 을 입 히|시 고 사 랑|으 로 채 * 우|며 주 의|성 령 임 하|시 * 니 기 쁨|넘 치 옵 니|
+w: 서 죄 와|유 혹 물 리|치 고 주 와|동 행 하 * 면|서 하 늘|나 라 시 민|되 * 어 승 리|하 게 하 소|
+w: 서 죄 를|씻 고 성 령|받 아 주 님|앞 에 나 * 오|니 사 랑|으 로 우 리|들 * 을 새 로|빚 어 주 소|
+ F4 |] %17
+w: 다|
+w: 서|
+w: 서|
+V:2
+ C C | D2 C2 F F | D2 A,2 A, A, | B,2 G,2 B, B, | C4 C C | D2 C2 F F | D2 A,2 A, A, | %7
+ B,2 G,2 B, B, | C4 F F | G F E2 G G | (F E) D2 D D | C2 C2 C C | D4 E E | D2 D2 D D | D2 D2 C C | %15
+ B,2 A,2 G, G, | A,4 |] %17
+V:3
+ A, A, | B,2 A,2 C C | A,2 F,2 F, F, | F,2 E,2 F, G, | A,4 A, A, | B,2 A,2 C C | A,2 F,2 F, F, | %7
+ F,2 E,2 F, G, | A,4 A, C | C2 C2 G, G, | A,2 (A, G,) F, F, | E,2 F,2 F, F, | (F,2 A,2) G, G, | %13
+ (F, G,) A,2 F, F, | F,2 (F, A,) G, F, | F,2 E,2 D, D, | C,4 |] %17
+V:4
+ F, F, | F,2 F,2 F, E, | D,2 D,2 D, D, | B,,2 B,,2 B,, B,, | F,,4 F, F, | F,2 F,2 F, E, | %6
+ D,2 D,2 C, C, | B,,2 B,,2 B,, B,, | F,,4 F, F, | (E, D,) C,2 E, E, | D,2 D,2 D, D, | %11
+ A,,2 A,,2 A,, A,, | B,,4 C, C, | D,2 D,2 C, C, | B,,2 B,,2 A,, A,, | G,,2 A,,2 B,, B,, | F,,4 |] %17

@@ -1,0 +1,41 @@
+X:126
+T:천사 찬송하기를
+Z:C.Wesley/F.Mendelssohn/W.H.Cummings편곡
+Z:Copyright © 1997 by Jun
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/4
+Q:1/4=108
+M:4/4
+I:linebreak $
+K:F
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ C F F3/2 E/ | F A (A G) | c c c3/2 B/ | A G A2 | C F F3/2 E/ | F A (A G) | c G G3/2 E/ | E D C2 | %8
+w: 천 사 찬 송|하 기 를 *|거 룩 하 신|구 주 께|영 광 돌 려|보 내 세 *|구 주 오 늘|나 셨 네|
+w: 오 늘 나 신|예 수 느 *|하 늘 에 서|내 려 와|처 녀 몸 에|나 셔 서 *|사 람 몸 을|입 었 네|
+w: 의 로 우 신|예 수 는 *|평 화 의 왕|이 시 고|세 상 빛 이|되 시 며 *|우 리 생 명|되 시 네|
+ c c c F | B A (A G) | c c c F | B A (A G) | d d d c | B A B2 | G A/B/ c3/2 F/ | F G A2 | %16
+w: 크 고 작 은|나 라 들 *|기 뻐 화 답|하 여 라 *|영 광 받 을|왕 의 왕|베들 레- * 헴 에|나 신 주|
+w: 세 살 모 든|사 람 들 *|영 원 하 신|주 님 께 *|영 광 돌 려|보 내 며|높 이- * 찬 양|하 여 라|
+w: 죄 인 들 을|불 러 서 *|거 듭 나 게|하 시 고 *|영 생 하 게|하 시 니|왕 께- * 찬 양|하 여 라|
+ d3/2 d/ d c | B A B2 | G A/B/ c3/2 F/ | F G F2 :| F2 F2 |] |] %22
+w: 영 광 받 을|왕 의 왕|베들 레- * 헴 에|나 신 주|||
+w: 영 광 돌 려|보 내 며|높 이- * 찬 양|하 여 라|||
+w: 영 생 하 게|하 시 니|왕 께- * 찬 양|하 여 라|아 멘||
+V:2
+ C C C3/2 C/ | C F F E | F E D G | F E F2 | C C C3/2 C/ | A, F F2 | E D E3/2 C/ | C =B, C2 | %8
+ C C C F | G F F E | C C C F | G F F E | B B B A | G ^F G2 | E E F3/2 C/ | C E F2 | B B B A | %17
+ G ^F G2 | C E F3/2 F/ | C C C2 :| D2 C2 |] |] %22
+V:3
+ A, A, A,3/2 G,/ | F, C C2 | C C D D | C C C2 | A, A, A,3/2 G,/ | F, C D2 | C D C3/2 G,/ | %7
+ A, F, E,2 | C C C C | C C C2 | C C C C | C C C2 | D D D D | D C B,2 | C C C3/2 A,/ | A, C C2 | %16
+ D D D C | B, A, B,2 | C C C3/2 A,/ | A, B, A,2 :| B,2 A,2 |] |] %22
+V:4
+ F, F, F, C, | A,, F,, C,2 | A,, A,, B,, B,, | C, C, F,2 | F, F, F, C, | D, C, =B,,3/2 G,,/ | %6
+ A,, =B,, C, E, | F, G,, C,2 | C C C A, | E, F, C,2 | C C C A, | E, F, C,2 | B,, B,, B,, B,, | %13
+ B,, D, G,2 | B, B, A, F, | C, C, F,2 | B, B, B, A, | G, ^F, G, =F, | E, B, A, F, | C, C, F,2 :| %20
+ B,,2 F,2 |] |] %22

@@ -1,0 +1,42 @@
+X:122
+T:참 반가운 신도여
+Z:Copyright © 1997 by Àü µµ È¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/4
+Q:1/4=108
+M:4/4
+I:linebreak $
+K:A
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ A | A2 E A | B2 E E | (c B) c d | c2 B A | A2 G F | (G A) B c | G2 F3/2 E/ | E3 E | e2 d c | %10
+w: 참|반 가 운|성 도 여|다 * 이 리|와 서 베|들 레 헴|성 * 내 에|가 봅 시|다 저|구 유 에|
+w: 저|천 사 여|찬 송 을|높 * 이 불|러 서 온|광 활 한|천 * 지 를|울 리 게|해 주|하 나 님|
+w: 이|세 상 에|주 께 서|강 * 생 할|때 에 참|신 과 참|사 * 람 이|되 시 려|고 동|정 녀 의|
+w: 여|호 와 의|말 씀 이|육 * 신 을|입 어 날|구 원 할|구 * 주 가|되 셨 도|다 늘|감 사 한|
+ d2 c c | (B c) A B | (G3/2 F/) E A | (A G) A B | A2 E c | (c B) c d | c2 B c | (d c) B A | %18
+w: 누 이 신|아 * 기 를|보 * 고 업|드 * 려 절|하 세 업|드 * 려 절|하 세 업|드 * 려 절|
+w: 에 게 늘|영 * 광 돌|리 * 고 *||||||
+w: 몸 에 서|나 * 시 었|으 * 니 *||||||
+w: 찬 송 을|돌 * 려 보|내 * 고 *||||||
+ G2 A d | c2 B3/2 A/ A3 :| A2 A2 |] |] %22
+w: 하 세 구|세 주 났 네|아 멘||
+w: ||||
+w: ||||
+w: ||||
+V:2
+ C | C2 E E | E2 E E | E2 E F | E2 E C | C ^D E D | E2 E E | E2 ^D3/2 E/ | E3 E | E2 F/G/ A | %10
+ F G A E | E ^E F ^D | E2 E A | A G A B | A2 E E | E2 E E | E2 E A | F/G/ A E E/^D/ | E2 E F | %19
+ E2 D3/2 C/ | C3 :| D2 C2 |] |] %23
+V:3
+ A, | A,2 C A, | G,2 G, B, | A, B, A, A, | A,2 G, A, | A,2 B, B, | B, A, G, E, | B,2 A,3/2 G,/ | %8
+ G,3 G, | C2 D E | D2 E A, | G, C C B, | B,3/2 A,/ G, C | C B, C D | C3 A, | A, G, A, B, | %16
+ A,2 G, E | D E B, B, | B,2 A, A, | A,2 G,3/2 A,/ | A,3 :| F,2 E,2 |] |] %23
+V:4
+ A,, | A,,2 A,, C, | E,2 E, G, | A, G, A, D, | E,2 E, F, | F,2 E, B,, | E, C, G,, A,, | %7
+ B,,2 B,,3/2 E,/ | E,3 E, | C2 B, A, | B,2 A, A, | E, C, F, B,, | E,2 E, z | z4 | z4 | z4 | %16
+ z2 z A, | B, A, G, F, | E, =D, C, D, | E,2 E,3/2 A,,/ | A,,3 :| D,2 A,,2 |] |] %23

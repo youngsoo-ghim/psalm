@@ -1,0 +1,37 @@
+X:166
+T:156 싸움은 모두 끝나고
+Z:Latin hymn/Adepted by  W.H.Monk
+Z:Copyright © 1999 by ÀüµµÈ¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/4
+Q:1/4=104
+M:3/4
+I:linebreak $
+K:D
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ z F F | G3 | F A A | B3 | A A d | c3 | d2 z |: A A A | B2 A | (A G) F | A3 | F F F | F2 F | %13
+w: 할 렐|루|야 할 렐|루|야 할 렐|루|야|1~싸 움 은|모 두|끝 * 나|고|생 명 의|승 리|
+w: |||||||2~사 망 의|나 라|권 * 세|를|주 께 서|깨 뜨|
+w: |||||||3~슬 프 던|사 흘|지 * 나|고|주 께 서|살 아|
+w: |||||||4~사 망 의|문 을|잠 * 그|고|생 명 의|문 을|
+ (F E) D | E3 | A A A | B2 A | (A G) F | A3 | z A d | c3 | d3 :| d3 :| d3 |] |] %25
+w: 얻 * 었|네|개 선 가|높 이|부 * 르|세|할 렐|루|야||||
+w: 리 * 셨|네|승 전 가|높 이|외 * 치|세|할 렐|루|야||||
+w: 나 * 셨|네|영 광 을|주 께|돌 * 리|세|할 렐|루|야||||
+w: 여 * 셨|네|부 활 의|찬 송|부 * 르|세|할 렐|루|야|아|멘||
+V:2
+ z D D | D3 | D D D | D3 | D D F | E3 | F2 z |: D F D | D2 D | (C E) D | E3 | D D D | D2 C | %13
+ (D B,) B, | C3 | C D D | D2 D | (C E) D | E3 | z D F | E3 | F3 :| G3 :| F3 |] |] %25
+V:3
+ z A, A, | B,3 | A, F, F, | G,3 | F, A, A, | A,3 | A,2 z |: F, A, F, | G,2 F, | A, B, D | C3 | %11
+ A, A, A, | B,2 A, | (A, G,) F, | A,3 | A, F, F, | G,2 F, | (A, B,) D | C3 | z D A, | A,3 | A,3 :| %22
+ B,3 :| A,3 |] |] %25
+V:4
+ z D, D, | G,,3 | D, D, D, | G,,3 | D, F, D, | A,,3 | D,2 z |: D, D, D, | G,2 D, | (F, E,) B, | %10
+ A,3 | D, D, D, | B,,2 F, | (D, E,) B,, | A,,3 | F, D, D, | G,2 E, | (F, E,) B, | A,3 | z F, D, | %20
+ A,,3 | D,3 :| G,,3 :| D,3 |] |] %25

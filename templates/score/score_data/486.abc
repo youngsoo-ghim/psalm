@@ -1,0 +1,44 @@
+X:486
+T:이 세상에 근심된 일이 많고
+Z:H.L.Gilmore/G.D.Moore
+Z:Copyright © 1997 by Àü µµ È¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/8
+Q:1/4=104
+M:6/4
+I:linebreak $
+K:G
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ D2 | B3 B B2 B3 A G2 | G3 E G2 D4 D2 | G3 G G2 G2 A2 B2 | A6- A4 D2 | B B3 B2 B3 A G2 | %6
+w: 이|세 상 에 근 심 된|일 이 많 고 참|평 안 을 몰 랐 구|나 * 내|주 예 수 날 오 라|
+w: 이|세 상 에 곤 고 한|일 이 많 고 참|쉬 는 날 없 었 구|나 * 내|주 예 수 날 사 랑|
+w: 이|세 상 에 죄 악 된|일 이 많 고 참|죽 을 일 쌓 였 구|나 * 내|주 예 수 날 건 져|
+ G3 E G2 D4 D2 | G G3 G2 B4 A A | G6- G4 G2 | c3 c c2 c4 c c | B3 B B2 B4 BA | G3 G G2 G2 A2 B2 | %12
+w: 부 르 시 니 곧|평 안 히 쉬 리 로|다 * 주|예 수 의 구 원 의|은 혜 로 다 참- *|기 쁘 고 즐 겁 구|
+w: 하 시 오 니 곧|평 안 히 쉬 리 로|다 * *||||
+w: 주 시 오 니 곧|평 안 히 쉬 리 로|다 * *||||
+ A6- A4 D2 | B B3 B2 B3 A G2 | G3 E G2 D4 D2 | G G3 G2 B4 A A | G6- G4 |] |] %18
+w: 나 * 그|은 혜 를 영 원 히|누 리 겠 네 곧|평 안 히 쉬 리 로|다 *||
+w: ||||||
+w: ||||||
+V:2
+ B,2 | D3 D D2 D3 D D2 | E3 C C2 B,4 B,2 | B,3 B, B,2 D2 D2 D2 | D6- D4 D2 | D D3 D2 D3 D D2 | %6
+ E3 C C2 B,4 D2 | B, B,3 B,2 D4 C C | B,6- B,4 B,2 | E3 E E2 E4 E E | D3 D D2 D4 DC | %11
+ B,3 B, B,2 D2 D2 D2 | D6- D4 D2 | D D3 D2 D3 D D2 | E3 C C2 B,4 D2 | B, B,3 B,2 D4 C C | %16
+ B,6- B,4 |] |] %18
+V:3
+ G,2 | G,3 G, G,2 G,3 F, G,2 | G,3 G, G,2 G,4 G,2 | D,3 D, D,2 G,2 F,2 G,2 | F,6- F,4 D,2 | %5
+ G, G,3 G,2 G,3 F, G,2 | C3 G, G,2 G,4 G,2 | G, G,3 G,2 G,4 F, F, | D,6- D,4 G,2 | %9
+ G,3 G, G,2 G,4 G, G, | G,3 G, G,2 G,4 G,2 | G,3 G, G,2 G,2 F,2 G,2 | F,6- F,4 D,2 | %13
+ G, G,3 G,2 G,3 F, G,2 | C3 G, G,2 G,4 G,2 | G, G,3 G,2 G,4 F, F, | D,6- D,4 |] |] %18
+V:4
+ G,,2 | G,,3 G,, G,,2 G,,3 A,, B,,2 | C,3 C, E,2 G,4 G,,2 | G,,3 G,, G,,2 B,,2 A,,2 G,,2 | %4
+ D,6- D,4 D,2 | G,, G,,3 G,,2 G,,3 A,, B,,2 | C,3 C, E,2 G,4 B,,2 | D, D,3 D,2 D,4 D, D, | %8
+ G,,6- G,,4 G,2 | C,3 C, C,2 C,4 C, C, | G,,3 G,, G,,2 G,,4 G,,2 | G,,3 G,, G,,2 B,,2 A,,2 G,,2 | %12
+ D,6- D,4 D,2 | G,, G,,3 G,,2 G,,3 A,, B,,2 | C,3 C, E,2 G,4 B,,2 | D, D,3 D,2 D,4 D, D, | %16
+ G,,6- G,,4 |] |] %18

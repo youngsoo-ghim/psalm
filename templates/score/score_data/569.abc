@@ -1,0 +1,43 @@
+X:569
+T:442 선한 목자 되신 우리 주
+Z:D.A.Thrupp/W.B.Bradbury
+Z:Copyright © 1999 by ÀüµµÈ¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/8
+Q:1/4=108
+M:4/4
+I:linebreak $
+K:Eb
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ G2 G2 G F G A | B2 e2 (B2 G2) | F2 G2 A c B A | G8 | G2 G2 G F G A | B2 e2 (B2 G2) | %6
+w: 1.선 한 목 자 되 신|우 리 주 *|항 상 인 도 하 시|고|방 초 동 산 좋 은|곳 에 서 *|
+w: 2.양 의 문 이 되 신|예 수 여 *|우 리 영 접 하 시|고|길 을 잃 은 양 의|무 리 를 *|
+w: 3.흠 이 많 고 약 한|우 리 도 *|용 납 하 여 주 시|고|주 의 넓 고 크 신|은 혜 로 *|
+w: 4.일 찍 주 의 뜻 을|따 라 서 *|살 아 가 게 하 시|고|주 의 크 신 사 랑|베 푸 사 *|
+ F2 G2 A c B A | G6 B B | c2 e4 d c | B2 G4 G G | F2 c2 B2 A2 | G6 B B | c2 e4 d c | B2 e4 E F | %14
+w: 우 리 먹 여 줍 소|서 선 한|목 자 구 세|주 여 항 상|인 도 합 소|서 선 한|목 자 구 세|주 여 항 상|
+w: 항 상 인 도 합 소|서 선 한|목 자 구 세|주 여 기 도|들 어 줍 소|서 선 한|목 자 구 세|주 여 기 도|
+w: 자 유 얻 게 하 셨|네 선 한|목 자 구 세|주 여 지 금|나 아 갑 니|다 선 한|목 자 구 세|주 여 지 금|
+w: 주 를 좇 게 합 소|서 선 한|목 자 구 세|주 여 항 상|인 도 합 소|서 선 한|목 자 구 세|주 여 항 상|
+ G2 B2 A3 F | E6 z2 :| |] %17
+w: 인 도 합 소|서||
+w: 들 어 줍 소|서||
+w: 나 아 갑 니|다||
+w: 인 도 합 소|서||
+V:2
+ E2 E2 E D E F | G2 G2 (G2 E2) | D2 E2 F A G F | E8 | E2 E2 E D E F | G2 G2 (G2 E2) | %6
+ D2 E2 F A G F | E6 G G | A2 c4 B A | G2 E4 E E | D2 A2 G2 F2 | E6 G G | A2 c4 B A | G2 G4 E E | %14
+ E2 E2 F3 D | C6 z2 :| |] %17
+V:3
+ B,2 B,2 B, B, B, B, | B,2 B,2 (E2 B,2) | B,2 B,2 B, B, B, B, | B,8 | B,2 B,2 B, B, B, B, | %5
+ B,2 B,2 (E2 B,2) | B,2 B,2 B, B, B, B, | B,6 E E | E2 E4 E E | E2 B,4 B, B, | B,2 B,2 B,2 B,2 | %11
+ B,6 E E | E2 E4 E E | E2 B,4 G, A, | B,2 B,2 B,3 A, | G,6 z2 :| |] %17
+V:4
+ E,2 E,2 E, A, G, F, | E,2 E,2 E,4 | B,,2 B,,2 B,, B,, C, D, | E,8 | E,2 E,2 E, A, G, F, | %5
+ E,2 E,2 E,4 | B,,2 B,,2 B,, B,, C, D, | E,6 E, E, | A,2 A,4 A, A, | E,2 E,4 E, E, | %10
+ B,,2 B,,2 C,2 D,2 | E,6 E, E, | A,2 A,4 A, A, | E,2 E,4 E, E, | E,2 G,,2 A,,3 B,, | E,6 z2 :| |] %17

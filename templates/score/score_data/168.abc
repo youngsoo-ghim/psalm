@@ -1,0 +1,43 @@
+X:168
+T:하늘에 찬송이 들리던 그날
+C:J.W.Chapman(1910)/C.H.Marsh(1910)
+%%score (1|2)(3|4)
+L:1/4
+Q:1/4=180
+M:9/4
+I:linebreak $
+K:Db
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ "^조금 빠르게"A F G A3 B2 c | d c B A3 F3 | G E F G3 F2 G | A A G F6 | A F G A3 B2 c | d c B A3 F3 | %6
+w: 1.~하 늘 에 찬 송 이|들 리 던 그 날|죄 악 이 가 득 찬|그 날 밤 에|동 정 녀 몸 에 서|탄 생 한 주 님|
+w: 2.~갈 보 리 산 으 로|끌 려 가 시 사|십 자 가 위 에 서|죽 으 신 날|가 시 관 쓰 시 고|피 흘 려 주 사|
+w: 3.~동 산 에 주 홀 로|묻 히 신 그 날|고 난 을 이 기 고|쉬 신 그 날|천 사 들 내 려 와|무 덤 을 지 켜|
+w: 4.~무 덤 이 예 수 를|못 가 둔 그 날|인 봉 한 그 돌 이|굴 러 간 날|죽 음 의 권 세 를|깨 뜨 린 주 님|
+w: 5.~천 사 장 나 팔 이|울 리 는 그 날|하 늘 의 영 광 이|나 타 날 때|날 사 랑 하 시 는|참 친 구 예 수|
+ E A B c3 B2 A | B E B A6 | d B d c3 G3 | B c B A3 F3 | A G F B3 B2 B | d c B e6 | d B d c2 G G3 | %13
+w: 우 리 를 구 하 러|오 신 예 수|살 아 서 사 랑|죽 어 서 구 원|묻 혀 서 내 죄 를|담 당 하 사|부 활 로 우 리 를|
+w: 우 리 를 구 하 신|구 주 예 수||||||
+w: 우 리 게 소 망 을|주 신 예 수||||||
+w: 하 늘 에 오 르 신|내 주 예 수||||||
+w: 날 영 접 하 시 러|오 실 예 수||||||
+ B c e d3 A3 | B B B e3 B2 _d | c A e d6 :|
+w: 구 하 신 예 수|다 시 오 시 리 영|광 의 그 날
+V:2
+ F D E F3 F2 F | F F F F3 D3 | C C D E3 =D2 E | C _D E D6 | F D E F3 F2 F | F F F F3 D3 | %6
+ C E E E3 E2 E | D D D (C3 _B3) | F F F G3 C3 | C C C D3 D3 | D C D D3 =D2 D | F E E (E3 _B3) | %12
+ F F F G2 E E3 | G G G F3 F3 | G G A =G3 G2 G | _G G G F6 :|
+V:3
+ A, A, A, D3 D2 A, | A, A, A, D3 A,3 | A, A, A, A,3 A,2 A, | A, A, A, A,6 | A, A, A, D3 D2 A, | %5
+ A, A, A, D3 A,3 | A, A, =G, A,3 G,2 A, | =G, G, G, A,6 | A, A, A, A,3 A,3 | G, A, G, F,3 A,3 | %10
+ A, A, A, G,3 A,2 A, | =G, A, G, A,6 | A, A, A, A,2 C C3 | C E C D3 D3 | %14
+ D D =D E3 E2 E | E C C D6 :|
+V:4
+ D, D, D, D,3 D,2 D, | D, D, D, D,3 D,3 | A,, A,, A,, A,,3 A,,2 A,, | A,, B,, C, D,6 | %4
+ D, D, D, D,3 D,2 D, | D, D, D, D,3 D,3 | E, C, B,, A,,3 B,,2 C, | E, E, E, (A,,3 C,3) | %8
+ D, D, D, E,3 A,,3 | A,, A,, A,, D,3 D,3 | F, E, D, G,3 F,2 B,, | E, E, D, (C,3 A,,3) | %12
+ D, D, D, E,2 A, A,3 | A, A, A, B,,3 B,,3 | G, G, F, E,3 E,2 E, | %15
+ A, A, A, D,6 :|

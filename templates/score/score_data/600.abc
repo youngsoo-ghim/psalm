@@ -1,0 +1,35 @@
+X:600
+T:242 교회의 참된 터는
+Z:S.J.Stone/S.S.Weslwy
+Z:Copyright July 5th 2000 by 전도환
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/4
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:Eb
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ G | G G A G | G2 F E | E c B A | G3 A | B e e d | d2 c B | A B G E | F3 F | G A B c | c2 B e | %11
+w: 교|회 의 참 된|터 는 우|리 주 예 수|라 그|귀 한 말 씀|위 에 이|교 회 세 웠|네 주|예 수 강 림|하 사 피|
+w: 온|세 계 모 든|교 회 한|몸 을 이 루|어 한|주 님 섬 기|면 서 한|믿 음 가 지|네 한|이 름 찬 송|하 고 한|
+w: 땅|위 의 모 든|교 회 주|안 에 있 어|서 하|늘 의 성 도|들 과 한|몸 을 이 루|네 오|주 여 복 을|주 사 저|
+ e3/2 d/ c G | A3 F | G G A G | G2 F E | E F E D | E3 | E2 E2 |] |] %19
+w: 흘 려 샀 으|니 땅|위 의 모 든|교 회 주|님 의 신 부|라|||
+w: 성 경 읽 으|며 다|같 은 소 망|품 고 늘|은 혜 받 도|다|||
+w: 성 도 들 같|이 우|리 도 주 와|함 께 늘|살 게 하 소|서|아 멘||
+V:2
+ E | E E E E | E2 D E | C E E D | E3 D | E E F F | F2 E G | G F E E | D3 D | E D E E | E2 E G | %11
+ G3/2 G/ G G | F3 F | E E E E | C2 C C | C C B, B, | B,3 | C2 B,2 |] |] %19
+V:3
+ B, | B, B, C B, | B,2 B, B, | F, F, G, B, | B,3 B, | B, B, =B, B, | =B,2 C D | E D E C | B,3 B, | %9
+ B, B, B, A, | A,2 B, C | C3/2 =B,/ C C | C3 B, | B, B, C B, | B,2 A, A, | A, A, F, A, | G,3 | %17
+ A,2 G,2 |] |] %19
+V:4
+ E, | E, E, E, E, | B,,2 A,, G,, | A,, A,, B,, B,, | E,3 F, | G, G, G, G, | A,2 A, _B, | %7
+ C B, B, =A, | B,3 B,, | E, F, G, A, | A,2 G, C, | G,3/2 F,/ E, =E, | F,3 D, | E, E, E, E, | %14
+ A,,2 A,, A,, | F,, F,, B,, B,, | E,3 | A,,2 E,2 |] |] %19

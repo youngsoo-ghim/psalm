@@ -1,0 +1,34 @@
+X:554
+T:297 종소리 크게 울려라
+Z:A.Tennyson/J.B.Calkin
+Z:Copyright © 1970 by ÀüµµÈ¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/4
+M:4/4
+I:linebreak $
+K:Eb
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ E | G3/2 ^F/ G G | A3/2 G/ A =A | B e d c | c3/2 B/ B B | B3/2 A/ G A | G3/2 F/ E F | G A B c | %8
+w: 종|소 리 크 게|울 려 라 저|묵 은 해 가|가 는 데 옛|것 을 울 려|보 내 고 새|것 을 맞 아|
+w: 시|기 와 분 쟁|옛 생 각 모|두 다 울 려|보 내 고 순|결 한 삶 과|새 맘 을 다|함 께 맞 아|
+w: 그|흉 한 질 병|고 통 과 또|한 이 없 는|탐 욕 과 전|쟁 을 울 려|보 내 고 평|화 를 맞 아|
+w: 기|쁨 과 넓 은|사 랑 과 참|자 유 길 이|누 리 게 이|땅 의 어 둠|보 내 고 주|예 수 맞 아|
+ D3/2 F/ E :| A2 G2 |] |] %11
+w: 들 이 자|||
+w: 들 이 자|||
+w: 들 이 자|||
+w: 들 이 자|아 멘||
+V:2
+ E | E3/2 E/ E _D | =D3/2 D/ D E | E G G E | F3/2 F/ F E | E3/2 E/ E C | =B,3/2 B,/ C E | E E E E | %8
+ D3/2 D/ E :| E2 E2 |] |] %11
+V:3
+ G, | B,3/2 B,/ B, B, | B,3/2 B,/ B, B, | B, B, B, E | D3/2 D/ D E | C3/2 C/ B, E, | %6
+ G,3/2 G,/ G, A, | B, C B, F, | F,3/2 A,/ G, :| C2 B,2 |] |] %11
+V:4
+ E, | E, B,, E, =E, | F, B,, F, ^F, | G, B,, E, G, | A,3/2 A,/ A, G, | A,3/2 A,/ E, E, | %6
+ D,3/2 D,/ C, F, | B,, A,, G,, A,, | B,,3/2 B,,/ E, :| A,,2 E,2 |] |] %11

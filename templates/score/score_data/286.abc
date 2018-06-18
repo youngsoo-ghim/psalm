@@ -1,0 +1,43 @@
+X:286
+T:218 주 예수님 내 맘에 오사
+Z:H.D.Clarke詞, 曲
+Z:Copyright November 29th 1999 by 전도환
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/4
+M:6/4
+I:linebreak $
+K:F
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ F | A3/2 A/ A A G F | F3 E2 G | B3/2 B/ B (B A) G | A3- A2 A | c3/2 c/ c c c c | c3 B2 A | %7
+w: 주|예 수 님 내 맘 에|오 사 날|붙 들 어 주 * 시|고 * 내|마 음 에 새 힘 을|주 사 늘|
+w: 주|예 수 님 내 맘 에|오 사 내|소 원 다 아 * 시|고 * 내|무 거 운 짐 맡 아|주 사 맘|
+w: 주|예 수 님 내 맘 에|오 사 날|정 결 케 하 * 시|고 * 그|은 혜 로 매 맘 에|채 워 늘|
+w: 주|예 수 님 내 맘 에|오 사 내|앞 길 인 도 * 하|여 * 이|세 상 을 심 판 할|때 에 날|
+ G3/2 G/ G =B2 G | c3- c2 z | A3/2 A/ A F3 | A3/2 A/ A F2 A | c3/2 B/ A G2 B | B3 A2 c | %13
+w: 기 쁘 게 합 소|서 *|||||
+w: 편 하 게 합 소|서 *|사 랑 의 주|사 랑 의 주 내|맘 속 에 찾 아|오 사 내|
+w: 충 만 케 합 소|서 *|||||
+w: 흠 없 게 합 소|서 *|||||
+ d2 d c2 F | B2 B A2 C | D E F B2 A | G3 F2 | F3 | F3 |] |] %20
+w: |||||||
+w: 모 든 죄 사|하 시 고 내|상 한 맘 고 치|소 서||||
+w: |||||||
+w: ||||아|멘||
+V:2
+ F | F3/2 F/ F F F F | C3 C2 E | E3/2 E/ E E2 E | F3- F2 F | F3/2 F/ F F E F | F3 E2 F | %7
+ F3/2 F/ F F2 F | E3- E2 z | F3/2 F/ F C3 | F3/2 F/ F C2 F | E3/2 E/ E E2 E | E F G F2 F | %13
+ F2 F F2 F | F E E F2 A, | B, B, C C2 C | (C2 B,) A,2 | D3 | C3 |] |] %20
+V:3
+ A, | C3/2 C/ C C B, A, | A,2 _A, G,2 C | D3/2 D/ D D C C | C3- C2 C | A,3/2 A,/ A, A, B, C | %6
+ C3 C2 C | =B,3/2 B,/ B, D2 D | C3- C2 z | C3/2 C/ C A,3 | C3/2 C/ C A,2 F, | G,3/2 D/ C B,2 G, | %12
+ (G,2 C) C2 A, | B,2 B, C2 C | C2 C C2 F, | F, G, F, E,2 F, | E,3 F,2 | B,3 | A,3 |] |] %20
+V:4
+ F, | F,3/2 F,/ F, F, F, F, | C,3 C,2 C, | C,3/2 C,/ C, C,2 C, | F,3- F,2 F, | %5
+ F,3/2 F,/ F, F, G, A, | A,3 G,2 F, | G,3/2 G,/ G, G,2 G, | C,3- C,2 z | F,3/2 F,/ F, F,3 | %10
+ F,3/2 F,/ F, F,2 F, | C,3/2 C,/ C, C,2 C, | (C, D, E,) F,2 F, | B,2 B, A,2 A, | G,2 C, F,2 F, | %15
+ B,, B,, A,, G,,2 A,,/B,,/ | C,3 F,2 | B,,3 | F,3 |] |] %20

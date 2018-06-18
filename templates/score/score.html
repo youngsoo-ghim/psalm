@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <script src="{{ url_for('static', filename='score/jquery-1.11.1.min.js') }}"></script>
+    <!--<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>-->
+    <script>
+        //$(function(){
+        //    var lines;
+        //    $.get(scoreURL, function(data) {
+        //        //lines = data.split("\r");
+        //        console.log(data)
+        //        //data = data.replace(/\\r\\n/g, "\n");
+        //        //$("#notation").text("\n<![CDATA["+data+"]]>");
+        //        $("#notation").html("\n"+data);
+        //        //lines = data;
+        ////        $.each(lines, function(n, elem) {
+        ////            $("#notation").text(elem+"\n");
+        ////        })
+        //    }, 'text');
+        //    console.log(lines)
+        //    //$("#notation").text("\n"+lines);
+        //});
+
+        function ba() {
+            var msc_svg = [];
+            var svg, w, h, viewbox;
+            var B = $("#notation");
+            msc_svg = B.find("svg");
+            msc_svg.css("overflow", "visible");
+
+            $.each(msc_svg, function(i){
+                svg = msc_svg[i]
+                //w = svg.prop("width").baseVal.value;
+                //h = svg.prop("height").baseVal.value;
+                w = svg.width.baseVal.value
+                h = svg.height.baseVal.value
+                svg.removeAttribute("width")
+                svg.removeAttribute("height")
+                viewbox = "0 0 "+w+" "+h
+                //svg.each(function () { $(this)[0].setAttribute('viewBox', viewbox ) });
+                svg.setAttribute('viewBox', viewbox )
+            })
+        }
+    </script>
+    <script src="{{ url_for('static', filename='score/abc2svg-1.js') }}" type="text/javascript"></script>
+    <script src="{{ url_for('static', filename='score/abcemb-1.js') }}" type="text/javascript"></script>
+    <!--<script src="abc2web.js"></script>-->
+    <script src="{{ url_for('static', filename='score/play-1.js') }}" type="text/javascript"></script>
+    <script src="{{ url_for('static', filename='score/follow-1.js') }}" type="text/javascript"></script>
+<style type="text/css">
+	svg {display:block}
+</style>
+    <script>
+        $(window).load(function() {
+            ba();
+        });
+    </script>
+<title>abc notaion</title>
+</head>
+{% set url = "score/score_data/"+score_number+".abc" %}
+<body id="notation" bgcolor="#faf0e6">
+X:{{ score_number }}
+%%titlefont sans-serif-Bold {% if request.values['scale'] and request.values['scale'] > 1.5  %}20{% else %}32{% endif %}
+%%vocalfont sans-serif{% if request.values['bold'] == 'Y' %}-Bold{% endif %} {{ request.values['font_size'] |default('20')}}
+%%leftmargin 0
+%%rightmargin 0
+%%barsperstaff 4
+%%pagescale {{ request.values['scale']|default('1')}}
+{{ content|safe }}
+</body>
+</html>

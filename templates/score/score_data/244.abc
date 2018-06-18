@@ -1,0 +1,50 @@
+X:244
+T:244.구원 받은 천국의 성도들
+Z:R. Vaugham Williams
+Z:[nwc보물창고]http://cafe.daum.net/nwc1
+Z:244
+%%score 1 ( 2 3 ) ( 4 5 ) ( 6 7 )
+L:1/4
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:G
+V:1 treble
+V:2 treble nm="R.H."
+V:3 treble 
+V:4 treble nm="Staff-1"
+V:5 treble 
+V:6 bass nm="L.H."
+V:7 bass 
+V:1
+ z d B A | G3 D | E G A D | B4 | A2 A G | F2 F2 | G A F E | D4 | G2 G G | d3 d | %10
+w: 1.구 원 받|은 천|국 의 성 도|들|믿 음 으|로 주|고 백 했 기|에|천 국 에|서 큰|
+w: 2.천 국 에|서 누|리 는 안 식|은|새 하 늘|과 새|땅 의 영 화|라|눈 물 슬|픔 죽|
+w: 3.믿 음 위|해 순|교 한 성 도|들|하 나 님|께 큰|상 급 받 으|니|성 삼 위|께 다|
+ c d (c/B/) (A/G/) | A2 | (d2 | e) (d/c/) d2 | G3 (A/B/ | c) B A2 | G4 |] %17
+w: 영 광 누 * 리 *|네||||||
+w: 음 도 없 * 는 *|곳|알|* 렐 * 루|야 알 *|* 렐 루|야|
+w: 찬 양 드 * 리 *|세||||||
+V:2
+ z [DGBd] [EGB] [CFA] | [EG]3 [G,D] | [G,E] [DG] [CEA] D | [DGB]4 | [^CEA]2 [DA] [EG] | %5
+ [A,EF]2 [A,DF]2 | [G,DG] [A,DA] [B,DF] [G,^CE] | [F,A,D]4 | [G,G]2 [G,G]2 | [DGBd]3 [GBd] | %10
+ [CGc] [Ad] c/B/ A/G/ x | [DFA]2 | d2 [=FB] | e d/c/ [Gd]2 x2 | G3 A/B/ | [EGc] [DGB] A2 | %16
+ [B,DG]4 |] %17
+V:3
+ x4 | B,2 C x | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x2 D G D | x2 | D G x | E2 G2 D E/^F/ | %14
+ x4 | x4 | x4 |] %17
+V:4
+ z [DGBd] [EGB] [CFA] | [EG]3 [G,D] | [G,E] [DG] [CEA] D | [DGB]4 | [^CEA]2 [DA] [EG] | %5
+ [A,EF]2 [A,DF]2 | [G,DG] [A,DA] [B,DF] [G,^CE] | [F,A,D]4 | D E D C | [DGBd]3 [GBd] | %10
+ [CGc] [Ad] c/B/ A/G/ x | [DFA]2 | d2 [=FB] | e d/c/ [Gd]2 x2 | B B, E [DG-] | %15
+ [EGc] [DGB] [DG] [CF] | [B,DG]4 |] %17
+V:5
+ x4 | B,2 C x | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x2 D G D | x2 | D G x | E2 G2 D E/^F/ | %14
+ x4 | x4 | x4 |] %17
+V:6
+ G,, B,, C, D, | E, D, C, B,, | G,3 [D,F,] | G, E, F, G, | A, A,, B,, ^C, | D, E, D, ^C, | %6
+ B,, F,, G,, A,, | D, E, D, =C, | G,2 G,2 | [G,B,D]3 [G,B,D] | [G,C] [A,D] [G,D] [G,D] | A,2 | %12
+ G,2 | G,2 G,2 | G,2 G,2 | A,, B,,/C,/ D, D,, | G,,4 |] %17
+V:7
+ x4 | x4 | C, B,, A,, x | x4 | x4 | x4 | x4 | x4 | B,, C, B,, A,, | G,, A,, G,, F,, | %10
+ E,, F,, G,, B,, | D, C, | B,, G,, | C, A,, B,, C,/D,/ | E, D, C, B,, | x4 | x4 |] %17

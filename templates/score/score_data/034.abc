@@ -1,0 +1,36 @@
+X:34
+T:45 참 놀랍도다 주 크신 이름
+Z:C.Wesley/W.Croft
+Z:Copyright May 17th 2000 by Jun
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/4
+Q:1/4=104
+M:3/4
+I:linebreak $
+K:Ab
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ E | A A B | c2 e | A B G | A2 B | c B A | G2 A | B A/G/ F | E2 G | A B c | A F d | c B A | e2 E | %13
+w: 참|놀 랍 도|다 주|크 신 이|름 천|하 만 국|에 다|전 파 * 하|라 주|예 수 온|천 하 다|스 리 시|니 그|
+w: 주|능 력 으|로 늘|보 호 하|고 늘|우 리 곁|에 함|께 계 * 시|고 그|보 좌 앞|에 서 큰|무 리 모|여 구|
+w: 저|보 좌 위|에 앉|으 신 주|께 큰|소 리 높|여 영|광 돌 * 리|세 저|천 군 천|사 들 그|보 좌 앞|에 다|
+w: 주|여 호 와|께 존|귀 와 영|광 큰|소 리 높|여 다|돌 리 * 면|서 늘|찬 송 하|리 라 천|군 천 사|도 영|
+ F G A | B E c | F B G | A2 | A3 | A3 |] |] %20
+w: 높 으 신|이 름 참|영 화 롭|다||||
+w: 속 하 신|주 를 찬|양 하 리|라||||
+w: 머 리 숙|여 서 경|배 드 리|네||||
+w: 원 무 궁|토 록 화|답 하 리|라|아|멘||
+V:2
+ C | E E E | E2 E | F F E | E2 E | E E E/=D/ | E2 E | E E =D | E2 =E | F G G | F F _E | E E =D | %12
+ E2 E | E D C/=D/ | E E E | D F E/D/ | C2 | D3 | C3 |] |] %20
+V:3
+ A, | C A, G, | A,2 B, | C D B, | C2 G, | A, B, C/A,/ | B,2 C | B, C/B,/ A, | G,2 C | C D C | %10
+ C A, B, | A, B, B,/A,/ | G,2 C | C B, A, | G, B, A, | A, D B, | A,2 | F,3 | E,3 |] |] %20
+V:4
+ A,, | A,, C, E, | A,2 G, | F, D, E, | A,,2 E, | A, G, F, | E,2 C, | G,, A,, B,, | E,2 C, | %9
+ F, F, =E, | F, F, G, | A, G, F, | E,2 C, | D, E, F, | E, G, A, | D, B,, E, | B,,2 | D,3 | A,,3 |] %19
+ |] %20

@@ -1,0 +1,40 @@
+X:469
+T:469.내 주 하나님
+Z:정의수작사. 이성수작곡
+Z:NWC보물창고(cafe.daum.net/nwc1)
+%%score 1 2 3 4
+L:1/8
+Q:1/4=92
+M:4/4
+I:linebreak $
+K:F
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ A3 A B B A2 | G F2 G A4 | G3 G F2 G2 | A6 z2 | c c2 c d d c2 | A G F G A4 | G G G A G F D F | %7
+w: 1.내 주 하 나 님|주 만 따 라|가 게 하 소|서|어 떠 한 역 경 과|괴 로 운 일 이|내 앞 길 을 가 로 막 아|
+w: 2.내 주 예 수 님|바 른 길 을|비 춰 주 소|서|무 서 운 유 혹 과|시 험 이 와 서|내 앞 길 을 어 지 럽 혀|
+w: 3.나 의 성 령 님|순 종 의 길|인 도 하 소|서|한 없 이 놀 랍 고|크 신 사 랑 이|내 앞 길 을 인 도 하 시|
+ F6 z2 | G G2 G G4 | A G F G A4 | c c c c d c A F | G G G A G4 | A3 A B2 A2 | G F2 G A4 | %14
+w: 도|물 리 치 고|가 게 하 소 서|환 난 풍 파 슬 픔 모 두|이 겨 내 고 서|나 언 제 나|이 길 로 만|
+w: 도|찬 송 하 며|가 게 하 소 서|할 렐 루 야 기 뻐 하 고|감 사 하 면 서|나 언 제 나|이 길 로 만|
+w: 니|감 사 하 며|가 게 하 소 서|최 후 의 길 승 리 의 길|주 만 나 는 길|나 언 제 나|이 길 로 만|
+ G3 G A2 G2 | F6 z2 |] %16
+w: 가 게 하 소|서|
+w: 가 게 하 소|서|
+w: 가 게 하 소|서|
+V:2
+ F3 F F F F2 | D D2 D E4 | D3 D C2 E2 | F6 z2 | E E2 E F F G2 | F E D E F4 | D D D F E D A, D | %7
+ C6 z2 | E E2 E E4 | F E D E F4 | E E E E F F F _E | D D F F E4 | F3 F F2 F2 | D D2 D E4 | %14
+ D3 D F2 E2 | D6 z2 |] %16
+V:3
+ C3 C D D C2 | B, B,2 B, C4 | B,3 B, A,2 C2 | C6 z2 | G, G,2 G, B, B, C2 | C C C C C4 | %6
+ B, B, B, B, G, G, F, F, | A,6 z2 | C C2 C C4 | C C C C C4 | C C C C A, A, C A, | B, B, =B, B, C4 | %12
+ C3 C D2 C2 | B, B,2 B, C4 | B,3 B, C2 B,2 | A,6 z2 |] %16
+V:4
+ F,3 F, F, F, F,2 | B,, B,,2 B,, A,,4 | B,,3 B,, C,2 C,2 | F,6 z2 | C, C,2 C, B,, D, E,2 | %5
+ F, G, A, G, F,4 | B,, B,, B,, B,, C, C, D, B,, | F,6 z2 | C, C,2 C, C,4 | F, G, A, G, F,4 | %10
+ C, C, C, C, F, F, F, F, | B,, B,, G, G, C,4 | F,3 F, F,2 F,2 | B,, B,,2 B,, A,,4 | %14
+ B,,3 D, C,2 C,2 | F,6 z2 |] %16

@@ -1,0 +1,40 @@
+X:455
+T:주님의 마음을 본받는 자
+T:이 마음을 품으라 곧 그리스도 예수의 마음이니
+C:C.H.Gabriel
+O:1856~1932
+%%score (1|2)(3|4)
+L:1/4
+Q:1/4=135
+M:6/4
+I:linebreak $
+K:Bb
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ "^보통으로"F G A B A B | c d c B3 | B A B c B G | =F B d c3 | F G A B A B | c B c d3 | c d e d Hd B | %7
+w: 주 님 의 마 음 을|본 받 는 자|그 맘 에 평 강 이|찾 아 옴 은|험 악 한 세 상 을|이 길 힘 이|하 늘 로 부 터 임|
+w: 주 모 습 내 눈 에|안 보 이 며|그 음 성 내 귀 에|안 들 려 도|내 영 혼 날 마 다|주 를 만 나|신 령 한 말 씀 늘|
+w: 가 는 길 거 칠 고|험 하 여 도|내 맘 에 불 평 이|없 어 짐 은|십 자 가 고 난 을|이 겨 내 신|주 님 의 마 음 본|
+w: 주 예 수 세 상 에|다 시 오 실|그 날 엔 뭇 성 도|변 화 하 여|주 님 의 빛 나 는|그 형 상 을|다 함 께 보 며 주|
+ A B c B3 | "^후렴"c3- c F G | F3 B3 | d3- d G d | c2 d e3 | d3- d ^c d | f3 Hd2 B | c3- c d c |  B3- B2 z :|
+w: 함 이 로 다|주 * 님 의|마 음|본 * 받 아|살 면 서|그 * 거 룩|하 심 나|도 * 이 루|리 *
+w: 배 우 도 다|
+w: 받 음 이 라|
+w: 찬 양 하 리|
+V:2
+ D D D D E F | F F E D3 | G ^F G G G E | D F F (F2 E) | D D D D E F | F F F F3 | G G G F F F | %7
+ E D E D3 | E3- E E E | D3 D2 F | =E3- E E E | F2 F F3 | F F F F =E F | F3 F2 F | E E E E F E | %15
+ D3- D2 z :| %17
+V:3
+ B, B, B, F, F, B, | A, A, A, B,3 | B, B, B, E E B, | B, B, B, A,3 | B, B, B, F, F, B, | %5
+ A, G, A, B,3 | B, B, B, B, HB, D | C B, A, B,3 | A, A, A, A,2 A, | B, A, G, F,2 B, | %10
+ B, G, D C B, G, | A,2 B, C3 | B, A, G, F, G, B, | D3 HB,2 B, | A, A, A, A, B, F, | F,3- F,2 z :| %17
+w: ||||||||주 님 의 마 음 주 님 의 마 음 그 마 음 본 받 아 살 면 서 주 님 의 그 거 룩 하 심 나 도 이 루 리 이 루 리
+V:4
+ B,, B,, B,, B,, C, D, | F, F, F, B,,3 | E, E, E, E, E, E, | B,, D, B,, F,3 | %4
+ B,, B,, B,, B,, C, D, | F, F, F, B,,3 | E, E, E, F, F, F, | F, F, F, B,,3 | F, F, F, F,2 F, | %9
+ B,, B,, B,, B,,2 D, | C, C, C, C, C, C, | F,2 F, F,3 | B,, B,, B,, B,, B,, B,, | B,3 B,2 B, | %14
+ A, A, A, A, B, F, | F,3- F,2 z :| %17

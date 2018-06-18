@@ -1,0 +1,40 @@
+X:393
+T:오 신실하신 주
+C:T.O.Chisholm(1923)/W.M.Runyan(1923)
+%%score (1|2)(3|4)
+L:1/4
+Q:1/4=120
+M:3/4
+I:linebreak $
+K:Eb
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ "^보통으로"G G G | G3/2 F/ F | A A A | A G2 | c d c | B3/2 A/ G | F G =A | B3 | B c d | e3/2 d/ c | B A G | %11
+w: 1.오 신 실|하 신 주|내 아 버|지 여|늘 함 께|계 시 니|두 렴 없|네|그 사 랑|변 챦 고|날 지 키|
+w: 2.봄 철 과|또 여 름|가 을 과|겨 울|해 와 달|별 들 도|다 주 의|것|만 물 이|하 나 로|들 어 내|
+w: 3.내 죄 를|사 하 여|안 위 하|시 고|주 친 히|오 셔 서|인 도 하|네|오 늘 의|힘 되 고|내 일 의|
+ G F2 | c d e | e3/2 B/ B | G G F | E3 | "^후렴"B B F | A3/4 G/4 G2 | c c G | B3/4 A/4 A2 | B c d | %21
+w: 시 며|어 제 나|오 늘 이|한 결 같|네|오 신 실|하 신 주|오 신 실|하 신 주|날 마 다|
+w: 도 다|신 실 한|주 사 랑|나 타 내|네||||||
+w: 소 망|주 만 이|만 복 을|내 리 시|네||||||
+ e B c | d e c | B3 | B c d | e3/2 d/ c | B A G | G F2 | c d e | e3/2 B/ B | G A D|E3 :|
+w: 자 비 를|베 푸 시|며|일 용 할|모 든 것|내 려 주|시 니|오 신 실|하 신 주|나 의 구|주
+V:2
+ E E E | E3/2 E/ E | D E F | E E2 | E E E | E3/2 D/ E | F =E _E | D3 | A A A | G3/2 B/ A | G F E | %11
+ E E2 | ^F F F | G3/2 G/ G | E D B, | B,3 | D D D | E3/4 E/4 E2 | =E E E | F3/4 F/4 F2 | A A A | %21
+ G G _G | F =G E | D3 | A A A | G3/2 B/ A | G F E | E E2 | ^F F F | G3/2 G/ G | %30
+ E D B, | B,3 :|
+V:3
+ B, B, =B, | C3/2 C/ C | B, C D | C B,2 | A, B, A, | B,3/2 B,/ B, | =A, B, C | B,3 | D D B, | %9
+ B,3/2 C/ D | E C B, | C C2 | E D C | B,3/2 E/ E | B, B, A, | G,3 | F, F, B, | C3/4 B,/4 B,2 | %18
+ B, G, C | _D3/4 C/4 C2 | =D D B, | B, B, B, | B, B, =A, | B,3 | D D B, | B,3/2 C/ D | D C B, | %27
+ C C2 | E D C | B,3/2 E/ E | B, F, A, | G,3 :|
+V:4
+ E, E, E, | A,,3/2 A,,/ A,, | B,, B,, B,, | E, E,2 | A, A, A, | G,3/2 F,/ E, | C, C, F, | B,,3 | %8
+ B, B, B, | E,3/2 E,/ E, | E, F, G, | A, A,2 | =A, A, A, | B,3/2 B,/ B, | B, B,, B,, | E,3 | %16
+ B,, B,, B,, | E,3/4 E,/4 E,2 | C, C, C, | F,3/4 F,/4 F,2 | B, B, B, | E, E, E, | F, E, F, | B,,3 | %24
+ B, B, B, | E,3/2 E,/ E, | E, F, G, | A, A,2 | =A, A, A, | B,3/2 B,/ B, | %30
+ B,, B,, B,, | E,3 :|

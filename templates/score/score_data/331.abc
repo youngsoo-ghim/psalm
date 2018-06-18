@@ -1,0 +1,48 @@
+X:331
+T:영광을 받으신 만유의 주여
+Z:G.C.Stebbias
+Z:Copyright © 1997 by Àü µµ È¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/8
+Q:1/4=216
+M:6/8
+I:linebreak $
+K:Eb
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ E3 B,2 E | G3 E2 G | B3 cB =A | B3 G3 | A3 B2 B | c3 B2 B | =A3 G2 F | B6 | E3 B,2 E | G3 E2 G | %10
+w: 영 광 을|받 으 신|만 유- * 의|주 여|우 리 가|명 령 을|좇 으 리|다|베 푸 신|은 혜 를|
+w: 구 주 를|높 이 고|잘 공- * 경|하 여|온 유 한|맘 으 로|섬 기 리|다|주 예 수|안 에 서|
+w: 예 수 를|믿 고 서|늘 사- * 랑|하 여|즐 거 운|맘 으 로|섬 기 리|다|온 맘 을|드 리 고|
+ B3 cB =A | B3 G3 | A3 B2 B | c3 d2 e | G3 G2 F | E6 | B3- B =A B | c3 B3 | G3- G ^F G | A3 G3 | %20
+w: 감 사- * 히|알 고|진 실 한|맘 으 로|섬 기 겠|네|구 * 주 의|은 혜|주 * 시 는|대 로|
+w: 즐 거- * 워|하 며|충 성 을|다 하 여|섬 기 겠|네|||||
+w: 순 종- * 한|후 에|구 주 를|영 원 히|섬 기 겠|네|||||
+ c3- c B =A | B3 G2 G | (=A3 A) G A | B6 | B3- B =A B | c3 B3 | G3- G ^F G | _A3 G3 | c3- c B =A | %29
+w: 영 * 원 히|받 들 어|섬 * 기 겠|네|찬 * 송 하|겠 네|찬 * 송 하|겠 네|생 * 명 을|
+w: |||||||||
+w: |||||||||
+ B3 E2 _A | G3 G2 F | E6 |] |] %33
+w: 주 시 는|구 주 로|다||
+w: ||||
+w: ||||
+V:2
+ B,3 B,2 B, | E3 E2 E | G3 AG ^F | G3 E3 | E3 E2 E | E3 E2 E | E3 E2 E | D6 | B,3 B,2 B, | %9
+ E3 E2 E | G3 AG ^F | G3 E3 | E3 E2 E | E3 A2 G | E3 D2 D | E6 | G3- G ^F G | A3 G3 | E3 E E E | %19
+ E3 E3 | A3- A G ^F | G3 E2 E | (=F3 E) E E | D3 _A3 | G3 G ^F G | _A3 G3 | E3 E E E | E3 E3 | %28
+ A3- A G ^F | G3 E2 E | E3 D2 D | E6 |] |] %33
+V:3
+ G,3 G,2 G, | B,3 G,2 B, | E3 E2 C | E3 B,3 | A,3 G,2 G, | A,3 B,2 B, | C3 B,2 =A, | B,6 | %8
+ G,3 G,2 G, | B,3 G,2 B, | E3 E2 C | E3 B,3 | A,3 G,2 G, | A,3 B,2 B, | B,3 B,2 A, | G,6 | %16
+ z2 z B, C B, | E3 E3 | z2 z B, =A, B, | C3 B,3 | z2 z E E E | E3 B,2 B, | z2 z F, =A, C | B,6 | %24
+ z2 z B, C B, | E3 E3 | z2 z B, =A, B, | C3 B,3 | z2 z E E E | E3 B,2 C | B,3 B,2 A, | G,6 |] |] %33
+V:4
+ E,3 E,2 E, | E,3 E,2 E, | E,3 E,2 E, | E,3 E,3 | C,3 E,2 E, | A,3 G,2 G, | F,3 F,2 F, | B,,6 | %8
+ E,3 E,2 E, | E,3 E,2 E, | E,3 E,2 E, | E,3 E,3 | C,3 E,2 E, | A,3 F,2 E, | B,3 B,,2 B,, | E,6 | %16
+ z2 z E, E, E, | E,3 E,3 | z2 z E, E, E, | E,3 E,3 z2 z E, E, E, | E,3 G,2 G, | z2 z F, F, F, | %22
+ B,,6 | z2 z E, E, E, | E,3 E,3 | z2 z E, E, E, | E,3 E,3 | z2 z E, E, E, | E,3 G,2 A, | %29
+ B,3 B,,2 B,, | E,6 |] |] %32

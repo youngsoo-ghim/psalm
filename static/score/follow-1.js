@@ -1,0 +1,5 @@
+// abc2svg - ABC to SVG translator
+// @source: https://github.com/moinejf/abc2svg.git
+// Copyright (C) 2014-2017 Jean-Francois Moine - LGPL3+
+// follow-1.js for abc2svg-1.17.1 (2018-05-02)
+var ref=[],ignore_types={beam:true,slur:true,tuplet:true};user.anno_stop=function(type,start,stop,x,y,w,h){if(ignore_types[type])return;ref[start]=stop;abc.out_svg('<rect class="abcr _'+start+'_" x="');abc.out_sxsy(x,'" y="',y);abc.out_svg('" width="'+w.toFixed(2)+'" height="'+h.toFixed(2)+'"/>\n')};function notehlight(i,on){var elts=document.getElementsByClassName("_"+i+"_");if(elts&&elts[0])elts[0].style.fillOpacity=on?.4:0}function follow(){if(!playconf){setTimeout(follow,1e3);return}playconf.onnote=notehlight;var sty=document.createElement("style");sty.innerHTML=".abcr {fill: #d00000; fill-opacity: 0; z-index: 15}";document.body.appendChild(sty)}setTimeout(follow,1e3);

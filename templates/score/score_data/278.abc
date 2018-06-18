@@ -1,0 +1,45 @@
+X:278
+T:336 여러 해 동안 주 떠나
+Z:R.Lowry/R.Lowry
+Z:Copyright © 1999 by ÀüµµÈ¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/8
+Q:1/4=135
+M:6/8
+I:linebreak $
+K:G
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ B3/2 B/ B c2 B | B2 A G2 G/ G/ | G3/2 G/ G c2 c | B3- B2 B | B3/2 B/ B c2 B | d2 c B2 G | %6
+w: 1~여 러 해 동 안|주 떠 나 세 상|연 락 을 즐 기|고 저 흉|악 한 죄 에 빠|져 서 그 은|
+w: 2~죄 악 에 죽 을|인 생 을 심 히|불 쌍 히 여 기|사 저 하|늘 의 영 광 버|리 고 이 세|
+w: 3~홍 포 를 입 은|구 주 는 가 시|면 류 관 쓰 시|고 저 십|자 가 높 이 달|리 사 그 아|
+w: 4~미 련 한 우 리|인 생 은 주 의|공 로 를 모 르|고 그 쓸|쓸 한 사 막 가|운 데 늘 헤|
+ A3/2 D/ D B2 A | G3- G2 B | c G G G2 A | B3- B2 d | d A A A2 B | A3- A2 A | B2 d B2 G/ G/ | %13
+w: 혜 를 잊 었 네|오 사 랑|의 예 수 님 내|맘 을 곧|엽 니 다 곧 들|어 와 나|와 동 거 하 며|
+w: 상 에 오 셨 네|||||||
+w: 픔 을 참 았 네|||||||
+w: 매 고 다 녔 네|||||||
+ G A B c2 c | B3/2 A/ G A2 G | G6 :| G3 G3 |] |] %18
+w: 내 생 명 이 되|소 서 아 멘 *||||
+w: |||||
+w: |||||
+w: |||||
+V:2
+ D3/2 D/ D E2 D | D2 C B,2 B,/ B,/ | B,3/2 B,/ B, E2 E | D3- D2 D | D3/2 D/ D E2 D | F2 E D2 B, | %6
+ D3/2 D/ D D2 C | B,3- B,2 D | E E E E2 _E | D3- D2 D | F F F E2 E | F3- F2 F | G2 G G2 D/ D/ | %13
+ D D G G2 G | G3/2 F/ G D2 D | D6 :| E3 D3 |] |] %18
+V:3
+ G,3/2 G,/ G, G,2 G, | F,2 F, G,2 G,/ G,/ | G,3/2 G,/ G, G,2 G, | G,3- G,2 G, | %4
+ G,3/2 G,/ G, G,2 G, | F,2 F, G,2 G, | F,3/2 D,/ D, F,2 F, | G,3- G,2 G, | G, G, G, G,2 G, | %9
+ G,3- G,2 B, | A, D D ^C2 C | D3- D2 D | D2 B, D2 B,/ B,/ | B, A, D B,2 E | D3/2 C/ B, C2 B, | %15
+ B,6 :| C3 B,3 |] |] %18
+V:4
+ G,3/2 G,/ G, G,2 G, | D,2 D, G,2 G,/ G,/ | E,3/2 E,/ E, C,2 C, | G,3- G,2 G, | %4
+ G,3/2 G,/ G, G,2 G, | D,2 D, G,2 G, | D,3/2 D,/ D, D,2 D, | G,3- G,2 G, C, C, C, C,2 C, | %8
+ G,,3- G,,2 G, | D, D, D, A,,2 A,, | D,3- D,2 D, | G,2 G, G,2 G,/ G,/ | G, F, =F, E,2 C, | %13
+ D,3/2 D,/ D, D,2 G,, | G,,6 :| C,3 G,3 |] |] %17

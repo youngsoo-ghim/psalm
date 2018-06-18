@@ -1,0 +1,35 @@
+X:221
+T:525 주 믿는 형제들
+Z:J.Fawcett/J.H.G.Nageli
+Z:Copyright July 8th 2000 by 전도환
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/4
+Q:1/4=96
+M:3/4
+I:linebreak $
+K:F
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ A | (A F) A | (G E) G | F2 F | (F D) F | (F C) F | E2 G | (G E) G | (F A) c | (c G) B | (A c) d | %11
+w: 주|믿 * 는|형 * 제|들 사|랑 * 의|사 * 귐|은 천|국 * 의|교 * 제|같 * 으|니 * 참|
+w: 하|나 * 님|보 * 좌|앞 한|기 * 도|드 * 리|니 우|리 * 의|믿 * 음|소 * 망|이 * 주|
+w: 피|차 * 에|슬 * 픔|과 수|고 * 를|나 * 누|고 늘|동 * 고|동 * 락|하 * 는|중 * 위|
+w: 또|이 * 별|할 * 때|에 맘|비 * 록|슬 * 퍼|도 주|안 * 에|교 * 통|하 * 며|서 * 또|
+ (c A) B | (A F) G | F2 |] |] %15
+w: 좋 * 은|친 * 교|라||
+w: 안 * 에|하 * 나|라||
+w: 로 * 를|나 * 누|네||
+w: 다 * 시|만 * 나|리||
+V:2
+ F | (F C) F | (E C) E | F2 _E | (D B,) D | (C A,) C | C2 E | (E C) E | F2 F | E2 G | F2 F | F2 F | %12
+ F2 E | F2 |] |] %15
+V:3
+ C | (C A,) C | (C G,) B, | A,2 A, | (B, F,) B, | (A, F,) A, | G,2 C | (C G,) B, | (A, C) A, | %9
+ (G, C) C | (C A,) B, | (A, C) D | (C A,) B, | A,2 |] |] %15
+V:4
+ F, | F,2 F, | C,2 C, | F,2 F, | B,,2 B,, | F,2 F, | C,2 C, | C,2 C, | F,2 F, | C,2 C, | F,2 F, | %11
+ F,2 B,, | C,2 C, | F,2 |] |] %15

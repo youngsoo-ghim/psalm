@@ -1,0 +1,41 @@
+X:390
+T:예수가 거느리시니
+T:자기 이름을 위하여 의의 길로 인도하시는도다
+T:시 23:3
+C:J.H.Gilmore/W.B.Bradbury
+O:1862
+%%score (1|2)(3|4)
+L:1/4
+Q:1/4=104
+M:4/4
+I:linebreak $
+K:Db
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ A | F3/2 E/ D A | B G G B | A3/2 F/ F E/D/ | F F HE A | F3/2 E/ D A | B G Hd c/B/ | A F F/E/ D/E/ | %8
+w: 예|수 가 거 느|리 시 니 즐|겁 고 평 안- *|하 구 나 주|야 에 자 고|깨 는 것 예- *|수 가 거- * 느- *|
+w: 때|때 로 괴 롬|당 하 면 때|때 로 기 쁨- *|누 리 네 풍|파 중 에 거|느 리 고 평- *|안 할 때- * 거- *|
+w: 내|주 의 손 을|붙 잡 고 천|국 에 올 라- *|가 겠 네 괴|로 우 나 즐|거 우 나 예- *|수 가 거- * 느- *|
+w: 이|세 상 이 별|할 때 에 지|옥 의 권 세- *|이 기 네 천|국 에 있 을|때 에 도 예- *|수 가 거- * 느- *|
+ F3/2 E/ HD "^후렴"A | A d c e | d c/B/ A B | A F F/E/ D/E/ | F F !fermata!E A | A d c e | d c/B/ A B | %15
+w: 리 시 네 주|날 항 상 돌|보 시- * 고 날|친 히 거- * 느- *|리 시 네 주|날 항 상 돌|보 시- * 고 날|
+w: 느 리 네 *|||||||
+w: 리 시 네 *|||||||
+w: 리 시 네 *|||||||
+ A F F/E/ D/E/ | F3/2 E/ !fermata!D :| G2 F2 |] |] %19
+w: 친 히 거- * 느- *|리 시 네|아 멘||
+V:2
+ D | D3/2 A,/ A, D | D D D G | F3/2 D/ D D | D D C C | D3/2 A,/ A, D | D G G G | F D D/C/ B,/C/ | %8
+ D3/2 C/ D F | F D E A | A G F G | F D D/C/ B,/C/ | D D C E | F D E A | A G F G | F D D/C/ B,/C/ | %16
+ D3/2 C/ D :| D2 D2 |] |] %19
+V:3
+ F, | A,3/2 G,/ F, F, | G, B, B, D | D3/2 A,/ A, G,/F,/ | A, A, A, A, | A,3/2 G,/ F, F, | %6
+ G, B, B, D | D A, B, F, | A,3/2 G,/ F, A, | D A, A, C | D D D D | D A, B, F, | A, A, A, C | %13
+ D A, A, C | D D D D | D A, B, F, | A,3/2 G,/ F, :| B,2 A,2 |] |] %19
+V:4
+ D, | D,3/2 D,/ D, D, | G, G, G, G, | D,3/2 D,/ D, D, | A,, A,, HA,, A,, | D,3/2 D,/ D, D, | %6
+ G, G, HG, G, | D, D, B,, B,, | A,,3/2 A,,/ D, D, | D, F, A, G, | F, G, D, D, | D, D, B,, B,, | %12
+ A,, A,, !fermata!A,, A,, | D, F, A, G, | F, G, D, D, | D, D, B,, B,, | A,,3/2 A,,/ !fermata!D, :| G,,2 D,2 |]

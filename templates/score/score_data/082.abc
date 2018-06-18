@@ -1,0 +1,37 @@
+X:82
+T:90 성부여 어린양이
+Z:H.Bonar/J.P.Holbrook
+Z:Copyright May 23th 2000 by Jun
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/4
+Q:1/4=594
+M:6/4
+I:linebreak $
+K:C
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ G | G2 c d2 c | c3 B2 A | G2 G A2 F | E3- E2 G | G2 c d2 c | c3 B2 A | G2 G A2 B | c3- c2 E | %9
+w: 성|부 의 어 린|양 이 죄|지 고 가 시|니 * 내|몸 에 당 할|형 벌 다|대 신 하 셨|네 * 내|
+w: 내|죄 를 회 개|할 때 용|서 해 주 시|고 * 병|든 몸 고 쳐|주 사 새|생 명 주 시|네 * 내|
+w: 내|주 를 의 지|하 니 내|맘 이 편 하|고 * 주|나 를 붙 드|시 니 내|앞 길 환 하|다 * 임|
+w: 주|예 수 본 을|받 아 온|유 한 마 음|과 * 겸|손 한 마 음|으 로 섬|기 며 살 리|라 * 나|
+ E2 A c2 B/A/ | G3 A2 A | c2 A c2 d | e3- e2 =G | G2 c d2 c | c3 B2 A | G2 G A2 B | c3- c2 |] |] %18
+w: 죄 가 추 악 *|하 나 그|피 로 씻 으|면 * 눈|같 이 희 게|되 어 티|하 나 없 으|리 *||
+w: 속 에 싸 인 *|근 심 한|없 이 크 건|만 * 주|친 히 벗 겨|주 사 위|로 해 주 시|네 *||
+w: 마 누 엘 주 *|예 수 끝|없 는 그 사|랑 * 그|향 기 바 람|타 고 온|땅 에 퍼 지|네 *||
+w: 주 의 뒤 를 *|따 라 저|천 국 이 르|러 * 천|사 의 노 래|배 워 주|찬 송 하 리|라 *||
+V:2
+ E | E2 E F2 E | F3 G2 F | E2 E D2 D | C3- C2 E | E2 E F2 E | F3 G2 F | E2 E D2 F | E3- E2 E | %9
+ C2 E E2 E | E3 E2 E | E2 E F2 A | ^G3- G2 E | E2 E F2 E | F3 G2 F | E2 E F2 F | E3- E2 |] |] %18
+V:3
+ C | C2 G, A,2 G, | A,3 B,2 B, | B,2 B, A,2 A, | F,3- F,2 C | C2 G, A,2 G, | A,3 C2 C | %7
+ C2 C B,2 D | C3- C2 C | C2 C E2 D/C/ | B,3 C2 C | C2 C A,2 A, | B,3- B,2 C | C2 G, A,2 G, | %14
+ A,3 C2 C | C2 C B,2 D | C3- C2 |] |] %18
+V:4
+ C, | C,2 C, C,2 C, | F,3 F,2 F, | G,2 G, G,,2 G,, | C,3- C,2 C, | C,2 C, C,2 C, | F,3 F,2 F, | %7
+ G,2 G, G,,2 G,, | C,3- C,2 C, | A,,2 A,, A,2 A, | E,3 A,,2 A,, | A,2 A, F,2 F, | E,3- E,2 C, | %13
+ C,2 C, C,2 C, | F,3 F,2 F, | G,2 G, G,,2 G,, | C,3- C,2 |] |] %18

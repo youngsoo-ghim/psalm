@@ -1,0 +1,35 @@
+X:299
+T:418 하나님 사랑은
+Z:O.Clute/R.Jackson
+Z:Copyright May 19th 2000 by Jun
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/4
+Q:1/4=100
+M:3/4
+I:linebreak $
+K:F
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ A A A | B2 F | A3 | c B A | G2 A | G3 | A B d | c2 A | A2 G | B2 G | (F E) F | A2 G | F3 | F3 | %14
+w: 하 나 님|사 랑|은|온 전 한|참 사|랑|내 맘 에|부 어|주 시|사 충|만 * 케|하 소|서||
+w: 내 주 의|참 사|랑|햇 빛 과|같 으|니|그 사 랑|내 게|비 추|사 뜨|겁 * 게|하 소|서||
+w: 그 사 랑|앞 에|는|풍 파 도|그 치|며|어 두 운|밤 도|환 하|니 그|힘 * 이|크 도|다||
+w: 하 나 님|사 랑|에|참 자 유|있 으|니|내 맘 과|영 에|채 우|사 새|힘 * 을|주 소|서|아|
+ F3 |] |] %16
+w: ||
+w: ||
+w: ||
+w: 멘||
+V:2
+ F F F | F2 F | F3 | F E F | F2 F | E3 | F F E | F2 F/E/ | D2 D | D2 D | C2 C | F2 E | F3 | D3 | %14
+ C3 |] |] %16
+V:3
+ C F E | D2 _D | C3 | C C C | D2 =B, | C3 | C D B, | A,2 C | C2 B, | B,2 B, | (A, G,) A, | C2 B, | %12
+ A,3 | B,3 | A,3 |] |] %16
+V:4
+ F, F, F, | F,2 F, | F,3 | A, G, F, | B,,2 G,, | C,3 | F, F, G, | A,2 F, | B,,2 B,, | G,,2 B,, | %10
+ C,2 C, | C,2 C, | F,3 | B,,3 | F,3 |] |] %16

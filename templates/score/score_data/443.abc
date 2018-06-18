@@ -1,0 +1,41 @@
+X:443
+T:443+아침햇살비칠때
+Z:황금찬사, 황철익곡
+Z:[nwc보물창고]http://cafe.daum.net/nwc1
+Z:박기형
+%%score 1 2 3 4
+L:1/8
+Q:1/4=92
+M:4/4
+I:linebreak $
+K:Eb
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ B, G G G F F E2 | F3/2 F/ E F G4 | G B B B c B G2 | F E C F F4 | B, G G G F F E2 | %5
+w: 1.아 침 햇 살 비 칠 때|찬 란 하 듯 이|주 님 얼 굴 대 할 때|마 음 즐 겁 다|우 리 주 님 내 맘 에|
+w: 2.온 세 상 이 빛 없 어|캄 캄 해 질 때|뜻 과 정 성 다 모 아|주 영 접 하 자|마 음 속 에 풍 랑 이|
+w: 3.어 둔 구 름 걷 히 고|해 가 빛 나 듯|모 든 죄 를 씻 으 니|기 쁨 넘 치 네|주 의 은 혜 맘 속 에|
+ F3/2 F/ E F G4 | (GB) B B B4 | (Gc) c c c4 | B3 c d2 (c=A) | B6 z2 | (Be) e e e4 | G B c2 c4 | %12
+w: 빛 나 는 태 양|문 * 앞 에 서|머 * 무 시 는|주 님 영 접 *|해(주님영접해)|한 * 평 생 을|주 와 함 께|
+w: 일 어 날 때 도|믿 * 는 이 의|참 * 소 망 은|우 리 주 님 *|뿐(우리주님뿐)|일 * 생 토 록|주 섬 기 며|
+w: 가 득 히 받 아|생 * 명 의 주|늘 * 모 시 고|향 기 가 되 *|어(향기가되어)|영 * 광 스 런|한 세 상 을|
+ B3 c (BG) F2 | E6 z2 |] %14
+w: 살 아 가 * 리|라|
+w: 살 아 가 * 리|라|
+w: 빛 내 어 * 보|자|
+V:2
+ B, E E E C C B,2 | D3/2 D/ C D E4 | E E E E E F E2 | C C C C D4 | B, E E E C C B,2 | %5
+ D3/2 D/ C D E4 | E2 E E E4 | E2 E E E4 | F3 F F2 E2 | D2 E E F G A2 | G2 G G E4 | E E E2 E4 | %12
+ A3 A (GE) D2 | B,6 z2 |] %14
+V:3
+ G, B, B, B, A, A, G,2 | B,3/2 B,/ G, B, B,4 | B, G, G, G, G, B, B,2 | A, A, =A, A, B,4 | %4
+ G, B, B, B, A, A, G,2 | B,3/2 B,/ G, B, B,4 | (B,G,) G, G, G,4 | (CG,) G, G, G,4 | %8
+ B,3 B, B,2 (=A,C) | B,6 z2 | B,2 B, B, C4 | B, G, G,2 G,4 | B,3 B, B,2 A,2 | G,6 z2 |] %14
+V:4
+ E, E, E, E, E, E, E,2 | B,,3/2 B,,/ C, B,, E,4 | E, E, E, E, C, D, E,2 | E, E, F, F, B,,4 | %4
+ B,, B,, E, E, E, E, E,2 | B,,3/2 B,,/ C, B,, E,4 | E,2 E, E, E,4 | E,2 C, C, C,4 | %8
+ D,3 E, F,2 F,2 | B,,2 C, C, D, E, F,2 | E,2 E, E, A,4 | E, E, C,2 C,4 | D,3 D, E,2 B,,2 | %13
+ E,6 z2 |] %14

@@ -1,0 +1,56 @@
+X:349
+T:387 나는 예수 따라가는
+Z:I.Watts/L.N.Morris(Arr.by W.Y.La]
+Z:Copyright © 1970 by ÀüµµÈ¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/4
+Q:1/4=112
+M:6/4
+I:linebreak $
+K:none
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ G | E2 D C2 c | B2 A G2 F | (E G) A E2 D | G3- G2 G | c2 c (c B) A | (G A) E G2 G | %7
+w: 나|는 예 수 따|라 가 는 십|자 * 가 군 사|라 * 주|이 름 증 * 거|하 * 기 를 왜|
+w: 큰|싸 움 은 시|작 되 어 용|사 * 를 부 른|다 * 곧|나 가 전 * 쟁|마 * 당 에 다|
+w: 그|승 리 의 영|광 위 해 싸|워 * 야 하 리|라 * 주|말 씀 나 * 의|힘 * 되 니 겁|
+ (B A) G (^F G) F | E3- E2 G | E2 D C2 c | B2 A G2 F | (E G) A E2 D | G3- G2 G | c2 c (c B) A | %14
+w: 주 * 저 하 * 리|요 * 다|른 군 사 피|흘 리 며 나|가 * 서 싸 울|때 * 나|혼 자 편 * 히|
+w: 어 * 서 나 * 가|자 * 거|룩 하 신 주|님 위 해 싸|우 * 러 나 가|자 * 주|님 의 권 * 능|
+w: 낼 * 것 없 * 도|다 * 모|든 싸 움 이|긴 후 에 그|날 * 이 이 르|면 * 승|전 가 높 * 이|
+ (G A) E G2 B | (d c) B (A E) ^F | G3- G3 | c3 B2 A | G A c G E C | E E ^D E E D | E3- E2 z | %21
+w: 앉 * 아 서 바|라 * 만 보 * 리|요 *|다 른 사|람 어 찌 든 지 나|주 님 의 용 사 되|리 *|
+w: 힘 * 입 어 다|이 * 길 때 * 까|지 *|||||
+w: 부 * 르 며 큰|영 * 광 누 * 리|리 *|||||
+ c3 B2 A | G A c G E c | d ^c e (d c) e | d3- d2 z | c B A A ^G A | B3 E3 | c B A A ^G A | B3- B3 | %29
+w: 나 는 주|의 군 사 되 어 충|성 을 맹 세 * 하|여 *|내 가 승 리 하 기|까 지|주 은 혜 로 싸 우|리 *|
+w: ||||||||
+w: ||||||||
+ c c c c c c | e3 c3 | G f e d A B | c3- c2 |] |] %34
+w: 주 의 용 사 된 나|에 게|주 의 일 맡 기 소|서 *||
+w: |||||
+w: |||||
+V:2
+ C | C2 B, C2 E | F2 F C2 C | C2 C E2 D | (E3 F2) D | E2 E F2 F | E2 E E2 E | ^D2 E (D E) D | %8
+ E3- E2 C | C2 B, C2 E | F2 F C2 C | C2 C C2 D | (E3 F2) G | C2 C C2 C | C2 C C2 D | D ^F G D2 D | %16
+ D D E =F3 | E3 G2 F | E E E E C C | C3 C2 C | C C C C2 z | E3 G2 F | E E E E C G | ^F3 F2 F | %24
+ =F2 F F2 z | c B A A ^G A | z [E^G] [EG] z [B,D] [B,D] | c B A A ^G A | z [E^G] [EG] z =G G | %29
+ E E E E E ^D | E E E E E2 | G A G F F F | E3- E2 |] |] %34
+V:3
+ E, | G,2 F, E,2 G, | F,2 F, E,2 A, | G, C C C2 B, | (C3 B,2) B, | C2 C A, G, F, | %6
+ (G, C) G, G,2 G, | ^F,2 G, B,2 A, | G,3- G,2 E, | G,2 F, E,2 A, | G,2 F, E,2 A, | %11
+ G, E, F, G,2 F, | (E,3 D,2) D, | E,2 E, (A, G,) F, | (E, F,) G, E,2 G, | (B, E) D C2 C | %16
+ B, B, C D3 | G, G, G, G, A, B, | C C G, G, G, E, | G, G, ^F, G, G, F, | G,3- G,2 z | %21
+ G, G, G, G, A, B, | C C G, G, G, C | A, A, =C A,2 C | B,3- B,2 z | C B, A, A, ^G, A, | B,3 E,3 | %27
+ C B, A, A, ^G, A, | B,6 | G, G, G, C C C | C C C G, G,2 | C C C A, G, G, | G,3- G,2 |] |] %34
+V:4
+ C, | C,2 C, C,2 C, | C,2 C, C,2 C, | (C, E,) F, G,2 G, | (F,3 E,2) G, | C,2 C, C,2 C, | %6
+ C,2 C, C,2 C, | B,,2 B,, B,,2 B,, | E,3- E,2 C, | C,2 C, C,2 C, | C,2 C, C,2 C, | C,2 C, C,2 B,, | %12
+ (C,3 G,,2) B,, | C,2 C, C,2 C, | C,2 C, C,2 G, | D,2 D, D,2 D, | G,3- G,3 | C, C, C, C, C, C, | %18
+ C, C, C, C, C, C, | C,3 C,2 C, | C, E, G, C,2 z | C, C, C, G, G, G, | C, C, C, C, C, E, | %23
+ D,3 D,2 D, | G,, B,, D, G,,2 z | C B, A, A, ^G, A, | B,3 E,3 | C B, A, A, ^G, A, | (E,3 D,3) | %29
+ C, C, C, A, A, _A, | G, G, G, C, (E, G,) | E, D, E, F, G, G,, | C,3- C,2 |] |] %34

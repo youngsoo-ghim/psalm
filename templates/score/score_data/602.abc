@@ -1,0 +1,37 @@
+X:602
+T:286 성부님께 빕니다
+Z:The Parish Choir/Arr. from 13C French Melody
+Z:Copyright July 6th 2000 by 전도환
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/8
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:D
+V:1 treble
+L:1/4
+V:2 treble
+V:3 bass
+V:4 bass
+L:1/4
+V:1
+ F3/2 G/ | A d c B | A2 D3/2 E/ | F A G F | E2 F3/2 G/ | A d c B | A2 D3/2 E/ | F G F E | D2 | %9
+w: 성 부|님 께 빕 니|다 신 랑|신 부 두 사|람 하 나|되 는 이 시|간 복 을|내 려 주 소|서|
+w: 성 자|님 께 빕 니|다 이 두|사 람 도 우|사 서 로|위 해 섬 기|며 한 길|가 게 하 소|서|
+w: 성 령|님 께 빕 니|다 크 신|권 능 베 푸|사 환 난|시 험 만 나|도 승 리|하 게 하 소|서|
+w: 세 상|에 서 살 동|안 행 복|하 게 하 시|고 하 늘|나 라 까 지|도 함 께|가 게 하 소|서|
+ G2 F2 |] |] %11
+w: ||
+w: ||
+w: ||
+w: 아 멘||
+V:2
+ D3 D | D2 F2 E2 DE | F4 A,3 C | D2 E2 D2 D2 | C4 D3 D | D2 F2 E3 D | C4 D3 C | D2 D2 D2 C2 | D4 | %9
+ D4 D4 |] |] %11
+V:3
+ A,3 A, | A,2 A,2 G,A, B,C | D4 F,3 G, | A,2 C2 B,2 A,2 | A,4 A,3 G, | F,2 F,2 A,2 ^G,2 | %6
+ A,4 A,3 A, | A,2 B,2 A,2 G,2 | F,4 | B,4 A,4 |] |] %11
+V:4
+ D,3/2 E,/ | F, D, E,/F,/ G, | D,2 F,3/2 E,/ | D, A,, B,, D, | A,,2 D,3/2 E,/ | F, B,, C,/D,/ E, | %6
+ A, =G, F,3/2 E,/ | D, G,, A,, A,, | D,2 | G,,2 D,2 |] |] %11

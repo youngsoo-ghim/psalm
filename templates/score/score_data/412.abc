@@ -1,0 +1,45 @@
+X:412
+T:내 영혼의 그윽히 깊은 데서
+Z:wW.P.Cornell/W.G.Cooper
+Z:Copyright © 1997 by Àü µµ È¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/16
+Q:1/4=99
+M:6/8
+I:linebreak $
+K:Ab
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ AB | c3 c c2 c3 B A2 | B2 A2 F2 E4 A B | c3 c c2 c2 B3 c | B6- B4 AB | c3 c c2 c3 B A2 | %6
+w: 내- *|영 혼 의 그 윽 히|깊 은 데 서 맑 은|가 락 이 울 려 나|네 하 늘 곡|조 가 언 제 나 흘|
+w: 내- *|맘 속 에 솟 아 난|이 평 화 는 깊 이|묻 히 인 보 배 로|다 나 의 보|화 를 캐 내 어 가|
+w: 내- *|영 혼 에 평 화 가|넘 쳐 남 은 주 의|축 복 을 받 음 이|라 내 가 주|야 로 주 님 과 함|
+w: 이- *|땅 위 에 험 한 길|가 는 동 안 참 된|평 화 가 어 디 있|나 우 리 모|두 다 예 수 를 친|
+ B2 A2 F2 A4 AB | c3 c c2 B2 B2 B2 | A12 | c6 A6 | B3 A F2 E4 E E | A3 A A2 c2 B3 c | B6- B4 cd | %13
+w: 러 나 와 내- * 영|혼 을 고 이 싸 네|평|화 평|화 로 다 하 늘 위|에 서 내 려 오 네|그- * 사 랑|
+w: 져 갈 자 그- * 누|구 랴 안 심 일 세||||||
+w: 께 있 어 내- * 영|혼 이 편 히 쉬 네||||||
+w: 구 삼 아 참- * 평|화 를 누 리 겠 네||||||
+ e3 e e2 c2 B2 A2 | B2 A3 F A4 AB | c3 c c2 B B3 B2 | A6- A4 |] |] %18
+w: 의 물 결 이 영 원|토 록 내- * 영 혼|을 덮 으 소 서 *|||
+w: |||||
+w: |||||
+w: |||||
+V:2
+ CD | E3 E E2 E3 D C2 | D2 D2 B,2 C4 C D | E3 E E2 =D2 D3 D | E6- E4 C D | E3 E E2 E3 D C2 | %6
+ D2 D2 D2 F4 F_F | E3 E E2 D2 D2 D2 | C12 | E6 C6 | D3 D D2 C4 C C | F3 F F2 A2 A3 A | G6- G4 A2 | %13
+ A3 A A2 E2 D2 C2 | D2 D3 D F4 F_F | E3 E A2 G G3 E2 | E6- E4 |] |] %18
+V:3
+ A,2 | A,3 A, A,2 A,3 A, A,2 | F,2 F,2 A,2 A,4 A, A, | A,3 A, A,2 A,2 A,3 A, | G,6- G,4 A, A, | %5
+ A,3 A, A,2 A,3 A, A,2 | F,2 F,2 A,2 D4 A,2 | A,3 A, A,2 G,2 G,2 G,2 | A,12 | A,6 E,6 | %10
+ F,3 F, A,2 A,4 A, A, | C3 C C2 =D2 D3 D | E6- E4 A,B, | C3 C C2 A,2 A,2 A,2 | F,2 F,3 A, D4 A,2 | %15
+ A,3 A, A,2 D D3 D2 | C6- C4 |] |] %18
+V:4
+ A,2 | A,3 A, A,2 A,3 A, A,2 | D,2 D,2 D,2 A,,4 A,, A,, | A,,3 A,, A,,2 B,,2 B,,3 B,, | %4
+ E,6- E,4 A, A, | A,3 A, A,2 A,3 A, A,2 | D,2 D,2 D,2 D,4 D,2 | E,3 E, E,2 E,2 E,2 E,2 | A,,12 | %9
+ A,,6 A,,6 | D,3 D, D,2 A,,4 A, A, | F,3 F, F,2 B,,2 B,,3 B,, | E,6 E,4 A,B, | %13
+ A,3 A, A,2 A,2 A,2 A,2 | D,2 D,3 D, D,4 D,2 | E,3 E, E,2 E, E,3 E,2 | A,,6- A,,4 |] |] %18

@@ -1,0 +1,46 @@
+X:148
+T:142 영화로신 주 예수의
+Z:W.M.K.Darwood/J.R.Sweney
+Z:Copyright © 1999 by ÀüµµÈ¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/16
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:Bb
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ z3 d c3 B | F8- F3 D F3 G | A8- A3 e d3 c | G8- G3 A G3 F | D8- D3 d c3 B | F8- F3 D F3 B | %6
+w: 1.영 화 로|신 주 예 수 의|십 자 가 를 생|각 하 면 세 상|부 귀 모 든 영|화 분 토 에 도|
+w: 2.구 주 께|서 죽 으 실 때|성 전 휘 장 찢|어 지 어 구 원|의 길 여 시 고|로 천 국 기 쁨|
+w: 3.구 주 예|수 갈 보 리 에|흘 린 피 와 그|물 로 써 나 의|몸 과 영 혼 까|지 구 속 하 여|
+w: 4.구 주 예|수 나 를 위 해|십 자 가 에 죽|었 으 니 그 사|랑 에 감 격 하|여 이 몸 주 께|
+ G8- G3 e d3 ^c | d8- d3 B A3 c | B12 F4 | c3 =B c8 d4 | B3 G F8 F4 | G2 G2 e2 d2 c4 B4 | c12 F4 | %13
+w: 못 비 기 리 오|갈 보 리 오 갈|보 리|주 예 수 나|를 위 하 여|십 자 가 에 돌 아|가 신|
+w: 주 셨 도 다 *|||||||
+w: 주 셨 도 다 *|||||||
+w: 드 립 니 다 *|||||||
+ d3 c B8 A4 | G3 B e8 G4 | F6 B2 A2 B2 d3 c | B8 :| |] %18
+w: 보 배 로 우|신 나 의 주||||
+w: |||||
+w: |||||
+w: |||||
+V:2
+ z8 | z3 D D3 D D4 z4 | z3 E E3 E E4 z4 | z3 E E3 E E4 z4 | z3 B, B,3 B, B,4 z4 | %5
+ z3 D D3 D D3 z z4 | z3 E E3 E E3 G F3 =E | F8- F3 F F3 E | D12 F4 | E3 D E8 F4 | E3 F E8 E4 | %11
+ F2 F2 A2 G2 A4 A4 | (F6 =E2 _E4) F4 | F3 E D8 F4 | E3 G G8 E4 | D6 F2 F2 F2 F3 E | D8 :| |] %18
+V:3
+ z8 | z3 B, B,3 B, B,4 z4 | z3 F, F,3 F, F,4 z4 | z3 A, A,3 A, A,4 z4 | z3 F, F,3 F, F,4 z4 | %5
+ z3 B, B,3 B, B,3 z z4 | z3 B, B,3 B, B,3 z z4 | z3 B, B,3 B, B,3 D C3 A, | B,12 F,4 | %9
+ A,3 ^G, A,8 F,4 | F,3 B, B,8 B,4 | B,2 B,2 C2 B,2 E4 C4 | (A,6 B,2 C4) F,4 | B,3 F, F,8 B,4 | %14
+ B,3 B, B,8 B,4 | B,6 D2 E2 D2 B,3 A, | B,8 :| |] %18
+V:4
+ z8 | z3 B,, B,,3 B,, B,,4 z4 | z3 C, C,3 C, C,4 z4 | z3 F, F,3 F, F,4 z4 | %4
+ z3 B,, B,,3 B,, B,,4 z4 | z3 B,, B,,3 B,, B,,3 z z4 | z3 E, E,3 E, E,3 z z4 | %7
+ z3 F, F,3 F, F,3 F, F,3 F, | B,,12 F,4 | F,3 F, F,8 F,4 | B,,3 B,, B,,8 B,,4 | %11
+ E,2 E,2 C,2 D,2 E,4 =E,4 | (F,6 G,2 A,4) F,4 | B,,3 B,, B,,8 D,4 | E,3 E, E,8 E,4 | %15
+ F,6 F,2 F,2 F,2 F,3 F, | B,,8 :| |] %18

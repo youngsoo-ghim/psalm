@@ -1,0 +1,40 @@
+X:141
+T:132 호산나 호산나
+Z:J.Threlfall/헤르쪼글 카톨릭 찬미가에서 발췌
+Z:Copyright © 1998 by ÀüµµÈ¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/4
+Q:1/4=104
+M:4/4
+I:linebreak $
+K:Bb
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ F | B A/G/ F B | (D E) F F | G/A/ B c c | d3 F | B A/G/ F B | (D E) F F | G/A/ B B A | B3 B/c/ | %9
+w: 호|산- * * 나 호|산 * 나 다|노- * 래 부 른|다 수|많 은- * 아 이|들 * 이 즐|거- * 운 노 래|로 그- *|
+w: 저|감 람- * 산 길|따 * 라 큰|무- * 리 따 른|다 그|손 엔- * 종 려|가 * 지 흔|들- * 며 외 친|다 만- *|
+w: 호|산 나- * 그 옛|노 * 래 우|리- * 도 부 르|자 주|예 수- * 우 리|구 * 주 우|리- * 의 전 능|왕 온- *|
+ d c d e | (c A/B/) c B/c/ | d c d e | c3 F | B A/G/ F B | (D E) F F | G/A/ B B A | B3 :| B2 B2 |] %18
+w: 품 에 안 으|시 * * 고 복- *|주 신 주 님|께 온|몸 과- * 마 음|드 * 려 주|찬- * 양 합 니|다||
+w: 왕 의 왕 주|예 * * 수 나- *|귀 를 타 시|고 아|이 들- * 노 래|소 * 리 다|받- * 아 주 신|다||
+w: 몸 과 마 음|다 * * 해 목- *|소 리 높 여|서 영|원 히- * 기 쁜|노 * 래 주|앞- * 에 드 리|자|아 멘|
+ |] %19
+w: |
+w: |
+w: |
+V:2
+ F | (B A/G/) F F | (D C/B,/) C D | E F G F | F3 F | B A/G/ F F | (D C/B,/) C D | E D/E/ F F | %8
+ F3 D/E/ | F F F G | F2 F D/E/ | F F F G | F3 F | B A/G/ F F | (D C/B,/) C D | E D/E/ F F | F3 :| %17
+ G2 F2 |] |] %19
+V:3
+ F, | (B, A,/G,/) F, B, | B,2 A, B, | B, B, B, A, | B,3 F, | B, A,/G,/ F, B, | B,2 A, B, | %7
+ B, B, C C | D3 B, | B, C B, B, | A, F,/G,/ A, B, | B, C B, B, | A,3 F, | B, A,/G,/ F, B, | %14
+ B,2 A, B, | B, B, C C | D3 :| E2 D2 |] |] %19
+V:4
+ F, | (B, A,/G,/) F, D, | G,2 F, B,, | E, D, E, F, | B,,3 F, | B, A,/G,/ F, D, | G,2 F, B,, | %7
+ E, G, F, F, | B,,3 B, | B, A, B, E, | F,2 F, B, | B, A, B, E, | F,3 F, | B, A,/G,/ F, D, | %14
+ G,2 F, B,, | E, G, F, F, | B,,3 :| E,2 B,,2 |] |] %19

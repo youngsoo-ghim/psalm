@@ -1,0 +1,54 @@
+X:592
+T:산마다 불이 탄다 고운 단풍에
+Z:임옥인/박재훈
+Z:Copyright © 1997 by Àü µµ È¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/4
+Q:1/4=360
+M:6/4
+I:linebreak $
+K:G
+V:1 treble
+L:1/8
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ G2 E2 G2 B B AB G2 | E E (B,2 E2) G2 E4 | B2 B2 B2 e e =de B2 | A A (G2 A2) d2 B4 | %4
+w: 산 마 다 불 이 탄- * 다|고 운 단 * 풍 에|골 마 다 흘 러 간- * 다|맑 은 물 * 줄 기|
+w: 씨 뿌 린 논 밭 마- * 다|기 름 고 * 이 고|심 겨 진 과 원 마- * 다|열 매 맺 * 으 리|
+w: 이 른 봄 갈 고 헤- * 친|땅 의 가 * 슴 에|구 슬 땀 흘 려 적- * 신|착 한 농 * 부 는|
+w: 말 씀 에 굳 게 서- * 서|씨 를 뿌 * 리 면|날 마 다 단 비 내- * 려|가 꿔 주 * 시 리|
+ e3 e e2 B B AB G2 | d3 d B2 AG E4 | DE G2 A2 B d2 B e2 | B B BA GE E6 | D2 G4 (G3 A) B2 | %9
+w: 황 금 빛 논 과 밭- * 에|풍 년 이 왔- * 다|드- * 맑 은 하 늘 가 에|노 래 퍼- * 진- * 다|눈 이 닿 * 는|
+w: 비 바 람 고 운 햇- * 빛|주 님 선 물- * 로|가- * 꿔 온 손 길 마 다|축 복 이- * 온- * 다||
+w: 풍 성 한 추 수 때- * 에|상 받 으 리- * 라|약- * 속 한 축 복 으 로|기 름 지- * 리- * 라||
+w: 황 무 지 갈 고 헤- * 쳐|쉬 지 않 으- * 면|풍- * 성 한 추 수 때 는|감 사 뿐- * 이- * 라||
+ A A G2 A2 D6 | D2 G4 (G3 A) d2 | d d d2 A2 d6 | d d d2 d2 d d2 B d2 | B B e2 e2 e e2 B e2 | %14
+w: 우 주 공 간 에|손 이 닿 * 는|구 석 구 석 에|우 리 주 님 주 신 열 매|우 리 주 님 주 신 알 곡|
+w: |||||
+w: |||||
+w: |||||
+ (e3 d) B2 B4 A2 | G3 A E2 E6 | (e3 d) B2 B4 A2 | G2 E3 G E6 | E6 E6 |] |] %20
+w: 감 * 사 하 자|찬 송 하 자|감 * 사 하 자|찬 송 하 자|아 멘||
+w: ||||||
+w: ||||||
+w: ||||||
+V:2
+ E E E ^D/ D/ D E | B,/ B,/ B, B, ^D E2 | G G A G/ G/ A G | F/ F/ (E F) G G2 | %4
+ G3/2 G/ G B/ B/ A/B/ G | F3/2 F/ F ^D E2 | D/E/ G D G/ B G/ G | ^D/ D/ D D E3 | D D2 (D3/2 E/) G | %9
+ E/ E/ E E D3 | D D2 D3/2 E/ G | F/ F/ E E F3 | G/ G/ G G G/ G G/ G | G/ G/ G G G/ G G/ G | %14
+ G2 F F2 F | E3/2 E/ B, E3 | E2 F F2 ^D | E C3/2 E/ B,3 | C3 C3 |] |] %20
+V:3
+ B, B, B, B,/ B,/ B, B, | G,/ G,/ (A, G,) A, G,2 | E E ^D E/ E/ E =D | D/ D/ (B, D) B, D2 | %4
+ E3/2 E/ E B,/ B,/ A,/B,/ G, | A,3/2 A,/ B, F, G,2 | D,/E,/ G, A, B,/ D B,/ B, | %7
+ B,/ B,/ F, A, G,3 | D, B,2 (B,3/2 C/) D | ^C/ C/ A, G, F,3/2 G,/ A, | B, B,2 B,2 B, | %11
+ A,/ A,/ B, ^C D2 =C | B,/ B,/ B, B, B,/ B, D/ B, | B,/ B,/ B, B, B,/ B, B,/ B, | C2 B, B,2 B, | %15
+ B,3/2 B,/ G, G,3/2 A,/ E, | C2 B, B,2 B, | G, G,3/2 G,/ G,3 | A,3 ^G,3 |] |] %20
+V:4
+ E, G, E, B,,/ B,,/ B,, E, | E,/ E,/ (F, E,) B,, E,2 | E, E, F, E,/ E,/ F, G, | %3
+ D,/ D,/ (E, D,) G, G,2 | E,3/2 E,/ E, B,/ B,/ A,/B,/ G, | D,3/2 D,/ D, B,, E,2 | %6
+ D,/E,/ G, D, G,/ B, G,/ E, | B,/ B,/ B,, B,, E,3 | D, G,2 G,2 G, | A,/ A,/ ^C, C, D,3/2 E,/ F, | %10
+ G, G,2 G,2 E, | A,/ A,/ A, A, D,3 | G,/ G,/ G, G, G,/ G, G,/ G, | G,/ F,/ E, E, E,/ E, E,/ E, | %14
+ C,2 D, ^D,2 D, | E,3/2 E,/ E, E,3/2 E,/ B,, | C,2 D, ^D,2 B,, | C, C,3/2 C,/ E,3 | A,,3 E,3 |] |] %20

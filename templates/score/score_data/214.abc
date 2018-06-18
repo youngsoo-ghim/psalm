@@ -1,0 +1,38 @@
+X:214
+T:나 주의 도움 받고자
+Z:E.H.Hamilton/I.D.Sankey
+Z:Copyright © 1997 by Àü µµ È¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/8
+Q:1/4=69
+M:6/8
+I:linebreak $
+K:Eb
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ E | G2 G G2 A | G2 F E2 G | B2 B B2 c | B2 F G2 B | c2 c cd e | B2 B G2 E | G2 A G2 F | E3- E2 E | %9
+w: 나|주 의 도 움|받 고 자 주|예 수 님 께|빕 니 다 그|구 원 허- * 락|하 시 사 날|받 으 옵 소|서 내 모|
+w: 큰|죄 에 빠 져|영 죽 을 날|위 해 피 흘|렸 으 니 주|형 상 대- * 로|빚 으 사 날|받 으 옵 소|서 * *|
+w: 내|힘 과 결 심|약 하 여 늘|깨 어 지 기|쉬 우 니 주|이 름 으- * 로|구 원 해 날|받 으 옵 소|서 * *|
+w: 내|주 님 서 신|발 앞 에 나|꿇 어 엎 드|렷 으 니 그|크 신 역- * 사|이 루 게 날|받 으 옵 소|서 * *|
+ G2 G G2 F | E3- E2 G | B2 B B2 A | G3- G2 B | c2 c cd e | B2 B G2 E | G2 A G2 F | E3- E2 :| |] %18
+w: 습 이 대 로|주 받 으|옵 소 서 날|위 해 돌-|* 아 가 신 주|날 받 으 옵|소 서 * *|||
+w: |||||||||
+w: |||||||||
+w: |||||||||
+V:2
+ E | E2 E E2 E | E2 D E2 E | D2 D D2 D | E2 D E2 E | E2 E E2 E | E2 E E2 E | E2 F E2 D | E3- E2 E | %9
+ E2 E D2 D | B,3- B,2 E | D2 D D2 F | E3- E2 E | E2 E E2 E | E2 E E2 E | E2 F E2 D | E3- E2 :| |] %18
+V:3
+ G, | B,2 B, B,2 C | B,2 A, G,2 B, | B,2 F, F,2 A, | G,2 B, B,2 G, | A,2 A, A,2 A, | %6
+ G,2 G, B,2 B, | B,2 B, B,2 A, | G,3- G,2 G, | B,2 B, B,2 A, | G,3- G,2 E, | F,2 F, F,2 B, | %12
+ B,3- B,2 G, | A,2 A, A,2 A, | G,2 G, B,2 B, | B,2 B, B,2 A, | G,3- G,2 :| |] %18
+V:4
+ E, | E,2 E, E,2 A,, | B,,2 B,, E,2 E, | B,,2 B,, B,,2 B,, | B,,2 B,, E,2 E, | A,,2 A,, A,,2 C, | %6
+ E,2 E, E,2 G,, | B,,2 B,, B,,2 B,, | E,3- E,2 E, | E,2 E, B,,2 B,, | E,3- E,2 E, | %11
+ B,,2 B,, B,,2 B,, | E,3- E,2 E, | A,,2 A,, A,,2 C, | E,2 E, E,2 G,, | B,,2 B,, B,,2 B,, | %16
+ E,3- E,2 :| |] %18

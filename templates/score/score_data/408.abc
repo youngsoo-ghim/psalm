@@ -1,0 +1,43 @@
+X:408
+T:466 나 어느곳에 있든지
+Z:J.S.Brown/L.O.Brown
+Z:Copyright © 1998 by ÀüµµÈ¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/8
+Q:1/4=96
+M:3/4
+I:linebreak $
+K:Ab
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ E2 | A A A2 B2 | c c c2 d2 | c3 A G B | A4 E2 | A A A2 B2 | c d e2 d2 | c3 A B B | A4 | %9
+w: 나|어 느 곳 에|있 든 지 늘|맘 이 편 하|다 주|예 수 주 신|평 안 함 늘|충 만 하 도|다|
+w: 내|맘 에 솟 는|영 생 수 한|없 이 흐 르|니 목|마 름 다 시|없 으 며 늘|명 안 하 도|다|
+w: 참|되 신 주 의|사 랑 을 형|언 치 못 하|네 그|사 랑 내 맘|여 시 고 소|망 을 주 셨|네|
+w: 주|예 수 온 갖|고 난 을 왜|몸 소 당 했|나 주|함 께 고 난|받 으 면 면|류 관 얻 겠|네|
+[M:4/4] A A | d2 d d d2 A B | c6 c c | B2 B B =d2 c d | e6 c d | e2 f3/2 e/ c2 B A | (A2 d4) A B | %16
+w: 나 의|맘 속 이 늘 평 안|해 나 의|맘 속 이 늘 평 안|해 악 한|죄 파 도 가 많 으|나 * 맘 이|
+w: |||||||
+w: |||||||
+w: |||||||
+ (c2 e4) c3/2 B/ | A6 |] |] %19
+w: 늘 * 평 안|해||
+w: |||
+w: |||
+w: |||
+V:2
+ C2 | C C C2 D2 | E E E2 F2 | E3 E D D | C4 C2 | C C C2 D2 | E E A2 F2 | E3 C D D | C4 | %9
+[M:4/4] C C | F2 F F F2 F F | E6 E E | E2 E E A2 A A | G2 A A B2 E E | E2 A3/2 E/ E2 E E | %15
+ F6 F _F | E6 E3/2 D/ | C6 |] |] %19
+V:3
+ A,2 | A, A, A,2 G,2 | A, A, A,2 A,2 | A,3 C B, G, | A,4 A,2 | A, A, A,2 G,2 | A, B, C2 A,2 | %7
+ A,3 E, G, G, | A,4 |[M:4/4] A, A, | A,2 A, A, A,2 A, A, | A,6 A, A, | B,2 B, B, B,2 B, B, | %13
+ B,2 C C D2 A, B, | C2 D3/2 C/ A,2 D C | (D2 A,4) A, A, | A,6 A,3/2 G,/ | A,6 |] |] %19
+V:4
+ A,,2 | A,, A,, A,,2 E,2 | A, A, A,2 D,2 | E,3 E, E, E, | A,,4 A,,2 | A,, A,, A,,2 E,2 | %6
+ A, A, A,2 D,2 | E,3 E, E, E, | A,,4 |[M:4/4] A, A, | D,2 D, D, D,2 D, D, | A,,2 C, E, A,2 A, A, | %12
+ G,2 G, G, F,2 F, F, | E,6 A, A, | A,2 A,3/2 A,/ A,2 A, A, | D,6 D, D, | E,6 E,3/2 E,/ | A,,6 |] |] %19

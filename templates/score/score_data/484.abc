@@ -1,0 +1,36 @@
+X:484
+T:533 내 맘의 주여 소망 되소서
+Z:Irish hymn 8C/Traditional Irish Melody
+Z:Copyright July 8th 2000 by 전도환
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/4
+Q:1/4=96
+M:3/4
+I:linebreak $
+K:Eb
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ E E | F/E/ | C B, C | E E F | G3 F F F | F G B | c B G | B3 | c c/ d/ e/ d/ | c B G | B E D | %11
+w: 내 맘|의 *|주 여 소|망 되 소|서 주 없 이|모 든 일|헛 되 어|라|밤 이 * 나 *|낮 이 나|주 님 생|
+w: 지 혜|의 *|주 여 말|씀 으 로|서 언 제 나|내 안 에|계 십 소|서|주 는 * 내 *|아 버 지|나 는 아|
+w: 세 상|의 *|영 광 눈|앞 에 없|네 언 제 나|주 님 은|나 의 기|업|주 님 * 만 *|내 맘 에|계 시 오|
+w: 영 원|한 *|주 님 내|승 리 의|주 하 늘 의|기 쁨 을|주 옵 소|서|어 떠 * 한 *|고 난 이|닥 쳐 와|
+ (C2 B,) | E G B | c/ B/ G E/ G/ | F E E | E3 | E3 | E3 |] |] %19
+w: 각 *|잘 때 나|깰 * 때 함 *|께 하 소|서||||
+w: 들 *|주 안 에|내 * 가 늘 *|살 고 지|고||||
+w: 니 *|영 원 한|주 * 님 참 *|귀 하 여|라||||
+w: 도 *|만 유 의|주 * 여 소 *|망 되 소|서|아|멘||
+V:2
+ B, B, B, | A, F, A, | B, C D | E3 | D D C | B, E E | E E E | F3 | E E E | E E E | B, C B, | %11
+ A,2 B, | G, E D | C E E | C C C | B,3 | C3 | B,3 |] |] %19
+V:3
+ G, G, E, | E, D, E, | E, G, B, | B,3 | B, B, A, | B, B, B, | A, B, C | E C D | E E/ D/ C/ B,/ | %9
+ A, G, B, | F, G, F, | E,2 D, | E, E, | G, | A, G, B, | A, A, F, | G,3 | A,3 | G,3 |] |] %20
+V:4
+ E, E, G,, | A,, B,, A,, | G,, C, B,, | E,3 | B,, B,, F,/E,/ | D, E, G, | A, G, C | B,3 | %8
+ A, A, A, | E, E, E, | D, C, G,, | A,,2 B,, | C, C, B,, | A,, C, G,, | A,, A,, A,, | E,3 | A,,3 | %17
+ E,3 |] |] %19

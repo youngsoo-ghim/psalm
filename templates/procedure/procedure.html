@@ -1,0 +1,554 @@
+        {% extends "layout/design_1.html" %}
+        {% block title %}{% if session['USER_INFO']['CHURCH_NAME'] %}{{ session['USER_INFO']['CHURCH_NAME'] }} 예배순서등록{% endif %}{% endblock %}
+        {% block content %}
+        <!--<main role="main" class="col-12 col-md-9 col-xl-8 py-md-3 pl-md-10 bd-content" style="max-width: 46rem;">-->
+        <main role="main" class="col-12 col-md-9 col-xl-14 py-md-3 pl-md-10 mx-auto" >
+
+            <!--</div>-->
+            <div class="container-fluid">
+                <h1 class="display-4"><span class="text-success" >{{ session['USER_INFO']['CHURCH_NAME']|e }}</span> 예배 순서 등록</h1>
+            </div>
+            <form id="f" name="f" action="{{ url_for('do_reg_procedure') }}" method="post">
+            <!-- Example row of columns -->
+            <hr/>
+                <!--{% for i in range(5, 10, 2) %}{{ i }} {% endfor %}-->
+                <div class="container-fluid">
+                    <input type="hidden" id="church_id" name="church_id" value="{{ session['USER_INFO']['CHURCH_ID']|e }}" />
+                    <input type="hidden" id="church_name" name="church_name" value="{{ session['USER_INFO']['CHURCH_NAME']|e }}" />
+                    <input type="text" id="worship_name" name="worship_name" value="{{ item.worship_name }}" required/>
+                    <input type="text" id="worship_date" name="worship_date" value="{{ item.worship_date }}" readonly required/>
+                    <span class="badge badge-pill badge-primary">수정일 : {{ item.update_date|e }} </span>
+                </div>
+                <hr/>
+                <div class="container-fluid">
+                    <table class="table table-striped table-bordered table-sm table-responsive" id="table">
+                    <!--<table class="table table-striped table-bordered table-sm" id="table">-->
+                        <caption>{{ item.worship_name|e }}</caption>
+                        <thead>
+                            <tr>
+                                <th width="2%" scope="col">#</th>
+                                <th width="6%" scope="col">일어남</th>
+                                <th width="20%" scope="col">제목</th>
+                                <th width="*" scope="col">내용</th>
+                                <th width="20%" scope="col">기타</th>
+                                <th width="10%" scope="col">
+                                    <!--<div class="btn-group-vertical mb-1">-->
+                                        <!--<button type="button" class="btn btn-sm btn-outline-info" id="" name="">추가</button>-->
+                                    <!--</div>-->
+                                </th>
+                            </tr>
+                        </thead>
+                        <tbody id="table_tbody">
+                        {% set y = '' %}
+                        {% set worship = '' %}
+                        {% set worshipLink = '' %}
+                        {% if item.worship_procedure %}
+                            {% for i in item.worship_procedure %}
+                            {% set y = loop.index|string %}
+                            <!--{{ y }}-->
+                            {% set worship = item.worship_procedure[y] %}
+                            <tr id="{{ y }}">
+                                <th scope="row">
+                                    <span>{{ y }}</span>
+                                </th>
+                                <td>
+                                    <input type="checkbox" id="stand_up_{{ y }}" name="stand_up_{{ y }}"
+                                        {% if item.worship_procedure[y]["stand_up"] %}
+                                            checked
+                                        {% endif %}
+                                    />
+                                </td>
+                                <td>
+                                    <input type="hidden" id="procedure_{{ y }}" name="procedure" value="{{ y }}" />
+                                    <div class="input-group input-group-sm" >
+                                        <input type="text" class="form-control" id="title_{{ y }}" name="title_{{ y }}" placeholder="제목" value="{{ worship['title'] }}" required/>
+                                    </div>
+                                </td>
+                                <td>
+                                    <div class="d-sm-inline-flex my-0">
+                                        <select class="mx-1"id="contents_type_{{ y }}" name="contents_type_{{ y }}" >
+                                            <option value="none" >선택</option>
+                                            <option value="contents" {% if worship["contents"] %}selected{% endif %}>내용</option>
+                                            <option value="link" {% if worship["link"] %}selected{% endif %}>이동</option>
+                                        </select>
+                                        <!-- 콘텐츠 선택시 표시 -->
+                                        <textarea
+                                                {% if not worship['contents'] or (not worship['contents'] and not worship["link"]) %}
+                                                    style="display:none"
+                                                {% endif %}
+                                            id="contents_{{ y }}" name="contents_{{ y }}" placeholder="내용을 작성해 주세요" cols="50" style="width:100%;text-overflow:ellipsis;min-height:50px;overflow:visible;" onfocus="resize(this)" onkeyup="resize(this)">{{ worship["contents"] }}</textarea>
+                                        <!-- //콘텐츠 선택시 표시 -->
+                                        <!-- 링크 선택시 표시 --> {# 링크 정보가 없거나 링크, 컨텐츠 정보가 없을시 화면 표시 하지 않음 #}
+                                        <div id="link_div_{{ y }}"
+                                            {% if not item.worship_procedure[y]["link"] or (not worship['contents'] and not worship["link"]) %}
+                                                style="display:none"
+                                            {% endif %} >
+                                            {% set worshipLink = worship["link"] %}
+                                            <select id="link_type_{{ y }}" name="link_type_{{ y }}">
+                                                <option value="hymn"
+                                                                {% if item.worship_procedure[y]["link"] and item.worship_procedure[y]["link"]["kind"] == "hymn" %}
+                                                                        selected
+                                                                {% endif %}>찬송가</option>
+                                                <option value="bible" {% if worshipLink and worshipLink["kind"] == "bible" %}selected{% endif %}>성경</option>
+                                                <option value="response" {% if worshipLink and worshipLink["kind"] == "response" %}selected{% endif %}>교독문</option>
+                                                <option value="prayer" {% if worshipLink and worshipLink["kind"] == "prayer" %}selected{% endif %}>주기도문</option>
+                                                <option value="creed" {% if worshipLink and worshipLink["kind"] == "creed" %}selected{% endif %}>사도신경</option>
+                                            </select>
+                                            <div id="hymn_response_div_{{ y }}"
+                                                 {% if not worshipLink or ( worshipLink and (worshipLink['kind'] == 'bible' or  worshipLink['kind'] == 'prayer' or worshipLink['kind'] == 'creed')) %}
+                                                    style="display:none"
+                                                 {% endif %} >
+                                                <div class="input-group input-group-sm" >
+                                                    <input type="number" class="form-control" id="link_to_{{ y }}" name="link_to_{{ y }}" placeholder="숫자만입력" value="{% if worship["link"] %}{{ worshipLink["link_to"] }}{% endif %}"/>
+                                                </div>
+                                            </div>
+                                            <div id="bible_div_{{ y }}"
+                                                {% if not worshipLink or ( worshipLink and worshipLink['kind'] != 'bible' ) %}
+                                                    style="display:none"
+                                                {% endif %} >
+                                                <div class="input-group input-group-sm" >
+                                                    <input type="text" class="form-control" onblur="setBibleTo(this);" id="from_bible_{{ y }}" name="from_bible_{{ y }}" placeholder="말씀" value="{% if worshipLink and worshipLink['kind'] == 'bible' %}{{ worshipLink['from_bible'] }}{% endif %}"/>
+                                                </div>
+                                                <div class="input-group input-group-sm" >
+                                                    <input type="number" min="1"class="form-control" onblur="setBibleToChapter(this);" id="from_chapter_{{ y }}" name="from_chapter_{{ y }}" placeholder="장" value="{% if worshipLink and worshipLink['kind'] == 'bible' %}{{ worshipLink['from_chapter'] }}{% endif %}"/>
+                                                </div>
+                                                <div class="input-group input-group-sm" >
+                                                    <input type="number" min="1" class="form-control" id="from_paragraph_{{ y }}" name="from_paragraph_{{ y }}" placeholder="절" value="{% if worshipLink and worshipLink['kind'] == 'bible' %}{{ worshipLink['from_paragraph'] }}{% endif %}"/>
+                                                </div>
+                                                <div class="input-group input-group-sm" >
+                                                    <input type="text" class="form-control" id="to_bible_{{ y }}" readonly name="to_bible_{{ y }}" placeholder="말씀" value="{% if worshipLink and worshipLink['kind'] == 'bible' %}{{ worshipLink['to_bible'] }}{% endif %}"/>
+                                                </div>
+                                                <div class="input-group input-group-sm" >
+                                                    <input type="number" min="1" class="form-control" id="to_chapter_{{ y }}" readonly name="to_chapter_{{ y }}" placeholder="장" value="{% if worshipLink and worshipLink['kind'] == 'bible' %}{{ worshipLink['to_chapter'] }}{% endif %}"/>
+                                                </div>
+                                                <div class="input-group input-group-sm" >
+                                                    <input type="number" min="1" class="form-control" id="to_paragraph_{{ y }}" name="to_paragraph_{{ y }}" placeholder="절" value="{% if worshipLink and worshipLink['kind'] == 'bible'  %}{{ worshipLink['to_paragraph'] }}{% endif %}"/>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!-- //링크 선택시 표시 -->
+                                    </div>
+                                </td>
+                                <td>
+                                    <textarea class="h6" id="etc_{{ y }}" name="etc_{{ y }}" cols="50" style="width:100%;text-overflow:ellipsis;min-height:50px;overflow:visible;" onfocus="resize(this)" onkeyup="resize(this)" placeholder="내용을 작성해 주세요">{% if worship["etc"] %}{{ worship["etc"] }}{% endif %}</textarea>
+                                </td>
+                                <td>
+                                    <div class="btn-group-vertical mb-1">
+                                        <button type="button" class="btn btn-sm btn-outline-info" id="insertRowToBelow_{{ y }}" name="insertRowToBelow" >아래추가</button>
+                                        <button type="button" class="btn btn-sm btn-outline-danger" id="deleteRow_{{ y }}" name="deleteRow">삭제</button>
+                                    </div>
+                                </td>
+                            </tr>
+                            {% endfor %}
+                        {% else %}
+                            <tr id="1">
+                                <th scope="row">
+                                    <span>1</span>
+                                </th>
+                                <td>
+                                    <input type="checkbox" id="stand_up_1" name="stand_up_1" value="Y"/>
+                                </td>
+                                <td>
+                                    <input type="hidden" id="procedure_1" name="procedure" value="1"/>
+                                    <div class="input-group input-group-sm" >
+                                        <input type="text" class="form-control" id="title_1" name="title_1" placeholder="제목" value="" required maxlength="30"/>
+                                    </div>
+                                </td>
+                                <td>
+                                    <div class="d-sm-inline-flex my-0">
+                                        <select id="contents_type_1" name="contents_type_1" >
+                                            <option value="none" >선택</option>
+                                            <option value="contents">내용</option>
+                                            <option value="link">이동</option>
+                                        </select>
+                                        <textarea style="display:none" id="contents_1" name="contents_1" cols="50" style="width:100%;text-overflow:ellipsis;min-height:50px;overflow:visible;" placeholder="내용을 작성해 주세요" onfocus="resize(this)" onkeyup="resize(this)"></textarea>
+                                        <!-- //콘텐츠 선택시 표시 -->
+
+                                        <div id="link_div_1" style="display:none" >
+                                            <select id="link_type_1" name="link_type_1">
+                                                <!--<option value="none" >선택</option>-->
+                                                <option value="hymn">찬송가</option>
+                                                <option value="bible">성경</option>
+                                                <option value="response">교독문</option>
+                                                <option value="prayer">주기도문</option>
+                                                <option value="creed">사도신경</option>
+                                            </select>
+                                            <div id="hymn_response_div_1" style="display:none">
+                                                <div class="input-group input-group-sm" >
+                                                    <input type="text" class="form-control" id="link_to_1" name="link_to_1" placeholder="숫자만입력" value=""/>
+                                                </div>
+                                            </div>
+                                            <div id="bible_div_1" style="display:none" >
+                                                <div class="input-group input-group-sm" >
+                                                    <input type="text" class="form-control" onblur="setBibleTo(this);" id="from_bible_1" name="from_bible_1" placeholder="말씀" value=""/>
+                                                </div>
+                                                <div class="input-group input-group-sm" >
+                                                    <input type="number" class="form-control" onblur="setBibleToChapter(this);" id="from_chapter_1" name="from_chapter_1" placeholder="장" value=""/>
+                                                </div>
+                                                <div class="input-group input-group-sm" >
+                                                    <input type="number" class="form-control" id="from_paragraph_1" name="from_paragraph_1" placeholder="절" value=""/>
+                                                </div>
+                                                <div class="input-group input-group-sm" >
+                                                    <input type="text" class="form-control" id="to_bible_1" name="to_bible_1" placeholder="말씀" value="" readonly />
+                                                </div>
+                                                <div class="input-group input-group-sm" >
+                                                    <input type="number" class="form-control" id="to_chapter_1" name="to_chapter_1" placeholder="장" value="" readonly />
+                                                </div>
+                                                <div class="input-group input-group-sm" >
+                                                    <input type="number" class="form-control" id="to_paragraph_1" name="to_paragraph_1" placeholder="절" value=""/>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </td>
+                                <td>
+                                    <textarea class="h6" id="etc_1" name="etc_1" cols="15" style="min-height:50px;overflow:visible;" onfocus="resize(this)" onkeyup="resize(this)" placeholder="내용을 작성해 주세요"></textarea>
+                                </td>
+                                <td>
+                                    <div class="btn-group-vertical mb-1">
+                                        <button type="button" class="btn btn-sm btn-outline-info" id="insertRowToBelow_1" name="insertRowToBelow" >아래추가</button>
+                                        <button type="button" class="btn btn-sm btn-outline-danger" id="deleteRow_1" name="deleteRow">삭제</button>
+                                    </div>
+                                </td>
+                            </tr>
+                        {% endif %}
+                        </tbody>
+                    </table>
+                    <hr/>
+                    <div class="mx-auto" style="text-align: center;">
+                        <!--<a herf="/user/regId" class="btn btn-lg btn-primary" >가입</a>-->
+                        <button type="button" class="btn btn-lg btn-secondary" id="move_list" name="move_list">목록</button>
+                        <button type="button" class="btn btn-lg btn-primary" id="reg" name="reg">등록</button>
+                        <button type="button" class="btn btn-lg btn-danger" id="delete" name="delete">삭제</button>
+                    </div>
+                </div> <!-- /container -->
+            </form>
+        </main>
+        <script>
+            $(function(){
+                <!--{# 로그인 후 교회 정보가 없으면 교회 정보 등록 하도록 alert 창 띄운다 #}-->
+                <!--{$ if not 'CHURCH_ID' in session['USER_INFO'] $}-->
+                <!--var ok = confirm("주보등록 교회 정보가 없습니다. /n 교회 정보를 등록 하시고 이용 하세요. /n 페이지를 이동 하시겠습니까?");-->
+                <!--if(ko){-->
+                <!--} else {}-->
+                    var orderID = "";
+                    var title = "";
+                $("#f").validate({
+
+                    onfocusout : function (element) {
+                        $(element).valid();
+                        orderID = $(element).parents("tr").attr('id');
+                        title = "title_"+orderID;
+                        console.log(title);
+                    },
+                    rules: {
+                        //"name^='title_'" : { required : true, maxlength : 30 }
+                        //, title_2 : { required : true, maxlength : 30 }
+                    }
+                });
+
+                $.datetimepicker.setLocale('ko');
+                $( "#worship_date" ).datetimepicker({
+                    format: 'Y-m-d H:i:00'
+                    //format: 'Y-m-d H:i'
+                    //format: 'Y-m-d h:mm:a'
+                    //format: 'YmdHi00'
+                    //,inline:true
+                    ,step:10
+                    //,timepicker:false
+                    //,lang: 'ko'
+                    //,value : '{{ item.worship_date }}'
+                    //,allowTimes:['04:00', '05:00', '06:00','08:00', '17:05', '17:20', '19:00', '20:00']
+                });
+
+                //$("select").change(function(){
+                $(document).on("change", "select", function(){              // 새로 생신 DOM 구조변경으로 on 이벤트 사용
+                    console.log("변경 id = "+ $(this).parents("tr").attr('id'));
+                    var orderID = $(this).parents("tr").attr('id');
+                    var selectChangeID = $(this).attr('id');
+
+                    {# 예배 순서에 내용 등록시 내용, 링크 구분하여 처리 하며, 순서를 id로 처리 하며 tr 에 id를 넣어 해당 id를 추출 하여 처리 한다 #}
+                    $("#" + selectChangeID +" option:selected").each(function(){
+
+                        if($(this).val() == "none"){
+                            $("#link_div_"+ orderID+"").hide();             // 링크영역 숨김
+                            $("#bible_div_"+ orderID+"").hide();            // 성경영역 숨김
+                            $("#contents_"+ orderID+"").hide();             // 내용 영역 숨
+
+                            // 링크로 지정된 값 지우기
+                            resetAll(orderID);
+
+                        } else if($(this).val() == "contents"){
+                            $("#link_div_"+ orderID+"").hide();             // 링크영역 숨김
+                            $("#bible_div_"+ orderID+"").hide();            // 성경영역 숨김
+                            $("#contents_"+ orderID+"").show();             // 내용 영역 노출
+
+                            // 링크로 지정된 값 지우기
+                            resetAll(orderID);
+
+                        } else if ($(this).val() == "link"){
+                            $("#contents_"+ orderID+"").text("");           // contents 내용 지움
+                            $("#link_div_"+ orderID+"").show();             // link 영역 노출
+                            $("#bible_div_"+ orderID+"").hide();            // 성경영역 숨김
+                            $("#contents_"+ orderID+"").hide();             // 내용 영역 숨김
+
+                            // 내용 관련 값 지우기
+                            resetAll(orderID);
+
+                        {# 찬송가 선택시 처리 #}
+                        } else if ($(this).val() == "hymn"){               // 찬송가 선택
+                            //console.log("here");
+                            //$("#link_to_"+orderID+"").attr("selected", false);
+                            $("#bible_div_"+ orderID+"").hide();            // 성경영역 숨김
+                            $("#link_to_"+orderID+"").val('none').attr('selected', 'selected')
+                            $("#hymn_response_div_"+ orderID+"").show();            // 찬송가, 교독문 노출
+                            //$(".response_"+ orderID+"").hide();             // 교독문 숨김
+                            //$(".hymn_"+ orderID+"").show();                // 찬송가 영역 노출
+
+                            // 교독문, 성경 선택값 지우기
+                            resetLinkValue(orderID);
+
+                        } else if ($(this).val() == "response"){            // 교독문 선택
+                        console.log(selectChangeID);
+                            //$("#link_to_"+orderID+"").attr("selected", false);
+                            $("#link_to_"+orderID+"").val('none').attr('selected', 'selected')
+                            $("#bible_div_"+ orderID+"").hide();           // 성경영역 숨김
+                            $("#hymn_response_div_"+ orderID+"").show();            // 찬송가, 교독문 노출
+                            //$(".response_"+ orderID+"").show();             // 교독문 영역 노출bible_div_
+                            //$(".hymn_"+ orderID+"").hide();                // 내용 영역 숨김
+
+                            // 찬송가, 성경 선택 값 지우기
+                            resetLinkValue(orderID);
+
+                        {# 성경 선택시 처리 #}
+                        } else if ($(this).val() == "bible"){              // 성경 선택
+                            console.log("bible");
+                            $("#contents_"+ orderID+"").hide();            // 내용 영역 숨김
+                            $("#hymn_response_div_"+ orderID+"").hide();            // 찬송가, 교독문 영역 숨김
+                            $("#bible_div_"+ orderID+"").show();           // 찬송가 영역 노출
+
+                            // 찬송가, 교독문 설정 값 지우기
+                            resetLinkValue(orderID);
+                        } else if($(this).val() == "prayer" || $(this).val() == "creed"){  // 사도신경, 주기도문 선택시
+                            $("#contents_"+ orderID+"").hide();            // 내용 영역 숨김
+                            $("#hymn_response_div_"+ orderID+"").hide();    // 찬송가, 교독문 영역 숨김
+                            $("#bible_div_"+ orƒderID+"").hide();           // 찬송가 영역 숨김
+
+                            // 찬송가, 교독문 설정 값 지우기
+                            resetLinkValue(orderID);
+                        } else {
+                        }
+                    });
+                });
+
+                $("#table").on("click", "button[name=deleteRow]", function() {
+                    var trNum = $(this).closest('tr').prevAll().length;
+                    console.log('trNum : ' + trNum);
+                    console.log("tr length : "+ $("#table_tbody tr").length);
+                    if(confirm("삭제 하시겠습니까?")){
+                        $(this).closest("tr").remove();
+                    } else {
+                        return false;
+                    }
+                    console.log("tr length : "+ $("#table_tbody tr").length);
+
+                    resort();
+
+                });
+
+                $("#table").on("click", "button[name=insertRowToBelow]", function (e) {
+                    insertRowToBelow(e);
+
+                    resort();
+                });
+
+                $(document).on("click", "#reg", function(){
+                    if(confirm( "해당 시간에 예배를 등록 하시겠습니끼? \n"+$("#worship_date").val() )) {
+
+                    } else { return false; }
+
+                    $("#f").submit();
+                });
+
+                $("#move_list").click(function (){
+                    location.href = "{{ url_for('go_procedure_list') }}";
+                });
+
+                $("#delete").click(function (){
+                    if(confirm("삭제 하시겠습니다?")){
+                        $("#f").attr('method','POST');
+                        $("#f").attr("action", "{{ url_for('do_delete_procedure') }}");
+                        $("#f").submit();
+                    } else {
+                        return false;
+                    }
+                });
+            });
+
+            function resetAll(orderID){
+                $("#contents_"+ orderID+"").val("");            // 내용 영역 숨김
+                $("#link_type_"+ orderID+"").val("");             // 내용 영역 노출
+                $("#link_to_"+ orderID+"").val("");               // 내용 영역 노출
+                $("#from_bible_"+ orderID+"").val("");          // 내용 영역 노출
+                $("#from_chapter_"+ orderID+"").val("");             // 내용 영역 노출
+                $("#from_paragraph_"+ orderID+"").val("");             // 내용 영역 노출
+                $("#to_bible_"+ orderID+"").val("");             // 내용 영역 노출
+                $("#to_chapter_"+ orderID+"").val("");             // 내용 영역 노출
+                $("#to_paragraph_"+ orderID+"").val("");             // 내용 영역 노출
+            }
+
+            //
+            function resetLinkValue(orderID){
+                $("#link_to_"+ orderID+"").val("");               // 내용 영역 노출
+                $("#from_bible_"+ orderID+"").val("");          // 내용 영역 노출
+                $("#from_chapter_"+ orderID+"").val("");             // 내용 영역 노출
+                $("#from_paragraph_"+ orderID+"").val("");             // 내용 영역 노출
+                $("#to_bible_"+ orderID+"").val("");             // 내용 영역 노출
+                $("#to_chapter_"+ orderID+"").val("");             // 내용 영역 노출
+                $("#to_paragraph_"+ orderID+"").val("");             // 내용 영역 노출
+            }
+
+            function resort(){
+                $("#table_tbody tr").each( function( index ){
+                    //console.log( index +" : " );//+ $(this).text());
+                    //console.log("before : " + $(this).attr("id"));
+
+                    var orderID = index+1;
+                    // id 변경
+                    $("#procedure_" + $(this).attr("id")+"", this).attr("id", "procedure_" + orderID +"");
+
+                    $("#stand_up_" + $(this).attr("id")+"", this).attr("id", "stand_up_" + orderID +"");
+                    $("#title_" + $(this).attr("id")+"", this).attr("id", "title_" + orderID +"");
+
+                    $("#contents_type_" + $(this).attr("id")+"", this).attr("id", "contents_type_" + orderID +"");
+                    $("#contents_" + $(this).attr("id")+"", this).attr("id", "contents_" + orderID +"");
+
+                    $("#link_div_" + $(this).attr("id")+"", this).attr("id", "link_div_" + orderID +"");
+                    $("#hymn_response_div_" + $(this).attr("id")+"", this).attr("id", "hymn_response_div_" + orderID +"");
+
+                    $("#link_type_" + $(this).attr("id")+"", this).attr("id", "link_type_" + orderID +"");
+                    $("#link_to_" + $(this).attr("id")+"", this).attr("id", "link_to_" + orderID +"");
+
+                    $("#bible_div_" + $(this).attr("id")+"", this).attr("id", "bible_div_" + orderID +"");
+                    $("#from_bible_" + $(this).attr("id")+"", this).attr("id", "from_bible_" + orderID +"");
+                    $("#from_chapter_" + $(this).attr("id")+"", this).attr("id", "from_chapter_" + orderID +"");
+                    $("#from_paragraph_" + $(this).attr("id")+"", this).attr("id", "from_paragraph_" + orderID +"");
+                    $("#to_bible_" + $(this).attr("id")+"", this).attr("id", "to_bible_" + orderID +"");
+                    $("#to_chapter_" + $(this).attr("id")+"", this).attr("id", "to_chapter_" + orderID +"");
+                    $("#to_paragraph_" + $(this).attr("id")+"", this).attr("id", "to_paragraph_" + orderID +"");
+
+                    $("#etc_" + $(this).attr("id")+"", this).attr("id", "etc_" + orderID +"");
+
+                    // 대분류 tr id 는 마지막에 변경
+                    $(this).attr("id", index+1);
+                    $('th span', this).text($(this).attr("id"));
+
+                    //$('input[name^=”procedure_”]', this).attr("id", "procedure_" + $(this).attr("id") +"");
+
+                    console.log("--------------start---------------");
+                    console.log("elem name id  = "+$("input[name=procedure]", this).attr("id"));
+                    console.log("name firs id  = "+$('#'+$(this).attr("id")+' input[name=”procedure”]').attr("id"));
+                    console.log("elem id   id  = "+$("#procedure_"+$(this).attr("id")+"").attr("id"));
+                    console.log("this id       = "+$(this).attr("id"));
+
+                    //$("#"+$("input[name=procedure]").attr("id")+"").attr("id", "procedure_" + $(this).attr("id") +"");
+                    //$("#"+$("td input").attr("id")+"").attr("id", "procedure_" + $(this).attr("id") +"");
+
+                    console.log("td after id   = "+$("#"+$("td input").attr("id")+"").attr("id"));
+                    console.log("this after id = "+$(this).attr("id"));
+                    console.log("elem after id = "+$("#procedure_"+$(this).attr("id")+"").attr("id"));
+                    console.log("--------------end-----------------");
+
+                    // id 변경 후 name 변경
+                    $("#procedure_" + $(this).attr("id")+"").val(orderID);
+                    $("#stand_up_" + $(this).attr("id")+"").attr("name", "stand_up_" + orderID +"");
+                    $("#title_" + $(this).attr("id")+"", this).attr("name", "title_" + orderID +"");
+                    $("#contents_type_" + $(this).attr("id")+"", this).attr("name", "contents_type_" + orderID +"");
+                    $("#contents_" + $(this).attr("id")+"", this).attr("name", "contents_" + orderID +"");
+                    $("#link_div_" + $(this).attr("id")+"", this).attr("name", "link_div_" + orderID +"");
+                    $("#hymn_response_div_" + $(this).attr("id")+"", this).attr("name", "hymn_response_div_" + orderID +"");
+                    $("#link_type_" + $(this).attr("id")+"", this).attr("name", "link_type_" + orderID +"");
+                    $("#link_to_" + $(this).attr("id")+"", this).attr("name", "link_to_" + orderID +"");
+                    $("#bible_div_" + $(this).attr("id")+"", this).attr("name", "bible_div_" + orderID +"");
+                    $("#from_bible_" + $(this).attr("id")+"", this).attr("name", "from_bible_" + orderID +"");
+                    $("#from_chapter_" + $(this).attr("id")+"", this).attr("name", "from_chapter_" + orderID +"");
+                    $("#from_paragraph_" + $(this).attr("id")+"", this).attr("name", "from_paragraph_" + orderID +"");
+                    $("#to_bible_" + $(this).attr("id")+"", this).attr("name", "to_bible_" + orderID +"");
+                    $("#to_chapter_" + $(this).attr("id")+"", this).attr("name", "to_chapter_" + orderID +"");
+                    $("#to_paragraph_" + $(this).attr("id")+"", this).attr("name", "to_paragraph_" + orderID +"");
+                    $("#etc_" + $(this).attr("id")+"", this).attr("name", "etc_" + orderID +"");
+                    //console.log("after : " + $(this).attr("id"));
+
+                    //$("#procedure_length").val(orderID);
+                });
+            }
+
+            function insertRowToBelow(e){
+                var r= $("#table").length;
+                //var row = $(this).parents("tr").attr("id");
+                var row = $(e.target).closest("tr").attr("id");
+                console.log(row);
+
+                //$("#"+$(this).attr("id")+"").eq(r-1).after("<tr ><th scope='row'>1</th><td>1</td><td>3</td><td>4</td><td>5</td><tr/>");
+                //$("#"+$(this).attr("id")+"").after("<tr ><th scope='row'>1</th><td>1</td><td>3</td><td>4</td><td>5</td><tr/>");
+
+                //$("#"+row+"").clone().appendTo("#"+row+"");
+                $("#"+row+"").after( $("#"+row+"").clone() );
+
+            }
+
+            function resize(obj) {
+                obj.style.height = "2px";
+                obj.style.height = (15+obj.scrollHeight)+"px";
+                //obj.style.width = "100%";
+                //console.log(obj.style.width);
+                //obj.style.width = (15+obj.scrollHeight)+"px";
+
+            }
+
+            // 성경 to 값 자동 셋
+            function setBibleTo(obj){
+                var orderID = $(obj).parents("tr").attr('id');
+                var bibleName = getBibleName(obj);
+
+                //$("#to_bible_"+orderID).val($(obj).val());
+                $("#to_bible_"+orderID).val(bibleName);
+
+            }
+
+            function setBibleToChapter(obj){
+                var orderID = $(obj).parents("tr").attr('id');
+                $("#to_chapter_"+orderID).val($(obj).val());
+            }
+
+            function getBibleName(obj){
+                var inputBibleName = $(obj).val();
+                var orderID = $(obj).parents("tr").attr('id');
+                var tempBible = bible[inputBibleName];
+                var exist = false;
+
+                // 입력 값이 약자에 있는지 확인
+                if(tempBible != undefined && tempBible.length > 0){
+                    $("#from_bible_"+orderID).val(tempBible);
+                } else {    //약자에 없을 경우 성경 확
+                    //alert($.inArray(bibleName, bible));
+
+                    $.each(bible, function (key, value) {
+                        console.log(key + " : " + value);
+                        if (value == inputBibleName ){
+                            exist = true;
+                        }
+                    });
+                    if (exist){
+                        tempBible = inputBibleName;
+                    } else {
+                        alert("성결 말씀이 없습니다. 다시 확인고 입력해 주세요");
+                    }
+                }
+                return tempBible
+            }
+
+            var bible = $.parseJSON('{"창":"창세기","출":"출애굽기","레":"레위기","민":"민수기","신":"신명기","수":"여호수아","삿":"사사기","룻":"룻기","삼상":"사무엘상","삼하":"사무엘하","왕상":"열왕기상","왕하":"열왕기하","대상":"역대상","대하":"역대하","스":"에스라","느":"느헤미야","에":"에스더","욥":"욥기","시":"시편","잠":"잠언","전":"전도서","아":"아가","사":"이사야","렘":"예레미야","애":"예레미야애가","겔":"에스겔","단":"다니엘","호":"호세아","욜":"요엘","암":"아모스","옵":"오바댜","욘":"요나","미":"미가","나":"나훔","합":"하박국","습":"스바냐","학":"학개","슥":"스가랴","말":"말라기","마":"마태복음","막":"마가복음","눅":"누가복음","요":"요한복음","행":"사도행전","롬":"로마서","고전":"고린도전서","고후":"고린도후서","갈":"갈라디아서","엡":"에베소서","빌":"빌립보서","골":"골로새서","살전":"데살로니가전서","살후":"데살로니가후서","딤전":"디모데전서","딤후":"디모데후서","디":"디도서","몬":"빌레몬서","히":"히브리서","약":"야고보서","벧전":"베드로전서","벧후":"베드로후서","요일":"요한일서","요이":"요한이서","요삼":"요한삼서","유":"유다서","계":"요한계시록"}');
+
+        </script>
+        {% endblock %} {# contente end #}

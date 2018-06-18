@@ -1,0 +1,44 @@
+X:184
+T:173 불길 같은 성신여
+Z:C.W.Fry/Old English Air
+Z:Copyright © 1999 by ÀüµµÈ¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/8
+Q:1/4=92
+M:3/4
+I:linebreak $
+K:G
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ D D | G3 F A G | B4 B c | A3 D A B | G4 D D | G3 F A G | B4 B c | A3 A B ^c | d4 d d | e3 d c B | %10
+w: 1.~불 길|같 은 성 신|여 간 구|하 는 우 리|게 지 금|강 림 하 셔|서 영 광|보 여 줍 소|서 성 신|이 여 임 하|
+w: 2.~주 의|제 단 불 위|에 우 리|몸 과 영 혼|과 우 리|가 진 모 든|것 지 금|바 치 옵 니|다 * *||
+w: 3.~모 든|것 다 바 치|고 비 고|비 인 마 음|에 주 의|이 름 위 하|여 성 신|충 만 합 소|서 * *||
+w: 4.~구 속|하 신 주 께|서 허 락|하 신 성 신|을 믿 고|간 구 하 오|니 지 금|내 려 줍 소|서 * *||
+ c4 c c | d3 c B A | B4 d2- | d c B A G F | E4 D G | G3 F A G | B6 | d c3- c2 | c B3- B2 | %19
+w: 사 내 영|혼 의 소 원|을 만|족 하 게 합 소 서|기 다 리|는 우 리 게|불|로 불 로|충 만 하|
+w: |||||||||
+w: |||||||||
+w: |||||||||
+ B A ^G A c B | G4 :| G6 | G6 |] |] %24
+w: 게 합 소 서 아 멘|||||
+w: |||||
+w: |||||
+w: |||||
+V:2
+ D D | D3 D D D | G4 G G | F3 D F F | G4 D D | D3 D D D | G4 D D | D3 D D G | F4 G G | G3 G F G | %10
+ E4 E E | F3 D D D | D4 G2- | G F G F E D | C4 D D | D3 D D D | D6 | =F E3- E2 | E D3- D2 | %19
+ F F F F F F | G4 :| E6 | D6 |] |] %24
+V:3
+ D, D, | B,3 A, C B, | D4 D D | C3 C C D | B,4 D, D, | B,3 A, C B, | D4 G, G, | F,3 F, G, A, | %8
+ A,4 B, B, | C3 D D D | C4 A, G, | A,3 F, F, F, | G,4 D2- | D D D C B, A, | G,4 G, B, | %15
+ B,3 A, F, G, | G,6 | G, G,3- G,2 | G, G,3- G,2 | C C C C A, C | B,4 :| C6 | B,6 |] |] %24
+V:4
+ D, D, | G,,3 G,, G,, G,, | G,,4 G,, G,, | D,3 D, D, D, | G,4 D, D, | G,,3 G,, G,, G,, | %6
+ G,,4 G,, G,, | A,,3 A,, A,, A,, | D,4 G, G, | C3 B, A, G, | (A,3 G,) F, E, | D,3 D, D, D, | %12
+ G,4 B,2- | B, A, G, D, E, B,, | C,4 B,, G,, | D,3 D, C, B,, | G,,6 | B,, C,3- C,2 | %18
+ C, G,,3- G,,2 | D, D, D, D, D, D, | G,,4 :| C,6 | G,6 |] |] %24

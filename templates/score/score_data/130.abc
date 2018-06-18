@@ -1,0 +1,35 @@
+X:130
+T:42 찬란한 주의 영광은
+Z:Ambrose of Milan/W.Knapp
+Z:Copyright May 17th 2000 by Jun
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/4
+Q:1/4=104
+M:3/4
+I:linebreak $
+K:Bb
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ B | (B A) G | F2 B | (c B) A | B2 c | (d c) B | (A B) c | (B A) G | F2 F | (G F) G/A/ | B2 A | %11
+w: 찬|란 * 한|주 의|영 * 광|은 영|원 * 히|빛 * 날|광 * 채|요 참|빛 * 을 *|비 춘|
+w: 올|바 * 른|일 을|힘 * 쓰|며 이|맘 * 의|탐 * 욕|버 * 리|고 불|같 * 은 *|믿 음|
+w: 오|즐 * 거|워 라|지 * 난|날 아|침 * 빛|같 * 은|밝 * 은|맘 순|전 * 한 *|믿 음|
+w: 온|천 * 지|만 물|성 * 부|께 온|성 * 도|모 * 두|성 * 자|께 보|혜 * 사 *|성 령|
+ B2 c | d2 c/d/ | (e d) c | (B A) B | (c B) A | B2 | B3 | B3 |] |] %20
+w: 예 수|는 생 *|명 * 의|빛 * 이|되 * 신|다||||
+w: 되 살|려 늘 *|주 * 를|사 * 랑|하 * 리|라||||
+w: 품 으|니 이 *|맘 * 에|어 * 둠|없 * 어|라||||
+w: 힘 입|어 영 *|원 * 히|찬 * 양|합 * 니|다|아|멘||
+V:2
+ D | (D F) E | (E D) F | (G F) F | F2 F | (F C) D/=E/ | F2 F | (G F) =E | F2 F | (E F) E | %10
+ F2 F/E/ | D2 F | F2 F | (E F) G | (F E) F | (G F) E | D2 | E3 | D3 |] |] %20
+V:3
+ F, | F,2 G,/A,/ | B,2 B, | (E D) C | D2 A, | (B, C) C | (C F,) C | (D C) B, | A,2 B, | B,2 E | %10
+ (E D) C | B,2 A, | B,2 A, | B,2 G,/A,/ | (B, C) D | (E D) C | B,2 | G,3 | F,3 |] |] %20
+V:4
+ B,, | B,,2 B,, | B,,2 D, | E, F, F, | B,,2 F, | B, A, G, | F, D, A,, | B,, C, C, | F,2 D, | %9
+ E, D, C, | B,,2 F, | G,2 F, | B,2 F, | G, F, E, | D, C, B,, | E, F, F, | B,,2 | E,3 | B,,3 |] |] %20

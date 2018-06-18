@@ -1,0 +1,44 @@
+X:325
+T:359 예수가 함께 계시니
+Z:C.F.Weigele/C.F.Weigele
+Z:Copyright © 1999 by ÀüµµÈ¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/8
+Q:1/4=171
+M:9/8
+I:linebreak $
+K:Eb
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ G G G G3 G3 | A2 A A6 | F F F F3 F3 | G2 G G6 | B B B B3 G3 | c2 c c6 | c B A G3 G3 | G2 F E6 | %8
+w: 1.예 수 가 함 께|게 시 니|시 험 이 오 나|겁 없 네|기 쁨 의 근 원|되 시 는|예 수 를 위 해|삽 시 다|
+w: 2.이 세 상 사 는|동 안 에|주 이 름 증 거|하 면 서|무 한 한 복 락|주 시 는|예 수 를 위 해|삽 시 다|
+w: 3.이 세 상 친 구|없 어 도|예 수 는 나 의|친 구 니|불 의 한 일 을|버 리 고|예 수 를 위 해|삽 시 다|
+w: 4.주 께 서 심 판|하 실 때|잘 했 다 칭 찬|하 리 니|이 러 한 상 급|받 도 록|예 수 를 위 해|삽 시 다|
+ G A =A B3 G3 | B2 =A _A6 | F G A d3 c3 | d2 c B6 | G A =A B3 G3 | B2 =B c6 | c B A G3 G3 | %15
+w: 날 마 다 주 를|섬 기 며|언 제 나 주 를|기 리 고|그 사 랑 안 에|살 면 서|딴 길 로 가 지|
+w: |||||||
+w: |||||||
+w: |||||||
+ G2 F E6 :| |] %17
+w: 맙 시 다||
+w: ||
+w: ||
+w: ||
+V:2
+ E E E E3 E3 | D2 D D6 | D D D D3 D3 | E2 E E6 | G G G G3 E3 | A2 A A6 | A G F E3 E3 | D2 D B,6 | %8
+ E F ^F G3 E3 | G2 ^F =F6 | D E F A3 A3 | A2 A G6 | E F ^F G3 E3 | G2 G A6 | A G F E3 E3 | %15
+ D2 D B,6 :| |] %17
+V:3
+ B, B, B, B,3 B,3 | B,2 B, B,6 | B, B, B, B,3 B,3 | B,2 B, B,6 | E E E E3 E3 | E2 E E6 | %6
+ E E C B,3 B,3 | B,2 A, G,6 | B, B, B, E3 B,3 | B,2 B, B,6 | B, B, B, B,3 B,3 | B,2 D E6 | %12
+ B, B, B, E3 B,3 | E2 E E6 | E E C B,3 B,3 | B,2 A, G,6 :| |] %17
+V:4
+ E, E, E, E,3 E,3 | F,2 F, F,6 | B,, B,, B,, B,,3 B,,3 | E,2 E, E,6 | E, E, E, E,3 E,3 | %5
+ A,2 A, A,6 | A, A, A, B,3 B,3 | B,,2 B,, E,6 | E, E, E, E,3 E,3 | B,2 B, B,6 | %10
+ B,, B,, B,, B,,3 B,,3 | B,,2 B,, E,6 | E, E, E, E,3 E,3 | E,2 E, A,6 | A, A, A, B,3 B,3 | %15
+ B,,2 B,, E,6 :| |] %17

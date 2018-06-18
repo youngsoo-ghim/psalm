@@ -1,0 +1,46 @@
+X:191
+T:427 내가 매일 기쁘게
+Z:H.Buffum/D.M.Shanks
+Z:Copyright © 1970 by ÀüµµÈ¯
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/16
+Q:1/4=104
+M:4/4
+I:linebreak $
+K:Ab
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ E3 E | A3 G A3 B c4 B3 c | B3 F F3 =E F4 F3 A | G3 G G3 F E3 E F3 d | c12 E3 E | %5
+w: 내 가|매 일 기 쁘 게 순 례|의 길 행 함 은 주 의|팔 이 나 를 안 보 함 이|요 내 가|
+w: 전 에|죄 에 빠 져 서 평 안|함 이 없 을 때 예 수|십 자 가 의 공 로 힘 입|어 그 발|
+w: 나 와|동 행 하 시 고 모 든|염 려 아 시 니 나 는|숲 속 새 와 같 이 기 쁘|다 내 가|
+w: 세 상|모 든 정 욕 과 나 의|모 든 욕 망 은 십 자|가 에 이 미 못 을 박 았|네 어 둔|
+ A3 G A3 B c4 B3 c | d3 F F3 =E F4 F3 A | G3 F E3 d c4 B4 | A12 c3 d | e12 c3 d | e12 B3 c | %11
+w: 주 의 큰 복 을 받 는|참 된 비 결 은 주 의|영 이 함 께 함 이|라 성 령|이 계 시|네 할 렐|
+w: 아 래 업 드 려 참 되|평 화 얻 음 은 주 의|영 이 함 께 함 이|라 * *|||
+w: 기 쁜 맘 으 로 주 의|뜻 을 행 함 은 주 의|영 이 함 께 함 이|라 * *|||
+w: 밤 이 지 나 고 무 거|운 짐 벗 으 니 주 의|영 이 함 께 함 이|라 * *|||
+ d3 d d3 c B4 e4 | c12 E3 E | A3 G A3 B c4 B3 c | d3 F F3 =E F4 F3 A | G3 F E3 d c4 B4 | A12 |] |] %18
+w: 루 야 함 께 하 시|네 좁 은|길 을 걸 으 며 밤 낮|기 뻐 하 는 것 주 의|영 이 함 께 함 이|라||
+w: |||||||
+w: |||||||
+w: |||||||
+V:2
+ C3 C | C3 B, C3 D E4 E3 E | F3 D D3 D D4 D3 D | D3 D D3 D D3 D D3 E | E12 C3 C | %5
+ C3 B, C3 D E4 E3 E | F3 D D3 D D4 D3 D | D3 D D3 E E4 D4 | C12 A3 B | c12 A3 B | c12 G3 A | %11
+ G3 G G3 G G4 G4 | A12 C3 C | C3 B, C3 D E4 E3 E | F3 D D3 D D4 D3 D | D3 D D3 E E4 D4 | C12 |] |] %18
+V:3
+ A,3 A, | E,3 E, E,3 E, A,4 A,3 A, | A,3 A, A,3 G, A,4 A,3 F, | B,3 B, B,3 B, G,3 G, G,3 G, | %4
+ A,12 A,3 A, | E,3 E, E,3 E, A,4 A,3 A, | A,3 A, A,3 G, A,4 A,3 F, | B,3 B, G,3 G, A,4 G,4 | %8
+ A,12 z4 | z4 E3 E E4 z4 | z4 E3 E E4 E3 E | E3 E E3 E E4 E4 | E12 A,3 A, | %13
+ E,3 E, E,3 E, A,4 A,3 A, | A,3 A, A,3 G, A,4 A,3 F, | B,3 B, G,3 G, A,4 G,4 | A,12 |] |] %18
+V:4
+ A,,3 A,, | A,,3 A,, A,,3 A,, A,,4 A,,3 A,, | D,3 D, D,3 D, D,4 D,3 D, | %3
+ E,3 E, E,3 E, E,3 E, E,3 E, | A,,12 A,,3 A,, | A,,3 A,, A,,3 A,, A,,4 A,,3 A,, | %6
+ D,3 D, D,3 D, D,4 D,3 D, | E,3 E, E,3 E, E,4 E,4 | A,,12 z4 | z4 A,3 A, A,4 z4 | %10
+ z4 A,3 A, A,4 E,3 E, | E,3 E, E,3 E, E,4 E,4 | A,12 A,,3 A,, | A,,3 A,, A,,3 A,, A,,4 A,,3 A,, | %14
+ D,3 D, D,3 D, D,4 D,3 D, | E,3 E, E,3 E, E,4 E,4 | A,,12 |] |] %18

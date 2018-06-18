@@ -1,0 +1,44 @@
+X:154
+T:139 생명의 주여 면류관
+Z:J.E.Hussey/W.J.Kirkpatrick
+Z:Copyright May 26th 2000 by Jun
+Z:All Rights Reserved
+%%score 1 2 3 4
+L:1/4
+Q:1/4=112
+M:4/4
+I:linebreak $
+K:Eb
+V:1 treble
+V:2 treble
+V:3 bass
+V:4 bass
+V:1
+ G G3/4 F/4 E E | A A G2 | G F3/4 E/4 B G | F3 z | G G3/4 F/4 E E | c c B2 | E E3/4 F/4 G F | %7
+w: 생 명 의 주 여|면 류 관|받 으 시 옵 소|서|나 위 해 쓰 신|가 시 관|나 기 억 합 니|
+w: 누 셨 던 무 덤|내 게 도|보 이 시 옵 소|서|잠 드 신 동 안|천 사 가|굳 게 지 키 었|
+w: 마 리 아 처 럼|새 벽 에|주 께 로 옵 니|다|빈 무 덤 내 게|보 이 사|날 가 르 치 소|
+w: 고 난 의 잔 을|나 위 해|다 마 셨 나 이|다|나 도 늘 나 의|십 자 가|감 당 케 하 소|
+ E3 z | F F3/4 G/4 A c | B3/2 A/ G2 | F F3/4 G/4 A c | B3/2 A/ G2 | e e3/4 e/4 d d | c c _B2 | %14
+w: 다|||||||
+w: 네|저 겟 세 마 네|기 도 를|늘 기 억 하 게|하 시 고|그 십 자 가 의|은 혜 로|
+w: 서|||||||
+w: 서|||||||
+ E E3/4 F/4 G F | E3 z | A2 G2 |] |] %18
+w: ||||
+w: 날 인 도 하 소|서|||
+w: ||||
+w: ||아 멘||
+V:2
+ E E3/4 D/4 E E | E E E2 | E D3/4 E/4 E E | D3 z | E E3/4 D/4 E E | E E E2 | E E3/4 E/4 E D | %7
+ E3 z | D D3/4 E/4 F A | G3/2 F/ E2 | D D3/4 D/4 D | A | G3/2 F/ E2 | G G3/4 G/4 F F | E ^F G2 | %15
+ E E3/4 E/4 E D | E3 z | E2 E2 |] |] %19
+V:3
+ B, B,3/4 A,/4 G, G, | C C B,2 | B, A,3/4 G,/4 B, B, | B,3 z | B, B,3/4 B,/4 B, G, | A, A, G,2 | %6
+ B, B,3/4 C/4 B, A, | G,3 z | B, B,3/4 B,/4 B, B, | B,3/2 B,/ B,2 | B, B,3/4 B,/4 B, D | %11
+ E3/2 B,/ B,2 | C C3/4 C/4 =B, B, | C E E2 | B, B,3/4 C/4 B, A, | G,3 z | C2 B,2 |] |] %18
+V:4
+ E, E,3/4 E,/4 E, E, | A,, A,, E,2 | E, E,3/4 E,/4 G, E, | B,,3 z | E, E,3/4 F,/4 G, E, | %5
+ A,, A,, E,2 | G, G,3/4 A,/4 B, B,, | E,3 z | B,, B,,3/4 B,,/4 B,, B,, | E,3/2 E,/ E,2 | %10
+ B,, A,3/4 G,/4 F, B,, | E,3/2 E,/ E,2 | C, C,3/4 C,/4 G, G, | A, A, E,2 | G, G,3/4 A,/4 B, B,, | %15
+ E,3 z | A,,2 E,2 |] |] %18
